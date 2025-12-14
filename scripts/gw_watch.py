@@ -166,7 +166,7 @@ def compute_stats(days):
     top_authors = sorted(author_count.items(), key=lambda x: (-x[1], x[0]))[:30]
     return {"update_days": len(days), "total_papers": total, "top_authors": top_authors}
 
-def render_html(latest_day, items, stats, days_desc):
+def render_html(latest_day, items, stats, days_desc, sources_text):
     def esc(s):
         return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -232,7 +232,7 @@ def render_html(latest_day, items, stats, days_desc):
 <body>
   <h1>GW arXiv Daily ({latest_day})</h1>
   <div class="meta">
-    来源：<code>astro-ph.CO/new</code> 与 <code>gr-qc/new</code>；规则：匹配关键词（gravitational wave / waves / gravitational-wave(s)），仅统计 New submissions + Cross-lists，不包含 Replacements。<br/>
+    来源：{sources_text}；规则：匹配关键词（gravitational wave / waves / gravitational-wave(s)），仅统计 New submissions + Cross-lists，不包含 Replacements。<br/>
     已记录 <b>{stats["update_days"]}</b> 次 arXiv 更新批次；累计匹配 <b>{stats["total_papers"]}</b> 篇。
   </div>
 
@@ -372,8 +372,8 @@ def main():
     days = list_day_files()
     days_desc = sorted(days, reverse=True)
     stats = compute_stats(days)
-
-    html = render_html(latest_day, merged, stats, days_desc)
+    sources_text = " 与 ".join([f"<code>{k}/new</code>" for k in LIST_PAGES.keys()])
+    html = render_html(latest_day, merged, stats, days_desc, sources_text)
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
