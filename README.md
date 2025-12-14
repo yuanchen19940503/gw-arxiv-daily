@@ -25,24 +25,8 @@
 
 ---
 
-### 3. 目录结构（示例）
-├── scripts/
-│ └── gw_watch.py # 主脚本：抓取、匹配、生成 docs
-├── docs/
-│ ├── index.html # GitHub Pages 首页（自动生成）
-│ ├── .nojekyll # 禁用 Jekyll（自动生成）
-│ └── data/
-│ ├── 2025-12-12.json # 每个批次一个 JSON（自动生成、永久保存）
-│ └── ...
-├── requirements.txt
-└── .github/
-└── workflows/
-└── daily.yml # GitHub Actions 工作流
-
-### 4. 核心配置（你可能会改的地方）
-
-#### 4.1 监控分类（LIST_PAGES）
-在 `scripts/gw_watch.py` 中配置：
+### 3. 核心配置
+在 `scripts/gw_watch.py` 中配置搜索的范围，我这里搜的是astro-ph和gr-qc：
 ```python
 LIST_PAGES = {
   "astro-ph": "https://arxiv.org/list/astro-ph/new",
