@@ -6,8 +6,8 @@ import requests
 from bs4 import BeautifulSoup
 
 LIST_PAGES = {
-    "astro-ph.CO": "https://arxiv.org/list/astro-ph.CO/new",
     "gr-qc": "https://arxiv.org/list/gr-qc/new",
+    "astro-ph": "https://arxiv.org/list/astro-ph/new",
 }
 
 PATTERNS = [
