@@ -11,8 +11,8 @@ LIST_PAGES = {
 }
 
 PATTERNS = [
-    r"primordial\s+black\s+holes?",
-    r"\bPBHs?\b",
+    r"gravitational\s*-\s*waves?",   # gravitational wave / waves / gravitational-wave(s)
+    r"\bGWs?\b",                     # GW / GWs
 ]
 REGEX = re.compile("|".join(PATTERNS), re.IGNORECASE)
 
@@ -207,7 +207,7 @@ def render_html(latest_day, items, stats, days_desc):
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>PBH arXiv Daily - {latest_day}</title>
+  <title>GW arXiv Daily - {latest_day}</title>
   <style>
     body {{ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial; margin: 24px; line-height: 1.5; }}
     .meta {{ color: #555; margin-bottom: 16px; }}
@@ -230,9 +230,9 @@ def render_html(latest_day, items, stats, days_desc):
   </style>
 </head>
 <body>
-  <h1>PBH arXiv Daily ({latest_day})</h1>
+  <h1>GW arXiv Daily ({latest_day})</h1>
   <div class="meta">
-    来源：<code>astro-ph.CO/new</code> 与 <code>gr-qc/new</code>；规则：匹配关键词（PBH / primordial black hole），仅统计 New submissions + Cross-lists，不包含 Replacements。<br/>
+    来源：<code>astro-ph.CO/new</code> 与 <code>gr-qc/new</code>；规则：匹配关键词（gravitational wave / waves / gravitational-wave(s)），仅统计 New submissions + Cross-lists，不包含 Replacements。<br/>
     已记录 <b>{stats["update_days"]}</b> 次 arXiv 更新批次；累计匹配 <b>{stats["total_papers"]}</b> 篇。
   </div>
 
