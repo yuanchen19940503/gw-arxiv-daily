@@ -1,0 +1,128 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10283",
+    "title": "MorphZ: Enhancing evidence estimation through the Morph approximation",
+    "authors": [
+      "El Mehdi Zahraoui",
+      "Patricio Maturana-Russel",
+      "Avi Vajpeyi",
+      "Willem van Straten",
+      "Renate Meyer",
+      "Sergei Gulyaev"
+    ],
+    "link": "https://arxiv.org/abs/2512.10283"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10344",
+    "title": "Improved Identification of Strongly Lensed Gravitational Waves with Host Galaxy Locations",
+    "authors": [
+      "Tonghua Liu",
+      "Kai Liao"
+    ],
+    "link": "https://arxiv.org/abs/2512.10344"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10795",
+    "title": "Reaching diffraction-limited localization with coherent PTAs",
+    "authors": [
+      "Anna C. Tsai",
+      "Dylan L. Jow",
+      "Ue-Li Pen"
+    ],
+    "link": "https://arxiv.org/abs/2512.10795"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.09978",
+    "title": "Gravitational-wave parameter estimation to the Moon and back: massive binaries and the case of GW231123",
+    "authors": [
+      "Francesco Iacovelli",
+      "Jacopo Tissino",
+      "Jan Harms",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2512.09978"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10539",
+    "title": "BinaryGFH-v2: Improved method to search for gravitational waves from sub-solar-mass, ultra-compact binaries using the Generalized Frequency-Hough Transform",
+    "authors": [
+      "Andrew L. Miller",
+      "Lorenzo Pierini"
+    ],
+    "link": "https://arxiv.org/abs/2512.10539"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10648",
+    "title": "Subtracting compact binary foregrounds utilizing anisotropic statistic for third-generation gravitational-wave detectors",
+    "authors": [
+      "Soichiro Kuwahara",
+      "Atsushi Nishizawa",
+      "Lorenzo Valbusa Dall'Armi"
+    ],
+    "link": "https://arxiv.org/abs/2512.10648"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10707",
+    "title": "Constraints on the Population of Common Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of the LIGO and Virgo Detectors",
+    "authors": [
+      "Doğa Veske",
+      "Zsuzsa Márka",
+      "Albert Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2512.10707"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10729",
+    "title": "Efficient pulsar distance measurement with multiple nanohertz gravitational-wave sources",
+    "authors": [
+      "Si-Ren Xiao",
+      "Ji-Yu Song",
+      "Yue Shao",
+      "Ling-Feng Wang",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2512.10729"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10855",
+    "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA",
+    "authors": [
+      "Theophanes K. Karydas",
+      "Gianfranco Bertone"
+    ],
+    "link": "https://arxiv.org/abs/2512.10855"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.10692",
+    "title": "Master functions and hybrid quantization of perturbed nonrotating black hole interiors",
+    "authors": [
+      "Michele Lenzi",
+      "Guillermo A. Mena Marugán",
+      "Andrés Mínguez-Sánchez"
+    ],
+    "link": "https://arxiv.org/abs/2512.10692"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.10803",
+    "title": "Detection of GW200105 with a targeted eccentric search",
+    "authors": [
+      "Khun Sang Phukon",
+      "Patricia Schmidt",
+      "Gonzalo Morras",
+      "Geraint Pratten"
+    ],
+    "link": "https://arxiv.org/abs/2512.10803"
+  }
+]
