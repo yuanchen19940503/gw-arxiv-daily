@@ -16,6 +16,25 @@
     "link": "https://arxiv.org/abs/2512.11665"
   },
   {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.11020",
+    "title": "Geometry of non-Gaussianity in transient non-attractor inflation",
+    "authors": [
+      "Mohammad Hossein Namjoo",
+      "Bahar Nikbakht"
+    ],
+    "link": "https://arxiv.org/abs/2512.11020"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.11268",
+    "title": "Vibration Isolation for the Laser Interferometer Lunar Antenna",
+    "authors": [
+      "Brett N. Shapiro"
+    ],
+    "link": "https://arxiv.org/abs/2512.11268"
+  },
+  {
     "source": "gr-qc",
     "arxiv_id": "2512.11044",
     "title": "Gravitational synchronization in bosonic dark matter admixed neutron stars",
@@ -25,5 +44,16 @@
       "José A. Font"
     ],
     "link": "https://arxiv.org/abs/2512.11044"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.11262",
+    "title": "Gravitational Wave Detection Based on Gravitomagnetic Effects",
+    "authors": [
+      "Yu-Qi Dong",
+      "Zhoujian Cao",
+      "Yu-Xiao Liu"
+    ],
+    "link": "https://arxiv.org/abs/2512.11262"
   }
 ]
