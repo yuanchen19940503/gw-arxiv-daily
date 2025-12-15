@@ -11,10 +11,11 @@ LIST_PAGES = {
 }
 
 PATTERNS = [
-    r"gravitational\s*-\s*waves?",   # gravitational wave / waves / gravitational-wave(s)
-    r"\bGWs?\b",                     # GW / GWs
+    r"\bgravitational(?:\s*-\s*|\s+)waves?\b",  # gravitational wave(s) 或 gravitational-wave(s)
+    r"\bGWs?\b",                                # GW / GWs
 ]
 REGEX = re.compile("|".join(PATTERNS), re.IGNORECASE)
+
 
 HEADERS = {
     "User-Agent": "pbh-arxiv-daily (GitHub Actions); contact: your-email@example.com"
