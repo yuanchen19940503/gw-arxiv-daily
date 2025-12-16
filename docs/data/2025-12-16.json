@@ -1,0 +1,205 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.11954",
+    "title": "Eccentric Binaries Accreting from Thin Disks: Orbital Evolution",
+    "authors": [
+      "Alexander J. Dittmann",
+      "Geoffrey Ryan",
+      "Luciano Combi"
+    ],
+    "link": "https://arxiv.org/abs/2512.11954"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.11981",
+    "title": "Multimessenger Probes of the Supermassive Black Hole Binary Population: The Role of Pulsar Timing Arrays",
+    "authors": [
+      "Nima Laal",
+      "Stephen R. Taylor",
+      "Cayenne Matt",
+      "Kayhan Gultekin"
+    ],
+    "link": "https://arxiv.org/abs/2512.11981"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.12130",
+    "title": "Inference of Neutron Star Mass Distributions and the Equation of State from Multi-messenger Observations",
+    "authors": [
+      "Mahmudul Hasan Anik",
+      "Andrew W. Steiner",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2512.12130"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.12227",
+    "title": "The Merger Rate of Primordial Black Holes",
+    "authors": [
+      "Muhsin Aljaf",
+      "Ilias Cholis"
+    ],
+    "link": "https://arxiv.org/abs/2512.12227"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.12627",
+    "title": "The post-inflationary cosmology of the VISH$ν$ axion-majoron model",
+    "authors": [
+      "Alexei H. Sopov",
+      "Carlos Tamarit",
+      "Raymond R. Volkas"
+    ],
+    "link": "https://arxiv.org/abs/2512.12627"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.13151",
+    "title": "Multiband gravitational wave observations of eccentric escaping binary black holes from globular clusters",
+    "authors": [
+      "Yuetong Zhao",
+      "Abbas Askar",
+      "Youjun Lu",
+      "Zhoujian Cao",
+      "Mirek Giersz",
+      "Grzegorz Wiktorowicz",
+      "Arkadiusz Hypki",
+      "Lucas Hellstrom",
+      "Sohaib Ali",
+      "Wei-Tou Ni"
+    ],
+    "link": "https://arxiv.org/abs/2512.13151"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.12075",
+    "title": "ESO Expanding Horizons White Paper: Electromagnetic characterisation of millihertz gravitational-wave sources in the Milky Way",
+    "authors": [
+      "James Munday",
+      "Valeriya Korol",
+      "Camilla Danielski",
+      "Na'ama Hallakoun",
+      "Astrid Lamberts",
+      "Gijs Nelemans",
+      "Anna Pala",
+      "Steven Parsons",
+      "Ingrid Pelisoli",
+      "Alberto Rebassa Mansergas",
+      "Jan van Roestel"
+    ],
+    "link": "https://arxiv.org/abs/2512.12075"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.12258",
+    "title": "New Massless Spectra from Cosmic String Cusps",
+    "authors": [
+      "Amelia Drew",
+      "Ivan Rybak"
+    ],
+    "link": "https://arxiv.org/abs/2512.12258"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.12399",
+    "title": "Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers",
+    "authors": [
+      "Takahiro S. Yamamoto",
+      "Kipp Cannon",
+      "Hayato Motohashi",
+      "Hiroaki W. H. Tahara"
+    ],
+    "link": "https://arxiv.org/abs/2512.12399"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.12513",
+    "title": "AttenGW: A Lightweight Attention-Based Multi-Detector Gravitational-Wave Detection Pipeline",
+    "authors": [
+      "Victoria Tiki",
+      "Eliu Huerta"
+    ],
+    "link": "https://arxiv.org/abs/2512.12513"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.13453",
+    "title": "Extending Weinberg's EFT: effective scalar-tensor theories up to sixth order",
+    "authors": [
+      "Eugeny Babichev",
+      "Sukŗti Bansal",
+      "Maria Mylova",
+      "Antonio Padilla"
+    ],
+    "link": "https://arxiv.org/abs/2512.13453"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.13648",
+    "title": "The impact of non-Gaussianity when searching for Primordial Black Holes with LISA",
+    "authors": [
+      "Antonio Junior Iovino",
+      "Gabriele Perna",
+      "Hardi Veermäe"
+    ],
+    "link": "https://arxiv.org/abs/2512.13648"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.11911",
+    "title": "Gravitational radiations from periodic orbits around a black hole in the effective field theory extension of general relativity",
+    "authors": [
+      "Shuo Lu",
+      "Hao-Jie Lin",
+      "Tao Zhu",
+      "Yu-Xiao Liu",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2512.11911"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.11917",
+    "title": "Low finesse scattering and spectral drift of gravitational wave echoes",
+    "authors": [
+      "Han-Wen Hu",
+      "Cheng-Jun Fang",
+      "Zong-Kuan Guo"
+    ],
+    "link": "https://arxiv.org/abs/2512.11917"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.11947",
+    "title": "Nonconservative Lie series: post-Newtonian binary dynamics at 2.5PN",
+    "authors": [
+      "Christopher Aykroyd",
+      "Adrien Bourgoin",
+      "Christophe Le Poncin-Lafitte"
+    ],
+    "link": "https://arxiv.org/abs/2512.11947"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.12547",
+    "title": "Quasinormal modes and Grey body factors of Wormholes: From General prescription to Einstein Gauss Bonnet realizations",
+    "authors": [
+      "Madhukrishna Chakraborty",
+      "Subenoy Chakraborty"
+    ],
+    "link": "https://arxiv.org/abs/2512.12547"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.13554",
+    "title": "Silencing Newtonian noise using fusion sensor arrays",
+    "authors": [
+      "Paul Ophardt",
+      "Francesca Badaracco",
+      "Katharina-Sophie Isleif"
+    ],
+    "link": "https://arxiv.org/abs/2512.13554"
+  }
+]
