@@ -1,0 +1,239 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.16988",
+    "title": "The final stages of binary evolution using multi-messenger studies",
+    "authors": [
+      "Thomas Kupfer",
+      "Simone Scaringi",
+      "Paul Groot",
+      "Boris Gänsicke",
+      "Ingrid Pelisoli",
+      "Anna F. Pala",
+      "Jan van Roestel",
+      "Silvia Toonen",
+      "Domitilla de Martino",
+      "Noel Castro Segura",
+      "David Buckley",
+      "Valerie Van Grootel",
+      "Kieran O'Brien",
+      "Samaya Nissanke"
+    ],
+    "link": "https://arxiv.org/abs/2512.16988"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.16991",
+    "title": "The supernova Ia progenitor problem in the 2040s",
+    "authors": [
+      "Thomas Kupfer",
+      "Simone Scaringi",
+      "Ingrid Pelisoli",
+      "Anna F. Pala",
+      "Silvia Toonen",
+      "Domitilla de Martino",
+      "Christa Gall",
+      "Kunal Deshmukh",
+      "Valerie Van Grootel",
+      "Stéphane Blondin",
+      "Samaya Nissanke"
+    ],
+    "link": "https://arxiv.org/abs/2512.16991"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.17707",
+    "title": "Boiling away asymmetries: low-scale phase transitions, gravitational waves and leptogenesis",
+    "authors": [
+      "Leonardo Grimaldi",
+      "Michele Lucente",
+      "Silvia Pascoli"
+    ],
+    "link": "https://arxiv.org/abs/2512.17707"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.17802",
+    "title": "Systematic search of laser and phase modulation noise coupling in heterodyne interferometry",
+    "authors": [
+      "Kohei Yamamoto",
+      "Olaf Hartwig",
+      "Lennart Wissel",
+      "Holly Leopardi",
+      "Kenji Numata",
+      "Ryan Derosa"
+    ],
+    "link": "https://arxiv.org/abs/2512.17802"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.16971",
+    "title": "ESO Expanding Horizon White Paper: Revealing the properties of matter at supranuclear densities with gravitational waves",
+    "authors": [
+      "Tim Dietrich",
+      "Tanja Hinderer",
+      "Micaela Oertel",
+      "Conrado A. Torres",
+      "Nils Andersson",
+      "Dániel Barta",
+      "Andreas Bauswein",
+      "Béatrice Bonga",
+      "Marica Branchesi",
+      "G. Fiorella Burgio",
+      "Stefano Burrello",
+      "Prasanta Char",
+      "Sylvain Chaty",
+      "Maria Colonna",
+      "Daniela Doneva",
+      "Anthea F. Fantina",
+      "Tobias Fischer",
+      "Juan Garcia-Bellido",
+      "Archisman Ghosh",
+      "Bruno Giacomazzo",
+      "Fabian Gittins",
+      "Vanessa Graber",
+      "Francesca Gulminelli",
+      "Jan Harms",
+      "Kostas Kokkotas",
+      "Felipe J. Llanes-Estrada",
+      "Michele Maggiore",
+      "Gabriel Martinez-Pinedo",
+      "Andrea Maselli",
+      "Chiranjib Mondal",
+      "Samaya Nissanke",
+      "M Angeles Perez Garcia",
+      "Cristiano Palomba",
+      "Pantelis Pnigouras",
+      "Anna Puecher",
+      "Michele Punturo",
+      "Adriana R. Raduta",
+      "Violetta Sagun",
+      "Armen Sedrakian",
+      "Nikolaos Stergioulas",
+      "Laura Tolos",
+      "Kadri Yakut",
+      "Stoytcho Yazadjiev"
+    ],
+    "link": "https://arxiv.org/abs/2512.16971"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17088",
+    "title": "Gravitational wave oscillations in Multi-Proca dark energy models",
+    "authors": [
+      "Gabriel Gomez",
+      "Jose F. Rodriguez"
+    ],
+    "link": "https://arxiv.org/abs/2512.17088"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17201",
+    "title": "Constraining the Nanohertz Gravitational Wave Background with an X-ray Pulsar Timing Array from NICER observations",
+    "authors": [
+      "Tian-Yong Cao",
+      "Shi-jie Zheng",
+      "Shu-Xu Yi",
+      "Ming-Yu Ge",
+      "Yi-Tao Yin",
+      "Yao-Ming Duan",
+      "Xiang Yang"
+    ],
+    "link": "https://arxiv.org/abs/2512.17201"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17204",
+    "title": "A Search for Binary Black Hole Mergers in LIGO O1-O3 Data with Convolutional Neural Networks",
+    "authors": [
+      "Ethan Silver",
+      "Plamen Krastev",
+      "Edo Berger"
+    ],
+    "link": "https://arxiv.org/abs/2512.17204"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17339",
+    "title": "Uncovering the population of compact binary mergers and their formation pathways with gravitational waves through the Einstein Telescope",
+    "authors": [
+      "M. Arca-Sedda",
+      "I. Dvorkin",
+      "G. Franciolini",
+      "M. C. Artale",
+      "M. Branchesi",
+      "E. Bortolas",
+      "M. Colpi",
+      "V. De Luca",
+      "A. Ghosh",
+      "M. Maggiore",
+      "M. Mapelli",
+      "B. Mestichelli",
+      "M. Mezcua",
+      "S. Nissanke",
+      "L. Paiella",
+      "A. Riotto",
+      "F. Santoliquido",
+      "N. Tamanini",
+      "R. Schneider",
+      "C. Ugolini",
+      "M. P. Vaccaro",
+      "K. Yakut"
+    ],
+    "link": "https://arxiv.org/abs/2512.17339"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17348",
+    "title": "Ghost-free 2-form fields in cosmology: implications for gravitational parity violation",
+    "authors": [
+      "Yuki Horii",
+      "Tomoaki Murata",
+      "Tsutomu Kobayashi"
+    ],
+    "link": "https://arxiv.org/abs/2512.17348"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17395",
+    "title": "In situ substrate birefringence characterization in gravitational wave detectors using a heterodyne polarimetry method",
+    "authors": [
+      "Satoshi Tanioka",
+      "Terri Pearce",
+      "Yuta Michimura",
+      "Kazuhiro Agatsuma",
+      "Martin Van Beuzekom",
+      "Alberto Vecchio",
+      "Stephen Webster",
+      "Matteo Leonardi",
+      "Keiko Kokeyama"
+    ],
+    "link": "https://arxiv.org/abs/2512.17395"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17550",
+    "title": "GW231123: Overlapping Gravitational Wave Signals?",
+    "authors": [
+      "Qian Hu",
+      "Harsh Narola",
+      "Jef Heynen",
+      "Mick Wright",
+      "John Veitch",
+      "Justin Janquart",
+      "Chris Van Den Broeck"
+    ],
+    "link": "https://arxiv.org/abs/2512.17550"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.17887",
+    "title": "Trails of clouds in binary black holes",
+    "authors": [
+      "Mateja Bošković",
+      "Rafael A. Porto",
+      "Matthias Koschnitzke"
+    ],
+    "link": "https://arxiv.org/abs/2512.17887"
+  }
+]
