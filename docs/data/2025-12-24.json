@@ -1,0 +1,141 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19800",
+    "title": "New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910",
+    "authors": [
+      "Wynn C. G. Ho",
+      "Lucien Kuiper",
+      "Cristobal M. Espinoza",
+      "Timothy Leon",
+      "Bennett Waybright",
+      "Sebastien Guillot",
+      "Zaven Arzoumanian",
+      "Slavko Bogdanov",
+      "Alice K. Harding"
+    ],
+    "link": "https://arxiv.org/abs/2512.19800"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20474",
+    "title": "Cosmological consequences of spontaneous symmetry breaking",
+    "authors": [
+      "Giacomo Ferrante"
+    ],
+    "link": "https://arxiv.org/abs/2512.20474"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.19825",
+    "title": "On the Stability of Anisotropic Neutron Stars",
+    "authors": [
+      "L. M. Becerra",
+      "E. A. Becerra-Vergara",
+      "F. D. Lora-Clavijo",
+      "J. F. Rodriguez"
+    ],
+    "link": "https://arxiv.org/abs/2512.19825"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20054",
+    "title": "Stable mass transfer in massive binaries leading to merging black holes",
+    "authors": [
+      "Xiao-Tian Xu",
+      "Norbert Langer",
+      "Jakub Klencki",
+      "Chen Wang",
+      "Xiang-Dong Li"
+    ],
+    "link": "https://arxiv.org/abs/2512.20054"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20290",
+    "title": "A non-compact QCD axion",
+    "authors": [
+      "Georgios K. Karananas",
+      "Mikhail Shaposhnikov",
+      "Sebastian Zell"
+    ],
+    "link": "https://arxiv.org/abs/2512.20290"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20416",
+    "title": "From Cosmology to Cosmonomy",
+    "authors": [
+      "Emmanuel N. Saridakis"
+    ],
+    "link": "https://arxiv.org/abs/2512.20416"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20468",
+    "title": "Calibration Method of Spacecraft-Inertial Sensor Center-of-Mass Offset for the Taiji Gravitational Wave Detection Mission under Science Mode",
+    "authors": [
+      "Haoyue Zhang",
+      "Dong Ye",
+      "Peng Xu",
+      "Li-E Qiang",
+      "Ziren Luo"
+    ],
+    "link": "https://arxiv.org/abs/2512.20468"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20592",
+    "title": "Signatures of High-Frequency Gravitational Waves in Electromagnetic Cavities",
+    "authors": [
+      "Sebastian Schenk",
+      "Kristof Schmieden",
+      "Pedro Schwaller"
+    ],
+    "link": "https://arxiv.org/abs/2512.20592"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19828",
+    "title": "Gauge-invariant Bardeen variables for plane waves and their relation to Cartan and Killing invariants",
+    "authors": [
+      "R. Radhakrishnan",
+      "D. McNutt",
+      "D. Mirfendereski",
+      "E. Davis",
+      "W. Julius",
+      "G. Cleaver"
+    ],
+    "link": "https://arxiv.org/abs/2512.19828"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20060",
+    "title": "Measuring Eccentricity and Addressing Waveform Systematics in GW231123",
+    "authors": [
+      "Aasim Jan",
+      "Sophia Nicolella",
+      "Deirdre Shoemaker",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2512.20060"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20331",
+    "title": "Supertranslation in the bulk for generic spacetime",
+    "authors": [
+      "Pujian Mao"
+    ],
+    "link": "https://arxiv.org/abs/2512.20331"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20579",
+    "title": "Spin-induced quadrupole moment based test for eccentric binaries",
+    "authors": [
+      "N. V. Krishnendu"
+    ],
+    "link": "https://arxiv.org/abs/2512.20579"
+  }
+]
