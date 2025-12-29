@@ -1,0 +1,180 @@
+[
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21359",
+    "title": "ESO Expanding Horizons White Paper: Electromagnetic counterparts of massive BH mergers with LISA",
+    "authors": [
+      "M. Dotti",
+      "F. Mannucci",
+      "R. Buscicchio",
+      "M. Colpi",
+      "Q. D'Amato",
+      "A. Franchini",
+      "A. De Rosa",
+      "Z. Haiman",
+      ". Izquierdo-Villalba",
+      "A. Mangiagli",
+      "M. Scialpi P. Severgnini",
+      "C. Vignali",
+      "M. Volonteri"
+    ],
+    "link": "https://arxiv.org/abs/2512.21359"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21370",
+    "title": "Detection of Lensed Gravitational Waves in the Millihertz Band Using Frequency-Domain Lensing Feature Extraction Network",
+    "authors": [
+      "Tianlong Wang",
+      "Tianyu Zhao",
+      "Minghui Du",
+      "Ziren Luo",
+      "Peng Dong",
+      "Peng Xu"
+    ],
+    "link": "https://arxiv.org/abs/2512.21370"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21390",
+    "title": "GraviBERT: Transformer-based inference for gravitational-wave time series",
+    "authors": [
+      "Martin Benedikt",
+      "Ippocratis D. Saltas"
+    ],
+    "link": "https://arxiv.org/abs/2512.21390"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21392",
+    "title": "Sensitivity of Weak Lensing Surveys to Gravitational Waves from Inspiraling Supermassive Black Hole Binaries",
+    "authors": [
+      "Tal Adi",
+      "Kris Pardo",
+      "Olivier Doré"
+    ],
+    "link": "https://arxiv.org/abs/2512.21392"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21520",
+    "title": "Multiband Gravitational Wave Detection Prospects for M31 UCXB-1 System in Low and Middle Frequency Band",
+    "authors": [
+      "Xiao Guo",
+      "Zhoujian Cao",
+      "Zhiwei Chen"
+    ],
+    "link": "https://arxiv.org/abs/2512.21520"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21667",
+    "title": "Numerical simulation of lunar response to gravitational waves and its 3D topographic effect using the spectral-element method",
+    "authors": [
+      "Lei Zhang",
+      "Han Yan",
+      "Jinhai Zhang",
+      "Xian Chen"
+    ],
+    "link": "https://arxiv.org/abs/2512.21667"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21729",
+    "title": "Golden and Silver Dark Sirens for precise H0 measurement with HETDEX",
+    "authors": [
+      "Yixuan Dang",
+      "Ish Gupta",
+      "Robin Ciardullo",
+      "Erin Mentuch Cooper",
+      "Shiksha Pandey",
+      "Dustin Davis",
+      "Surhud More",
+      "Rachel Gray",
+      "Hsin-Yu Chen",
+      "Daniel J. Farrow",
+      "Caryl Gronwall",
+      "Donghui Jeong",
+      "Shun Saito",
+      "Donald P. Schneider",
+      "B. S. Sathyaprakash"
+    ],
+    "link": "https://arxiv.org/abs/2512.21729"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21738",
+    "title": "Methods for Detecting Gravitational Waves from mini-Extreme-Mass-Ratio Inspirals I: Statistics Based on Time-Frequency Signal Tracks",
+    "authors": [
+      "Zi-Xuan Wang",
+      "Gong Cheng",
+      "Ju Chen",
+      "Huai-Ke Guo",
+      "Andrew L. Miller"
+    ],
+    "link": "https://arxiv.org/abs/2512.21738"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21739",
+    "title": "Methods for Detecting Gravitational Waves from mini-Extreme-Mass-Ratio Inspirals II: A Spectral-Leakage-Aware Framework",
+    "authors": [
+      "Zi-Xuan Wang",
+      "Xing-Yu Chen",
+      "Ju Chen",
+      "Gong Cheng",
+      "Huai-Ke Guo",
+      "Andrew L. Miller"
+    ],
+    "link": "https://arxiv.org/abs/2512.21739"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21955",
+    "title": "Superradiant and dynamical spin-down of neutron stars with gravitational wave implications",
+    "authors": [
+      "Indra Kumar Banerjee",
+      "Sandeep Chatterjee",
+      "Biswarup Das",
+      "Ujjal Kumar Dey"
+    ],
+    "link": "https://arxiv.org/abs/2512.21955"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.21979",
+    "title": "Impact of neglecting center-of-mass acceleration in parameter estimation of stellar-mass black holes",
+    "authors": [
+      "Suvikranth Gera",
+      "Poulami Dutta Roy"
+    ],
+    "link": "https://arxiv.org/abs/2512.21979"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.22044",
+    "title": "Inferring Eccentricity of Binary Black Holes from Spin-Orbit Misalignment",
+    "authors": [
+      "Vishal Baibhav"
+    ],
+    "link": "https://arxiv.org/abs/2512.22044"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.21568",
+    "title": "Scattering of massless waves with arbitrary spin: a unified analysis for Schwarzschild-type medium black holes",
+    "authors": [
+      "Zhong-Heng Li"
+    ],
+    "link": "https://arxiv.org/abs/2512.21568"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.22048",
+    "title": "Classification and stability of black hole event horizon births: a contact geometry approach",
+    "authors": [
+      "Oscar Meneses Rojas"
+    ],
+    "link": "https://arxiv.org/abs/2512.22048"
+  }
+]
