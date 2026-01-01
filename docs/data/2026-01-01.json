@@ -1,0 +1,169 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.23758",
+    "title": "Machine-Learning Classification of Neutron-Star Matter Composition from Macroscopic and Oscillation Observables",
+    "authors": [
+      "Wasif Husain"
+    ],
+    "link": "https://arxiv.org/abs/2512.23758"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.24729",
+    "title": "The role of PSR J0614-3329 in defining the high-density matter at Neutron star cores",
+    "authors": [
+      "Asim Kumar Saha",
+      "Tuhin Malik",
+      "Ritam Mallick"
+    ],
+    "link": "https://arxiv.org/abs/2512.24729"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.24055",
+    "title": "Kinematic Anisotropies in PTA Observations: Analytical Toolkit",
+    "authors": [
+      "Maximilian Blümke",
+      "Kai Schmitz",
+      "Tobias Schröder",
+      "Deepali Agarwal",
+      "Joseph D. Romano"
+    ],
+    "link": "https://arxiv.org/abs/2512.24055"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.24194",
+    "title": "Impact of Anisotropy on Neutron Star Structure and Curvature",
+    "authors": [
+      "A. C. Khunt",
+      "K. Yavuz Ekşi",
+      "P. C. Vinodkumar"
+    ],
+    "link": "https://arxiv.org/abs/2512.24194"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.24554",
+    "title": "Stellar modeling within regularized 4D Einstein-Gauss-Bonnet gravity in light of current astrophysical constraints",
+    "authors": [
+      "G. Panotopoulos",
+      "Á. Rincón",
+      "I. Lopes"
+    ],
+    "link": "https://arxiv.org/abs/2512.24554"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.24703",
+    "title": "Difference between quark stars and neutron stars in universal relations and their effect on gravitational waves",
+    "authors": [
+      "Duanyuan Gao",
+      "Hao-Jui Kuan",
+      "Yurui Zhou",
+      "Zhiqiang Miao",
+      "Yong Gao",
+      "Chen Zhang",
+      "Enping Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2512.24703"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.24730",
+    "title": "Model-independent search of gravitational wave echoes in LVK data",
+    "authors": [
+      "Di Wu",
+      "Xi-Li Zhang",
+      "Qing-Guo Huang",
+      "Jing Ren"
+    ],
+    "link": "https://arxiv.org/abs/2512.24730"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.25044",
+    "title": "Primordial black hole dark matter from ultra-slow-roll inflation in Horndeski gravity",
+    "authors": [
+      "Despina Totolou",
+      "Theodoros Papanikolaou",
+      "Emmanuel N. Saridakis"
+    ],
+    "link": "https://arxiv.org/abs/2512.25044"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.23933",
+    "title": "Gravitational Lensing of Gravitational Waves: Spin-wave Optics through Black Hole Scattering",
+    "authors": [
+      "Zhao Li",
+      "Shaoqi Hou",
+      "Wen Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2512.23933"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24036",
+    "title": "Signatures of Quantum-Corrected Black Holes in Gravitational Waves from Periodic Orbits",
+    "authors": [
+      "Fazlay Ahmed",
+      "Qiang Wu",
+      "Sushant G Ghosh",
+      "Tao Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2512.24036"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24298",
+    "title": "Degrees of freedom of quadratic scalar-nonmetricity theory",
+    "authors": [
+      "Jia-Jun Chen",
+      "Zheng Chen",
+      "Xian Gao"
+    ],
+    "link": "https://arxiv.org/abs/2512.24298"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24396",
+    "title": "Effective Regge-Wheeler equations of a hybrid loop quantum black hole",
+    "authors": [
+      "Beatriz Elizaga Navascués",
+      "Alvaro Torres-Caballeros"
+    ],
+    "link": "https://arxiv.org/abs/2512.24396"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24429",
+    "title": "Gravitational Holonomy in Sagnac Interferometry",
+    "authors": [
+      "Reza Javadinezhad",
+      "Ali Seraj"
+    ],
+    "link": "https://arxiv.org/abs/2512.24429"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24691",
+    "title": "Non-perturbative Thermodynamics of Quark Gluon Plasma and Gravitational Waves",
+    "authors": [
+      "Narasimha Reddy Gosala",
+      "Arundhati Dasgupta"
+    ],
+    "link": "https://arxiv.org/abs/2512.24691"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.24960",
+    "title": "From Principles to Effective Models: A Constructive Framework for Effective Covariant Actions with a Unique Vacuum Solution",
+    "authors": [
+      "Kristina Giesel",
+      "Hongguang Liu"
+    ],
+    "link": "https://arxiv.org/abs/2512.24960"
+  }
+]
