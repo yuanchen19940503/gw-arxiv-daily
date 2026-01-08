@@ -1,0 +1,118 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.03436",
+    "title": "MARVEL: A Multi Agent-based Research Validator and Enabler using Large Language Models",
+    "authors": [
+      "Nikhil Mukund",
+      "Yifang Luo",
+      "Fan Zhang",
+      "Lisa Barsotti",
+      "Erik Katsavounidis"
+    ],
+    "link": "https://arxiv.org/abs/2601.03436"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03340",
+    "title": "Fast frequency-domain phenomenological modeling of eccentric aligned-spin binary black holes",
+    "authors": [
+      "Antoni Ramos-Buades",
+      "Quentin Henry",
+      "Maria Haney"
+    ],
+    "link": "https://arxiv.org/abs/2601.03340"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03341",
+    "title": "Cavity Multimodes as an Array for High-Frequency Gravitational Waves",
+    "authors": [
+      "Diego Blas",
+      "Yifan Chen",
+      "Yuxin Liu",
+      "Yanfei Shang",
+      "Jing Shu"
+    ],
+    "link": "https://arxiv.org/abs/2601.03341"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03347",
+    "title": "Mind the peak: improving cosmological constraints from GWTC-4.0 spectral sirens using semiparametric mass models",
+    "authors": [
+      "Matteo Tagliazucchi",
+      "Michele Moresco",
+      "Nicola Borghi",
+      "Chiara Ciapetti"
+    ],
+    "link": "https://arxiv.org/abs/2601.03347"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03456",
+    "title": "The steep redshift evolution of the hierarchical merger rate may cause the $z$-$χ_{\\rm eff}$ correlation",
+    "authors": [
+      "Amanda M. Farah",
+      "Aditya Vijaykumar",
+      "Maya Fishbach"
+    ],
+    "link": "https://arxiv.org/abs/2601.03456"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03571",
+    "title": "Constraining Lorentz and parity violations in gravity with multiband gravitational wave observations",
+    "authors": [
+      "Zhi-Xin Jia",
+      "Tao Zhu",
+      "Zhoujian Cao"
+    ],
+    "link": "https://arxiv.org/abs/2601.03571"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.03631",
+    "title": "Real-time Gravitational Wave Response in Thermal Spinning fields",
+    "authors": [
+      "Atsuhisa Ota",
+      "Hui-Yu Zhu",
+      "Yuhang Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2601.03631"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.04168",
+    "title": "A framework for LISA population inference",
+    "authors": [
+      "Alexandre Toubiana",
+      "Jonathan Gair"
+    ],
+    "link": "https://arxiv.org/abs/2601.04168"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.03374",
+    "title": "Probing beyond-vacuum general relativistic effects with extreme mass-ratio inspirals",
+    "authors": [
+      "Tieguang Zi",
+      "Mostafizur Rahman",
+      "Shailesh Kumar"
+    ],
+    "link": "https://arxiv.org/abs/2601.03374"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.03980",
+    "title": "Observational Signatures of Accretion Disks around a Schwarzschild Black Hole in a Hernquist Dark Matter Halo",
+    "authors": [
+      "Zhenglong Ban",
+      "Jing-Ya Zhao",
+      "Tian-You Ren",
+      "Yaobin Hua",
+      "Rong-Jia Yang parameter"
+    ],
+    "link": "https://arxiv.org/abs/2601.03980"
+  }
+]
