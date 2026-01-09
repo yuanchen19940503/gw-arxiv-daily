@@ -1,0 +1,91 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.04347",
+    "title": "The Impact of Robotic Telescopes on Time-Domain Astronomy",
+    "authors": [
+      "Yakubu Mu'allim",
+      "J. O.Vwavware",
+      "A. Ohwofosirai"
+    ],
+    "link": "https://arxiv.org/abs/2601.04347"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.04774",
+    "title": "First measurement of the Hubble constant from a combined weak lensing and gravitational-wave standard siren analysis",
+    "authors": [
+      "Felipe Andrade-Oliveira",
+      "David Sanchez-Cid",
+      "Danny Laghi",
+      "Marcelle Soares-Santos"
+    ],
+    "link": "https://arxiv.org/abs/2601.04774"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.04990",
+    "title": "Probing millisecond magnetar formation in binary neutron star mergers through X-ray follow-up of gravitational wave alerts",
+    "authors": [
+      "Clara Plasse",
+      "Alexis Reboul-Salze",
+      "Jérome Guilet",
+      "Diego Götz",
+      "Nicolas Leroy",
+      "Raphaël. Raynaud",
+      "Matteo Bugli",
+      "Tito Dal Canton"
+    ],
+    "link": "https://arxiv.org/abs/2601.04990"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.04276",
+    "title": "Search for Precessing Binary Black Holes in Advanced LIGO's Third Observing Run using Harmonic Decomposition",
+    "authors": [
+      "Rahul Dhurkunde",
+      "Ian Harry"
+    ],
+    "link": "https://arxiv.org/abs/2601.04276"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.04307",
+    "title": "Spectator Composes a Gravitational Canon: Spectator-field-triggered Phase Transition During Inflation and its Anisotropic Gravitational Wave Signals",
+    "authors": [
+      "Yunjia Bao",
+      "Keisuke Harigaya"
+    ],
+    "link": "https://arxiv.org/abs/2601.04307"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.04340",
+    "title": "Diluting the Dark Sector: A Common Origin for the PTA Signal and Inelastic SIDM",
+    "authors": [
+      "Zihan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2601.04340"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.05069",
+    "title": "Constraining the Primoridal Black Hole Abundance with Space-Based Detectors",
+    "authors": [
+      "Wencong Hong",
+      "Shi Pi",
+      "Ao Wang",
+      "Zhenyu Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2601.05069"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.04379",
+    "title": "Could black hole thermodynamics play a role in black hole mergers?",
+    "authors": [
+      "George Ruppeiner"
+    ],
+    "link": "https://arxiv.org/abs/2601.04379"
+  }
+]
