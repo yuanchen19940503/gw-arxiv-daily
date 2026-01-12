@@ -1,0 +1,155 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.05793",
+    "title": "Towards Accurate Gravitational Wave Predictions: Gauge-Invariant Nucleation in the Electroweak Phase Transition",
+    "authors": [
+      "Jie Liu",
+      "Renhui Qin",
+      "Ligong Bian"
+    ],
+    "link": "https://arxiv.org/abs/2601.05793"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.05926",
+    "title": "Naturally small Dirac neutrino mass and $B-L$ dark matter",
+    "authors": [
+      "Ernest Ma",
+      "Partha Kumar Paul",
+      "Narendra Sahu"
+    ],
+    "link": "https://arxiv.org/abs/2601.05926"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.06023",
+    "title": "Weak lensing of bright standard sirens: prospects for $σ_8$",
+    "authors": [
+      "Ville Vaskonen"
+    ],
+    "link": "https://arxiv.org/abs/2601.06023"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.05447",
+    "title": "Robust Bilinear-Noise-Optimal Control for Gravitational-Wave Detectors: A Mixed LQG/$H_\\infty$ Approach",
+    "authors": [
+      "Ian A. O. MacMillan",
+      "Lee P. McCuller"
+    ],
+    "link": "https://arxiv.org/abs/2601.05447"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.05734",
+    "title": "A nonlinear voice from GW250114 ringdown",
+    "authors": [
+      "Yi-Fan Wang",
+      "Sizheng Ma",
+      "Neev Khera",
+      "Huan Yang"
+    ],
+    "link": "https://arxiv.org/abs/2601.05734"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.05754",
+    "title": "Gravitational waves and small-field astrometry",
+    "authors": [
+      "Robin Geyer",
+      "Sven Zschocke",
+      "Michael Soffel",
+      "Sergei Klioner",
+      "Lennart Lindegren",
+      "Uwe Lammers"
+    ],
+    "link": "https://arxiv.org/abs/2601.05754"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.06017",
+    "title": "Probing Cosmic Expansion and Early Universe with Einstein Telescope",
+    "authors": [
+      "Angelo Ricciardone",
+      "Mairi Sakellariadou",
+      "Archisman Ghosh",
+      "Alessandro Agapito",
+      "M. Celeste Artale",
+      "Michael Bacchi",
+      "Tessa Baker",
+      "Marco Baldi",
+      "Nicola Bartolo",
+      "Andrea Begnoni",
+      "Enis Belgacem",
+      "Marek Biesiada",
+      "Jose J. Blanco-Pillado",
+      "Tomasz Bulik",
+      "Marica Branchesi",
+      "Gianluca Calcagni",
+      "Giulia Capurri",
+      "Carmelita Carbone",
+      "Roberto Casadio",
+      "J.A.R. Cembranos",
+      "Andrea Cozzumbo",
+      "Ivan De Martino",
+      "Jose M. Diego",
+      "Emanuela Dimastrogiovanni",
+      "Guillem Domènech",
+      "Ulyana Dupletsa",
+      "Hannah Duval",
+      "Gabriele Franciolini",
+      "Andrea Giusti",
+      "Giuseppe Greco",
+      "Lavinia Heisenberg",
+      "Alexander C. Jenkins",
+      "Sumit Kumar",
+      "Gaetano Lambiase",
+      "Michele Maggiore",
+      "Michele Mancarella",
+      "Federico Marulli",
+      "Sabino Matarrese",
+      "Isabela Santiago de Matos",
+      "Michele Moresco",
+      "Riccardo Murgia",
+      "Ilia Musco",
+      "Gabriele Perna",
+      "Michele Punturo",
+      "Diego Rubiera-Garcia",
+      "Javier Rubio",
+      "Alexander Sevrin",
+      "Riccardo Sturani",
+      "Matteo Tagliazucchi",
+      "Nicola Tamanini",
+      "Alessandro Tronconi",
+      "Ville Vaskonen",
+      "Daniele Vernieri",
+      "Stoytcho Yazadjiev",
+      "Ivonne Zavala"
+    ],
+    "link": "https://arxiv.org/abs/2601.06017"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.06024",
+    "title": "Primordial black holes: constraints, potential evidence and prospects",
+    "authors": [
+      "Bernard Carr",
+      "Antonio J. Iovino",
+      "Gabriele Perna",
+      "Ville Vaskonen",
+      "Hardi Veermäe"
+    ],
+    "link": "https://arxiv.org/abs/2601.06024"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.05750",
+    "title": "Parameterized Post-Newtonian Analysis of Quadratic Gravity and Solar System Constraints",
+    "authors": [
+      "Jie Zhu",
+      "Hao Li"
+    ],
+    "link": "https://arxiv.org/abs/2601.05750"
+  }
+]
