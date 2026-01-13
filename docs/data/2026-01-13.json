@@ -1,0 +1,115 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.07592",
+    "title": "Timing Gamma-ray Pulsars using Gibbs Sampling",
+    "authors": [
+      "Colin J. Clark",
+      "Serena Valtolina",
+      "Lars Nieder",
+      "Rutger van Haasteren"
+    ],
+    "link": "https://arxiv.org/abs/2601.07592"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.07595",
+    "title": "Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo",
+    "authors": [
+      "IceCube Collaboration",
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration"
+    ],
+    "link": "https://arxiv.org/abs/2601.07595"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.07716",
+    "title": "Induced gravitational waves - beyond linear cosmological perturbation theory",
+    "authors": [
+      "Raphael Picard"
+    ],
+    "link": "https://arxiv.org/abs/2601.07716"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.07762",
+    "title": "Core Scouring Dynamics and Gravitational Wave Consequences: Constraints on Supermassive Black Hole Binary Hardening",
+    "authors": [
+      "C.J. Harris",
+      "Kayhan Gültekin",
+      "Laura Blecha"
+    ],
+    "link": "https://arxiv.org/abs/2601.07762"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.06684",
+    "title": "Limits of vacuum-template subtraction for LISA massive black hole binary sources in realistic environments",
+    "authors": [
+      "Lorenz Zwick"
+    ],
+    "link": "https://arxiv.org/abs/2601.06684"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.06956",
+    "title": "IndIGO-D: Probing Compact Binary Coalescences in the Decihertz GW Band",
+    "authors": [
+      "Abhishek Sharma",
+      "Divya Tahelyani",
+      "Anand S. Sengupta",
+      "Sanjit Mitra"
+    ],
+    "link": "https://arxiv.org/abs/2601.06956"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.07179",
+    "title": "Chiroptical effect induced by gravitational waves",
+    "authors": [
+      "Haorong Wu",
+      "Xilong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2601.07179"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.07739",
+    "title": "Systematic Biases in Gravitational-Wave Parameter Estimation from Neglecting Orbital Eccentricity in Space-Based Detectors",
+    "authors": [
+      "Jin-Zhao Yang",
+      "Jia-Hao Zhong",
+      "Tao Yang"
+    ],
+    "link": "https://arxiv.org/abs/2601.07739"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.07774",
+    "title": "Popcorn in the sky: Identifying primordial black holes in the gravitational-wave background",
+    "authors": [
+      "Eleni Bagui",
+      "Sébastien Clesse",
+      "Federico De Lillo",
+      "Alexander C. Jenkins",
+      "Mairi Sakellariadou"
+    ],
+    "link": "https://arxiv.org/abs/2601.07774"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.06711",
+    "title": "Event Horizon Telescope Observational Constraints on Dymnikova-Type Non-Singular Black Holes in Higher Dimensions",
+    "authors": [
+      "A. Errehymy",
+      "Y. Khedif",
+      "M. Daoud",
+      "Y. Myrzakulov",
+      "O. Donmez",
+      "B. Turimov"
+    ],
+    "link": "https://arxiv.org/abs/2601.06711"
+  }
+]
