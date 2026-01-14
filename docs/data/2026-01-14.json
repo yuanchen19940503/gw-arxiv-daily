@@ -1,0 +1,112 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.07925",
+    "title": "An eclipsing 8.56 minute orbital period mass-transferring binary",
+    "authors": [
+      "Emma T. Chickles",
+      "Joheen Chakraborty",
+      "Kevin B. Burdge",
+      "Vik S. Dhillon",
+      "Paul Draghis",
+      "Kareem El-Badry",
+      "Matthew J. Green",
+      "Aaron Householder",
+      "Sarah Hughes",
+      "Christopher Layden",
+      "Stuart P. Littlefair",
+      "James Munday",
+      "Ingrid Pelisoli",
+      "Maya S. Redden",
+      "John Tonry",
+      "Jan van Roestel",
+      "F. Elio Angile",
+      "Alex J. Brown",
+      "Noel Castro",
+      "Jack Dinsmore",
+      "Martin Dyer",
+      "Gabor Furesz",
+      "Michelle Gabutti",
+      "James Garbutt",
+      "Daniel Jarvis",
+      "Mark R. Kennedy",
+      "Paul Kerry",
+      "James McCormac",
+      "Geoffrey Mo",
+      "Dave Osip",
+      "Steven Parsons",
+      "Eleanor Pike",
+      "Jack Piotrowski",
+      "Roger W. Romani",
+      "David Sahman",
+      "Rob Simcoe"
+    ],
+    "link": "https://arxiv.org/abs/2601.07925"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.08080",
+    "title": "Long Term (250 years) Hydrodynamical Simulation of the Supermassive Black Hole Binary OJ287",
+    "authors": [
+      "Ariel Chitan",
+      "Sarah C. Gallagher",
+      "Shahram Abbassi"
+    ],
+    "link": "https://arxiv.org/abs/2601.08080"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.08622",
+    "title": "Primordial Gravitational Waves from Scalar Backreaction in Axion-SU(2) Inflation",
+    "authors": [
+      "Mattia Cielo",
+      "Matteo Fasiello",
+      "Alexandros Papageorgiou"
+    ],
+    "link": "https://arxiv.org/abs/2601.08622"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.07908",
+    "title": "Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset",
+    "authors": [
+      "Cailin Plunkett",
+      "Thomas Callister",
+      "Michael Zevin",
+      "Salvatore Vitale"
+    ],
+    "link": "https://arxiv.org/abs/2601.07908"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.07931",
+    "title": "General gravitational properties of neutron stars: curvature invariants, binding energy, and trace anomaly",
+    "authors": [
+      "Iván Garibay",
+      "Christian Ecker",
+      "Luciano Rezzolla"
+    ],
+    "link": "https://arxiv.org/abs/2601.07931"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.08675",
+    "title": "One-Loop Tensor Power Spectrum from a Non-Minimally Coupled Spectator Field during Inflation",
+    "authors": [
+      "Zhe Li",
+      "Chen Yuan",
+      "Qing-Guo Huang"
+    ],
+    "link": "https://arxiv.org/abs/2601.08675"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.08252",
+    "title": "Resumming Scattering Amplitudes for Waveforms",
+    "authors": [
+      "Katsuki Aoki",
+      "Andrea Cristofoli"
+    ],
+    "link": "https://arxiv.org/abs/2601.08252"
+  }
+]
