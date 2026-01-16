@@ -1,0 +1,164 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.22679",
+    "title": "When spacetime vibrates: An introduction to gravitational waves",
+    "authors": [
+      "José P. S. Lemos"
+    ],
+    "link": "https://arxiv.org/abs/2512.22679"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.09843",
+    "title": "The formation of periodic three-body orbits for Newtonian systems",
+    "authors": [
+      "Simon Portegies Zwart",
+      "Arjen Doelman",
+      "Jelmer Sein"
+    ],
+    "link": "https://arxiv.org/abs/2601.09843"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.09863",
+    "title": "Gravitational Wave Strain and Orbital Dynamics of Binary Pulsars from LIGO-Virgo to LISA",
+    "authors": [
+      "Ali Taani"
+    ],
+    "link": "https://arxiv.org/abs/2601.09863"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.09868",
+    "title": "Dynamics of Apsidal Motion in Non-Synchronous Binary Pulsars Coupled Orbit and Spin Evolution",
+    "authors": [
+      "Ali Taani"
+    ],
+    "link": "https://arxiv.org/abs/2601.09868"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.09764",
+    "title": "DC response of an interferometer topology with an L-shaped cavity: a tabletop study",
+    "authors": [
+      "Junlang Li",
+      "Jiehong Huang",
+      "Xinyao Guo",
+      "Haixing Miao",
+      "Yuchao Chen",
+      "Xiaoman Huang",
+      "Yuan Pan",
+      "Chenjie Zhou",
+      "Raffaele Flaminio",
+      "Jameson Graef Rollins",
+      "Bram Slagmolen",
+      "Fan Zhang",
+      "Teng Zhang",
+      "Mengyao Wang"
+    ],
+    "link": "https://arxiv.org/abs/2601.09764"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.09819",
+    "title": "Multibanded Reduced Order Quadrature Techniques for Gravitational Wave Inference",
+    "authors": [
+      "Murdoc Newell",
+      "Alexis Boudon",
+      "Hong Qi"
+    ],
+    "link": "https://arxiv.org/abs/2601.09819"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.09834",
+    "title": "Very-High-Frequency Gravitational Waves from Multi-Monodromy Inflation",
+    "authors": [
+      "Guido D'Amico",
+      "Andrew A. Geraci",
+      "Nemanja Kaloper",
+      "Alexander Westphal"
+    ],
+    "link": "https://arxiv.org/abs/2601.09834"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.09918",
+    "title": "Monitoring of Continuous-Wave Hardware Injections in LIGO Interferometers during the O4 Observing Run",
+    "authors": [
+      "Preet Baxi",
+      "Jessica Leviton",
+      "Eilam Morag",
+      "Matthew Pitkin",
+      "Keith Riles"
+    ],
+    "link": "https://arxiv.org/abs/2601.09918"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.10303",
+    "title": "Effects of spontaneous Lorentz Symmetry breaking on Letelier-AdS charged black boles within Kalb-Ramond gravity",
+    "authors": [
+      "Faizuddin Ahmed",
+      "Ahmad Al-Badawi",
+      "İzzet Sakallı"
+    ],
+    "link": "https://arxiv.org/abs/2601.10303"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.10550",
+    "title": "Numerical simulations of oscillating and differentially rotating neutron stars",
+    "authors": [
+      "Santiago Jaraba",
+      "Jérôme Novak",
+      "Micaela Oertel"
+    ],
+    "link": "https://arxiv.org/abs/2601.10550"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.10145",
+    "title": "Warm Hybrid Axion Inflation in $α$-Attractor Models Constrained by ACT and Future Plan experiments",
+    "authors": [
+      "Waqas Ahmed",
+      "Waqar Ahmad",
+      "Ahsan Illahi",
+      "M. Junaid"
+    ],
+    "link": "https://arxiv.org/abs/2601.10145"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.10239",
+    "title": "Gravitational lensing beyond the eikonal approximation",
+    "authors": [
+      "Emma Bruyère",
+      "Cyril Pitrou"
+    ],
+    "link": "https://arxiv.org/abs/2601.10239"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.10428",
+    "title": "Analyzing intermittent stochastic gravitational wave background I:Effect of detector response",
+    "authors": [
+      "Xiaolin Liu",
+      "Sachiko Kuroyanagi"
+    ],
+    "link": "https://arxiv.org/abs/2601.10428"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.10552",
+    "title": "Rapid post-merger signal of circularly polarized gravitational wave from magnetic black hole superradiance: novel approach to detect magnetic monopole",
+    "authors": [
+      "Zhong-Hao Luo",
+      "Fa Peng Huang",
+      "Pengming Zhang",
+      "Chen Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2601.10552"
+  }
+]
