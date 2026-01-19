@@ -1,0 +1,66 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.10790",
+    "title": "The gravitational wave landscape of cosmic string networks with varying tension",
+    "authors": [
+      "Luca Brunelli",
+      "Filippo Revello",
+      "Gonzalo Villa"
+    ],
+    "link": "https://arxiv.org/abs/2601.10790"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.11415",
+    "title": "Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems",
+    "authors": [
+      "Jose Sánchez Andreu"
+    ],
+    "link": "https://arxiv.org/abs/2601.11415"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.11239",
+    "title": "Rapid inference of gravitational-wave signals in the time domain using a heterodyned likelihood",
+    "authors": [
+      "Neha Sharma",
+      "Aditya Vijaykumar",
+      "Prayush Kumar"
+    ],
+    "link": "https://arxiv.org/abs/2601.11239"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.11360",
+    "title": "Constraining the inflaton potential with gravitational waves from oscillons",
+    "authors": [
+      "Kaloian D. Lozanov",
+      "Misao Sasaki",
+      "Jan Tränkle"
+    ],
+    "link": "https://arxiv.org/abs/2601.11360"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.10782",
+    "title": "Narrowing Down Sources of High-Frequency Gravitational Waves",
+    "authors": [
+      "Asher Berlin",
+      "Dawid Brzeminski",
+      "Erwin H. Tanin"
+    ],
+    "link": "https://arxiv.org/abs/2601.10782"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.11484",
+    "title": "Source-Driven Tails in Kerr Spacetime: Nonlinear effects in Late-Time Behavior",
+    "authors": [
+      "Som Dev Bishoyi",
+      "Subir Sabharwal",
+      "Gaurav Khanna"
+    ],
+    "link": "https://arxiv.org/abs/2601.11484"
+  }
+]
