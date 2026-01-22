@@ -1,0 +1,99 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.14395",
+    "title": "Growth of Light Seed Black Holes in the Early Universe",
+    "authors": [
+      "Daxal H. Mehta",
+      "John A. Regan",
+      "Lewis Prole"
+    ],
+    "link": "https://arxiv.org/abs/2601.14395"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.14408",
+    "title": "Erythrohenosis -- The crimson chronicles of two giants",
+    "authors": [
+      "Pau Amaro Seoane"
+    ],
+    "link": "https://arxiv.org/abs/2601.14408"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.14918",
+    "title": "Towards gravitational wave parameter inference for binaries with an eccentric companion",
+    "authors": [
+      "Kai Hendriks",
+      "Lorenz Zwick",
+      "Pankaj Saini",
+      "János Takátsy",
+      "Johan Samsing"
+    ],
+    "link": "https://arxiv.org/abs/2601.14918"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.14326",
+    "title": "Sample-efficient non-Gaussian noise reduction in gravitational wave data via learnable wavelets",
+    "authors": [
+      "Arush Pimpalkar",
+      "Digvijay Wadekar",
+      "Mark Ho-Yeuk Cheung",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2601.14326"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.14578",
+    "title": "Higher Harmonics of Double White Dwarfs in the Centihertz Band: Linking LISA and DECIGO",
+    "authors": [
+      "Naoki Seto"
+    ],
+    "link": "https://arxiv.org/abs/2601.14578"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.14863",
+    "title": "The First Upper Bound on the Nano-Hertz Gravitational Waves and Galaxy Cross-Correlation signal using 15-year NANOGrav Data and DESI Galaxy Survey",
+    "authors": [
+      "Mohit Raj Sah",
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2601.14863"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.14979",
+    "title": "The relativistic restricted three-body problem: geometry and motion around tidally perturbed black holes",
+    "authors": [
+      "Takuya Katagiri",
+      "Vitor Cardoso"
+    ],
+    "link": "https://arxiv.org/abs/2601.14979"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.15198",
+    "title": "Revealing massive black hole astrophysics: The potential of hierarchical inference with extreme mass-ratio inspiral observations",
+    "authors": [
+      "Shashwat Singh",
+      "Christian E. A. Chapman-Bird",
+      "Christopher P. L. Berry",
+      "John Veitch"
+    ],
+    "link": "https://arxiv.org/abs/2601.15198"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.15201",
+    "title": "Effects of massive spin-2 fields on gravitational wave propagation",
+    "authors": [
+      "Jose A. R. Cembranos",
+      "Álvaro Cendal",
+      "Hector Villarrubia-Rojo"
+    ],
+    "link": "https://arxiv.org/abs/2601.15201"
+  }
+]
