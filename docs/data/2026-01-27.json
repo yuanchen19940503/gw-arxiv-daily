@@ -1,0 +1,104 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.17045",
+    "title": "Visualisation of spherical harmonics in Peirce's quincuncial projection",
+    "authors": [
+      "Bjoern Malte Schaefer"
+    ],
+    "link": "https://arxiv.org/abs/2601.17045"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.17882",
+    "title": "SiGMa-Net II: Distinguishing Binary Black Holes from Glitches",
+    "authors": [
+      "Soorya Narayan",
+      "Anupreeta More",
+      "Sunil Choudhary",
+      "Sudhagar Suyamprakasam",
+      "Sukanta Bose"
+    ],
+    "link": "https://arxiv.org/abs/2601.17882"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.18262",
+    "title": "Revisiting a Quasar Microlensing Event Towards AGN~J1249+3449",
+    "authors": [
+      "Mario Cazzolla",
+      "Francesco De Paolis",
+      "Antonio Franco",
+      "Achille Nucita"
+    ],
+    "link": "https://arxiv.org/abs/2601.18262"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.18668",
+    "title": "tilepy: A Flexible Open-Source Scheduling Engine for Time-Domain and Multi-Messenger Astronomy",
+    "authors": [
+      "Fabian Schüssler",
+      "H. Ashkar",
+      "W. Kiendrébéogo",
+      "M. Seglar-Arroyo",
+      "M. de Bony",
+      "A. Berti",
+      "E. Ruiz-Velasco",
+      "R. Le Montagner"
+    ],
+    "link": "https://arxiv.org/abs/2601.18668"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18378",
+    "title": "Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run",
+    "authors": [
+      "Takahiro S. Yamamoto"
+    ],
+    "link": "https://arxiv.org/abs/2601.18378"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18501",
+    "title": "Gravitational wave detectors from an experimental perspective",
+    "authors": [
+      "Marina Trad-Nery",
+      "Margherita Turconi",
+      "Walid Chaibi"
+    ],
+    "link": "https://arxiv.org/abs/2601.18501"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.14918",
+    "title": "Towards gravitational wave parameter inference for binaries with an eccentric companion",
+    "authors": [
+      "Kai Hendriks",
+      "Lorenz Zwick",
+      "Pankaj Saini",
+      "János Takátsy",
+      "Johan Samsing"
+    ],
+    "link": "https://arxiv.org/abs/2601.14918"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.17509",
+    "title": "Nonsingular Rotating Black Holes in the Dark-Energy Dominated Universe",
+    "authors": [
+      "Ramon Torres"
+    ],
+    "link": "https://arxiv.org/abs/2601.17509"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.17891",
+    "title": "The Hamiltonian for an atom interacting with gravitational waves",
+    "authors": [
+      "Linda M. van Manen",
+      "André Grossardt"
+    ],
+    "link": "https://arxiv.org/abs/2601.17891"
+  }
+]
