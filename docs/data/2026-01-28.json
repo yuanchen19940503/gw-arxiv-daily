@@ -1,0 +1,86 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2508.17486",
+    "title": "Weak Lensing Approximation of Wave-optics Effects from General Symmetric Lens Profiles",
+    "authors": [
+      "Zhao-Feng Wu",
+      "Otto A. Hannuksela",
+      "Martin Hendry",
+      "Quynh Lan Nguyen"
+    ],
+    "link": "https://arxiv.org/abs/2508.17486"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.19789",
+    "title": "Equation of State of Highly Asymmetric Neutron-Star Matter from Liquid Drop Model and Meson Polytropes",
+    "authors": [
+      "Elissaios Andronopoulos",
+      "Konstantinos N. Gourgouliatos"
+    ],
+    "link": "https://arxiv.org/abs/2601.19789"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18835",
+    "title": "Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping",
+    "authors": [
+      "Alexander H. Nitz",
+      "Keisi Kacanja",
+      "Kanchan Soni"
+    ],
+    "link": "https://arxiv.org/abs/2601.18835"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18859",
+    "title": "Energetic Ceilings of Astrophysical Gravitational-Wave Backgrounds",
+    "authors": [
+      "Chiara M. F. Mingarelli"
+    ],
+    "link": "https://arxiv.org/abs/2601.18859"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18916",
+    "title": "Reconsidering the consistent use of precessing, higher order multipole models for gravitational wave analyses",
+    "authors": [
+      "Charlie Hoy"
+    ],
+    "link": "https://arxiv.org/abs/2601.18916"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.18986",
+    "title": "Progenitor of the recoiling super-massive black hole RBH-1 identified using HST/JWST imaging",
+    "authors": [
+      "Tousif Islam",
+      "Tejaswi Venumadhav",
+      "Digvijay Wadekar"
+    ],
+    "link": "https://arxiv.org/abs/2601.18986"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.19407",
+    "title": "Atomic clocks and gravitational waves as probes of non-metricity",
+    "authors": [
+      "Mohsen Khodadi",
+      "Emmanuel N. Saridakis"
+    ],
+    "link": "https://arxiv.org/abs/2601.19407"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.19741",
+    "title": "Effect of noise characterization on the detection of mHz stochastic gravitational waves",
+    "authors": [
+      "Nikolaos Karnesis",
+      "Quentin Baghi",
+      "Jean-Baptiste Bayle",
+      "Nikiforos Galanis"
+    ],
+    "link": "https://arxiv.org/abs/2601.19741"
+  }
+]
