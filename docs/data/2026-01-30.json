@@ -1,0 +1,172 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.20958",
+    "title": "First constraints on causal sources of primordial gravitational waves from BICEP/Keck, SPTpol, SPT-3G, Planck and WMAP $B$-mode data",
+    "authors": [
+      "Jessica A. Zebrowski",
+      "Aurora Ireland",
+      "Christian L. Reichardt",
+      "Kylar Greene",
+      "Gordan Krnjaic",
+      "Yuhsin Tsai",
+      "François R. Bouchet"
+    ],
+    "link": "https://arxiv.org/abs/2601.20958"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.21231",
+    "title": "Data-Driven Generation of Neutron Star Equations of State Using Variational Autoencoders",
+    "authors": [
+      "Alex Ross",
+      "Tianqi Zhao",
+      "Sanjay Reddy"
+    ],
+    "link": "https://arxiv.org/abs/2601.21231"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.21788",
+    "title": "EWOCS-V: Is Wd1-72 a recent post-interaction WR+O binary?",
+    "authors": [
+      "C. J. K. Larkin",
+      "J. Mackey",
+      "H. Jin",
+      "A. A. C. Sander",
+      "B. Reville",
+      "K. Anastasopoulou",
+      "M. Andersen",
+      "A. Bayo",
+      "J. J. Drake",
+      "E. K. Grebel",
+      "M. G. Guarcello",
+      "T. J. Haworth",
+      "V. M. Kalari",
+      "R. R. Lefever",
+      "F. Najarro",
+      "B. W. Ritchie",
+      "E. Sabbi"
+    ],
+    "link": "https://arxiv.org/abs/2601.21788"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.21820",
+    "title": "Forecasting Constraints on Cosmology and Modified Gravitational-wave Propagation by Strongly Lensed Gravitational Waves Associating with Galaxy Surveys",
+    "authors": [
+      "Anson Chen",
+      "Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2601.21820"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.20953",
+    "title": "Turbulent Dynamo Action in Binary Neutron Star Mergers",
+    "authors": [
+      "Eduardo M. Gutiérrez",
+      "David Radice",
+      "Jacob Fields",
+      "James M. Stone"
+    ],
+    "link": "https://arxiv.org/abs/2601.20953"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.20967",
+    "title": "A Universal CMB $B$-Mode Spectrum from Early Causal Tensor Sources",
+    "authors": [
+      "Kylar Greene",
+      "Aurora Ireland",
+      "Gordan Krnjaic",
+      "Yuhsin Tsai"
+    ],
+    "link": "https://arxiv.org/abs/2601.20967"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.21086",
+    "title": "Rethinking Resonance Detectability during Binary Neutron Star Inspiral: Accurate Mismatch Computations for Low-lying Dynamical Tides",
+    "authors": [
+      "Alberto Revilla Peña",
+      "Ruxandra Bondarescu",
+      "Andrew P. Lundgren",
+      "Jordi Miralda-Escudé"
+    ],
+    "link": "https://arxiv.org/abs/2601.21086"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.21538",
+    "title": "Primordial black holes and Scalar-Induced Gravitational Waves formed by inflation potential with non-trivial characteristics",
+    "authors": [
+      "Ruifeng Zheng",
+      "Yanqing Xu"
+    ],
+    "link": "https://arxiv.org/abs/2601.21538"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.21630",
+    "title": "Leveraging rapid parameter estimates for efficient gravitational-wave Bayesian inference via posterior repartitioning",
+    "authors": [
+      "Metha Prathaban",
+      "Charlie Hoy",
+      "Michael J. Williams"
+    ],
+    "link": "https://arxiv.org/abs/2601.21630"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.22043",
+    "title": "A null test of the Hubble tension",
+    "authors": [
+      "Gerasimos Kouniatalis",
+      "Emmanuel N. Saridakis"
+    ],
+    "link": "https://arxiv.org/abs/2601.22043"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.22138",
+    "title": "Optimal cross-correlation technique to search for strongly lensed gravitational waves",
+    "authors": [
+      "Anirban Kopty",
+      "Sanjit Mitra",
+      "Anupreeta More"
+    ],
+    "link": "https://arxiv.org/abs/2601.22138"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.21075",
+    "title": "Dynamical Casimir effect under the action of gravitational waves",
+    "authors": [
+      "Gustavo de Oliveira",
+      "Thiago Henrique Moreira",
+      "Lucas Chibebe Céleri"
+    ],
+    "link": "https://arxiv.org/abs/2601.21075"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.21145",
+    "title": "On the quantum nature of strong gravity",
+    "authors": [
+      "Felipe Sobrero",
+      "Luca Abrahão",
+      "Thiago Guerreiro"
+    ],
+    "link": "https://arxiv.org/abs/2601.21145"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.21438",
+    "title": "Analytic Solution for the Motion of Spinning Particles in Plane Gravitational Wave Spacetime",
+    "authors": [
+      "Ke Wang"
+    ],
+    "link": "https://arxiv.org/abs/2601.21438"
+  }
+]
