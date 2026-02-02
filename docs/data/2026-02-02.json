@@ -1,0 +1,78 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.23260",
+    "title": "Evolution of Supermassive Black Hole Pairs on Inclined Orbits in Post-Merger Galaxies",
+    "authors": [
+      "Sena Ghobadi",
+      "David Ballantyne",
+      "Tamara Bogdanovic"
+    ],
+    "link": "https://arxiv.org/abs/2601.23260"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.22220",
+    "title": "Subsolar mass black holes from stellar collapse induced by primordial black holes",
+    "authors": [
+      "Thomas W. Baumgarte",
+      "Stuart L. Shapiro"
+    ],
+    "link": "https://arxiv.org/abs/2601.22220"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2601.22464",
+    "title": "Constructing a gravitational wave analysis pipeline for extremely large mass ratio inspirals",
+    "authors": [
+      "Tian-Xiao Wang",
+      "Yan Wang",
+      "Alejandro Torres-Orjuela",
+      "Yi-Ren Lin",
+      "Hui-Min Fan",
+      "Verónica Vázquez-Aceves",
+      "Yi-Ming Hu"
+    ],
+    "link": "https://arxiv.org/abs/2601.22464"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.21820",
+    "title": "Forecasting Constraints on Cosmology and Modified Gravitational-wave Propagation by Strongly Lensed Gravitational Waves Associating with Galaxy Surveys",
+    "authors": [
+      "Anson Chen",
+      "Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2601.21820"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.23019",
+    "title": "Towards Claiming a Detection of Gravitational Memory",
+    "authors": [
+      "Jann Zosso",
+      "Lorena Magaña Zertuche",
+      "Silvia Gasparotto",
+      "Adrien Cogez",
+      "Henri Inchauspé",
+      "Milo Jacobs"
+    ],
+    "link": "https://arxiv.org/abs/2601.23019"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2601.23230",
+    "title": "Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach",
+    "authors": [
+      "Adrien Cogez",
+      "Silvia Gasparotto",
+      "Jann Zosso",
+      "Henri Inchauspé",
+      "Chantal Pitte",
+      "Lorena Magaña Zertuche",
+      "Antoine Petiteau",
+      "Marc Besancon"
+    ],
+    "link": "https://arxiv.org/abs/2601.23230"
+  }
+]
