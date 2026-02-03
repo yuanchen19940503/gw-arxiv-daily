@@ -1,0 +1,133 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.00724",
+    "title": "Population synthesis of double white dwarfs: evolutionary effects on system properties",
+    "authors": [
+      "Sreeta Roy",
+      "Surajit Kalita"
+    ],
+    "link": "https://arxiv.org/abs/2602.00724"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.01108",
+    "title": "Skewness in the Hellings-Downs curve",
+    "authors": [
+      "Ryosuke Fujimoto",
+      "Keitaro Takahashi"
+    ],
+    "link": "https://arxiv.org/abs/2602.01108"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.01343",
+    "title": "Resonant production of heavy particles during inflation and its gravitational wave signature",
+    "authors": [
+      "Qi Chen",
+      "Yuan Yin"
+    ],
+    "link": "https://arxiv.org/abs/2602.01343"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.02058",
+    "title": "Astro-COLIBRI: An Innovative Platform for Real-Time Multi-Messenger Astrophysics",
+    "authors": [
+      "Bernardo Cornejo Avila",
+      "Sofia Bisero",
+      "Mickael Costa",
+      "Antoine Ciric",
+      "Ilja Jaroschewski",
+      "Weizmann Kindrébéogo",
+      "Fabian Schussler"
+    ],
+    "link": "https://arxiv.org/abs/2602.02058"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.02225",
+    "title": "A model for the emission of SGRBs-GW from binary mergers",
+    "authors": [
+      "Shad Ali"
+    ],
+    "link": "https://arxiv.org/abs/2602.02225"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.00195",
+    "title": "Model-Agnostic Population Inference for Gravitational-Wave Astronomy: From LIGO to LISA",
+    "authors": [
+      "Yi-kun Li",
+      "Cheng Cheng",
+      "Lang Cui",
+      "Yun Fang"
+    ],
+    "link": "https://arxiv.org/abs/2602.00195"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.00203",
+    "title": "An autoencoder-based surrogate waveform model for quasi-circular binary-black-hole mergers",
+    "authors": [
+      "Anastasios Theodoropoulos",
+      "Nino Villanueva",
+      "Osvaldo Gramaxo Freitas",
+      "Tiago Fernandes",
+      "Solange Nunes",
+      "Alejandro Torres-Forne",
+      "Jose A. Font",
+      "Antonio Onofre",
+      "Jose D. Martin-Guerrero"
+    ],
+    "link": "https://arxiv.org/abs/2602.00203"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.00349",
+    "title": "Running Love Numbers of Charged Black Holes",
+    "authors": [
+      "Sergio Barbosa",
+      "Sylvain Fichet",
+      "Lucas de Souza"
+    ],
+    "link": "https://arxiv.org/abs/2602.00349"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.01319",
+    "title": "Factorized neural posterior estimation for rapid and reliable inference of parameterized post-Einsteinian deviation parameters in gravitational waves",
+    "authors": [
+      "Yong-Xin Zhang",
+      "Tian-Yang Sun",
+      "Chun-Yu Xiong",
+      "Song-Tao Liu",
+      "Yu-Xin Wang",
+      "Shang-Jie Jin",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2602.01319"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.01615",
+    "title": "Testing the wormhole echo hypothesis for GW231123",
+    "authors": [
+      "Qi Lai",
+      "Qing-Yu Lan",
+      "Zhan-He Wang",
+      "Yun-Song Piao"
+    ],
+    "link": "https://arxiv.org/abs/2602.01615"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.00396",
+    "title": "Nonperfect Carrollian Fluids Through Holography",
+    "authors": [
+      "Felipe Diaz"
+    ],
+    "link": "https://arxiv.org/abs/2602.00396"
+  }
+]
