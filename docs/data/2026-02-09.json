@@ -1,0 +1,147 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.06615",
+    "title": "Studies on the spin and magnetic inclination evolution of magnetars Swift J1834.9-0846 under wind braking",
+    "authors": [
+      "Biaopeng Li",
+      "Zhifu Gao",
+      "Wenqi Ma",
+      "Weifeng Zhang",
+      "Quan Cheng",
+      "L.C. Garcia de Andrade"
+    ],
+    "link": "https://arxiv.org/abs/2602.06615"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.06660",
+    "title": "Rotational Behaviour of Exotic Compact Objects",
+    "authors": [
+      "Zakary Buras-Stubbs",
+      "Ilídio Lopes"
+    ],
+    "link": "https://arxiv.org/abs/2602.06660"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.06696",
+    "title": "Bayesian Constraints on the Neutron Star Equation of State with a Smooth Hadron-Quark Crossover",
+    "authors": [
+      "Xavier Grundler",
+      "Bao-An Li"
+    ],
+    "link": "https://arxiv.org/abs/2602.06696"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.06789",
+    "title": "Forecasting Supermassive Black Hole Binary Gravitational Wave Probes: Prospects for Future Pulsar Timing Array and Space-Borne Detectors",
+    "authors": [
+      "Katsunori Kusakabe",
+      "Yoshiyuki Inoue",
+      "Daisuke Toyouchi",
+      "Keitaro Takahashi"
+    ],
+    "link": "https://arxiv.org/abs/2602.06789"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.06878",
+    "title": "Antenna for the detection of electromagnetic audio-band disturbances on-board LISA",
+    "authors": [
+      "D. Serrano",
+      "A. Pérez-Ortega",
+      "D. Roma-Dollase",
+      "J. Salvans-Tort",
+      "J. Ho-Zhang",
+      "J. Ramos-Castro",
+      "M. Nofrarias"
+    ],
+    "link": "https://arxiv.org/abs/2602.06878"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.06562",
+    "title": "Universality of Primordial Anisotropies in Gravitational Wave Background",
+    "authors": [
+      "Boyuan Jiang",
+      "Ryo Saito",
+      "Ying-li Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2602.06562"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.06661",
+    "title": "Chiral phase transition with primordial black holes: Distinct phase structure and catalysis",
+    "authors": [
+      "Masanori Tanaka",
+      "Jun-Chen Wang",
+      "Jing-Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2602.06661"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.06731",
+    "title": "Accelerating TTL noise post-processing via combined coefficients and alternative TDI configuration",
+    "authors": [
+      "Xue Wang",
+      "Gang Wang"
+    ],
+    "link": "https://arxiv.org/abs/2602.06731"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.06951",
+    "title": "Gravitational Raman Scattering: a Systematic Toolkit for Tidal Effects in General Relativity",
+    "authors": [
+      "Mikhail M. Ivanov",
+      "Yue-Zhou Li",
+      "Julio Parra-Martinez",
+      "Zihan Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2602.06951"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.06125",
+    "title": "Gravitational Wave Scattering in Spinless WQFT",
+    "authors": [
+      "Yilber Fabian Bautista",
+      "Mathias Driesse",
+      "Kays Haddad",
+      "Gustav Uhre Jakobsen"
+    ],
+    "link": "https://arxiv.org/abs/2602.06125"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.06536",
+    "title": "Continued fraction method for high overtone quasinormal modes in effective potentials with discontinuity",
+    "authors": [
+      "Guan-Ru Li",
+      "Jodin C. Morey",
+      "Wei-Liang Qian",
+      "Ramin G. Daghigh",
+      "Michael D. Green",
+      "Kai Lin",
+      "Rui-Hong Yue"
+    ],
+    "link": "https://arxiv.org/abs/2602.06536"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.06848",
+    "title": "Chaos as a Possible Probe for Scalar Hair in Horndeski Gravity",
+    "authors": [
+      "Yang Yu",
+      "Ruo-Ting Chen",
+      "Shulan Li",
+      "Dan Zhang",
+      "Jian-Pin Wu"
+    ],
+    "link": "https://arxiv.org/abs/2602.06848"
+  }
+]
