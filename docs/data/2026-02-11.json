@@ -1,0 +1,212 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09092",
+    "title": "Tuning the violins: dark sector phase transition models for the PTA signal",
+    "authors": [
+      "Torsten Bringmann",
+      "Thomas Konstandin",
+      "Jonas Matuszak",
+      "Kai Schmidt-Hoberg",
+      "Carlo Tasillo"
+    ],
+    "link": "https://arxiv.org/abs/2602.09092"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09096",
+    "title": "A Faint Progenitor System for the Faint Supernova 2024vjm",
+    "authors": [
+      "Erez A. Zimmerman",
+      "Avishay Gal-Yam",
+      "Paul J. Groot",
+      "Eran O. Ofek",
+      "Jan van Roestel",
+      "Andrea Pastorello",
+      "Stefano Valenti",
+      "Aravind P. Ravi",
+      "Ping Chen",
+      "Steve Schulze",
+      "Nadejda Blagorodnova",
+      "Maxime Wavasseur",
+      "Marco A. Gomez-Munoz",
+      "Hugo Tranin",
+      "Simon de Wet",
+      "Giorgos Leloudas",
+      "Paul M. Vreeswijk",
+      "Lindsey A. Kwok",
+      "Michaela Schwab",
+      "Saurabh W. Jha",
+      "Kate Maguire",
+      "David J. Sand",
+      "Eric Stringer",
+      "Thomas Kupfer",
+      "Tamar Faran",
+      "Joseph P. Anderson",
+      "Jennifer Andrews",
+      "Moira Andrews",
+      "Avshalom Badash",
+      "Steven Bloemen",
+      "K. Azalee Bostroem",
+      "Ting-Wan Chen",
+      "Massimo Della Valle",
+      "Georgios Dimitriadis",
+      "Yize Dong",
+      "Joseph R. Farah",
+      "James H. Gillanders",
+      "Benjamin Godson",
+      "Mariusz Gromadzki",
+      "Daichi Hiramatsu",
+      "Emily Hoang",
+      "D. Andrew Howell",
+      "Daryl Janzen",
+      "Hanindyo Kuncarayakti",
+      "Jiaxuan Li",
+      "Joseph D. Lyman",
+      "Keiichi Maeda",
+      "Mark R. Magee",
+      "Darshana Mehta",
+      "Andrew Milligan",
+      "Shane Moran",
+      "Yuan Qi Ni",
+      "David O'Neill",
+      "Jeniveve Pearson",
+      "Danielle L. A. Pieterse",
+      "Giuliano Pignata",
+      "Andrea Reguitti",
+      "Daniel E. Reichart",
+      "Nicolas Meza Retamal",
+      "Rita P. Santos",
+      "Simone Scaringi",
+      "Manisha Shrestha",
+      "Shubham Srivastav",
+      "Fiorenzo Stoppa",
+      "Bhagya Subrayan",
+      "Giorgio Valerin",
+      "Xiaofeng Wang",
+      "Kathryn Wynn",
+      "Ofer Yaron",
+      "Weicheng Zang"
+    ],
+    "link": "https://arxiv.org/abs/2602.09096"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09124",
+    "title": "Continuous Gravitational Waves from Supersoft X-ray Sources: Promising Targets for deci-Hz Detectors",
+    "authors": [
+      "Mayusree Das",
+      "Tomasz Bulik",
+      "Sreeta Roy",
+      "Banibrata Mukhopadhyay"
+    ],
+    "link": "https://arxiv.org/abs/2602.09124"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09217",
+    "title": "A Gravitational Wave Background from Intermediate Mass Black Holes in AGN Disks",
+    "authors": [
+      "Chiara M. F. Mingarelli"
+    ],
+    "link": "https://arxiv.org/abs/2602.09217"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09558",
+    "title": "Microlensing events and primordial black holes in the axionlike curvaton model",
+    "authors": [
+      "Kentaro Kasai",
+      "Masahiro Kawasaki",
+      "Kai Murai",
+      "Shunsuke Neda"
+    ],
+    "link": "https://arxiv.org/abs/2602.09558"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.09694",
+    "title": "Stellar-mass black holes in young massive and open stellar clusters -- VII. Comparisons with gravitational-wave events until LVK-O4a and Gaia compact binaries",
+    "authors": [
+      "Sambaran Banerjee"
+    ],
+    "link": "https://arxiv.org/abs/2602.09694"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.09141",
+    "title": "NIAC project report: Solar system-scale VLBI to dramatically improve cosmological distance measurements",
+    "authors": [
+      "Matthew McQuinn",
+      "Miguel Morales",
+      "Casey McGrath",
+      "Alyssa Alvarez",
+      "Katelyn Glasby",
+      "T. Joseph W. Lazio",
+      "Kiyoshi Masui",
+      "Lyujia Pan",
+      "Jonathan Pober",
+      "Huangyu Xiao"
+    ],
+    "link": "https://arxiv.org/abs/2602.09141"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.09599",
+    "title": "Highly suppressed tensor-to-scalar ratio from a modified Lennard-Jones inflationary potential",
+    "authors": [
+      "Panagiotis G. Stavros",
+      "Spyros Basilakos",
+      "Emmanuel N. Saridakis"
+    ],
+    "link": "https://arxiv.org/abs/2602.09599"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.09125",
+    "title": "Quantum State Characterization of Gravitational Waves via Graviton Counting Statistics",
+    "authors": [
+      "Kristian Toccacelo",
+      "Thomas Beitel",
+      "Ulrik Lund Andersen",
+      "Igor Pikovski"
+    ],
+    "link": "https://arxiv.org/abs/2602.09125"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.09183",
+    "title": "Gravitational waves in a minimal gravitational SME",
+    "authors": [
+      "A. A. Araújo Filho",
+      "N. Heidari",
+      "Iarley P. Lobo"
+    ],
+    "link": "https://arxiv.org/abs/2602.09183"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.09453",
+    "title": "Gravitational wave signatures from periodic orbits around a Schwarzschild-Bertotti-Robinson black hole",
+    "authors": [
+      "Tursunali Xamidov",
+      "Sanjar Shaymatov",
+      "Qiang Wu",
+      "Tao Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2602.09453"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.10089",
+    "title": "Resummed energy loss in extreme-mass-ratio scattering using critical orbits",
+    "authors": [
+      "Leor Barack",
+      "Riccardo Gonzo",
+      "Benjamin Leather",
+      "Oliver Long",
+      "Niels Warburton"
+    ],
+    "link": "https://arxiv.org/abs/2602.10089"
+  }
+]
