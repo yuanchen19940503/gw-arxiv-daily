@@ -1,0 +1,64 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.10664",
+    "title": "Distance Estimation and Sky Localization of Eccentric Double White Dwarf Binaries from Gravitational Wave Observations inside Globular Clusters",
+    "authors": [
+      "Yuetong Zhao",
+      "L. Hellström",
+      "Siqi Zhang",
+      "M. Giersz",
+      "A. Askar",
+      "Youjun Lu",
+      "Zhoujian Cao",
+      "D. Belloni",
+      "G. Wiktorowicz",
+      "M. Górski"
+    ],
+    "link": "https://arxiv.org/abs/2602.10664"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11030",
+    "title": "Population Properties of Binary Black Holes with Eccentricity",
+    "authors": [
+      "Muhammad Zeeshan",
+      "Richard O'Shaughnessy",
+      "Natalie Malagon"
+    ],
+    "link": "https://arxiv.org/abs/2602.11030"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.10928",
+    "title": "An Enhanced Formation Channel for Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in Triples Involving Sgr A*",
+    "authors": [
+      "Wen-Fan Feng",
+      "Tan Liu",
+      "Yun Fang",
+      "Yacheng Kang",
+      "Bin Liu",
+      "Lijing Shao"
+    ],
+    "link": "https://arxiv.org/abs/2602.10928"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.10462",
+    "title": "Spacetime of rotating black holes surrounded by massive scalar charges",
+    "authors": [
+      "Adrian Ka-Wai Chung"
+    ],
+    "link": "https://arxiv.org/abs/2602.10462"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.10579",
+    "title": "Geometric properties of slowly rotating black holes embedded in matter environments",
+    "authors": [
+      "Sayak Datta",
+      "Chiranjeeb Singha"
+    ],
+    "link": "https://arxiv.org/abs/2602.10579"
+  }
+]
