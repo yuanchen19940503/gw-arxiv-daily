@@ -1,0 +1,151 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11512",
+    "title": "Stone Skipping Black Holes in Ultralight Dark Matter Solitons",
+    "authors": [
+      "Alan Zhang",
+      "Yourong Wang",
+      "J. Luna Zagorac",
+      "Richard Easther"
+    ],
+    "link": "https://arxiv.org/abs/2602.11512"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11529",
+    "title": "Searching for Anisotropy in the Gravitational Wave Background Using the Parkes Pulsar Timing Array",
+    "authors": [
+      "Yiqin Chen",
+      "Shi-Yi Zhao",
+      "Zhi-Zhang Peng",
+      "Xingjiang Zhu",
+      "N. D. Ramesh Bhat",
+      "Zu-Cheng Chen",
+      "Małgorzata Curyło",
+      "Valentina Di Marco",
+      "George Hobbs",
+      "Agastya Kapur",
+      "Wenhua Ling",
+      "Rami Mandow",
+      "Saurav Mishra",
+      "Daniel J. Reardon",
+      "Christopher J. Russell",
+      "Ryan M. Shannon",
+      "Jacob Cardinal Tremblay",
+      "Jingbo Wang",
+      "Lei Zhang",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2602.11529"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11620",
+    "title": "Design and characterization of W-band and D-band calibration sources for the AliCPT-1 experiment",
+    "authors": [
+      "Xu-Fang Li",
+      "Cong-Zhan Liu",
+      "Ai-Mei Zhang",
+      "Zheng-Wei Li",
+      "Xue-Feng Lu",
+      "Zhong-Xue Xin",
+      "Guo-Feng Wang",
+      "Yong-Ping Li",
+      "Yong-Jie Zhang",
+      "Shi-Bo Shu",
+      "Yi-Fei Zhang",
+      "Ya-Qiong Li",
+      "Zhi Chang",
+      "Dai-Kang Yan"
+    ],
+    "link": "https://arxiv.org/abs/2602.11620"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11765",
+    "title": "Population synthesis predictions of the Galactic compact binary gravitational wave foreground detectable by LISA",
+    "authors": [
+      "Jake McMillan",
+      "Adam Ingram",
+      "Cordelia Dashwood Brown",
+      "Andrei Igoshev",
+      "Matthew Middleton",
+      "Grzegorz Wiktorowicz",
+      "Simone Scaringi"
+    ],
+    "link": "https://arxiv.org/abs/2602.11765"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.11809",
+    "title": "Impact of crust-core connection procedures on the tidal deformability of neutron stars",
+    "authors": [
+      "Junbo Pang",
+      "Hong Shen",
+      "Jinniu Hu"
+    ],
+    "link": "https://arxiv.org/abs/2602.11809"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.11282",
+    "title": "Measurement prospects for the pair-instability mass cutoff with gravitational waves",
+    "authors": [
+      "Matthew Mould",
+      "Jack Heinzel",
+      "Sofia Alvarez-Lopez",
+      "Cailin Plunkett",
+      "Noah E. Wolfe",
+      "Salvatore Vitale"
+    ],
+    "link": "https://arxiv.org/abs/2602.11282"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.12011",
+    "title": "pespace: A new tool of GPU-accelerated and auto-differentiable response generation and likelihood evaluation for space-borne gravitational wave detectors",
+    "authors": [
+      "Rui Niu",
+      "Chang Feng",
+      "Wen Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2602.12011"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.12252",
+    "title": "The Dark Side of the Moon: Listening to Scalar-Induced Gravitational Waves",
+    "authors": [
+      "D. Blas",
+      "J. W. Foster",
+      "Y. Gouttenoire",
+      "A. J. Iovino",
+      "I. Musco",
+      "S. Trifinopoulos",
+      "M. Vanvlasselaer"
+    ],
+    "link": "https://arxiv.org/abs/2602.12252"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.12022",
+    "title": "Dark matter distributions around extreme mass ratio inspirals: effects of radial pressure and relativistic treatment",
+    "authors": [
+      "Yang Zhao",
+      "Yungui Gong"
+    ],
+    "link": "https://arxiv.org/abs/2602.12022"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.12101",
+    "title": "Black Holes Trapped by Ghosts",
+    "authors": [
+      "Cheng-Yong Zhang",
+      "Yunqi Liu",
+      "Bin Wang"
+    ],
+    "link": "https://arxiv.org/abs/2602.12101"
+  }
+]
