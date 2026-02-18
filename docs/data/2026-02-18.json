@@ -1,0 +1,108 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.15065",
+    "title": "Resonant Axion-Photon Conversion in the Early Inspiral of Neutron Star Binaries",
+    "authors": [
+      "D. Suárez-Fontanella",
+      "M. Ángeles Pérez-García",
+      "C. Albertus"
+    ],
+    "link": "https://arxiv.org/abs/2602.15065"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.15111",
+    "title": "Orbital eccentricity can make neutron star g-mode resonances observable with current gravitational-wave detectors",
+    "authors": [
+      "János Takátsy",
+      "Lorenz Zwick",
+      "Pankaj Saini",
+      "Johan Samsing"
+    ],
+    "link": "https://arxiv.org/abs/2602.15111"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.15296",
+    "title": "GPS constellation search for exotic physics messengers coincident with the binary neutron star merger GW170817",
+    "authors": [
+      "Arko P. Sen",
+      "Geoffrey Blewitt",
+      "Andrey Sarantsev",
+      "Paul Ries",
+      "Andrei Derevianko"
+    ],
+    "link": "https://arxiv.org/abs/2602.15296"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.15692",
+    "title": "Hot subdwarf stars from the Hamburg Quasar Survey",
+    "authors": [
+      "Ulrich Heber",
+      "Lennard Kufleitner",
+      "Matti Dorsch",
+      "Marilyn Latour",
+      "Harry Dawson",
+      "Fabian Mattig",
+      "Stephan Geier"
+    ],
+    "link": "https://arxiv.org/abs/2602.15692"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.15073",
+    "title": "GW-FALCON: A Novel Feature-Driven Deep Learning Approach for Early Warning Alerts of BNS and NSBH Inspirals in Next-Generation GW Observatories",
+    "authors": [
+      "Grigorios Papigkiotis",
+      "Georgios Vardakas",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2602.15073"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.15110",
+    "title": "Measuring Pulsar Distances from Chirping Orbital Periods",
+    "authors": [
+      "Brady Egleston",
+      "Reza Ebadi",
+      "Ronald Walsworth"
+    ],
+    "link": "https://arxiv.org/abs/2602.15110"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.15441",
+    "title": "Primordial black hole evaporation in a thermal bath and gravitational waves",
+    "authors": [
+      "Arnab Chaudhuri",
+      "Kousik Loho"
+    ],
+    "link": "https://arxiv.org/abs/2602.15441"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.15825",
+    "title": "Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation",
+    "authors": [
+      "Haruto Masubuchi",
+      "Yuma Narita",
+      "Wen Yin"
+    ],
+    "link": "https://arxiv.org/abs/2602.15825"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.15609",
+    "title": "Periodic orbits and gravitational waveforms of spinning particles in nonlocal Gravity",
+    "authors": [
+      "Moisés Bravo-Gaete",
+      "Jianhui Lin",
+      "Yunlong Liu",
+      "Xiangdong Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2602.15609"
+  }
+]
