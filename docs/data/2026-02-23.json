@@ -1,0 +1,94 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.18105",
+    "title": "TROYE: Modeling Dynamic Phase Transitions in Gravitational Waves from Neutron Star-Black Hole Mergers",
+    "authors": [
+      "Ofek Dan",
+      "Ofek Birnholtz"
+    ],
+    "link": "https://arxiv.org/abs/2602.18105"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.18239",
+    "title": "Mathematical derivation and verification of the amplitude of LISA's interferometric signals on an ultra-stable interferometer testbed",
+    "authors": [
+      "Alvise Pizzella",
+      "Lennart Wissel",
+      "Miguel Dovale-Alvarez",
+      "Pablo Martinez Cano",
+      "Rodrigo Garcia Alvarez",
+      "Christoph Bode",
+      "Juan Jose Esteban Delgado",
+      "Gerhard Heinzel"
+    ],
+    "link": "https://arxiv.org/abs/2602.18239"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.17725",
+    "title": "Scaling Laws for Template-Free Detection of Environmental Phase Modulation in Gravitational-Wave Signals",
+    "authors": [
+      "Jericho Cain"
+    ],
+    "link": "https://arxiv.org/abs/2602.17725"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.17756",
+    "title": "Pushing spectral siren cosmology into the third-generation era: a blinded mock data challenge",
+    "authors": [
+      "Matteo Tagliazucchi",
+      "Michele Moresco",
+      "Alessandro Agapito",
+      "Michele Mancarella",
+      "Sarah Ferraiuolo",
+      "Simone Mastrogiovanni",
+      "Nicola Borghi",
+      "Francesco Pannarale",
+      "Daniele Bonacorsi"
+    ],
+    "link": "https://arxiv.org/abs/2602.17756"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.18385",
+    "title": "Detection prospects of solar $g$-modes with LISA",
+    "authors": [
+      "Aman Awasthi"
+    ],
+    "link": "https://arxiv.org/abs/2602.18385"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.16575",
+    "title": "Chiral gravitational waves from multi-phase magnetogenesis",
+    "authors": [
+      "H. V. Ragavendra",
+      "Gianmassimo Tasinato",
+      "L. Sriramkumar"
+    ],
+    "link": "https://arxiv.org/abs/2602.16575"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.17702",
+    "title": "Cosmological Bounce Relics: Black Holes, Gravitational Waves, and Dark Matter",
+    "authors": [
+      "Enrique Gaztanaga"
+    ],
+    "link": "https://arxiv.org/abs/2602.17702"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.17724",
+    "title": "There and back again -- Closed timelike curves as EFT selection principle",
+    "authors": [
+      "Bum-Hoon Lee",
+      "Nils A. Nilsson",
+      "Somyadip Thakur"
+    ],
+    "link": "https://arxiv.org/abs/2602.17724"
+  }
+]
