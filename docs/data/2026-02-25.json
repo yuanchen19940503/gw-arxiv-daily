@@ -1,0 +1,91 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.20522",
+    "title": "ASKAP J005512.2-255834: A Luminous, Long-Lived Radio Transient at z = 0.1 -- an Orphan Afterglow or an off-nuclear TDE from an IMBH?",
+    "authors": [
+      "Ashna Gulati",
+      "Tara Murphy",
+      "David L. Kaplan",
+      "Dougal Dobie",
+      "Charlotte Ward",
+      "Gemma Anderson",
+      "Manisha Caleb",
+      "Poonam Chandra",
+      "Jeff Cooke",
+      "Barnali Das",
+      "Adam Deller",
+      "Adelle Goodwin",
+      "Kelly Gourdji",
+      "Giancarlo Ghirlanda",
+      "Emil Lenc",
+      "Anais Möller",
+      "James K. Leung",
+      "Stella Koch Ocker",
+      "Joshua Pritchard",
+      "Claudio Ricci",
+      "Elaine M. Sadler",
+      "Om Sharan Salafia",
+      "Kavya Shaji",
+      "Roberto Soria",
+      "Mark Suhr",
+      "Artem Tuntsov",
+      "Ziteng Wang"
+    ],
+    "link": "https://arxiv.org/abs/2602.20522"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.20212",
+    "title": "Likelihood-Based One-Class Scoring in CWT Latent Space for Confusion-Limited LISA Gravitational-Wave Detection",
+    "authors": [
+      "Jericho Cain"
+    ],
+    "link": "https://arxiv.org/abs/2602.20212"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.20277",
+    "title": "Neural Bayesian updates to populations with growing gravitational-wave catalogs",
+    "authors": [
+      "Noah E. Wolfe",
+      "Matthew Mould",
+      "John Veitch",
+      "Salvatore Vitale"
+    ],
+    "link": "https://arxiv.org/abs/2602.20277"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.20734",
+    "title": "Bypassing the Lyth Bound with Entangled Gravitons: Primordial Signatures and Late-Time Noise",
+    "authors": [
+      "Shingo Akama",
+      "Chunshan Lin"
+    ],
+    "link": "https://arxiv.org/abs/2602.20734"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.20745",
+    "title": "Gravitational wave radiation from periodic orbits in regular black holes",
+    "authors": [
+      "Rishav Agrawal",
+      "Anjan Kar",
+      "Soumya Jana",
+      "Sayan Kar"
+    ],
+    "link": "https://arxiv.org/abs/2602.20745"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.21018",
+    "title": "5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory",
+    "authors": [
+      "M Laxman",
+      "Ryuichi Fujita",
+      "Chandra Kant Mishra"
+    ],
+    "link": "https://arxiv.org/abs/2602.21018"
+  }
+]
