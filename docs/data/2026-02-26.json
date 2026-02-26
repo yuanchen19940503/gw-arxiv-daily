@@ -1,0 +1,108 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.21295",
+    "title": "Implications for PBH Dark Matter from a single Sub-Solar$\\unicode{x2013}$GW Detection in LVK O1$\\unicode{x2013}$O4",
+    "authors": [
+      "Alberto Magaraggia",
+      "Nico Cappelluti"
+    ],
+    "link": "https://arxiv.org/abs/2602.21295"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.21493",
+    "title": "Resurgence and Hyperasymptotics in Wave Optics Astronomy",
+    "authors": [
+      "Job Feldbrugge",
+      "Samuel Crew",
+      "Ue-Li Pen"
+    ],
+    "link": "https://arxiv.org/abs/2602.21493"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.21261",
+    "title": "Using thermodynamics to learn gravitational wave physics",
+    "authors": [
+      "Caio César Rodrigues Evangelista",
+      "Níckolas de Aguiar Alves"
+    ],
+    "link": "https://arxiv.org/abs/2602.21261"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.21303",
+    "title": "Beam tube boundary effects in stray light modeling of long Fabry-Perot arm cavities for third-generation gravitational-wave detectors",
+    "authors": [
+      "M. Andrés-Carcasona",
+      "M. Evans"
+    ],
+    "link": "https://arxiv.org/abs/2602.21303"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.21607",
+    "title": "Direction-of-arrival estimation of a gravitational wave by correlations between quadrupole moments of pulsar timings",
+    "authors": [
+      "Taichi Ueyama",
+      "Hodaka Tamura",
+      "Hideki Asada"
+    ],
+    "link": "https://arxiv.org/abs/2602.21607"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.21432",
+    "title": "Breathing Black Hole Shadows in Modified Gravity (MOG)",
+    "authors": [
+      "Nikko John Leo S. Lobos",
+      "Emmanuel T. Rodulfo"
+    ],
+    "link": "https://arxiv.org/abs/2602.21432"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.21615",
+    "title": "GW070605: An Undisclosed Binary Neutron Star Hardware Injection in LIGO's Fifth Science Run",
+    "authors": [
+      "Heather Fong",
+      "Kipp Cannon",
+      "Chi-Wai Chan",
+      "Richard N. George",
+      "Alvin K. Y. Li",
+      "Soichiro Kuwahara",
+      "Hiroaki Ohta",
+      "Minori Shikauchi",
+      "Leo Tsukada",
+      "Takuya Tsutsui"
+    ],
+    "link": "https://arxiv.org/abs/2602.21615"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.21923",
+    "title": "Stochastic Evolution of Primordial Black Holes to near-extremality in EFTs of Gravity",
+    "authors": [
+      "Soham Acharya",
+      "Shuvayu Roy",
+      "Sudipta Sarkar"
+    ],
+    "link": "https://arxiv.org/abs/2602.21923"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.22074",
+    "title": "Beyond Gaussian Assumptions: A new robust statistical framework for gravitational-wave data analysis",
+    "authors": [
+      "Argyro Sasli",
+      "Minas Karamanis",
+      "Nikolaos Karnesis",
+      "Michael W. Coughlin",
+      "Vuk Mandic",
+      "Uroš Seljak",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2602.22074"
+  }
+]
