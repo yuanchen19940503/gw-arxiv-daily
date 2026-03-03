@@ -1,0 +1,134 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.00224",
+    "title": "Spacetime in motion: an evolving relativistic binary black hole metric for GIZMO",
+    "authors": [
+      "Giacomo Fedrigo",
+      "Alessandro Lupi",
+      "Alessia Franchini",
+      "Matteo Bonetti"
+    ],
+    "link": "https://arxiv.org/abs/2603.00224"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.00699",
+    "title": "Deep learning-based astronomical multimodal data fusion: A comprehensive review",
+    "authors": [
+      "Wujun Shao",
+      "Dongwei Fan",
+      "Chenzhou Cui",
+      "Yunfei Xu",
+      "Shirui Wei",
+      "Xin Lyu"
+    ],
+    "link": "https://arxiv.org/abs/2603.00699"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.00820",
+    "title": "High-Energy Shock Breakout from Supernovae and Gamma-ray Bursts",
+    "authors": [
+      "Chris L. Fryer",
+      "Eric Burns",
+      "Joseph M. Colosimo",
+      "Michela Negro",
+      "Brendan O'Connor"
+    ],
+    "link": "https://arxiv.org/abs/2603.00820"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.01934",
+    "title": "Current and future constraints on the expansion history of the GREA model",
+    "authors": [
+      "Irene Graziotti",
+      "Chiara De Leo",
+      "Matteo Martinelli"
+    ],
+    "link": "https://arxiv.org/abs/2603.01934"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.02110",
+    "title": "A Template-Based Search for Large-Scale-Structure--Correlated Anisotropy in the Nanohertz Gravitational-Wave Background Using the Public NANOGrav 15-Year Data Set",
+    "authors": [
+      "Yun Fang"
+    ],
+    "link": "https://arxiv.org/abs/2603.02110"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.00239",
+    "title": "Variance of gravitational-wave populations",
+    "authors": [
+      "Alessia Corelli",
+      "Davide Gerosa",
+      "Matthew Mould",
+      "Cecilia Maria Fabbri"
+    ],
+    "link": "https://arxiv.org/abs/2603.00239"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.01321",
+    "title": "The impact of strong lensing on Hubble constant measurements with gravitational-wave dark sirens",
+    "authors": [
+      "Eungwang Seo",
+      "Kyungmin Kim",
+      "Zhuotao Li",
+      "Justin Janquart",
+      "Rachel Gray",
+      "Martin Hendry"
+    ],
+    "link": "https://arxiv.org/abs/2603.01321"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.01456",
+    "title": "Modified Teukolsky formalism: Null testing and numerical benchmarking",
+    "authors": [
+      "Fawzi Aly",
+      "Mahmoud A. Mansour",
+      "Luis Lehner",
+      "Dejan Stojkovic",
+      "Dongjun Li",
+      "Pratik Wagle"
+    ],
+    "link": "https://arxiv.org/abs/2603.01456"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.02120",
+    "title": "Low-$T/|W|$ instabilities in differentially rotating neutron stars resembling merger remnants",
+    "authors": [
+      "Georgios Lioutas",
+      "Panagiotis Iosif",
+      "Andreas Bauswein",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2603.02120"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.01043",
+    "title": "Cosmological Evolution of the Universe in Torsion-based Modified Gravity",
+    "authors": [
+      "Sai Swagat Mishra"
+    ],
+    "link": "https://arxiv.org/abs/2603.01043"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.01330",
+    "title": "Testing Gravitational-Wave Signal From Verification Binaries with Space-Based Gravitational-Wave Detectors",
+    "authors": [
+      "Zi-Heng Yu",
+      "Sen Yang",
+      "Liangliang Ren",
+      "Shun-Jia Huang"
+    ],
+    "link": "https://arxiv.org/abs/2603.01330"
+  }
+]
