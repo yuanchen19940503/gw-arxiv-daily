@@ -1,0 +1,134 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.02330",
+    "title": "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery",
+    "authors": [
+      "J. D. Lyman",
+      "D. O'Neill",
+      "T. Killestein",
+      "D. Jarvis",
+      "A. Kumar",
+      "K. Ulaczyk",
+      "K. Ackley",
+      "P. Chote",
+      "M. J. Dyer",
+      "M. Pursiainen",
+      "D. Steeghs",
+      "B. Godson",
+      "M. Magee",
+      "J. R. Mullaney",
+      "B. Warwick",
+      "S. Belkin",
+      "D. K. Galloway",
+      "G. Ramsay",
+      "V. S. Dhillon",
+      "P. O'Brien",
+      "K. Noysena",
+      "R. Kotak",
+      "R. P. Breton",
+      "L. K. Nuttall",
+      "B. Gompertz",
+      "D. Pollacco",
+      "J. Casares",
+      "D. L. Coppejans",
+      "R. A. J. Eyles-Ferris",
+      "O. Graur",
+      "L. Kelsey",
+      "M. R. Kennedy",
+      "A. Levan",
+      "S. Littlefair",
+      "S. Mandhai",
+      "D. Mata Sánchez",
+      "S. Mattila",
+      "J. McCormac",
+      "S. Moran",
+      "C. Phillips",
+      "K. Pu",
+      "A. Sahu",
+      "M. Shrestha",
+      "E. Stanway",
+      "R. L. C. Starling",
+      "L. Vincetti",
+      "E. Wickens",
+      "K. Wiersema"
+    ],
+    "link": "https://arxiv.org/abs/2603.02330"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.02811",
+    "title": "Overmassive and Undermassive Massive Black Holes: The Role of Environment and Gravitational-Wave Recoils",
+    "authors": [
+      "David Izquierdo-Villalba"
+    ],
+    "link": "https://arxiv.org/abs/2603.02811"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.02996",
+    "title": "Magnetic monopoles and high frequency gravitational waves from quasi-stable strings",
+    "authors": [
+      "Rinku Maji",
+      "Qaisar Shafi"
+    ],
+    "link": "https://arxiv.org/abs/2603.02996"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.02322",
+    "title": "Isocurvature Constraints on Dark Matter from Evaporated Primordial Black Holes",
+    "authors": [
+      "G. Franciolini",
+      "D. Racco"
+    ],
+    "link": "https://arxiv.org/abs/2603.02322"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.02414",
+    "title": "Orbital Dynamics and Gravitational Wave Signatures of Extreme Mass Ratio Inspirals in Galactic Dark Matter Halos",
+    "authors": [
+      "Guo-He Li",
+      "Chen-Kai Qiao",
+      "Jun Tao"
+    ],
+    "link": "https://arxiv.org/abs/2603.02414"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.02493",
+    "title": "Probing Planck-Scale Physics with High-Frequency Gravitational Waves",
+    "authors": [
+      "Stefano Profumo"
+    ],
+    "link": "https://arxiv.org/abs/2603.02493"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.03165",
+    "title": "Testing gravitational wave polarizations with LISA",
+    "authors": [
+      "Shingo Akama",
+      "Maxence Corman",
+      "Paola C. M. Delgado",
+      "Alice Garoffolo",
+      "Macarena Lagos",
+      "Alberto Mangiagli",
+      "Sylvain Marsat",
+      "Manuel Piarulli",
+      "Gianmassimo Tasinato",
+      "Jann Zosso",
+      "Giuseppe Gaetano Luciano",
+      "Nils A. Nilsson",
+      "Leandros Perivolaropoulos",
+      "Kristen Schumacher Aloh",
+      "Benjamin Sutton",
+      "Roxane Theriault",
+      "Amresh Verma",
+      "Yiqi Xie",
+      "Mian Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2603.03165"
+  }
+]
