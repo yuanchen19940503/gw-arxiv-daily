@@ -1,0 +1,47 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.04342",
+    "title": "A Broker Integrated Algorithm for Gravitational Wave - Electromagnetic Counterpart Searches in O4a and O4b Runs",
+    "authors": [
+      "Hemanth Bommireddy",
+      "Francisco Forster",
+      "Isaac McMahon",
+      "Manuel Pavez Herrera",
+      "Regis Cartier",
+      "Felipe Olivares Estay",
+      "Lorena Hernández García",
+      "Mary Loli Martínez Aldama",
+      "Alejandra Muñoz Arancibia"
+    ],
+    "link": "https://arxiv.org/abs/2603.04342"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.03446",
+    "title": "Illuminating the dark universe in the multi-messenger era",
+    "authors": [
+      "Philippe Brax",
+      "Anne-Christine Davis",
+      "Md Riajul Haque",
+      "Cédric Jockel",
+      "Gaetano Lambiase",
+      "Michiru Uwabo-Niibo",
+      "Mohsen Khodadi",
+      "Tanmay Kumar Poddar",
+      "Laura Sagunski",
+      "Luca Visinelli",
+      "Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.03446"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.04267",
+    "title": "Wave-Optics Imprints of Dark Matter Subhalos on Strongly Lensed Gravitational Waves",
+    "authors": [
+      "Shin'ichiro Ando"
+    ],
+    "link": "https://arxiv.org/abs/2603.04267"
+  }
+]
