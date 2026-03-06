@@ -1,0 +1,111 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.05101",
+    "title": "Simultaneous Misalignment and Mode Mismatch Sensing in Optical Cavities Using Intensity-Only Measurements",
+    "authors": [
+      "Liu Tao",
+      "Eleonora Capocasa",
+      "Yuhang Zhao",
+      "Jacques Ding",
+      "Isander Ahrend",
+      "Matteo Barsuglia"
+    ],
+    "link": "https://arxiv.org/abs/2603.05101"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.04462",
+    "title": "Parameter estimation of eccentric massive black hole binaries with LISA and its cosmological implications",
+    "authors": [
+      "Jia-Hao Zhong",
+      "Jin-Zhao Yang",
+      "Tao Yang",
+      "Xu-Heng Ding",
+      "Xi-Long Fan",
+      "Kai Liao",
+      "Bei You"
+    ],
+    "link": "https://arxiv.org/abs/2603.04462"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.04792",
+    "title": "Search for continuous gravitational waves from neutron stars in five globular clusters in the first part of the fourth LIGO-Virgo-KAGRA observing run",
+    "authors": [
+      "Damon H. T. Cheung",
+      "Keith Riles",
+      "Rafel Amengual",
+      "Preet Baxi",
+      "Alicia Calafat",
+      "Anamaria Effler",
+      "Tabata Aira Ferreira",
+      "Evan Goetz",
+      "Tom Kimpson",
+      "David Keitel",
+      "Alan M. Knee",
+      "Joan-Rene Merou",
+      "Quynh Lan Nguyen",
+      "Joseph O'Leary",
+      "Ornella J. Piccinni",
+      "Alicia M. Sintes",
+      "Karl Wette"
+    ],
+    "link": "https://arxiv.org/abs/2603.04792"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.05191",
+    "title": "Reassessing the SIGW Interpretation of PTA Signal: The Role of Third-Order Gravitational Waves and Implications for the PBH Overproduction",
+    "authors": [
+      "Zhi-Chao Zhao",
+      "Sai Wang",
+      "Qing-Hua Zhu",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.05191"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.04501",
+    "title": "Nonlinear Dynamics in General Relativity",
+    "authors": [
+      "Vitor Cardoso",
+      "Jaime Redondo-Yuste",
+      "Ulrich Sperhake",
+      "Furkan Tuncer"
+    ],
+    "link": "https://arxiv.org/abs/2603.04501"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.04645",
+    "title": "Junction Conditions for General Gravitational Theories",
+    "authors": [
+      "José M. M. Senovilla"
+    ],
+    "link": "https://arxiv.org/abs/2603.04645"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.05084",
+    "title": "External magnetic field influence on massive binary black hole inspiral gravitational waves and its similarity with environmental effects",
+    "authors": [
+      "Xulong Yuan",
+      "Xiangdong Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.05084"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.05182",
+    "title": "Accretion Disk Perturbations and Their Effects on Kerr Black Hole Superradiance and Gravitational Atom Evolution",
+    "authors": [
+      "Ruiheng Li",
+      "Zhong-hao Luo",
+      "Zehong Wang",
+      "Fa Peng Huang"
+    ],
+    "link": "https://arxiv.org/abs/2603.05182"
+  }
+]
