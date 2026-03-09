@@ -1,0 +1,105 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.05722",
+    "title": "Fingerprints of Individual Supermassive Black Hole Binaries in Pulsar Timing Arrays",
+    "authors": [
+      "Chiara M. F. Mingarelli",
+      "Bjorn Larsen",
+      "Ellis Eisenberg",
+      "Qinyuan Zheng",
+      "Forrest Hutchison"
+    ],
+    "link": "https://arxiv.org/abs/2603.05722"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.06566",
+    "title": "Data-Driven Trends and Subpopulations in the Gravitational Wave Binary Black Hole Merger Population with UMAP",
+    "authors": [
+      "A. J. Amsellem",
+      "I. Magaña Hernandez",
+      "A. Palmese",
+      "J. Gassert"
+    ],
+    "link": "https://arxiv.org/abs/2603.06566"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.05558",
+    "title": "Environmental Measurements in the Sedrun Access Shaft to the Gotthard Base Tunnel -- a Promising Site for a Long-Baseline Atom Interferometer",
+    "authors": [
+      "M. Guinchard",
+      "O. Buchmüller",
+      "S. Calatroni",
+      "J. Ellis",
+      "S. Hoell",
+      "M. Jaussi",
+      "L. Lombriser",
+      "M. Pentella",
+      "D. Thuliez",
+      "D. Valuch"
+    ],
+    "link": "https://arxiv.org/abs/2603.05558"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.05784",
+    "title": "Searching for precessing binary systems with mode-by-mode filtering and marginalization",
+    "authors": [
+      "Zihan Zhou",
+      "Digvijay Wadekar",
+      "Javier Roulet",
+      "Oryna Ivashtenko",
+      "Tejaswi Venumadhav",
+      "Tousif Islam",
+      "Ajit Kumar Mehta",
+      "Jonathan Mushkin",
+      "Mark Ho-Yeuk Cheung",
+      "Barak Zackay",
+      "Matias Zaldarriaga"
+    ],
+    "link": "https://arxiv.org/abs/2603.05784"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.06010",
+    "title": "Accelerated Time-domain Analysis for Gravitational Wave Astronomy",
+    "authors": [
+      "Vaishak Prasad"
+    ],
+    "link": "https://arxiv.org/abs/2603.06010"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.06341",
+    "title": "Disentangling the Galactic binary zoo: Machine learning classification of stellar remnant binaries in LISA data",
+    "authors": [
+      "Irwin Khai Cheng Tay",
+      "Valeriya Korol",
+      "Thibault Lechien"
+    ],
+    "link": "https://arxiv.org/abs/2603.06341"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.05731",
+    "title": "State-Selective Signatures of Quantum and Classical Gravitational Environments",
+    "authors": [
+      "Partha Nandi",
+      "Sankarshan Sahu",
+      "Bibhas Ranjan Majhi",
+      "Francesco Petruccione"
+    ],
+    "link": "https://arxiv.org/abs/2603.05731"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.05835",
+    "title": "Multi-Segment Consistency Tests of General Relativity",
+    "authors": [
+      "Vaishak Prasad"
+    ],
+    "link": "https://arxiv.org/abs/2603.05835"
+  }
+]
