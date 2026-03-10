@@ -1,0 +1,178 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.07158",
+    "title": "The Impact of Dark Matter on Gravitational Wave Detection by Space-based Interferometers",
+    "authors": [
+      "Yuezhe Chen",
+      "Pan-Pan Wang",
+      "Bo Wang",
+      "Rui Luo",
+      "Cheng-Gang Shao"
+    ],
+    "link": "https://arxiv.org/abs/2603.07158"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.07967",
+    "title": "Structural Design and Performance Analysis of Laser Transmitting Telescope for Space Gravitational Wave Detection",
+    "authors": [
+      "Long Yongtao",
+      "Mo Yan",
+      "Cao Shengyi",
+      "Cao Jiamin",
+      "Zhao Lujia",
+      "Wang Haibo",
+      "Wang Shuangbao",
+      "Tan Hao",
+      "Liu Xiaohong",
+      "Wang Dawei",
+      "Ma Donglin"
+    ],
+    "link": "https://arxiv.org/abs/2603.07967"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.08593",
+    "title": "A GPU-Accelerated Transient Detection Pipeline for DECam Time-Domain Surveys",
+    "authors": [
+      "Lei Hu",
+      "Tomás Cabrera",
+      "Antonella Palmese",
+      "Lifan Wang",
+      "Igor Andreoni",
+      "Xander J. Hall",
+      "Xingzhuo Chen",
+      "Jiawen Yang",
+      "Frank Valdes",
+      "Brendan O'Connor",
+      "Yuhan Chen"
+    ],
+    "link": "https://arxiv.org/abs/2603.08593"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.06772",
+    "title": "Fundamental Limits of Quantum Sensors for Gravitational Wave Detection",
+    "authors": [
+      "Sergio Gaudio"
+    ],
+    "link": "https://arxiv.org/abs/2603.06772"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.06792",
+    "title": "Spectral sirens cosmology from binary black holes populations with sharper mass features",
+    "authors": [
+      "Tom Bertheas",
+      "Vasco Gennari",
+      "Danièle Steer",
+      "Nicola Tamanini"
+    ],
+    "link": "https://arxiv.org/abs/2603.06792"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.07374",
+    "title": "A Reproducible Black Hole-Neutron Star Merger Gallery Example for the Einstein Toolkit",
+    "authors": [
+      "Rahime Matur",
+      "Beyhan Karakaş",
+      "Roland Haas",
+      "Ian Hawke",
+      "Nils Andersson",
+      "Steven R. Brandt"
+    ],
+    "link": "https://arxiv.org/abs/2603.07374"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.07662",
+    "title": "Gravitational waves from warm inflation in the weak dissipative regime",
+    "authors": [
+      "Orlando Luongo",
+      "Tommaso Mengoni",
+      "Paulo M. Sá"
+    ],
+    "link": "https://arxiv.org/abs/2603.07662"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.08635",
+    "title": "A Deep Learning Framework for Amplitude Generation of Generic EMRIs",
+    "authors": [
+      "Yan-bo Zeng",
+      "Jian-dong Zhang",
+      "Yi-Ming Hu",
+      "Jianwei Mei"
+    ],
+    "link": "https://arxiv.org/abs/2603.08635"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.07102",
+    "title": "Bounding the number of spacetime dimensions from precessing black hole binaries with the third-generation gravitational-wave detectors",
+    "authors": [
+      "Xu-Jie Zhu",
+      "Ji-Yu Song",
+      "Tao Zhu",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.07102"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.07168",
+    "title": "Periodic Orbits and Gravitational Radiation from Extreme Mass-Ratio Inspirals as Probes of Black Hole Quantum Hair",
+    "authors": [
+      "Yiru Zhang",
+      "Meirong Tang",
+      "Zhaoyi Xu"
+    ],
+    "link": "https://arxiv.org/abs/2603.07168"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.07469",
+    "title": "Can Oscillatory and Persistent Nonlinearities Be Bridged in Black Hole Ringdown?",
+    "authors": [
+      "Jun-Xi Shi",
+      "Zhen-Tao He",
+      "Jiageng Jiao",
+      "Jing-Qi Lai",
+      "Caiying Shao",
+      "Yu Tian",
+      "Hongbao Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.07469"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.07610",
+    "title": "Non-minimally coupled Einstein-Yang-Mills black holes: periodic orbits and gravitational wave radiation in extreme mass ratio systems",
+    "authors": [
+      "Xiuqin He",
+      "Zhaoyi Xu",
+      "Meirong Tang"
+    ],
+    "link": "https://arxiv.org/abs/2603.07610"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.08310",
+    "title": "Gravitational waves in metric-affine bumblebee gravity",
+    "authors": [
+      "A. A. Araújo Filho"
+    ],
+    "link": "https://arxiv.org/abs/2603.08310"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.08628",
+    "title": "Secondary gravitational waves against a strong gravitational wave in the Bianchi VI universe",
+    "authors": [
+      "Konstantin E. Osetrin"
+    ],
+    "link": "https://arxiv.org/abs/2603.08628"
+  }
+]
