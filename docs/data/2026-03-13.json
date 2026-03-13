@@ -1,0 +1,199 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.11167",
+    "title": "Gravitational Wave Measurement of the Mbh-Mbulge Intrinsic Scatter at High Redshift",
+    "authors": [
+      "Cayenne Matt",
+      "Kayhan Gültekin",
+      "Gabriella Agazie",
+      "Nikita Agarwal",
+      "Akash Anumarlapudi",
+      "Anne M. Archibald",
+      "Zaven Arzoumanian",
+      "Jeremy G. Baier",
+      "Paul T. Baker",
+      "Bence Bécsy",
+      "Laura Blecha",
+      "Adam Brazier",
+      "Paul R. Brook",
+      "Sarah Burke-Spolaor",
+      "Rand Burnette",
+      "Robin Case",
+      "J. Andrew Casey-Clyde",
+      "Maria Charisi",
+      "Shami Chatterjee",
+      "Tyler Cohen",
+      "James M. Cordes",
+      "Neil J. Cornish",
+      "Fronefield Crawford",
+      "H. Thankful Cromartie",
+      "Kathryn Crowter",
+      "Megan E. DeCesar",
+      "Paul B. Demorest",
+      "Heling Deng",
+      "Lankeswar Dey",
+      "Timothy Dolch",
+      "Graham M. Doskoch",
+      "Elizabeth C. Ferrara",
+      "William Fiore",
+      "Emmanuel Fonseca",
+      "Gabriel E. Freedman",
+      "Emiko C. Gardiner",
+      "Nate Garver-Daniels",
+      "Peter A. Gentile",
+      "Kyle A. Gersbach",
+      "Joseph Glaser",
+      "Deborah C. Good",
+      "C. J. Harris",
+      "Jeffrey S. Hazboun",
+      "Ross J. Jennings",
+      "Aaron D. Johnson",
+      "Megan L. Jones",
+      "David L. Kaplan",
+      "Anala Kavumkandathil Sreekumar",
+      "Luke Zoltan Kelley",
+      "Matthew Kerr",
+      "Joey S. Key",
+      "Nima Laal",
+      "Michael T. Lam",
+      "William G. Lamb",
+      "Bjorn Larsen",
+      "T. Joseph W. Lazio",
+      "Natalia Lewandowska",
+      "Tingting Liu",
+      "Duncan R. Lorimer",
+      "Jing Luo",
+      "Ryan S. Lynch",
+      "Chung-Pei Ma",
+      "Dustin R. Madison",
+      "Ashley Martsen",
+      "Alexander McEwen",
+      "James W. McKee",
+      "Maura A. McLaughlin",
+      "Natasha McMann",
+      "Bradley W. Meyers",
+      "Patrick M. Meyers",
+      "Chiara M. F. Mingarelli",
+      "Andrea Mitridate",
+      "Cherry Ng",
+      "David J. Nice",
+      "Shania Nichols",
+      "Stella Koch Ocker",
+      "Ken D. Olum",
+      "Timothy T. Pennucci",
+      "Benetge B. P. Perera",
+      "Polina Petrov",
+      "Nihan S. Pol",
+      "Henri A. Radovan",
+      "Scott M. Ransom",
+      "Paul S. Ray",
+      "Joseph D. Romano",
+      "Jessie C. Runnoe",
+      "Alexander Saffer",
+      "Shashwat C. Sardesai",
+      "Ann Schmiedekamp",
+      "Carl Schmiedekamp",
+      "Kai Schmitz",
+      "Brent J. Shapiro-Albert",
+      "Xavier Siemens",
+      "Joseph Simon",
+      "Sophia V. Sosa Fiscella",
+      "Ingrid H. Stairs",
+      "Daniel R. Stinebring",
+      "Kevin Stovall",
+      "Abhimanyu Susobhanan",
+      "Joseph K. Swiggum"
+    ],
+    "link": "https://arxiv.org/abs/2603.11167"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.11177",
+    "title": "Spontaneous Baryogenesis and Primordial Black Hole Dark Matter from Ultra-Slow-Roll Inflation",
+    "authors": [
+      "Shyam Balaji"
+    ],
+    "link": "https://arxiv.org/abs/2603.11177"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.11184",
+    "title": "Imprints of Reheating Dynamics on Gravitational Waves from Phase Transitions",
+    "authors": [
+      "Basabendu Barman",
+      "Maciej Kierkla",
+      "Marek Lewicki",
+      "Marco Merchand"
+    ],
+    "link": "https://arxiv.org/abs/2603.11184"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.11794",
+    "title": "Analytic Singular Slow-roll Inflation",
+    "authors": [
+      "V.K. Oikonomou"
+    ],
+    "link": "https://arxiv.org/abs/2603.11794"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12032",
+    "title": "Assessing the robustness of amortized simulation-based inference to transient noise in gravitational-wave ringdowns",
+    "authors": [
+      "Song-Tao Liu",
+      "Tian-Yang Sun",
+      "Yu-Xin Wang",
+      "Yong-Xin Zhang",
+      "Shang-Jie Jin",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.12032"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12168",
+    "title": "The Targeted Standard Siren Cosmology with Pulsar Timing Arrays",
+    "authors": [
+      "Shubhit Sardana",
+      "Boris Goncharov",
+      "Jacob Cardinal Tremblay"
+    ],
+    "link": "https://arxiv.org/abs/2603.12168"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12189",
+    "title": "Shifted-geodesic approximation for spinning-body gravitational wave fluxes",
+    "authors": [
+      "Lisa V. Drummond",
+      "Scott A. Hughes",
+      "Viktor Skoupý",
+      "Philip Lynch",
+      "Gabriel Andres Piovano"
+    ],
+    "link": "https://arxiv.org/abs/2603.12189"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12216",
+    "title": "Scale-Dependent Loop Corrections to the Inflationary Power Spectrum",
+    "authors": [
+      "Matteo Braglia",
+      "Sebastián Céspedes",
+      "Lucas Pinol"
+    ],
+    "link": "https://arxiv.org/abs/2603.12216"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.11774",
+    "title": "High post-Minkowskian gravitational waveform for hyperbolic encounters in the extreme-mass-ratio limit",
+    "authors": [
+      "Andrea Geralico"
+    ],
+    "link": "https://arxiv.org/abs/2603.11774"
+  }
+]
