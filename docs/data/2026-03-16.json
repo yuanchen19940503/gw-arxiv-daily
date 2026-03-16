@@ -1,0 +1,103 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.12321",
+    "title": "Phenomenology of an Open Effective Field Theory of Dark Energy",
+    "authors": [
+      "Santiago Agüí Salcedo",
+      "Thomas Colas",
+      "Lennard Dufner",
+      "Enrico Pajer"
+    ],
+    "link": "https://arxiv.org/abs/2603.12321"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.12333",
+    "title": "Fast Fourier Transform evaluation of the Fresnel integral for gravitational-wave lensing",
+    "authors": [
+      "Nino Ephremidze",
+      "Marc Kamionkowski",
+      "Cora Dvorkin"
+    ],
+    "link": "https://arxiv.org/abs/2603.12333"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.12364",
+    "title": "Robustness of Neural Networks for CMB Polarization Foreground Removal",
+    "authors": [
+      "Luca Gomez Bachar",
+      "Cora Dvorkin",
+      "Alberto Daniel Supanitsky"
+    ],
+    "link": "https://arxiv.org/abs/2603.12364"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.13076",
+    "title": "IceCube Search for MeV Neutrinos from Mergers using Gravitational Wave Catalogs",
+    "authors": [
+      "Nora Valtonen-Mattila"
+    ],
+    "link": "https://arxiv.org/abs/2603.13076"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12311",
+    "title": "Looking for non-gaussianity in Pulsar Timing Arrays through the four point correlator",
+    "authors": [
+      "Adrien Kuntz",
+      "Clemente Smarra",
+      "Massimo Vaglio"
+    ],
+    "link": "https://arxiv.org/abs/2603.12311"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12339",
+    "title": "Reheating with Axion-SU(2) and Gravitational Chern-Simons Couplings",
+    "authors": [
+      "Tatsuya Daniel",
+      "Vahid Kamali"
+    ],
+    "link": "https://arxiv.org/abs/2603.12339"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.12580",
+    "title": "Sound Speed Resonance in the Gravitational Wave Background as a probe for non-standard early universe cosmologies",
+    "authors": [
+      "Igor de O. C. Pedreira",
+      "Amara Ilyas",
+      "Ziwei Wang",
+      "Leila L. Graef",
+      "Yi-Fu Cai"
+    ],
+    "link": "https://arxiv.org/abs/2603.12580"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.13053",
+    "title": "A unified harmonic framework for dark siren cosmology",
+    "authors": [
+      "April Qiu Cheng",
+      "Jonathan Gair"
+    ],
+    "link": "https://arxiv.org/abs/2603.13053"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.13080",
+    "title": "Three-band dark-siren cosmology with intermediate-mass black hole binaries: synergy of Taiji, LGWA, and Einstein Telescope",
+    "authors": [
+      "Ji-Yu Song",
+      "Yue-Yan Dong",
+      "Shang-Jie Jin",
+      "Si-Ren Xiao",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.13080"
+  }
+]
