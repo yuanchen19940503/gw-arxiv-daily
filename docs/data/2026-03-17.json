@@ -1,0 +1,320 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.13484",
+    "title": "Distinguishing Kilonovae from Binary Neutron Star and Neutron Star-Black Hole Mergers",
+    "authors": [
+      "Ish Gupta",
+      "Yugesh Bhoge",
+      "Rahul Kashyap",
+      "Mukul Bhattacharya"
+    ],
+    "link": "https://arxiv.org/abs/2603.13484"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.13813",
+    "title": "Ultra-compact X-ray Binaries: A Review",
+    "authors": [
+      "Bo Wang",
+      "Dongdong Liu",
+      "Yunlang Guo",
+      "Hailiang Chen",
+      "Wencong Chen",
+      "Zhanwen Han"
+    ],
+    "link": "https://arxiv.org/abs/2603.13813"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.13814",
+    "title": "A Hybrid Framework for Kilonova Anomaly Detection using Single-Epoch SEDs from the 7-Dimensional Telescope",
+    "authors": [
+      "Gregory S. H. Paek",
+      "Myungshin Im",
+      "Seo-Won Chang",
+      "Hyeonho Choi",
+      "Ji Hoon Kim"
+    ],
+    "link": "https://arxiv.org/abs/2603.13814"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.14287",
+    "title": "Do We Have Sufficient Knowledge of the Galactic Foreground Emission in Cosmic Microwave Background Science?",
+    "authors": [
+      "Jia-Rui Li",
+      "Peibo Yuan",
+      "Yi-Fu Cai",
+      "Hao Liu"
+    ],
+    "link": "https://arxiv.org/abs/2603.14287"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.14840",
+    "title": "Evolution of wide O star binaries through their LBV stage. Population synthesis with mass-ejection-driven orbital evolution",
+    "authors": [
+      "Xiao-Tian Xu",
+      "Philipp Podsiadlowski",
+      "Norbert Langer",
+      "Xue-Feng Wang",
+      "Xiang-Dong Li",
+      "Alexander Heger",
+      "Jonathan Mackey",
+      "Götz Gräfener",
+      "Harim Jin"
+    ],
+    "link": "https://arxiv.org/abs/2603.14840"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.15157",
+    "title": "ANNA: a toolbox for Newtonian Noise Analysis",
+    "authors": [
+      "Pieter Reumers",
+      "Xhorxha Kucia",
+      "Stijn François",
+      "Geert Degrande"
+    ],
+    "link": "https://arxiv.org/abs/2603.15157"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.15332",
+    "title": "Calibrating spectral siren cosmology with synthetic catalogs of binary black hole mergers",
+    "authors": [
+      "Arianna Scarpa",
+      "Simone Mastrogiovanni",
+      "Filippo Santoliquido",
+      "Manuel Arca-Sedda"
+    ],
+    "link": "https://arxiv.org/abs/2603.15332"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.13643",
+    "title": "Pulsar timing arrays: the emerging gravitational-wave landscape",
+    "authors": [
+      "C. M. F. Mingarelli",
+      "J. A. Casey-Clyde",
+      "Y. T. Chang",
+      "E. Eisenberg",
+      "F. Hutchison",
+      "N. Khusid",
+      "B. Larsen",
+      "A. Moran",
+      "F. Semenzato",
+      "L. Willson",
+      "Q. Zheng"
+    ],
+    "link": "https://arxiv.org/abs/2603.13643"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.13924",
+    "title": "Smoking-gun signatures of bounce cosmology from echoes of relic gravitational waves",
+    "authors": [
+      "Mian Zhu",
+      "Yi-Fu Cai"
+    ],
+    "link": "https://arxiv.org/abs/2603.13924"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.14814",
+    "title": "Cosmological angular momentum from quantum rotation",
+    "authors": [
+      "Bo-Qiang Lu"
+    ],
+    "link": "https://arxiv.org/abs/2603.14814"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15036",
+    "title": "Inflation without an Inflaton III: non-Gaussian signatures",
+    "authors": [
+      "Mariam Abdelaziz",
+      "Marisol Traforetti",
+      "Daniele Bertacca",
+      "Raul Jimenez",
+      "Sabino Matarrese",
+      "Angelo Ricciardone"
+    ],
+    "link": "https://arxiv.org/abs/2603.15036"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15424",
+    "title": "A numerical framework for Newtonian-noise estimation at the Einstein Telescope: 2-D simulations beyond the plane-wave approximation",
+    "authors": [
+      "Patrick Schillings",
+      "Shi Yao",
+      "Johannes Erdmann",
+      "Andreas Rietbrock"
+    ],
+    "link": "https://arxiv.org/abs/2603.15424"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15514",
+    "title": "Probing Gravitational-Wave Four-Point Correlators",
+    "authors": [
+      "Martina Ciprini",
+      "Maria Lucia Marcelli",
+      "Gianmassimo Tasinato"
+    ],
+    "link": "https://arxiv.org/abs/2603.15514"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.13482",
+    "title": "A new approach to the calculation of extreme-mass-ratio inspirals with a spinning secondary",
+    "authors": [
+      "Viktor Skoupý"
+    ],
+    "link": "https://arxiv.org/abs/2603.13482"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.13637",
+    "title": "Analytical derivation of long-term dephasing caused by phase transitions in the context of Kerr black holes",
+    "authors": [
+      "Jingxu Wu",
+      "Liangyu Luo",
+      "Jie Shi"
+    ],
+    "link": "https://arxiv.org/abs/2603.13637"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.14168",
+    "title": "All-sky Searches for Continuous Gravitational Waves from Isolated Neutron Stars in the Data from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run",
+    "authors": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration",
+      "A. G. Abac",
+      "I. Abouelfettouh",
+      "F. Acernese",
+      "K. Ackley",
+      "A. Adam",
+      "C. Adamcewicz",
+      "S. Adhicary",
+      "D. Adhikari",
+      "N. Adhikari",
+      "R. X. Adhikari",
+      "V. K. Adkins",
+      "S. Afroz",
+      "A. Agapito",
+      "D. Agarwal",
+      "M. Agathos",
+      "N. Aggarwal",
+      "S. Aggarwal",
+      "O. D. Aguiar",
+      "I.-L. Ahrend",
+      "L. Aiello",
+      "A. Ain",
+      "P. Ajith",
+      "T. Akutsu",
+      "S. Albanesi",
+      "L. Albers",
+      "W. Ali",
+      "S. Al-Kershi",
+      "C. Alléné",
+      "A. Allocca",
+      "S. Al-Shammari",
+      "P. A. Altin",
+      "S. Alvarez-Lopez",
+      "O. Amarasinghe",
+      "A. Amato",
+      "F. Amicucci",
+      "C. Amra",
+      "C. Anand",
+      "A. Ananyeva",
+      "S. B. Anderson",
+      "W. G. Anderson",
+      "M. Andia",
+      "M. Ando",
+      "M. Andrés-Carcasona",
+      "J. L. Andrey",
+      "T. Andrić",
+      "J. Anglin",
+      "J. Anna",
+      "S. Ansoldi",
+      "J. M. Antelis",
+      "S. Antier",
+      "M. Aoumi",
+      "E. Z. Appavuravther",
+      "S. Appert",
+      "S. K. Apple",
+      "K. Arai",
+      "A. Araya",
+      "M. C. Araya",
+      "M. Arca Sedda",
+      "F. Arciprete",
+      "J. S. Areeda",
+      "N. Aritomi",
+      "F. Armato",
+      "S. Armstrong",
+      "N. Arnaud",
+      "M. Arogeti",
+      "S. M. Aronson",
+      "G. Ashton",
+      "Y. Aso",
+      "L. Asprea",
+      "M. Assiduo",
+      "S. Assis de Souza Melo",
+      "S. M. Aston",
+      "P. Astone",
+      "F. Attadio",
+      "F. Aubin",
+      "K. AultONeal",
+      "G. Avallone",
+      "E. A. Avila",
+      "S. Babak",
+      "C. Badger",
+      "S. Bae",
+      "S. Bagnasco",
+      "L. Baiotti",
+      "R. Bajpai",
+      "T. Baka",
+      "K. A. Baker",
+      "T. Baker",
+      "G. Balbi",
+      "G. Baldi",
+      "N. Baldicchi",
+      "M. Ball",
+      "G. Ballardin",
+      "S. W. Ballmer",
+      "S. Banagiri",
+      "B. Banerjee",
+      "D. Bankar",
+      "T. M. Baptiste"
+    ],
+    "link": "https://arxiv.org/abs/2603.14168"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.14413",
+    "title": "Periodic orbits and gravitational waveforms of black holes in bumblebee gravity",
+    "authors": [
+      "Zijian Shi",
+      "Xiangdong Zhang",
+      "Yunlong Liu"
+    ],
+    "link": "https://arxiv.org/abs/2603.14413"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.15442",
+    "title": "Approximate Models for Gravitational Memory",
+    "authors": [
+      "Q-L Zhao",
+      "P.-M. Zhang",
+      "M. Elbistan",
+      "P. A. Horvathy"
+    ],
+    "link": "https://arxiv.org/abs/2603.15442"
+  }
+]
