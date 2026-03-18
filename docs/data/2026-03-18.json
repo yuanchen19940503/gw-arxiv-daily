@@ -1,0 +1,133 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.15829",
+    "title": "Twin-peaked gravitational wave signal from a dark sector phase transition",
+    "authors": [
+      "Rishav Roshan",
+      "Indrajit Saha"
+    ],
+    "link": "https://arxiv.org/abs/2603.15829"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15703",
+    "title": "\\texttt{py5vec}: a modular Python package for the 5-vector method to search for continuous gravitational waves",
+    "authors": [
+      "Luca D'Onofrio",
+      "Federico Muciaccia",
+      "Lorenzo Mirasola",
+      "Matthew Pitkin",
+      "Cristiano Palomba",
+      "Paola Leaci",
+      "Francesco Safai Tehrani",
+      "Francesco Amicucci",
+      "Lorenzo Silvestri",
+      "Lorenzo Pierini"
+    ],
+    "link": "https://arxiv.org/abs/2603.15703"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15734",
+    "title": "Crowdsourcing Gravitational Waves from Superradiant Axions",
+    "authors": [
+      "Sebastian A. R. Ellis",
+      "Orion Ning",
+      "Nicholas L. Rodd",
+      "Jan Schütte-Engel"
+    ],
+    "link": "https://arxiv.org/abs/2603.15734"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15740",
+    "title": "Hankel low-rank matrix approximation for gravitational-wave data analysis",
+    "authors": [
+      "Nicholas Geissler",
+      "Vladimir Strokov",
+      "Christian Kümmerle",
+      "Sergey Kushnarev",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2603.15740"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15838",
+    "title": "Gravitational-Wave Propagation Through the Axiverse",
+    "authors": [
+      "Leah Jenks",
+      "Marc Kamionkowski"
+    ],
+    "link": "https://arxiv.org/abs/2603.15838"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.15999",
+    "title": "Cosmological prospects for multiband detection of intermediate-mass binary black holes with Taiji and ground-based detectors",
+    "authors": [
+      "Yue-Yan Dong",
+      "Ji-Yu Song",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.15999"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.16386",
+    "title": "Detectability of Nearby Binary Neutron Stars with Future sub-mHz Gravitational Wave Missions",
+    "authors": [
+      "Zhiwei Chen",
+      "Youjun Lu",
+      "Yuchao Luo",
+      "Jihui Zhang",
+      "Xiao Guo",
+      "Jifeng Liu",
+      "Wei-Tou Ni"
+    ],
+    "link": "https://arxiv.org/abs/2603.16386"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.16402",
+    "title": "Perturbative Effects of Dark Matter Environments on Black Hole Shadows",
+    "authors": [
+      "Gabriel Gomez"
+    ],
+    "link": "https://arxiv.org/abs/2603.16402"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.15765",
+    "title": "Impact of numerical-relativity waveform calibration on parametrized post-Einsteinian tests",
+    "authors": [
+      "Simone Mezzasoma",
+      "Carl-Johan Haster",
+      "Nicolás Yunes"
+    ],
+    "link": "https://arxiv.org/abs/2603.15765"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.16026",
+    "title": "Ringdown bounds and spectral density limits from GWTC-3",
+    "authors": [
+      "Christian Balfagon"
+    ],
+    "link": "https://arxiv.org/abs/2603.16026"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.16610",
+    "title": "Testing general relativity with binary black holes: a study on the sensitivity requirements for future space-based detectors",
+    "authors": [
+      "Tangchao Zhan",
+      "Changfu Shi",
+      "Shuo Sun",
+      "Jianwei Mei"
+    ],
+    "link": "https://arxiv.org/abs/2603.16610"
+  }
+]
