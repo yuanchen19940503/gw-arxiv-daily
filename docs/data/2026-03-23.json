@@ -1,0 +1,85 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.19572",
+    "title": "Expected evolution of the binary system ATLAS J1138-5139",
+    "authors": [
+      "Jing-Qi Chen",
+      "Hai-Liang Chen",
+      "Zheng-Wei Liu",
+      "Xuefei Chen",
+      "Zhanwen Han"
+    ],
+    "link": "https://arxiv.org/abs/2603.19572"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.19883",
+    "title": "Constraints on the $^{12}$C$(α, γ)^{16}$O and $^{16}$O+$^{16}$O Reaction Rates from Binary Black Holes Detected via Gravitational Wave Signals",
+    "authors": [
+      "Wenyu Xin",
+      "Xiaokun Hou",
+      "Xianfei Zhang",
+      "Shaolan Bi",
+      "Gang Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2603.19883"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.20195",
+    "title": "Improved constraint on the Hubble constant from dark sirens with LIGO/Virgo/KAGRA O4a",
+    "authors": [
+      "V. Alfradique",
+      "C. R. Bom",
+      "G. Teixeira",
+      "A. Santos"
+    ],
+    "link": "https://arxiv.org/abs/2603.20195"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.19377",
+    "title": "Cosmology and modified GW propagation from the BNS mass function at third-generation detector networks",
+    "authors": [
+      "Dounia Nanadoumgar-Lacroze",
+      "Niccolò Muttoni",
+      "Michele Maggiore",
+      "Michele Mancarella"
+    ],
+    "link": "https://arxiv.org/abs/2603.19377"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.20124",
+    "title": "Numerically stable equations for the orbital evolution of compact object binaries",
+    "authors": [
+      "Max M. Briel",
+      "Jeff J. Andrews"
+    ],
+    "link": "https://arxiv.org/abs/2603.20124"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.19913",
+    "title": "Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework",
+    "authors": [
+      "Guglielmo Faggioli",
+      "Alessandra Buonanno",
+      "Maarten van de Meent",
+      "Gaurav Khanna"
+    ],
+    "link": "https://arxiv.org/abs/2603.19913"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.20031",
+    "title": "Analytical Solution of Spinning, Eccentric Binary Black Hole Dynamics at the Second Post-Newtonian Order",
+    "authors": [
+      "Tom Colin",
+      "Sashwat Tanay",
+      "Laura Bernard"
+    ],
+    "link": "https://arxiv.org/abs/2603.20031"
+  }
+]
