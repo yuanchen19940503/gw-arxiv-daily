@@ -1,0 +1,115 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.20473",
+    "title": "Circular polarization of gravitational waves from magnetorotational supernovae",
+    "authors": [
+      "Shota Shibagaki",
+      "Tomoya Takiwaki",
+      "Kei Kotake",
+      "Takami Kuroda",
+      "Tobias Fischer"
+    ],
+    "link": "https://arxiv.org/abs/2603.20473"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.20742",
+    "title": "Probing the stochastic signal from primordial gravitational waves with pulsar timing arrays",
+    "authors": [
+      "Jun Li",
+      "Guanghai Guo",
+      "Pengfei Yan"
+    ],
+    "link": "https://arxiv.org/abs/2603.20742"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.21249",
+    "title": "Parallel Adaptive Reweighting Importance Sampling (PARIS)",
+    "authors": [
+      "Miaoxin Liu",
+      "Alvin J. K. Chua"
+    ],
+    "link": "https://arxiv.org/abs/2603.21249"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.21762",
+    "title": "Inflationary Phase Transitions in the Early Universe: A Bayesian Study with Space-Based Gravitational Waves Detectors",
+    "authors": [
+      "Qingyuan Liang",
+      "Chen Yang",
+      "Haipeng An",
+      "Huai-Ke Guo"
+    ],
+    "link": "https://arxiv.org/abs/2603.21762"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.20282",
+    "title": "Degeneracy in Accretion Disk Spectra from Naked Singularities and Kerr Black Holes: Application to the AGN MCG-06-30-15",
+    "authors": [
+      "Vishva Patel",
+      "Sayantan Bhattacharya",
+      "Sudip Bhattacharyya",
+      "Pankaj S. Joshi"
+    ],
+    "link": "https://arxiv.org/abs/2603.20282"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.20430",
+    "title": "Isolated or Dynamical? Tracing Black Hole Binary Formation through the Population of Gravitational-Wave Sources",
+    "authors": [
+      "Manuel Arca Sedda",
+      "Lavinia Paiella",
+      "Cristiano Ugolini",
+      "Filippo Santoliquido",
+      "Benedetta Mestichelli",
+      "Ilaria Usai",
+      "Filippo Simonato",
+      "Marica Branchesi"
+    ],
+    "link": "https://arxiv.org/abs/2603.20430"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.20431",
+    "title": "Accurate and efficient simulation-based inference for massive black-hole binaries with LISA",
+    "authors": [
+      "Alice Spadaro",
+      "Jonathan Gair",
+      "Davide Gerosa",
+      "Stephen R. Green",
+      "Riccardo Buscicchio",
+      "Nihar Gupte",
+      "Rodrigo Tenorio",
+      "Samuel Clyne",
+      "Michael Pürrer",
+      "Natalia Korsakova"
+    ],
+    "link": "https://arxiv.org/abs/2603.20431"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.20594",
+    "title": "Branch-dependent ringdown in black-bounce spacetimes: imprints of matter-source ambiguity on quasinormal modes",
+    "authors": [
+      "Hao Yang",
+      "Chen Lan"
+    ],
+    "link": "https://arxiv.org/abs/2603.20594"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.20928",
+    "title": "Detection of Gravitational Wave modes in third generation detectors",
+    "authors": [
+      "Massimo Tinto",
+      "Sanjeev Dhurandhar",
+      "Harshit Raj"
+    ],
+    "link": "https://arxiv.org/abs/2603.20928"
+  }
+]
