@@ -1,0 +1,83 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.23817",
+    "title": "A transdimensional sampling framework for pulsar timing noise modelling",
+    "authors": [
+      "Valentina Di Marco",
+      "Nir Guttman",
+      "Matthew T. Miles",
+      "Andrew Zic",
+      "Ryan M. Shannon",
+      "Eric Thrane"
+    ],
+    "link": "https://arxiv.org/abs/2603.23817"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.23846",
+    "title": "The read-out electronics for the FLASH experiment",
+    "authors": [
+      "Luigi Calligaris",
+      "Claudio Puglia",
+      "Gianluca Lamanna"
+    ],
+    "link": "https://arxiv.org/abs/2603.23846"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.23612",
+    "title": "Reducing cosmological degeneracies by combining multiple classes of LISA gravitational-wave standard sirens",
+    "authors": [
+      "Danny Laghi",
+      "Nicola Tamanini",
+      "Alberto Sesana",
+      "Jonathan Gair",
+      "Enrico Barausse",
+      "Chiara Caprini",
+      "Walter Del Pozzo",
+      "Alberto Mangiagli",
+      "Sylvain Marsat"
+    ],
+    "link": "https://arxiv.org/abs/2603.23612"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.23622",
+    "title": "Radial Oscillations of Viscous Stars",
+    "authors": [
+      "Lennox S. Keeble",
+      "Jaime Redondo-Yuste"
+    ],
+    "link": "https://arxiv.org/abs/2603.23622"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.24243",
+    "title": "Core-Collapse Supernovae and their Gravitational Wave Signals: The Status of Theory and Modeling",
+    "authors": [
+      "Bernhard Müller"
+    ],
+    "link": "https://arxiv.org/abs/2603.24243"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.21249",
+    "title": "Parallel adaptive reweighting importance sampling for Bayesian astrophysics",
+    "authors": [
+      "Miaoxin Liu",
+      "Alvin J. K. Chua"
+    ],
+    "link": "https://arxiv.org/abs/2603.21249"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.24593",
+    "title": "Fractal universe and quantum gravity made simple",
+    "authors": [
+      "Fabio Briscese",
+      "Gianluca Calcagni"
+    ],
+    "link": "https://arxiv.org/abs/2603.24593"
+  }
+]
