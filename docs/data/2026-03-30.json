@@ -1,0 +1,215 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.25846",
+    "title": "From Jets to Failed Supernovae: Morphologies and Gravitational-Wave Signatures in Two-Dimensional Magnetorotational Core-Collapse Supernovae",
+    "authors": [
+      "Kuo-Chuan Pan",
+      "Yi-Fang Li"
+    ],
+    "link": "https://arxiv.org/abs/2603.25846"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.26408",
+    "title": "The Gravitational-Wave Power Gap in Core-Collapse Supernovae: Insights from 60 Axisymmetric Simulations",
+    "authors": [
+      "Haakon Andresen",
+      "Xingzao Li",
+      "Aurore Betranhandy",
+      "Evan P. O'Connor",
+      "Shuai Zha",
+      "Sean M. Couch"
+    ],
+    "link": "https://arxiv.org/abs/2603.26408"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.07150",
+    "title": "Quantum (quadratic) gravity: replacing the massive tensor ghost with an inverted harmonic oscillator-like instability",
+    "authors": [
+      "K. Sravan Kumar",
+      "João Marto"
+    ],
+    "link": "https://arxiv.org/abs/2603.07150"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.25795",
+    "title": "Primordial Black Hole interpretation of the sub-solar merger event S251112cm",
+    "authors": [
+      "Md Riajul Haque",
+      "Fabio Iocco",
+      "Luca Visinelli"
+    ],
+    "link": "https://arxiv.org/abs/2603.25795"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.25808",
+    "title": "Searches for Continuous Gravitational Waves from Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing run",
+    "authors": [
+      "LIGO Scientific collaboration",
+      "Virgo collaboration",
+      "KAGRA collaboration"
+    ],
+    "link": "https://arxiv.org/abs/2603.25808"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.26641",
+    "title": "Recoil geometry determines electromagnetic counterparts from supermassive black hole merger remnants",
+    "authors": [
+      "Yoonsoo Kim",
+      "Elias R. Most",
+      "Hai-Yang Wang"
+    ],
+    "link": "https://arxiv.org/abs/2603.26641"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.25897",
+    "title": "Detectability and Systematic Bias from First-Order Phase-Transition Dephasing in Kerr EMRIs",
+    "authors": [
+      "Jingxu Wu",
+      "Liangyu Luo",
+      "Junyi Zhang",
+      "Jiyun Yang",
+      "Haoxiang Ma",
+      "Jie Shi"
+    ],
+    "link": "https://arxiv.org/abs/2603.25897"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.25938",
+    "title": "Narrowband searches for continuous gravitational waves from known pulsars in the first two parts of the fourth LIGO--Virgo--KAGRA observing run",
+    "authors": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration",
+      "A. G. Abac",
+      "I. Abouelfettouh",
+      "F. Acernese",
+      "K. Ackley",
+      "A. Adam",
+      "C. Adamcewicz",
+      "S. Adhicary",
+      "D. Adhikari",
+      "N. Adhikari",
+      "R. X. Adhikari",
+      "V. K. Adkins",
+      "S. Afroz",
+      "A. Agapito",
+      "D. Agarwal",
+      "M. Agathos",
+      "N. Aggarwal",
+      "S. Aggarwal",
+      "O. D. Aguiar",
+      "I.-L. Ahrend",
+      "L. Aiello",
+      "A. Ain",
+      "P. Ajith",
+      "T. Akutsu",
+      "S. Albanesi",
+      "L. Albers",
+      "W. Ali",
+      "S. Al-Kershi",
+      "C. Alléné",
+      "A. Allocca",
+      "S. Al-Shammari",
+      "P. A. Altin",
+      "S. Alvarez-Lopez",
+      "W. Amar",
+      "O. Amarasinghe",
+      "A. Amato",
+      "F. Amicucci",
+      "C. Amra",
+      "C. Anand",
+      "A. Ananyeva",
+      "S. B. Anderson",
+      "W. G. Anderson",
+      "M. Andia",
+      "M. Ando",
+      "M. Andrés-Carcasona",
+      "J. L. Andrey",
+      "T. Andrić",
+      "J. Anglin",
+      "J. Anna",
+      "S. Ansoldi",
+      "J. M. Antelis",
+      "S. Antier",
+      "M. Aoumi",
+      "E. Z. Appavuravther",
+      "S. Appert",
+      "S. K. Apple",
+      "K. Arai",
+      "A. Araya",
+      "M. C. Araya",
+      "M. Arca Sedda",
+      "F. Arciprete",
+      "J. S. Areeda",
+      "N. Aritomi",
+      "F. Armato",
+      "S. Armstrong",
+      "N. Arnaud",
+      "M. Arogeti",
+      "S. M. Aronson",
+      "G. Ashton",
+      "Y. Aso",
+      "L. Asprea",
+      "M. Assiduo",
+      "S. Assis de Souza Melo",
+      "S. M. Aston",
+      "P. Astone",
+      "F. Attadio",
+      "F. Aubin",
+      "K. AultONeal",
+      "G. Avallone",
+      "E. A. Avila",
+      "S. Babak",
+      "C. Badger",
+      "S. Bae",
+      "S. Bagnasco",
+      "L. Baiotti",
+      "R. Bajpai",
+      "T. Baka",
+      "K. A. Baker",
+      "T. Baker",
+      "G. Balbi",
+      "G. Baldi",
+      "N. Baldicchi",
+      "M. Ball",
+      "G. Ballardin",
+      "S. W. Ballmer",
+      "S. Banagiri",
+      "B. Banerjee",
+      "D. Bankar"
+    ],
+    "link": "https://arxiv.org/abs/2603.25938"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.26405",
+    "title": "Simulation-based Inference towards Gravitational-wave waveform systematics in Intermediate-Mass Binary Black Holes",
+    "authors": [
+      "Sama Al-Shammari",
+      "Alexandre Göttel",
+      "Masaki Iwaya",
+      "Vivien Raymond"
+    ],
+    "link": "https://arxiv.org/abs/2603.26405"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.26521",
+    "title": "The High-Mass-Ratio Challenge in Gravitational Waveform Modelling",
+    "authors": [
+      "Parthapratim Mahapatra",
+      "Jonathan E. Thompson",
+      "Edward Fauchon-Jones",
+      "Mark Hannam"
+    ],
+    "link": "https://arxiv.org/abs/2603.26521"
+  }
+]
