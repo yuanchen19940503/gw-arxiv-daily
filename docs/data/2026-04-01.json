@@ -1,0 +1,312 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.25938",
+    "title": "Narrowband searches for continuous gravitational waves from known pulsars in the first two parts of the fourth LIGO--Virgo--KAGRA observing run",
+    "authors": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration",
+      "A. G. Abac",
+      "I. Abouelfettouh",
+      "F. Acernese",
+      "K. Ackley",
+      "A. Adam",
+      "C. Adamcewicz",
+      "S. Adhicary",
+      "D. Adhikari",
+      "N. Adhikari",
+      "R. X. Adhikari",
+      "V. K. Adkins",
+      "S. Afroz",
+      "A. Agapito",
+      "D. Agarwal",
+      "M. Agathos",
+      "N. Aggarwal",
+      "S. Aggarwal",
+      "O. D. Aguiar",
+      "I.-L. Ahrend",
+      "L. Aiello",
+      "A. Ain",
+      "P. Ajith",
+      "T. Akutsu",
+      "S. Albanesi",
+      "L. Albers",
+      "W. Ali",
+      "S. Al-Kershi",
+      "C. Alléné",
+      "A. Allocca",
+      "S. Al-Shammari",
+      "P. A. Altin",
+      "S. Alvarez-Lopez",
+      "W. Amar",
+      "O. Amarasinghe",
+      "A. Amato",
+      "F. Amicucci",
+      "C. Amra",
+      "C. Anand",
+      "A. Ananyeva",
+      "S. B. Anderson",
+      "W. G. Anderson",
+      "M. Andia",
+      "M. Ando",
+      "M. Andrés-Carcasona",
+      "J. L. Andrey",
+      "T. Andrić",
+      "J. Anglin",
+      "J. Anna",
+      "S. Ansoldi",
+      "J. M. Antelis",
+      "S. Antier",
+      "M. Aoumi",
+      "E. Z. Appavuravther",
+      "S. Appert",
+      "S. K. Apple",
+      "K. Arai",
+      "A. Araya",
+      "M. C. Araya",
+      "M. Arca Sedda",
+      "F. Arciprete",
+      "J. S. Areeda",
+      "N. Aritomi",
+      "F. Armato",
+      "S. Armstrong",
+      "N. Arnaud",
+      "M. Arogeti",
+      "S. M. Aronson",
+      "G. Ashton",
+      "Y. Aso",
+      "L. Asprea",
+      "M. Assiduo",
+      "S. Assis de Souza Melo",
+      "S. M. Aston",
+      "P. Astone",
+      "F. Attadio",
+      "F. Aubin",
+      "K. AultONeal",
+      "G. Avallone",
+      "E. A. Avila",
+      "S. Babak",
+      "C. Badger",
+      "S. Bae",
+      "S. Bagnasco",
+      "L. Baiotti",
+      "R. Bajpai",
+      "T. Baka",
+      "K. A. Baker",
+      "T. Baker",
+      "G. Balbi",
+      "G. Baldi",
+      "N. Baldicchi",
+      "M. Ball",
+      "G. Ballardin",
+      "S. W. Ballmer",
+      "S. Banagiri",
+      "B. Banerjee",
+      "D. Bankar"
+    ],
+    "link": "https://arxiv.org/abs/2603.25938"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.28829",
+    "title": "The Impact of Computing Data Centres Orbiting Earth",
+    "authors": [
+      "Geoffrey W. Marcy"
+    ],
+    "link": "https://arxiv.org/abs/2603.28829"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.28897",
+    "title": "From Detection to Host Galaxy Identification: Precision Continuous Gravitational Wave Localization with a Few Anchor Pulsars",
+    "authors": [
+      "Chao-Fan Wen",
+      "Yi-Qin Chen",
+      "Shi-Yi Zhao",
+      "Hao Ding",
+      "Xingjiang Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2603.28897"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.29772",
+    "title": "Revisiting QCD-induced little inflation with chiral density wave state and its implications on pulsar timing array gravitational-wave signals",
+    "authors": [
+      "Tae Hyun Jung",
+      "Seyong Kim",
+      "Jong-Wan Lee",
+      "Chang Sub Shin",
+      "Hee Beom Yang"
+    ],
+    "link": "https://arxiv.org/abs/2603.29772"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.28857",
+    "title": "Numerical calculations of neutron star mountains supported by crustal lattice pressure",
+    "authors": [
+      "T. J. Hutchins",
+      "D. I. Jones"
+    ],
+    "link": "https://arxiv.org/abs/2603.28857"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.28866",
+    "title": "The Depletion of Collisionless Dark Matter Spikes",
+    "authors": [
+      "Charlie Sharpe",
+      "Yonadav Barry Ginat",
+      "Thomas F. M. Spieksma",
+      "Bence Kocsis"
+    ],
+    "link": "https://arxiv.org/abs/2603.28866"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.28960",
+    "title": "Reducing the Virgo site infrastructure noise in preparation of the O4 observing run",
+    "authors": [
+      "Irene Fiori",
+      "Federico Paoletti",
+      "Roberto Passaquieti",
+      "Maria Concetta Tringali",
+      "Lorenzo Pierini",
+      "Francesca Bucci",
+      "Massimo Lenti",
+      "Alessandro Longo"
+    ],
+    "link": "https://arxiv.org/abs/2603.28960"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29019",
+    "title": "Eccentricity constraints disfavor single-single capture in nuclear star clusters as the origin of all LIGO-Virgo-KAGRA binary black holes",
+    "authors": [
+      "Nihar Gupte",
+      "M. Coleman Miller",
+      "Rhiannon Udall",
+      "Sophie Bini",
+      "Alessandra Buonanno",
+      "Jonathan Gair",
+      "Aldo Gamboa",
+      "Lorenzo Pompili",
+      "Antoni Ramos-Buades",
+      "Maximilian Dax",
+      "Stephen R. Green",
+      "Annalena Kofler",
+      "Jakob Macke",
+      "Bernhard Schölkopf"
+    ],
+    "link": "https://arxiv.org/abs/2603.29019"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29064",
+    "title": "No hair but plenty of feathers: are birds black holes?",
+    "authors": [
+      "Andrew Laeuger",
+      "Taylor Knapp"
+    ],
+    "link": "https://arxiv.org/abs/2603.29064"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29334",
+    "title": "Mexican Burrowing Toads as gravitational wave detectors",
+    "authors": [
+      "Frederic V. Hessman",
+      "Christian Jooss"
+    ],
+    "link": "https://arxiv.org/abs/2603.29334"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29514",
+    "title": "Gravitational waves from gaps of neutron stars",
+    "authors": [
+      "Akira Dohi",
+      "Asuka Ito",
+      "Shota Kisaka"
+    ],
+    "link": "https://arxiv.org/abs/2603.29514"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29726",
+    "title": "Tidal deformations of general-relativistic multifluid compact stars",
+    "authors": [
+      "Ethan Carlier",
+      "Nicolas Chamel"
+    ],
+    "link": "https://arxiv.org/abs/2603.29726"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29790",
+    "title": "Dark radiation from Kerr primordial black holes: the role of superradiance",
+    "authors": [
+      "Nayun Jia",
+      "Chen Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2603.29790"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2603.29996",
+    "title": "What does the Universe sound like?",
+    "authors": [
+      "Francesco Iacovelli"
+    ],
+    "link": "https://arxiv.org/abs/2603.29996"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.29230",
+    "title": "Testing classical-quantum gravity with geodesic deviation",
+    "authors": [
+      "Tomoya Hirotani",
+      "Akira Matsumura"
+    ],
+    "link": "https://arxiv.org/abs/2603.29230"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.29699",
+    "title": "Towards Gravitational Wave Turbulence within the Hadad-Zakharov metric",
+    "authors": [
+      "Benoît Gay",
+      "Eugeny Babichev",
+      "Sébastien Galtier",
+      "Karim Noui"
+    ],
+    "link": "https://arxiv.org/abs/2603.29699"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.29785",
+    "title": "QTAM: QTransform Amplitude Modulation",
+    "authors": [
+      "Lorenzo Asprea",
+      "Francesco Sarandrea",
+      "Alessio Romano",
+      "Jacob Lange",
+      "Federica Legger",
+      "Sara Vallero"
+    ],
+    "link": "https://arxiv.org/abs/2603.29785"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.29991",
+    "title": "Waveform degeneracy of binary systems and Lagrange three-body systems",
+    "authors": [
+      "Carlos Jaimel Doctolero",
+      "Ian Vega"
+    ],
+    "link": "https://arxiv.org/abs/2603.29991"
+  }
+]
