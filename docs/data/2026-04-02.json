@@ -1,0 +1,61 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.00125",
+    "title": "Lectures on Light Particles and Compact Objects",
+    "authors": [
+      "Alessandro Lella",
+      "Jamie McDonald"
+    ],
+    "link": "https://arxiv.org/abs/2604.00125"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.00465",
+    "title": "Gravitational wave spectrum from first-order QCD phase transitions based on a parity doublet model",
+    "authors": [
+      "Bikai Gao",
+      "Jingdong Shao",
+      "Hong Mao"
+    ],
+    "link": "https://arxiv.org/abs/2604.00465"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.00071",
+    "title": "Wormhole Dynamics: Nonlinear Collapse and Gravitational-Wave Emission",
+    "authors": [
+      "Nikita M. Shirokov"
+    ],
+    "link": "https://arxiv.org/abs/2604.00071"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.00253",
+    "title": "A Novel Method to Construct Frequency-Domain Gravitational Waveform for Accelerating Sources",
+    "authors": [
+      "Xinmiao Zhao",
+      "Han Yan",
+      "Xian Chen"
+    ],
+    "link": "https://arxiv.org/abs/2604.00253"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.01084",
+    "title": "Curvature-induced electroweak symmetry breaking and phase transition of a Higgs-portal dark scalar field",
+    "authors": [
+      "Andreas Mantziris"
+    ],
+    "link": "https://arxiv.org/abs/2604.01084"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.00972",
+    "title": "Nonlinearities in Gravity: Gravitational Wave Ringdown",
+    "authors": [
+      "Macarena Lagos"
+    ],
+    "link": "https://arxiv.org/abs/2604.00972"
+  }
+]
