@@ -1,0 +1,112 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.04340",
+    "title": "Replacing Gaussian Processes with Neural Networks in Pulsar Timing Array Inference of the Gravitational-Wave Background",
+    "authors": [
+      "Shreyas Tiruvaskar",
+      "Chris Gordon"
+    ],
+    "link": "https://arxiv.org/abs/2604.04340"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.03343",
+    "title": "Friedmann cosmology with fluids and hyperfluids",
+    "authors": [
+      "Ilaria Andrei",
+      "Damianos Iosifidis",
+      "Laur Järv",
+      "Margus Saal"
+    ],
+    "link": "https://arxiv.org/abs/2604.03343"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.03368",
+    "title": "Multimessenger Signatures of Tilted, Self-Gravitating, Black Hole Disks",
+    "authors": [
+      "Milton Ruiz",
+      "Antonios Tsokaros",
+      "Stuart L. Shapiro"
+    ],
+    "link": "https://arxiv.org/abs/2604.03368"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.03390",
+    "title": "A Foundation for Gravitational-Wave Population Inference within the LISA Global Fit",
+    "authors": [
+      "Alexander W. Criswell",
+      "Sharan Banagiri",
+      "Vera Delfavero",
+      "Maria Jose Bustamante-Rosell",
+      "Stephen R. Taylor",
+      "Robert Rosati"
+    ],
+    "link": "https://arxiv.org/abs/2604.03390"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.03628",
+    "title": "Lattice simulations of scalar-induced gravitational waves from inflation",
+    "authors": [
+      "Angelo Caravano",
+      "Gabriele Franciolini",
+      "Sébastien Renaux-Petel"
+    ],
+    "link": "https://arxiv.org/abs/2604.03628"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.03518",
+    "title": "Dynamical Black Hole Thermodynamics in Modified Gravity",
+    "authors": [
+      "Nikko John Leo S. Lobos",
+      "Emmanuel T. Rodulfo"
+    ],
+    "link": "https://arxiv.org/abs/2604.03518"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.03996",
+    "title": "Raychaudhuri Equation and Weyl-Driven Shear: A Weak-Field Approach to Lensing and Gravitational Waves",
+    "authors": [
+      "Madhukrishna Chakraborty",
+      "Subenoy Chakraborty"
+    ],
+    "link": "https://arxiv.org/abs/2604.03996"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.04259",
+    "title": "Matching Tidal Deformability (Wilson) Coefficients to Black Hole Love Numbers in Higher-Curvature Gravity",
+    "authors": [
+      "Luohan Wang",
+      "Luis Lehner",
+      "Maitá Micol",
+      "Riccardo Sturani"
+    ],
+    "link": "https://arxiv.org/abs/2604.04259"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.04764",
+    "title": "Gravitational waves production during preheating within GB gravity with monomial coupling",
+    "authors": [
+      "Brahim Asfour",
+      "Yahya Ladghami",
+      "Taoufik Ouali"
+    ],
+    "link": "https://arxiv.org/abs/2604.04764"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.04836",
+    "title": "Detecting gravitational waves by emission of photons from charged Weber bars",
+    "authors": [
+      "Soham Sen"
+    ],
+    "link": "https://arxiv.org/abs/2604.04836"
+  }
+]
