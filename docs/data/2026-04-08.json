@@ -1,0 +1,304 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05020",
+    "title": "Electromagnetic Flares from Compact-Object Mergers in AGN Disks: Signatures and Predictions",
+    "authors": [
+      "Hiromichi Tagawa",
+      "Zoltán Haiman",
+      "Shigeo S. Kimura",
+      "Hassen M. Yesuf",
+      "Hengxiao Guo"
+    ],
+    "link": "https://arxiv.org/abs/2604.05020"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05046",
+    "title": "Wide Jets or Low Rates: Reconciling Short GRB and Gravitational-Wave Neutron Star Merger Rates",
+    "authors": [
+      "Keerthi Kunnumkai",
+      "Antonella Palmese",
+      "Brendan O'Connor",
+      "Amanda Farah",
+      "Ignacio Magana Hernandez"
+    ],
+    "link": "https://arxiv.org/abs/2604.05046"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05128",
+    "title": "Identification of a Radio Counterpart to SN 2025ulz in the S250818k Localization Area",
+    "authors": [
+      "Tanner O'Dwyer",
+      "Alessandra Corsi",
+      "Deepika Yadav",
+      "Kunal P. Mooley",
+      "Raphael Baer-Way",
+      "Poonam Chandra",
+      "Gregg Hallinan",
+      "Mansi M. Kasliwal",
+      "Lauren Rhodes",
+      "Oleg M. Smirnov",
+      "Davide Lazzati",
+      "Joeri van Leeuwen",
+      "Adam Deller",
+      "Pikky Atri",
+      "Tanazza Khanam"
+    ],
+    "link": "https://arxiv.org/abs/2604.05128"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05425",
+    "title": "Detectability of continuous gravitational waves from planetary-mass companions orbiting compact stars",
+    "authors": [
+      "Abdusattar Kurban",
+      "Xia Zhou",
+      "Na Wang",
+      "Yong-Feng Huang",
+      "Wenming Yan",
+      "Jianping Yuan",
+      "Ali Esamdin",
+      "Yu-Bin Wang",
+      "Zhigang Wen",
+      "Rai Yuen"
+    ],
+    "link": "https://arxiv.org/abs/2604.05425"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05453",
+    "title": "The NANOGrav 15 yr and 20 yr Datasets: Timing Events and Pulse Shape Changes",
+    "authors": [
+      "Ben Jacobson-Bell",
+      "James M. Cordes",
+      "Shami Chatterjee",
+      "Sashabaw Niedbalski",
+      "Gabriella Agazie",
+      "Akash Anumarlapudi",
+      "Anne M. Archibald",
+      "Zaven Arzoumanian",
+      "Jeremy G. Baier",
+      "Paul T. Baker",
+      "Paul R. Brook",
+      "H. Thankful Cromartie",
+      "Kathryn Crowter",
+      "Megan E. DeCesar",
+      "Paul B. Demorest",
+      "Lankeswar Dey",
+      "Timothy Dolch",
+      "Elizabeth C. Ferrara",
+      "William Fiore",
+      "Emmanuel Fonseca",
+      "Gabriel E. Freedman",
+      "Nate Garver-Daniels",
+      "Peter A. Gentile",
+      "Joseph Glaser",
+      "Deborah C. Good",
+      "Jeffrey S. Hazboun",
+      "Ross J. Jennings",
+      "Megan L. Jones",
+      "David L. Kaplan",
+      "Matthew Kerr",
+      "Michael T. Lam",
+      "Bjorn Larsen",
+      "Duncan R. Lorimer",
+      "Georgia A. Lowes",
+      "Jing Luo",
+      "Ryan S. Lynch",
+      "Ashley Martsen",
+      "Alexander McEwen",
+      "Maura A. McLaughlin",
+      "Natasha McMann",
+      "Bradley W. Meyers",
+      "Patrick M. Meyers",
+      "Cherry Ng",
+      "Mason Ng",
+      "David J. Nice",
+      "Shania Nichols",
+      "Daniel J. Oliver",
+      "Timothy T. Pennucci",
+      "Benetge B. P. Perera",
+      "Nihan S. Pol",
+      "Henri A. Radovan",
+      "Scott M. Ransom",
+      "Paul S. Ray",
+      "Alexander Saffer",
+      "Ann Schmiedekamp",
+      "Carl Schmiedekamp",
+      "Brent J. Shapiro-Albert",
+      "Ingrid H. Stairs",
+      "Kevin Stovall",
+      "Abhimanyu Susobhanan",
+      "Joseph K. Swiggum",
+      "Mercedes S. Thompson",
+      "Amir Tresnjic",
+      "Haley M. Wahl"
+    ],
+    "link": "https://arxiv.org/abs/2604.05453"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.05703",
+    "title": "Non-LTE Ionization Modeling for Helium and Strontium in Neutron Star Merger Ejecta",
+    "authors": [
+      "Koya Chiba",
+      "Masaomi Tanaka",
+      "Shinya Wanajo",
+      "Sho Fujibayashi",
+      "Kyohei Kawaguchi",
+      "Kenta Hotokezaka"
+    ],
+    "link": "https://arxiv.org/abs/2604.05703"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.04957",
+    "title": "FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations",
+    "authors": [
+      "Bo Liang",
+      "Chang Liu",
+      "Hanlin Song",
+      "Tianyu Zhao",
+      "Minghui Du",
+      "He Wang",
+      "Haohao Gu",
+      "Sensen He",
+      "Yuxiang Xu",
+      "Wei-Liang Qian",
+      "Li-e Qiang",
+      "Peng Xu",
+      "Ziren Luo",
+      "Mingming Sun"
+    ],
+    "link": "https://arxiv.org/abs/2604.04957"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.05059",
+    "title": "Implications of low neutron star merger rates for gamma-ray bursts, r-process production and Galactic double neutron stars",
+    "authors": [
+      "Maya Fishbach",
+      "Alexander P. Ji",
+      "Wen-fai Fong",
+      "Tom Y. Wu",
+      "Jillian C. Rastinejad",
+      "Aditya Vijaykumar",
+      "Hsin-Yu Chen"
+    ],
+    "link": "https://arxiv.org/abs/2604.05059"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.05078",
+    "title": "Gravitational Waves from Matter Perturbations of Spectator Scalar Fields",
+    "authors": [
+      "Marcos A. G. Garcia",
+      "Angel Garcia-Vega",
+      "Sarunas Verner"
+    ],
+    "link": "https://arxiv.org/abs/2604.05078"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.05492",
+    "title": "Remnant recoil and host environments of GWTC-4.0 binary black-hole mergers",
+    "authors": [
+      "Joan Llobera-Querol",
+      "Eleanor Hamilton",
+      "Neha Singh",
+      "Marta Colleoni",
+      "Felip A. Ramis Vidal",
+      "Abbas Askar",
+      "Tomasz Bulik",
+      "Aleksandra Olejak",
+      "Sascha Husa",
+      "Yumeng Xu",
+      "Jorge Valencia"
+    ],
+    "link": "https://arxiv.org/abs/2604.05492"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.05801",
+    "title": "Instrumental development for Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)",
+    "authors": [
+      "Daiki Tanabe",
+      "Hsiang-Yu Huang",
+      "Yuki Inoue",
+      "Mario Juvenal S. Onglao III",
+      "Ta-Chun Yu"
+    ],
+    "link": "https://arxiv.org/abs/2604.05801"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.05840",
+    "title": "Noise budget of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)",
+    "authors": [
+      "Mario Juvenal S. Onglao III",
+      "Hsiang-Yu Huang",
+      "Yuki Inoue",
+      "Vivek Kumar",
+      "Daiki Tanabe"
+    ],
+    "link": "https://arxiv.org/abs/2604.05840"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.06082",
+    "title": "Hunting Dark Matter with the Einstein Telescope",
+    "authors": [
+      "A.J. Iovino",
+      "M. Maggiore",
+      "N. Muttoni",
+      "A. Riotto"
+    ],
+    "link": "https://arxiv.org/abs/2604.06082"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.06090",
+    "title": "Posterior Predictive Checks for Gravitational-wave Populations: Limitations and Improvements",
+    "authors": [
+      "Simona J. Miller",
+      "Sophia Winney",
+      "Katerina Chatziioannou",
+      "Patrick M. Meyers"
+    ],
+    "link": "https://arxiv.org/abs/2604.06090"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.05686",
+    "title": "Strong Lensing and Quasinormal modes of black hole around global monopole",
+    "authors": [
+      "Irengbam Roshila Devi",
+      "Ningthoujam Media",
+      "Yenshembam Priyobarta Singh",
+      "Telem Ibungochouba Singh"
+    ],
+    "link": "https://arxiv.org/abs/2604.05686"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.06009",
+    "title": "Are Black Holes Fuzzballs? Probing Horizon-Scale Structure with LISA",
+    "authors": [
+      "Pablo F. Muguruza",
+      "Carlos F. Sopuerta"
+    ],
+    "link": "https://arxiv.org/abs/2604.06009"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.06053",
+    "title": "Probing Kerr Symmetry Breaking with LISA Extreme-Mass-Ratio Inspirals",
+    "authors": [
+      "Pablo F. Muguruza",
+      "Carlos F. Sopuerta"
+    ],
+    "link": "https://arxiv.org/abs/2604.06053"
+  }
+]
