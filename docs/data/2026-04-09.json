@@ -1,0 +1,171 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06308",
+    "title": "Anisotropic hybrid stars: Interplay of superconductivity and magnetic field leading to gravitational waves",
+    "authors": [
+      "Zenia Zuraiq",
+      "Banibrata Mukhopadhyay"
+    ],
+    "link": "https://arxiv.org/abs/2604.06308"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06311",
+    "title": "An archival search for gamma-ray bursts gravitationally lensed by galaxy clusters",
+    "authors": [
+      "Dan Ryczanowski",
+      "Benjamin P. Jones",
+      "Benjamin P. Gompertz",
+      "Graham P. Smith"
+    ],
+    "link": "https://arxiv.org/abs/2604.06311"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06386",
+    "title": "Binary Star Evolution Modules in REBOUNDx",
+    "authors": [
+      "Mohamad Ali-Dib"
+    ],
+    "link": "https://arxiv.org/abs/2604.06386"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06460",
+    "title": "No Period Change in Two Long-Period AM CVn Binaries",
+    "authors": [
+      "Matthew J. Green",
+      "Thomas R. Marsh",
+      "Jan van Roestel",
+      "Tin Long Sunny Wong",
+      "Diogo Belloni",
+      "Mukremin Kilic",
+      "Elme Breedt",
+      "Alex Brown",
+      "Chris M. Copperwheat",
+      "Anurak Chakpor",
+      "V. S. Dhillon",
+      "Noel Castro Segura",
+      "Martin J. Dyer",
+      "James Garbutt",
+      "Dan Jarvis",
+      "Vasu Kengkriangkrai",
+      "Mark R. Kennedy",
+      "Paul Kerry",
+      "Thomas Kupfer",
+      "S. P. Littlefair",
+      "James McCormac",
+      "James Munday",
+      "Steven G. Parsons",
+      "Eleanor Pike",
+      "Ingrid Pelisoli",
+      "Pablo Rodriguez-Gil",
+      "David I. Sahman",
+      "Amalie Yates"
+    ],
+    "link": "https://arxiv.org/abs/2604.06460"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06504",
+    "title": "A Close Quasar Pair in a Massive Galaxy Merger at $z=5.7$",
+    "authors": [
+      "Minghao Yue",
+      "Xiaohui Fan",
+      "Anna-Christina Eilers",
+      "Feige Wang",
+      "Jinyi Yang",
+      "Robert A. Simcoe"
+    ],
+    "link": "https://arxiv.org/abs/2604.06504"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.06828",
+    "title": "A 4.5-s Quasiperiodic Spectral Oscillation in GRB 230307A: Evidence for Free Precession of a Post-Merger Magnetar?",
+    "authors": [
+      "Run-Chao Chen",
+      "Jun Yang",
+      "Bin-Bin Zhang",
+      "Chen-Wei Wang",
+      "Wen-Jun Tan",
+      "Shao-Lin Xiong",
+      "Bing Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2604.06828"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.06286",
+    "title": "Science of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)",
+    "authors": [
+      "Yuki Inoue",
+      "Hsiang-Yu Huang",
+      "Vivek Kumar",
+      "Mario Juvenal S. Onglao II",
+      "Daiki Tanabe",
+      "Ta-Chun Yu"
+    ],
+    "link": "https://arxiv.org/abs/2604.06286"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.06432",
+    "title": "Gauge Theoretic Signal Processing I: The Commutative Formalism for Single-Detector Adaptive Whitening",
+    "authors": [
+      "James Kennington",
+      "Joshua Black"
+    ],
+    "link": "https://arxiv.org/abs/2604.06432"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.07302",
+    "title": "Gravitational wave signal and noise response of an optically levitated sensor in a Fabry-Pérot cavity",
+    "authors": [
+      "Andrew Laeuger",
+      "Shafaq Gulzar Elahi",
+      "Shelby Klomp",
+      "Jackson Larsen",
+      "Jacob Sprague",
+      "Zhiyuan Wang",
+      "George Winstone",
+      "Maddox Wroblewski",
+      "Shane L. Larson",
+      "Andrew A. Geraci",
+      "Nancy Aggarwal"
+    ],
+    "link": "https://arxiv.org/abs/2604.07302"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.07332",
+    "title": "Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory",
+    "authors": [
+      "Alexander Cassem",
+      "Mark P. Hertzberg"
+    ],
+    "link": "https://arxiv.org/abs/2604.07332"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.06312",
+    "title": "Black Hole-Boson Star Binaries: Gravitational Wave Signals and Tidal Disruption",
+    "authors": [
+      "Gareth Arturo Marks",
+      "Seppe J. Staelens",
+      "Ulrich Sperhake"
+    ],
+    "link": "https://arxiv.org/abs/2604.06312"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.07008",
+    "title": "From freely falling frames to the Lorentz gauge-symmetry group and a Hamiltonian composite theory of gravitation",
+    "authors": [
+      "Hans Christian Öttinger"
+    ],
+    "link": "https://arxiv.org/abs/2604.07008"
+  }
+]
