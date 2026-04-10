@@ -1,0 +1,160 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.07456",
+    "title": "Second-Generation Mass Peak in the Gravitational-Wave Population as a Probe of Globular Clusters",
+    "authors": [
+      "Yonadav Barry Ginat",
+      "Fabio Antonini",
+      "Beth Flanagan",
+      "Mark Gieles"
+    ],
+    "link": "https://arxiv.org/abs/2604.07456"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.08193",
+    "title": "Probing Majoron Dark Matter with Gravitational Wave Detectors",
+    "authors": [
+      "Ippei Obata",
+      "Tsutomu T. Yanagida"
+    ],
+    "link": "https://arxiv.org/abs/2604.08193"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.07668",
+    "title": "Coalescing Compact Binary Parameter Estimation with Gravitational Waves in the Presence of non-Gaussian Transient Noise",
+    "authors": [
+      "Yannick Lecoeuche",
+      "Jess McIver",
+      "Alan M. Knee",
+      "Rhiannon Udall",
+      "Katie Rink",
+      "Sophie Hourihane",
+      "Simona J. Miller",
+      "Katerina Chatziioannou",
+      "TJ Massinger",
+      "Derek Davis"
+    ],
+    "link": "https://arxiv.org/abs/2604.07668"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.07878",
+    "title": "The deci-Hz gravitational wave signal from the collapse of rotating very massive stars",
+    "authors": [
+      "Bailey Sykes",
+      "Jade Powell",
+      "Bernhard Müller",
+      "Alexander Heger"
+    ],
+    "link": "https://arxiv.org/abs/2604.07878"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.07942",
+    "title": "Scalable continuous gravitational wave detection in PTA data with non-parametric red noise suppression and optimal pulsar selection",
+    "authors": [
+      "Yi-Qian Qian",
+      "Yan Wang",
+      "Soumya D. Mohanty",
+      "Siyuan Chen"
+    ],
+    "link": "https://arxiv.org/abs/2604.07942"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08141",
+    "title": "Detecting Chiral Gravitational Wave Background with a Dipole Pulsar Timing Array",
+    "authors": [
+      "Baoyu Xu",
+      "Hanyu Jiang",
+      "Rong-Gen Cai",
+      "Misao Sasaki",
+      "Yun-Long Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2604.08141"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08317",
+    "title": "A Dynamical Equilibrium Linking Nanohertz Stochastic Gravitational Wave Background to Cosmic Structure Formation",
+    "authors": [
+      "Manjia Liang",
+      "Peng Xu",
+      "Ruijun Shi",
+      "Zhoujian Cao",
+      "Ziren Luo",
+      "Minghui Du",
+      "Qiong Deng",
+      "Bo Liang",
+      "Jiaxiang Liang"
+    ],
+    "link": "https://arxiv.org/abs/2604.08317"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08373",
+    "title": "Stochastic problems in pulsar timing",
+    "authors": [
+      "Reginald Christian Bernardo"
+    ],
+    "link": "https://arxiv.org/abs/2604.08373"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08471",
+    "title": "Pyramid Interferometers: Direct Access to Cosmological Gravitational Wave Chirality",
+    "authors": [
+      "Dmitri E. Kharzeev",
+      "Azadeh Maleknejad",
+      "Saba Shalamberidze"
+    ],
+    "link": "https://arxiv.org/abs/2604.08471"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08493",
+    "title": "Probing non-Gaussianity during reheating with SIGW in the LISA band",
+    "authors": [
+      "Gabriele Perna",
+      "Guillem Domènech"
+    ],
+    "link": "https://arxiv.org/abs/2604.08493"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08506",
+    "title": "The Heavy Tailed Non-Gaussianity of the Supermassive Black Hole Gravitational Wave Background",
+    "authors": [
+      "Juhan Raidal",
+      "Juan Urrutia",
+      "Ville Vaskonen",
+      "Hardi Veermäe"
+    ],
+    "link": "https://arxiv.org/abs/2604.08506"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.12321",
+    "title": "Phenomenology of an Open Effective Field Theory of Dark Energy",
+    "authors": [
+      "Santiago Agüí Salcedo",
+      "Thomas Colas",
+      "Lennard Dufner",
+      "Enrico Pajer"
+    ],
+    "link": "https://arxiv.org/abs/2603.12321"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.08179",
+    "title": "GW231123: False Massive Graviton Signatures from Unmodeled Point-Mass Lensing",
+    "authors": [
+      "Baoxiang Wang",
+      "Tao Yang"
+    ],
+    "link": "https://arxiv.org/abs/2604.08179"
+  }
+]
