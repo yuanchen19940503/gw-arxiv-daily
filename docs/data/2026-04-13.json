@@ -1,0 +1,201 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.08748",
+    "title": "Chasing Gamma-Ray Signals from Binary Neutron Star Coalescences with the Cherenkov Telescope Array: Prospects and Observing Strategies",
+    "authors": [
+      "S. Abe",
+      "J. Abhir",
+      "A. Abhishek",
+      "F. Acero",
+      "A. Acharyya",
+      "R. Adam",
+      "A. Aguasca-Cabot",
+      "I. Agudo",
+      "I. Albanese",
+      "J. Alfaro",
+      "C. Alispach",
+      "R. Alves Batista",
+      "E. Amato",
+      "G. Ambrosi",
+      "D. Ambrosino",
+      "F. Ambrosino",
+      "L. Angel",
+      "C. Aramo",
+      "A. Arbet-Engels",
+      "C. Arcaro",
+      "C. Arena",
+      "T. T. H. Arnesen",
+      "K. Asano",
+      "H. Ashkar",
+      "C. Bakshi",
+      "C. Balazs",
+      "M. Balbo",
+      "A. Baquero Larriva",
+      "V. Barbosa Martins",
+      "J. A. Barrio",
+      "C. Bartolini",
+      "I. Batkovic",
+      "R. Batzofin",
+      "N. Bavdaz",
+      "J. Becerra Gonzalez",
+      "G. Beck",
+      "W. Benbow",
+      "E. Bernardini",
+      "M. G. Bernardini",
+      "J. Bernete",
+      "A. Berti",
+      "B. Bertucci",
+      "V. Beshley",
+      "P. Bhattacharjee",
+      "S. Bhattacharyya",
+      "C. Bigongiari",
+      "A. Biland",
+      "E. Bissaldi",
+      "M. Bla na",
+      "O. Blanch",
+      "J. Blazek",
+      "C. Boisson",
+      "G. Bonnoli",
+      "Z. Bosnjak",
+      "E. Bottacini",
+      "M. Bottcher",
+      "E. Bronzini",
+      "G. Brunelli",
+      "J. Buces Saez",
+      "A. Bulgarelli",
+      "T. Bulik",
+      "L. Burmistrov",
+      "P. G. Calisse",
+      "A. Campoy-Ordaz",
+      "B. K. Cantlay",
+      "G. Capasso",
+      "A. Caproni",
+      "R. Capuzzo-Dolcetta",
+      "M. Cardillo",
+      "S. Caroff",
+      "A. Carosi",
+      "E. Carquin",
+      "S. Casanova",
+      "E. Cascone",
+      "F. Cassol",
+      "G. Castignani",
+      "F. Catalani",
+      "D. Cerasole",
+      "M. Cerruti",
+      "P. M. Chadwick",
+      "S. Chaty",
+      "A. W. Chen",
+      "Y. Chen",
+      "M. Chernyakova",
+      "A. Chiavassa",
+      "G. Chon",
+      "J. Chudoba",
+      "L. Chytka",
+      "G. M. Cicciari",
+      "A. Cifuentes Santos",
+      "C. H. Coimbra Araujo",
+      "J. L. Contreras",
+      "B. Cornejo",
+      "J. Cortina",
+      "A. Costa",
+      "G. Cotter",
+      "P. Cristofari",
+      "O. Cuevas",
+      "Z. Curtis-Ginsberg",
+      "G. D'Amico"
+    ],
+    "link": "https://arxiv.org/abs/2604.08748"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.09269",
+    "title": "Detecting nitrogen-carriers in the inner regions of protoplanetary disks",
+    "authors": [
+      "Marissa Vlasblom",
+      "Aditya M. Arabhavi",
+      "Niels de Klerk",
+      "Inga Kamp",
+      "Benoît Tabone",
+      "Ewine F. van Dishoeck"
+    ],
+    "link": "https://arxiv.org/abs/2604.09269"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08653",
+    "title": "Love numbers of black holes and compact objects",
+    "authors": [
+      "María J. Rodríguez",
+      "Luca Santoni",
+      "Adam R. Solomon"
+    ],
+    "link": "https://arxiv.org/abs/2604.08653"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08679",
+    "title": "Tidal Response of Compact Objects",
+    "authors": [
+      "Sumanta Chakraborty",
+      "Paolo Pani"
+    ],
+    "link": "https://arxiv.org/abs/2604.08679"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08796",
+    "title": "Evaluating Deep Learning Models for Multiclass Classification of LIGO Gravitational-Wave Glitches",
+    "authors": [
+      "Rudhresh Manoharan",
+      "Gerald Cleaver"
+    ],
+    "link": "https://arxiv.org/abs/2604.08796"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08897",
+    "title": "labrador: A domain-optimized machine-learning tool for gravitational wave inference",
+    "authors": [
+      "Javier Roulet",
+      "Marco Crisostomi",
+      "Lucy M. Thomas",
+      "Katerina Chatziioannou"
+    ],
+    "link": "https://arxiv.org/abs/2604.08897"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.08968",
+    "title": "Probing the Kinematic Dipole with LISA: an analytical treatment",
+    "authors": [
+      "Jacopo Fumagalli",
+      "Giulia Cusin",
+      "Cyril Pitrou",
+      "Gianmassimo Tasinato"
+    ],
+    "link": "https://arxiv.org/abs/2604.08968"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.08680",
+    "title": "Prompt Response from Plunging Sources in Schwarzschild Spacetime",
+    "authors": [
+      "Sizheng Ma"
+    ],
+    "link": "https://arxiv.org/abs/2604.08680"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.09350",
+    "title": "Gravitational Memory from Hairy Binary Black Hole Mergers",
+    "authors": [
+      "Silvia Gasparotto",
+      "Jann Zosso",
+      "Llibert Aresté Saló",
+      "Daniela D. Doneva",
+      "Stoytcho S. Yazadjiev"
+    ],
+    "link": "https://arxiv.org/abs/2604.09350"
+  }
+]
