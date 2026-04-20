@@ -1,0 +1,151 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.14099",
+    "title": "Electro-Weak Phase Transitions and Collider Signals in the Aligned 2-Higgs Doublet Model",
+    "authors": [
+      "Angela Conaci",
+      "Stefania De Curtis",
+      "Luigi Delle Rose",
+      "Atri Dey",
+      "Anirban Karan",
+      "Stefano Moretti",
+      "Maimoona Razzaq"
+    ],
+    "link": "https://arxiv.org/abs/2604.14099"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.15500",
+    "title": "Joint Detection and Characterization of the Standing Accretion Shock Instability for Core-Collapse Supernovae with cWB XP",
+    "authors": [
+      "Vicente Sierra",
+      "Zidu Lin",
+      "Michelle Zanolin",
+      "Claudia Moreno",
+      "Javier M. Antelis",
+      "Marek J. Szczepańczyk"
+    ],
+    "link": "https://arxiv.org/abs/2604.15500"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.16191",
+    "title": "High-Frequency Gravitational Waves from the Galactic Pulsar Population",
+    "authors": [
+      "Anne S. Freise",
+      "Jamie I. McDonald",
+      "Kirill Riabtsev",
+      "Samuel J. Witte"
+    ],
+    "link": "https://arxiv.org/abs/2604.16191"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.15434",
+    "title": "PySCo-EFT and ECOSMOG-EFT: a tandem of N-body simulation codes for the Effective Field Theory of Dark Energy",
+    "authors": [
+      "Himanish Ganjoo",
+      "Yann Rasera",
+      "Emilio Bellini",
+      "Michel-Andrès Breton",
+      "Fabien Castillo",
+      "Sandrine Codis",
+      "Stephane Colombi",
+      "Pier-Stefano Corasaniti",
+      "Giulia Cusin",
+      "Yohan Dubois",
+      "Sylvain de la Torre",
+      "Eric Jullo",
+      "Guilhem Lavaux",
+      "Amandine Le Brun",
+      "Sebastian Peirani",
+      "Sandrine Pires",
+      "Vincent Reverdy",
+      "Iñigo Sáez-Casares",
+      "Shohei Saga",
+      "Atsushi Taruya",
+      "Wangzheng Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2604.15434"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.15759",
+    "title": "Mechanical Long Baseline Differential Gradiometers as Low Frequency Gravitational Wave Detectors",
+    "authors": [
+      "Enrico Calloni",
+      "Annalisa Allocca",
+      "Antonino Chiummo",
+      "Rosario De Rosa",
+      "Luciano Errico",
+      "Marina Esposito",
+      "Edoardo Imparato",
+      "Bruno Mantice",
+      "Luigi Rosa",
+      "Paolo Ruggi",
+      "Alessandra Ruggiero",
+      "Valeria Sequino",
+      "Daniela Stornaiuolo",
+      "Vittorio Tortorella",
+      "Lucia Trozzo"
+    ],
+    "link": "https://arxiv.org/abs/2604.15759"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.15885",
+    "title": "Gravitational-wave astronomy requires population-informed parameter estimation",
+    "authors": [
+      "Matthew Mould",
+      "Rodrigo Tenorio",
+      "Davide Gerosa"
+    ],
+    "link": "https://arxiv.org/abs/2604.15885"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.15965",
+    "title": "Improved Constraints on Non-Kerr Deviations from Binary Black Hole Inspirals Using GWTC-4 Data",
+    "authors": [
+      "Debtroy Das",
+      "Swarnim Shashank",
+      "Cosimo Bambi"
+    ],
+    "link": "https://arxiv.org/abs/2604.15965"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.16039",
+    "title": "Measuring the rate of glitches in interferometric gravitational wave detectors with a hierarchical Bayesian model",
+    "authors": [
+      "Gregory Ashton",
+      "Colm Talbot",
+      "Andrew Lundgren",
+      "Ann-Kristin Malz",
+      "Joseph Areeda"
+    ],
+    "link": "https://arxiv.org/abs/2604.16039"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.16281",
+    "title": "Recent progress on inflation and dark energy from string theory",
+    "authors": [
+      "Michele Cicoli"
+    ],
+    "link": "https://arxiv.org/abs/2604.16281"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.16257",
+    "title": "MF-toolkit: A High-Performance Python Library for Multifractal Analysis with Automated Crossover Detection, Source Identification and Application to Gravitational Waves Data",
+    "authors": [
+      "Nahuel Mendez",
+      "Maria Cristina Mariani Maria Pia Beccar-Varela",
+      "Osei Tweneboah",
+      "Sebastian Jaroszewicz"
+    ],
+    "link": "https://arxiv.org/abs/2604.16257"
+  }
+]
