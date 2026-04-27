@@ -1,0 +1,156 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.22059",
+    "title": "Electromagnetic Precursors to Binary Neutron Star Mergers: Kinetic Simulations of Magnetospheric Flaring",
+    "authors": [
+      "Jasmine Parsons",
+      "Anatoly Spitkovsky",
+      "Alexander Philippov",
+      "Hayk Hakobyan"
+    ],
+    "link": "https://arxiv.org/abs/2604.22059"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.22634",
+    "title": "Constraints on the Primordial Black Hole Abundance using Pulsar Parameter Drifts",
+    "authors": [
+      "Yan-Chen Bi",
+      "Yu-Mei Wu",
+      "Qing-Guo Huang"
+    ],
+    "link": "https://arxiv.org/abs/2604.22634"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.22021",
+    "title": "Data-Driven Acceleration of Eccentricity Reduction for Binary Black Hole Simulations",
+    "authors": [
+      "Vittoria Tommasini",
+      "Nils L. Vu",
+      "Mark A. Scheel",
+      "Saul A. Teukolsky"
+    ],
+    "link": "https://arxiv.org/abs/2604.22021"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.22380",
+    "title": "Simulation-based Inference for Gravitational Waves from Binary Neutron Stars: Application of Summary Data from Heterodyning",
+    "authors": [
+      "Masaki Iwaya",
+      "Vivien Raymond",
+      "Soichiro Morisaki",
+      "Kazuki Takada"
+    ],
+    "link": "https://arxiv.org/abs/2604.22380"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.22441",
+    "title": "How lonely are the Binary Compact Objects Detected by the LIGO-Virgo-KAGRA Collaboration?",
+    "authors": [
+      "Devesh Giri",
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2604.22441"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.22462",
+    "title": "Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective",
+    "authors": [
+      "Andrea Addazi",
+      "Konstantin Belotsky",
+      "Vitaly Beylin",
+      "Timur Bikbaev",
+      "Deen Chen",
+      "Filippo Fabrocini",
+      "Stefano Giagu",
+      "Krid Jinklub",
+      "Artem Kharakhashyan",
+      "Maxim Khlopov",
+      "Vladimir Korchagin",
+      "Maxim Krasnov",
+      "Atharv Mahajan",
+      "Antonino Marciano",
+      "Andrey Mayorov",
+      "Antonio Morais",
+      "Roman Pasechnik",
+      "Jackson Levi Said",
+      "Danila Sopin",
+      "Viktor Stasenko",
+      "Oem Trivedi"
+    ],
+    "link": "https://arxiv.org/abs/2604.22462"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.22731",
+    "title": "Precision Analysis for $\\boldsymbol{H_0}$ Using Upcoming Multi-band Gravitational Wave Observations",
+    "authors": [
+      "Setabuddin",
+      "Md Riajul Haque",
+      "Ratna Koley",
+      "Supratik Pal"
+    ],
+    "link": "https://arxiv.org/abs/2604.22731"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.21990",
+    "title": "A New Spin on Dissipative Tides: First-Post-Newtonian Effects in Compact Binary Inspirals",
+    "authors": [
+      "Anand Balivada",
+      "Abhishek Hegade K. R.",
+      "Nicolás Yunes"
+    ],
+    "link": "https://arxiv.org/abs/2604.21990"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.22009",
+    "title": "Black Hole Response Theory and its Exact Shockwave Limit",
+    "authors": [
+      "Lara Bohnenblust",
+      "Carl Jordan Eriksen",
+      "Jitze Hoogeveen",
+      "Gustav Uhre Jakobsen",
+      "Jan Plefka"
+    ],
+    "link": "https://arxiv.org/abs/2604.22009"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.22336",
+    "title": "Super-Heisenberg protocol for dark matter and high-frequency gravitational wave search",
+    "authors": [
+      "Wakutaka Nakano",
+      "Ryoto Takai"
+    ],
+    "link": "https://arxiv.org/abs/2604.22336"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.22450",
+    "title": "Exploring Cosmic Evolution in Rényi Entropic Cosmology with Constraints from DESI DR2 BAO and GW Data",
+    "authors": [
+      "Rajdeep Mazumdar",
+      "Kalyan Malakar",
+      "Kalyan Bhuyan"
+    ],
+    "link": "https://arxiv.org/abs/2604.22450"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.22734",
+    "title": "Radiation outer boundary conditions and near-to-far field signal transformations for the Bardeen-Press equation",
+    "authors": [
+      "Som Dev Bishoyi",
+      "Scott E. Field",
+      "Stephen R. Lau"
+    ],
+    "link": "https://arxiv.org/abs/2604.22734"
+  }
+]
