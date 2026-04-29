@@ -1,0 +1,121 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.24949",
+    "title": "A Physics Informed Bayesian Neural Network for the Neutron Star Equation of State",
+    "authors": [
+      "J.D. Baker",
+      "C.A. Bertulani",
+      "R.V. Lobato"
+    ],
+    "link": "https://arxiv.org/abs/2604.24949"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.24970",
+    "title": "Core Collapse Supernova Modeling: The Next Ten Years",
+    "authors": [
+      "Anthony Mezzacappa"
+    ],
+    "link": "https://arxiv.org/abs/2604.24970"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2604.25529",
+    "title": "Enabling real-time multi-messenger follow-up of transient events with Astro-COLIBRI",
+    "authors": [
+      "Bernardo Cornejo Avila",
+      "Sofia Bisero",
+      "Mickäel Costa",
+      "Antoine Ciric",
+      "Ilja Jaroschewski",
+      "Weizmann Kiendrébéogo",
+      "Fabian Schüssler"
+    ],
+    "link": "https://arxiv.org/abs/2604.25529"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.24866",
+    "title": "Seismic background mitigation with the Lunar Gravitational-wave Antenna",
+    "authors": [
+      "Han Yan",
+      "Jan Harms"
+    ],
+    "link": "https://arxiv.org/abs/2604.24866"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.25116",
+    "title": "Gauge Theoretic Signal Processing II: Zero-Latency Whitening for Early Warning Pipelines",
+    "authors": [
+      "James Kennington",
+      "Joshua Black",
+      "Zach Yarbrough",
+      "Yun-Jing Huang",
+      "Chad Hanna",
+      "Leo Tsukada",
+      "Amanda Baylor",
+      "Olivia Godwin",
+      "Prathamesh Joshi",
+      "Cody Messick",
+      "Surabhi Sachdev",
+      "Ron Tapia"
+    ],
+    "link": "https://arxiv.org/abs/2604.25116"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2604.25307",
+    "title": "Recovering cosmological parameters from the mock gravitational wave data of the Einstein Telescope",
+    "authors": [
+      "Pinaki Roy",
+      "Tomasz Bulik"
+    ],
+    "link": "https://arxiv.org/abs/2604.25307"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.21520",
+    "title": "Cosmological discrete self-similarity in primordial black hole formation",
+    "authors": [
+      "Luis E. Padilla",
+      "Tomohiro Harada",
+      "Ethan Milligan",
+      "David Mulryne"
+    ],
+    "link": "https://arxiv.org/abs/2604.21520"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.25536",
+    "title": "Large-Eccentricity Asymptotics and Fast Analytic Approximation for Fourier modes of Post-Newtonian Eccentric Waveforms",
+    "authors": [
+      "Xiaolin Liu",
+      "Zhoujian Cao"
+    ],
+    "link": "https://arxiv.org/abs/2604.25536"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.25582",
+    "title": "Lessons from binary dynamics of inspiralling equal-mass boson-star mergers",
+    "authors": [
+      "Tamara Evstafyeva",
+      "Antonia Seifert",
+      "Ulrich Sperhake",
+      "Christopher J. Moore",
+      "Tamanna Jain"
+    ],
+    "link": "https://arxiv.org/abs/2604.25582"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.25726",
+    "title": "Imprint of domain wall annihilation on induced gravitational waves",
+    "authors": [
+      "Rishav Roshan"
+    ],
+    "link": "https://arxiv.org/abs/2604.25726"
+  }
+]
