@@ -1,0 +1,170 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.02639",
+    "title": "ENGRAVE follow-up of a type IIb supernova spatially coincident with the sub-threshold gravitational wave trigger S250818k",
+    "authors": [
+      "K. Ackley",
+      "M. T. Botticella",
+      "A. Boye",
+      "M. Branchesi",
+      "G. Bruni",
+      "E. Cappellaro",
+      "S. Chaty",
+      "T.-W. Chen",
+      "F. D'Ammando",
+      "V. D'Elia",
+      "F. F. De Pasquale",
+      "Dimple",
+      "R. A. J. Eyles-Ferris",
+      "M. Fraser",
+      "G. Gianfagna",
+      "J. H. Gillanders",
+      "G. Greco",
+      "M. Gromadzki",
+      "C. P. Gutièrrez",
+      "A. Hajela",
+      "L. Izzo",
+      "P. G. Jonker",
+      "S. Kobayashi",
+      "R. Kotak",
+      "G. P. Lamb",
+      "G. Leloudas",
+      "A. J. Levan",
+      "J. D. Lyman",
+      "K. Maguire",
+      "A. Martin-Carrillo",
+      "A. Melandri",
+      "M. J. Michałowski",
+      "S. R. Oates",
+      "F. Onori",
+      "B. Patricelli",
+      "E. Pian",
+      "G. Pignata",
+      "S. Piranomonte",
+      "L. Piro",
+      "Q. Pognan",
+      "M. L. Pumo",
+      "A. Rossi",
+      "R. Roy",
+      "A. Saccardi",
+      "O. S. Salafia",
+      "R. Salvaterra",
+      "N. Sarin",
+      "S. Schulze",
+      "S. J. Smartt",
+      "R. L. C. Starling",
+      "D. Steeghs",
+      "N. R. Tanvir",
+      "A. L. Thakur",
+      "S. D. Vergani",
+      "S. Yi",
+      "D. R. Young"
+    ],
+    "link": "https://arxiv.org/abs/2605.02639"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.00976",
+    "title": "Self-acceleration of Hardening Binaries",
+    "authors": [
+      "Giovanni Maria Tomaselli",
+      "Thomas F. M. Spieksma"
+    ],
+    "link": "https://arxiv.org/abs/2605.00976"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.01992",
+    "title": "Reviving Motivated Inflationary Potentials with $K$-inflation in the light of ACT",
+    "authors": [
+      "Milad Solbi",
+      "Daris Samart",
+      "Peera Simakachorn"
+    ],
+    "link": "https://arxiv.org/abs/2605.01992"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.02172",
+    "title": "Constraints on Ultralight Scalar and Dark Photon Dark Matter from PPTA-DR3 and EPTA-DR2",
+    "authors": [
+      "Xiao-Song Hu",
+      "Siyuan Chen",
+      "Kuo Liu",
+      "Xingjiang Zhu",
+      "Shi-Yi Zhao",
+      "Wu Jiang",
+      "John Antoniadis",
+      "N. D. Ramesh Bhat",
+      "Amodio Carleo",
+      "Shi Dai",
+      "Valentina Di Marco",
+      "Huanchen Hu",
+      "Wenhua Ling",
+      "Yang Liu",
+      "Saurav Mishra",
+      "Christopher J Russell",
+      "Ryan M. Shannon",
+      "Clemente Smarra",
+      "Jingbo Wang",
+      "Lin Wang",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2605.02172"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.02453",
+    "title": "Testing General Relativity Through Gravitational Wave Classification: A Convolutional Neural Network Framework",
+    "authors": [
+      "Lavinia Heisenberg",
+      "Shayan Hemmatyar",
+      "Hector Villarrubia-Rojo"
+    ],
+    "link": "https://arxiv.org/abs/2605.02453"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.02882",
+    "title": "Tracing Primordial Gravitational Waves via non-Gaussian Signatures of Halo Bias",
+    "authors": [
+      "Mariam Abdelaziz",
+      "Pritha Bari",
+      "Sabino Matarrese",
+      "Angelo Ricciardone"
+    ],
+    "link": "https://arxiv.org/abs/2605.02882"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.00945",
+    "title": "Oscillon Formation in Palatini Modified Gravity Theories",
+    "authors": [
+      "Shreyas Upadhye",
+      "Sukanta Panda"
+    ],
+    "link": "https://arxiv.org/abs/2605.00945"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.01216",
+    "title": "Gravitational Waves from a Black Hole Falling Radially into a Thin-Shell Traversable Wormhole",
+    "authors": [
+      "Mohammad Nosherwan Malik",
+      "James B. Dent",
+      "William E. Gabella",
+      "Thomas W. Kephart"
+    ],
+    "link": "https://arxiv.org/abs/2605.01216"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.01802",
+    "title": "Polarization structure of gravitational waves in extended relativity",
+    "authors": [
+      "Yaakov Friedman"
+    ],
+    "link": "https://arxiv.org/abs/2605.01802"
+  }
+]
