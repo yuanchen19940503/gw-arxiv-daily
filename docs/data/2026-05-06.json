@@ -1,0 +1,69 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.03003",
+    "title": "Metastable strings at PTAs: classical stability analysis",
+    "authors": [
+      "Simone Blasi",
+      "Maxime Grandjean",
+      "Alberto Mariotti"
+    ],
+    "link": "https://arxiv.org/abs/2605.03003"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.03156",
+    "title": "Primordial Black Hole contribution to the stochastic background of Gravitational Waves",
+    "authors": [
+      "D. Martín-González"
+    ],
+    "link": "https://arxiv.org/abs/2605.03156"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.03305",
+    "title": "Non-radial pulsations of gravitationally coupled two-fluid neutron stars in general relativity",
+    "authors": [
+      "Ankit Kumar",
+      "Daniel A. Caballero",
+      "Hajime Sotani",
+      "Nicolás Yunes"
+    ],
+    "link": "https://arxiv.org/abs/2605.03305"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.03038",
+    "title": "Squeezed-state radiation in shockwave scattering: QCD-Gravity double copy",
+    "authors": [
+      "Anna M. Staśto",
+      "Himanshu Raj",
+      "Raju Venugopalan"
+    ],
+    "link": "https://arxiv.org/abs/2605.03038"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.03172",
+    "title": "Stability of Synthetic Timelike Ricci Bounds under $C^0$-Limits and Applications to Impulsive Gravitational Waves",
+    "authors": [
+      "Andrea Mondino",
+      "Vanessa Ryborz",
+      "Clemens Sämann"
+    ],
+    "link": "https://arxiv.org/abs/2605.03172"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.03576",
+    "title": "Ringdown Analysis of GW250114 with Orthonormal Modes",
+    "authors": [
+      "Motoki Suzuki",
+      "Kei-ichiro Kubota",
+      "Soichiro Morisaki",
+      "Hayato Motohashi",
+      "Daiki Watarai"
+    ],
+    "link": "https://arxiv.org/abs/2605.03576"
+  }
+]
