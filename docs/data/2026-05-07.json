@@ -1,0 +1,108 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.04781",
+    "title": "Statistical evidence for massive black hole recoils in active galactic nuclei",
+    "authors": [
+      "Bence Bécsy",
+      "Peter Raffai",
+      "Zoltán Haiman",
+      "Andor Budai",
+      "Zsolt Frei"
+    ],
+    "link": "https://arxiv.org/abs/2605.04781"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.04852",
+    "title": "Bayesian parameter estimation for the Core-bounce phase of Rapidly Rotating Core-Collapse Supernovae in real interferometric data",
+    "authors": [
+      "Emmanuel Avila",
+      "Michele Zanolin",
+      "Javier M. Antelis",
+      "Claudia Moreno"
+    ],
+    "link": "https://arxiv.org/abs/2605.04852"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.04896",
+    "title": "Parameter Estimation Horizon of Core-Collapse Supernovae with Current and Next-Generation Gravitational-Wave Detectors",
+    "authors": [
+      "Almat Akhmetali",
+      "Y. Sultan Abylkairov",
+      "Daniil Orel",
+      "Solange Nunes",
+      "Aknur Sakan",
+      "Alisher Zhunuskanov",
+      "Marat Zaidyn",
+      "Nurzhan Ussipov",
+      "José Antonio Font",
+      "Ernazar Abdikamalov"
+    ],
+    "link": "https://arxiv.org/abs/2605.04896"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.04110",
+    "title": "High-Power AM-CW Lunar Laser Ranging as a $μ$Hz SGWB Detector",
+    "authors": [
+      "Slava G. Turyshev"
+    ],
+    "link": "https://arxiv.org/abs/2605.04110"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.04487",
+    "title": "Gravitational wave emission from nonspherical collapse in an early matter-dominated era using N-body simulations",
+    "authors": [
+      "Albert Escrivà",
+      "Tomohiro Harada",
+      "Kazunori Kohri",
+      "Takahiro Terada",
+      "Chul-Moon Yoo"
+    ],
+    "link": "https://arxiv.org/abs/2605.04487"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.05019",
+    "title": "Phase Transitions and Gravitational Waves",
+    "authors": [
+      "Diego Rios",
+      "William H. Kinney"
+    ],
+    "link": "https://arxiv.org/abs/2605.05019"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.05157",
+    "title": "Are PTA measurements sensitive to gravitational wave non-Gaussianities?",
+    "authors": [
+      "Chiara Cecchini",
+      "Jonas El Gammal",
+      "Gabriele Franciolini",
+      "Mauro Pieroni"
+    ],
+    "link": "https://arxiv.org/abs/2605.05157"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.04579",
+    "title": "The Impact of Spin Priors on Parameterized Tests of General Relativity",
+    "authors": [
+      "Tianhao Wu",
+      "Shujun Rong"
+    ],
+    "link": "https://arxiv.org/abs/2605.04579"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.04742",
+    "title": "Continuous Bogoliubov formalism for gravitational-wave generation in a unified dark sector warm inflation",
+    "authors": [
+      "Tommaso Mengoni"
+    ],
+    "link": "https://arxiv.org/abs/2605.04742"
+  }
+]
