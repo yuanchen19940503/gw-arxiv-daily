@@ -1,0 +1,227 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.16656",
+    "title": "Designing a low-loss high reflectivity mirror for gravitational waves detectors by combining a dielectric metasurface and a multilayer stack",
+    "authors": [
+      "Edith Hartmann",
+      "Michel Lequime",
+      "Jerome Degallaix",
+      "Michael T. Hartman",
+      "Paul Rouquette",
+      "Claude Amra",
+      "Myriam Zerrad"
+    ],
+    "link": "https://arxiv.org/abs/2603.16656"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.08410",
+    "title": "Discovery of 30 Repeating Fast Radio Burst Sources and Uniform Population Statistics of 80 Repeating Sources from CHIME/FRB",
+    "authors": [
+      "Amanda M. Cook",
+      "Kaitlyn Shin",
+      "Ziggy Pleunis",
+      "Maxwell Fine",
+      "Naman Jain",
+      "Derek Bingham",
+      "Alice P. Curtin",
+      "Gwendolyn Eadie",
+      "B. M. Gaensler",
+      "Jason W. T. Hessels",
+      "Calvin Leung",
+      "Robert Main",
+      "Nicole Mulyk",
+      "Ayush Pandhi",
+      "Paul Scholz",
+      "Seth R. Siegel",
+      "David C. Stenning",
+      "Thomas C. Abbott",
+      "Bridget C. Andersen",
+      "Mohit Bhardwaj",
+      "Alice Cai",
+      "Shami Chatterjee",
+      "Fengqiu Adam Dong",
+      "Emmanuel Fonseca",
+      "Danté M. Hewitt",
+      "Ronniy C. Joseph",
+      "Lordrick Kahinga",
+      "Mattias Lazda",
+      "Victoria M. Kaspi",
+      "Afrokk Khan",
+      "Bikash Kharel",
+      "Lluis Mas-Ribas",
+      "Kiyoshi W. Masui",
+      "Kyle McGregor",
+      "Daniele Michilli",
+      "Ryan Mckinven",
+      "Mason Ng",
+      "Kenzie Nimmo",
+      "Swarali Shivraj Patil",
+      "Aaron B. Pearlman",
+      "Mawson W. Sammons",
+      "Ketan R. Sand",
+      "Aylar Sedaei Oghani",
+      "Vishwangi Shah",
+      "Kendrick Smith",
+      "Ingrid Stairs",
+      "Tarik J. Zegmott"
+    ],
+    "link": "https://arxiv.org/abs/2605.08410"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.10222",
+    "title": "Thermal Deformation Reduction in High-Power Interferometry with Higher-Order Laser Modes",
+    "authors": [
+      "Liu Tao",
+      "Yuhang Zhao",
+      "Zong-Hong Zhu",
+      "Paul Fulda"
+    ],
+    "link": "https://arxiv.org/abs/2605.10222"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.10557",
+    "title": "Observational Properties of Nonthermal Emission from Relativistic Jets Escaping Active Galactic Nucleus Disks",
+    "authors": [
+      "Ken Chen",
+      "Zi-Gao Dai"
+    ],
+    "link": "https://arxiv.org/abs/2605.10557"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.10584",
+    "title": "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
+    "authors": [
+      "Yiming Dong",
+      "Yacheng Kang",
+      "Junjie Zhao",
+      "Xinyuan Zhu",
+      "Ziming Wang",
+      "Lijing Shao"
+    ],
+    "link": "https://arxiv.org/abs/2605.10584"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.10940",
+    "title": "Electromagnetic Follow-up of the Sub-Solar Mass Gravitational Wave Candidate S251112cm: Kilonova Constraints and a Coincident IIb Supernova",
+    "authors": [
+      "Xander J. Hall",
+      "Tomas Ahumada",
+      "Julius Gassert",
+      "Antonella Palmese",
+      "Brian D. Metzger",
+      "Mansi M. Kasliwal",
+      "Mattia Bulla",
+      "Daniel Gruen",
+      "Robert Stein",
+      "Christoffer Fremling",
+      "Shreya Anand",
+      "Igor Andreoni",
+      "Malte Busmann",
+      "Tomás Cabrera",
+      "Ryan Christinzio",
+      "James Freeburn",
+      "Ignacio Magaña Hernandez",
+      "Lei Hu",
+      "Brendan O'Connor",
+      "Ji-an Jiang",
+      "Zhengyan Liu",
+      "Wen Zhao",
+      "Eric C. Bellm",
+      "David Cook",
+      "Michael W. Coughlin",
+      "Richard Dekany",
+      "Matthew Graham",
+      "Russ R. Laher"
+    ],
+    "link": "https://arxiv.org/abs/2605.10940"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.08595",
+    "title": "Gravitational-wave standard sirens and application in cosmology",
+    "authors": [
+      "Wen Zhao",
+      "Liang-Gui Zhu",
+      "Youjun Lu"
+    ],
+    "link": "https://arxiv.org/abs/2605.08595"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.08931",
+    "title": "F-Term Hybrid Inflation with T-Model Kähler Geometry and Beyond",
+    "authors": [
+      "Waqas Ahmed",
+      "Constantinos Pallis",
+      "Mansoor Ur Rehman"
+    ],
+    "link": "https://arxiv.org/abs/2605.08931"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.09250",
+    "title": "Efficient and Stable Computation of Gravitational-Wave Fluxes from Generic Kerr Orbits via a Unified HeunC Framework",
+    "authors": [
+      "Changkai Chen",
+      "Zhoujian Cao",
+      "Jiliang Jing"
+    ],
+    "link": "https://arxiv.org/abs/2605.09250"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.09660",
+    "title": "Multimessenger consistency tests of the Friedmann cosmological model",
+    "authors": [
+      "Antonio Enea Romano"
+    ],
+    "link": "https://arxiv.org/abs/2605.09660"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10333",
+    "title": "BB plot: A Tool for Accurate Model Selection Using Bayes factors",
+    "authors": [
+      "Ankur Barsode"
+    ],
+    "link": "https://arxiv.org/abs/2605.10333"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10467",
+    "title": "Axial Quasi-normal Modes of Admixed Neutron Stars",
+    "authors": [
+      "Hamza Boumaza",
+      "Boris Betancourt Kamenetskaia"
+    ],
+    "link": "https://arxiv.org/abs/2605.10467"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10749",
+    "title": "Gravitational Waves in High Energy Fixed-Target Collisions",
+    "authors": [
+      "D.V. Fursaev",
+      "V.A. Tainov"
+    ],
+    "link": "https://arxiv.org/abs/2605.10749"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10874",
+    "title": "Cusp Formation in Merging Black Hole Horizons",
+    "authors": [
+      "Shilpa Kastha",
+      "Stamatis Vretinaris",
+      "Daniel Pook-Kolb",
+      "Badri Krishnan"
+    ],
+    "link": "https://arxiv.org/abs/2605.10874"
+  }
+]
