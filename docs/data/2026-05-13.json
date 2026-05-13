@@ -1,0 +1,276 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.11425",
+    "title": "Evolution of Crab Pulsar: Magnetic Inclination Angle and Spin",
+    "authors": [
+      "Cong-Xing Liu",
+      "Jian-Min Dong"
+    ],
+    "link": "https://arxiv.org/abs/2605.11425"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.11437",
+    "title": "Revisiting GW170817 at milliarcsecond scale: high-precision constraints on jet geometry and $H_0$",
+    "authors": [
+      "Kelly Gourdji",
+      "Adam T. Deller",
+      "Chris Flynn",
+      "Taya Govreen-Segal",
+      "Cullan Howlett",
+      "Kunal P. Mooley",
+      "Ehud Nakar"
+    ],
+    "link": "https://arxiv.org/abs/2605.11437"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11193",
+    "title": "Prospects for multi-messenger discovery of the gravitational-wave background anisotropies via cross-correlation with galaxies",
+    "authors": [
+      "Raphael Bertrand-Delgado",
+      "Felipe Andrade-Oliveira",
+      "Michael Ebersold",
+      "Marcelle Soares-Santos"
+    ],
+    "link": "https://arxiv.org/abs/2605.11193"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11269",
+    "title": "gwBenchmarks: Stress-Testing LLM Agents on High-Precision Gravitational Wave Astronomy",
+    "authors": [
+      "Tousif Islam",
+      "Digvijay Wadekar",
+      "Zihan Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2605.11269"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11274",
+    "title": "End-to-End Population Inference from Gravitational-Wave Strain using Transformers",
+    "authors": [
+      "Konstantin Leyde",
+      "Stephen R. Green",
+      "Maximilian Dax",
+      "Matthew Mould",
+      "Cecilia Maria Fabbri",
+      "Jonathan Gair"
+    ],
+    "link": "https://arxiv.org/abs/2605.11274"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11280",
+    "title": "Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves",
+    "authors": [
+      "Tousif Islam",
+      "Digvijay Wadekar",
+      "Tejaswi Venumadhav",
+      "Matias Zaldarriaga",
+      "Ajit Kumar Mehta",
+      "Javier Roulet",
+      "Barak Zackay"
+    ],
+    "link": "https://arxiv.org/abs/2605.11280"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11283",
+    "title": "Black Hole Binary Detection Landscape for the Laser Interferometer Lunar Antenna (LILA): Signal-to-Noise Calculations & Science Cases",
+    "authors": [
+      "Tintin Nguyen",
+      "Anjali Yelikar",
+      "Ryan Nowicki",
+      "Karan Jani",
+      "Angelo Ricarte"
+    ],
+    "link": "https://arxiv.org/abs/2605.11283"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11474",
+    "title": "Secondary-Mass Features improve Spectral-Siren $H_0$ Constraints",
+    "authors": [
+      "Yin-Jie Li",
+      "Yi-Ying Wang",
+      "Yuan-Zhu Wang",
+      "Shao-Peng Tang",
+      "Yi-Zhong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.11474"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11703",
+    "title": "GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors",
+    "authors": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration",
+      "A. G. Abac",
+      "I. Abouelfettouh",
+      "F. Acernese",
+      "K. Ackley",
+      "A. Adam",
+      "C. Adamcewicz",
+      "S. Adhicary",
+      "D. Adhikari",
+      "N. Adhikari",
+      "R. X. Adhikari",
+      "V. K. Adkins",
+      "S. Afroz",
+      "A. Agapito",
+      "D. Agarwal",
+      "M. Agathos",
+      "N. Aggarwal",
+      "S. Aggarwal",
+      "O. D. Aguiar",
+      "I.-L. Ahrend",
+      "L. Aiello",
+      "A. Ain",
+      "P. Ajith",
+      "T. Akutsu",
+      "S. Albanesi",
+      "L. Albers",
+      "W. Ali",
+      "S. Al-Kershi",
+      "C. Alléné",
+      "A. Allocca",
+      "S. Al-Shammari",
+      "P. A. Altin",
+      "S. Alvarez-Lopez",
+      "W. Amar",
+      "O. Amarasinghe",
+      "A. Amato",
+      "F. Amicucci",
+      "C. Amra",
+      "C. Anand",
+      "A. Ananyeva",
+      "S. B. Anderson",
+      "W. G. Anderson",
+      "M. Andia",
+      "M. Ando",
+      "M. Andrés-Carcasona",
+      "J. L. Andrey",
+      "T. Andrić",
+      "J. Anglin",
+      "J. Anna",
+      "S. Ansoldi",
+      "J. M. Antelis",
+      "S. Antier",
+      "M. Aoumi",
+      "E. Z. Appavuravther",
+      "S. Appert",
+      "S. K. Apple",
+      "K. Arai",
+      "A. Araya",
+      "M. C. Araya",
+      "M. Arca Sedda",
+      "F. Arciprete",
+      "J. S. Areeda",
+      "N. Aritomi",
+      "F. Armato",
+      "S. Armstrong",
+      "N. Arnaud",
+      "M. Arogeti",
+      "S. M. Aronson",
+      "K. G. Arun",
+      "G. Ashton",
+      "Y. Aso",
+      "L. Asprea",
+      "M. Assiduo",
+      "S. Assis de Souza Melo",
+      "S. M. Aston",
+      "P. Astone",
+      "F. Attadio",
+      "F. Aubin",
+      "K. AultONeal",
+      "G. Avallone",
+      "E. A. Avila",
+      "S. Babak",
+      "C. Badger",
+      "S. Bae",
+      "S. Bagnasco",
+      "L. Baiotti",
+      "R. Bajpai",
+      "T. Baka",
+      "K. A. Baker",
+      "T. Baker",
+      "G. Balbi",
+      "G. Baldi",
+      "N. Baldicchi",
+      "M. Ball",
+      "G. Ballardin",
+      "S. W. Ballmer",
+      "S. Banagiri",
+      "B. Banerjee"
+    ],
+    "link": "https://arxiv.org/abs/2605.11703"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.11947",
+    "title": "Inferring host environment properties and gravitational-wave decay time from the eccentricity measurement of dynamically captured binaries",
+    "authors": [
+      "A. Vincent Paul",
+      "Parthapratim Mahapatra",
+      "Marc Favata",
+      "K. G. Arun"
+    ],
+    "link": "https://arxiv.org/abs/2605.11947"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10584",
+    "title": "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
+    "authors": [
+      "Yiming Dong",
+      "Yacheng Kang",
+      "Junjie Zhao",
+      "Xinyuan Zhu",
+      "Ziming Wang",
+      "Lijing Shao"
+    ],
+    "link": "https://arxiv.org/abs/2605.10584"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10976",
+    "title": "Unique Gravitational-Wave Signals from Negative-Mass Binaries",
+    "authors": [
+      "Oem Trivedi",
+      "Abraham Loeb"
+    ],
+    "link": "https://arxiv.org/abs/2605.10976"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.10992",
+    "title": "Photon Sphere and Shadow of a Perturbative Black Hole in $f(R,\\mathcal{G})$ Gravity",
+    "authors": [
+      "G.G.L. Nashed"
+    ],
+    "link": "https://arxiv.org/abs/2605.10992"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.12249",
+    "title": "Impact of coalescence signals on the search for continuous gravitational waves with Einstein Telescope",
+    "authors": [
+      "Elena Codazzo",
+      "Lorenzo Mirasola",
+      "Matteo Di Giovanni",
+      "Pia Astone",
+      "Sabrina D'Antonio",
+      "Cristiano Palomba",
+      "Claudia Lazzaro",
+      "Andrea Contu",
+      "Alessandro Riggio",
+      "Andrea Sanna"
+    ],
+    "link": "https://arxiv.org/abs/2605.12249"
+  }
+]
