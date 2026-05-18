@@ -1,0 +1,133 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2503.22504",
+    "title": "Generalized parameter-space metrics for continuous gravitational-wave searches",
+    "authors": [
+      "P. B. Covas",
+      "R. Prix"
+    ],
+    "link": "https://arxiv.org/abs/2503.22504"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.15259",
+    "title": "TransitionListener v2.0 -- Robust gravitational wave predictions for cosmological phase transitions",
+    "authors": [
+      "Jonas Matuszak",
+      "Carlo Tasillo"
+    ],
+    "link": "https://arxiv.org/abs/2605.15259"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.15772",
+    "title": "Accretion Effects on Primordial Black Hole Reheating Constraints",
+    "authors": [
+      "Chenhuan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2605.15772"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.16201",
+    "title": "Irreducible Graviton Floor from Reheating",
+    "authors": [
+      "James M. Cline",
+      "Yong Xu"
+    ],
+    "link": "https://arxiv.org/abs/2605.16201"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.15265",
+    "title": "Eccentric Stellar-mass Binary Black Holes: Population, Detectability, and Waveform Analysis in the LISA and LIGO Era",
+    "authors": [
+      "Zeyuan Xuan",
+      "Smadar Naoz",
+      "Kyle Kremer",
+      "Michael L. Katz",
+      "Bence Kocsis",
+      "Erez Michaely"
+    ],
+    "link": "https://arxiv.org/abs/2605.15265"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.15271",
+    "title": "Polarization Analysis of Ringdown Signals",
+    "authors": [
+      "Nicole Khusid",
+      "Will Farr",
+      "Max Isi"
+    ],
+    "link": "https://arxiv.org/abs/2605.15271"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.15749",
+    "title": "Constraints on primordial black holes from the first part of LIGO-Virgo-KAGRA fourth observing run",
+    "authors": [
+      "M. Andrés-Carcasona",
+      "A.J. Iovino",
+      "E. Vallejo-Pagès",
+      "V. Vaskonen",
+      "H. Veermäe",
+      "M. Martínez",
+      "Ll. M. Mir"
+    ],
+    "link": "https://arxiv.org/abs/2605.15749"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16177",
+    "title": "Observational signatures of negative mass wormholes through their shadows",
+    "authors": [
+      "Shin'ichi Nojiri",
+      "Sergei D. Odintsov",
+      "Diego Sáez-Chillón Gómez"
+    ],
+    "link": "https://arxiv.org/abs/2605.16177"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16183",
+    "title": "Rapid data quality investigations of gravitational-wave events with the Data Quality Report Builder toolkit",
+    "authors": [
+      "Derek Davis",
+      "Zach Yarbrough",
+      "Joseph Areeda",
+      "Ronaldas Macas",
+      "Nicolas Arnaud",
+      "Adrian Helmling-Cornell",
+      "Paolina Doliva",
+      "Olivia Godwin",
+      "Hirotaka Yuzurihara",
+      "Benjamin Mannix",
+      "Sofia Alvarez-Lopez",
+      "Max Trevor",
+      "Rachael Huxford",
+      "Philippe Nguyen",
+      "Beverly Berger",
+      "Chayan Chatterjee",
+      "Francesco Di Renzo",
+      "Christiano Palomba",
+      "Viola Sordini",
+      "Dimitrios Pesios",
+      "Marissa Walker",
+      "Airene Ahuja",
+      "Man Leong Chan",
+      "Julian Ding",
+      "Raymond Frey",
+      "Franz Herbst",
+      "Yannick Lecoeuche",
+      "Annudesh Liyanage",
+      "Jess McIver",
+      "Raymond Ng",
+      "Sophie Perry",
+      "Caitlin Rawcliffe",
+      "Robert Schofield"
+    ],
+    "link": "https://arxiv.org/abs/2605.16183"
+  }
+]
