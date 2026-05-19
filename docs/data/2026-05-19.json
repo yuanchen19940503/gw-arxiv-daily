@@ -1,0 +1,170 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.14728",
+    "title": "Wide parameter-space O3 search for continuous gravitational waves from unknown neutron stars in binary systems",
+    "authors": [
+      "P. B. Covas",
+      "M. A. Papa",
+      "R. Prix"
+    ],
+    "link": "https://arxiv.org/abs/2605.14728"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.16425",
+    "title": "Polarization Birefringence and Waveform Systematics in GW231123",
+    "authors": [
+      "Tonghua Liu",
+      "Chenggang Shao",
+      "Kai Liao"
+    ],
+    "link": "https://arxiv.org/abs/2605.16425"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.17005",
+    "title": "Red novae, their progenitors, and remnants",
+    "authors": [
+      "Tomasz Kaminski",
+      "Nadejda Blagorodnova"
+    ],
+    "link": "https://arxiv.org/abs/2605.17005"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.17377",
+    "title": "Precise and Rapid Parameter Inference of Kilonova with Conditional Variational Autoencoder",
+    "authors": [
+      "Surojit Saha",
+      "Albert K.H Kong"
+    ],
+    "link": "https://arxiv.org/abs/2605.17377"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.18129",
+    "title": "Anisotropic Ejecta from Binary Neutron Star Mergers: Self-Consistent Main Thermal and Late-Time Radio Emission of NS-Powered Kilonovae",
+    "authors": [
+      "Jia-Xiang Chen",
+      "Shao-Ze Li"
+    ],
+    "link": "https://arxiv.org/abs/2605.18129"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16506",
+    "title": "Rapidly Rotating Neutron Star Collapse in Massive Scalar-Tensor Theories",
+    "authors": [
+      "José Carlos Olvera M.",
+      "Daniela D. Doneva",
+      "Pablo Cerdá-Durán",
+      "José A. Font",
+      "Stoytcho S. Yazadjiev"
+    ],
+    "link": "https://arxiv.org/abs/2605.16506"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16510",
+    "title": "Is the Binary Black Hole Population Inference from Gravitational-Wave Data Robust?",
+    "authors": [
+      "Upasana Das",
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2605.16510"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16512",
+    "title": "Bidirectional Internal Squeezing for Gravitational-Wave Detectors",
+    "authors": [
+      "Sander M. Vermeulen",
+      "Umran Serra Koca",
+      "Lee McCuller"
+    ],
+    "link": "https://arxiv.org/abs/2605.16512"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.17983",
+    "title": "Higher-order statistics of the stochastic gravitational wave background from supermassive black hole binaries",
+    "authors": [
+      "Hinano Hisamamtsu",
+      "Koutarou Kyutoku"
+    ],
+    "link": "https://arxiv.org/abs/2605.17983"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.18286",
+    "title": "Primary gravitational waves at high frequencies II: Emergence of the exponential cut-off in the power spectrum",
+    "authors": [
+      "Alipriyo Hoory",
+      "Jerome Martin",
+      "Arnab Paul",
+      "L. Sriramkumar"
+    ],
+    "link": "https://arxiv.org/abs/2605.18286"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.18428",
+    "title": "Probing (sub-)solar-mass black holes and superspinars with current and next-generation gravitational-wave observatories",
+    "authors": [
+      "K. S. Sruthy",
+      "N. V. Krishnendu",
+      "Chandrachur Chakraborty",
+      "Nami Uchikata"
+    ],
+    "link": "https://arxiv.org/abs/2605.18428"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.18742",
+    "title": "A universal framework to identify eccentric binary mergers: GW200105 case study",
+    "authors": [
+      "Teagan A. Clarke",
+      "Isobel M. Romero-Shaw",
+      "Charlie Hoy",
+      "Jakob Stegmann",
+      "Paul D. Lasky",
+      "Eric Thrane"
+    ],
+    "link": "https://arxiv.org/abs/2605.18742"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.18097",
+    "title": "Effects of formation channels and gravitational lensing on stochastic gravitational wave background",
+    "authors": [
+      "Xin-yi Lin",
+      "Zhengxiang Li"
+    ],
+    "link": "https://arxiv.org/abs/2605.18097"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.18249",
+    "title": "Quasinormal modes of a rotating loop quantum black hole",
+    "authors": [
+      "Zhongzhinan Dong",
+      "Shulan Li",
+      "Dan Zhang",
+      "Jian-Pin Wu"
+    ],
+    "link": "https://arxiv.org/abs/2605.18249"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.18595",
+    "title": "Impact of sky localization uncertainty on ringdown inference",
+    "authors": [
+      "Kallol Dey",
+      "Enrico Barausse",
+      "Marco Crisostomi",
+      "Roberto Trotta"
+    ],
+    "link": "https://arxiv.org/abs/2605.18595"
+  }
+]
