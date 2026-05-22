@@ -1,0 +1,113 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.21580",
+    "title": "Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions",
+    "authors": [
+      "Tyler B. Smith",
+      "Floor Broekgaarden",
+      "Sasha Levina",
+      "Amedeo Romagnolo",
+      "Manasvini Komandur",
+      "Melanie Santiago",
+      "Kyle A. Rocha"
+    ],
+    "link": "https://arxiv.org/abs/2605.21580"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.21730",
+    "title": "High-Latitude Zonal Jets in the Martian Upper Atmosphere Driven by Non-Orographic Gravity Waves",
+    "authors": [
+      "Jiandong Liu",
+      "François Forget",
+      "Ehouarn Millour",
+      "Francisco González Galindo",
+      "Jean-Yves Chaufray"
+    ],
+    "link": "https://arxiv.org/abs/2605.21730"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.21750",
+    "title": "A Generalized Template Matching Algorithm for Correcting Jitter Noise in Pulsar Timing",
+    "authors": [
+      "Ross J. Jennings",
+      "James M. Cordes",
+      "Shami Chatterjee",
+      "Maura A. McLaughlin"
+    ],
+    "link": "https://arxiv.org/abs/2605.21750"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.21531",
+    "title": "Fisher Information Velocity: A New Geometric Channel for Precision Glitch Identification in Gravitational-Wave Detectors",
+    "authors": [
+      "James Kennington",
+      "Zach Yarbrough"
+    ],
+    "link": "https://arxiv.org/abs/2605.21531"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.21578",
+    "title": "Gravitational wave detectability range informed by external messengers",
+    "authors": [
+      "S. Ronchini",
+      "A. Chopra",
+      "T. Dal Canton",
+      "B. Banerjee",
+      "A. L. De Santis",
+      "M. Branchesi"
+    ],
+    "link": "https://arxiv.org/abs/2605.21578"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.21584",
+    "title": "Wave-optics gravitational wave lensing in modified gravity",
+    "authors": [
+      "Alice Garoffolo",
+      "Gianmassimo Tasinato"
+    ],
+    "link": "https://arxiv.org/abs/2605.21584"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.21955",
+    "title": "On the Presence of a Tertiary Compact Object in GW190814",
+    "authors": [
+      "Lalit Pathak",
+      "Hemantakumar Phurailatpam",
+      "Achamveedu Gopakumar"
+    ],
+    "link": "https://arxiv.org/abs/2605.21955"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.21640",
+    "title": "Gravitational Wave Hyperbolic Catalog: Reanalyzing High-Mass Gravitational Wave Signals Using Hyperbolic Waveforms",
+    "authors": [
+      "Jacob Lange",
+      "Danilo Chiaramello",
+      "Peter Lott",
+      "Chad Henshaw",
+      "Alessandro Nagar",
+      "Richard O'Shaughnessy",
+      "Laura Cadonati"
+    ],
+    "link": "https://arxiv.org/abs/2605.21640"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.22037",
+    "title": "Classical Renormalization Group Equations for General Relativity",
+    "authors": [
+      "F. Gutiérrez",
+      "K. Falls",
+      "A. Codello"
+    ],
+    "link": "https://arxiv.org/abs/2605.22037"
+  }
+]
