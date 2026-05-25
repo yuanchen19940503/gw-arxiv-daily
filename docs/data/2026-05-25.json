@@ -1,0 +1,59 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.22944",
+    "title": "Gravitational waves from cosmic strings with friction: analytical approximations and parameter space",
+    "authors": [
+      "Sergei Mukovnikov",
+      "Lara Sousa"
+    ],
+    "link": "https://arxiv.org/abs/2605.22944"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.22921",
+    "title": "Magnetic field dynamics in isolated neutron stars with an external dipole field",
+    "authors": [
+      "Aurora Capobianco",
+      "William Cook",
+      "Sebastiano Bernuzzi",
+      "Brynmor Haskell",
+      "Jacob Fields"
+    ],
+    "link": "https://arxiv.org/abs/2605.22921"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.23538",
+    "title": "Scalable Dark Siren Cosmology with gwcosmo: GPU Acceleration, Validation and Systematics",
+    "authors": [
+      "Alexander Papadopoulos",
+      "Christian E. A. Chapman-Bird",
+      "Rachel Gray",
+      "Christopher Messenger",
+      "Tom Bertheas"
+    ],
+    "link": "https://arxiv.org/abs/2605.23538"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.23554",
+    "title": "Inferring the role of binary neutron star mergers in r-process nucleosynthesis with multi-messenger observations using Cosmic Explorer and Einstein Telescope",
+    "authors": [
+      "Aman Agarwal",
+      "Suvodip Mukherjee",
+      "Daniel M. Siegel"
+    ],
+    "link": "https://arxiv.org/abs/2605.23554"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.23376",
+    "title": "The field-theoretical formalism for TEGR",
+    "authors": [
+      "E. D. Emtsova",
+      "A. N. Petrov"
+    ],
+    "link": "https://arxiv.org/abs/2605.23376"
+  }
+]
