@@ -1,0 +1,180 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.24082",
+    "title": "Detecting Gravitational-Wave Anisotropies with Simulation-Based Inference",
+    "authors": [
+      "Anna-Malin Lemke",
+      "Andrea Mitridate",
+      "Thomas Konstandin",
+      "Mauro Pieroni",
+      "James Alvey"
+    ],
+    "link": "https://arxiv.org/abs/2605.24082"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.24281",
+    "title": "Evidence for mass-dependent spin subpopulations in GWTC-4",
+    "authors": [
+      "Asad Hussain",
+      "Maximiliano Isi",
+      "Aaron Zimmerman"
+    ],
+    "link": "https://arxiv.org/abs/2605.24281"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.24664",
+    "title": "The XRISM measurements of the black-hole spin in Cyg X-1 are highly model-dependent",
+    "authors": [
+      "Andrzej A. Zdziarski",
+      "Swadesh Chand",
+      "Michal Szanecki",
+      "Gulab Dewangan",
+      "Barbara De Marco"
+    ],
+    "link": "https://arxiv.org/abs/2605.24664"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.24715",
+    "title": "Gravitational Waves from Post-Inflationary Magnetism: Direct and Scalar-Induced Contributions",
+    "authors": [
+      "Subhasis Maiti"
+    ],
+    "link": "https://arxiv.org/abs/2605.24715"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.25190",
+    "title": "Kepler Discovery of GW Vir Pulsations of the Central Star of Planetary Nebula Kn 61",
+    "authors": [
+      "Paulina Sowicka",
+      "Gerald Handler",
+      "J. J. Hermes",
+      "Keaton J. Bell"
+    ],
+    "link": "https://arxiv.org/abs/2605.25190"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.25209",
+    "title": "Inverse Compton scattering occurring in a reverse-shock scenario involving a kilonova: A channel of TeV gamma-ray photons",
+    "authors": [
+      "Nissim Fraija",
+      "Jorge Alexis Montes",
+      "Sara Fraija-Castellanos",
+      "María Magdalena González"
+    ],
+    "link": "https://arxiv.org/abs/2605.25209"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.25994",
+    "title": "Compactness Peaks and Subpopulations: Probing Stellar Physics and Formation Channels of Merging Binary Black Holes",
+    "authors": [
+      "Shanika Galaudage"
+    ],
+    "link": "https://arxiv.org/abs/2605.25994"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.24145",
+    "title": "Inferring Neutron-Star Properties from Post-merger Gravitational-wave Spectra with Neural Networks",
+    "authors": [
+      "Dimitrios Pesios",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2605.24145"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.24905",
+    "title": "QPEs from Warped Disk Collisions with EMRIs: Brightness-Recurrence Diagram and Gravitational-Wave Follow-up",
+    "authors": [
+      "Bo-An Chen",
+      "Bei You",
+      "Giovanni Miniutti",
+      "Ning Jiang",
+      "Zhen Pan",
+      "Tao Yang",
+      "Xi-Long Fan",
+      "Kai Liao",
+      "Xu-Heng Ding",
+      "Zong-Hong Zhu",
+      "Shuai-Kang Yang",
+      "Sai-En Xu",
+      "Han He",
+      "Xiao Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.24905"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.25466",
+    "title": "Gravitational Wave Propagation in K-essence Cosmology: Theory and Observational Constraints",
+    "authors": [
+      "Sougata Bhunia",
+      "Eduardo Guendelman",
+      "Debashis Gangopadhyay",
+      "Ramón Herrera",
+      "Abhijit Bhattacharyya",
+      "Goutam Manna"
+    ],
+    "link": "https://arxiv.org/abs/2605.25466"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.25772",
+    "title": "Polarized Anisotropic Stochastic Gravitational Wave Background Search with Ground-Based Detector Networks",
+    "authors": [
+      "Töre Boybeyi",
+      "Vuk Mandic"
+    ],
+    "link": "https://arxiv.org/abs/2605.25772"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.25879",
+    "title": "Core-collape supernovae and supernova neutrinos",
+    "authors": [
+      "B. Mueller",
+      "B. Sykes"
+    ],
+    "link": "https://arxiv.org/abs/2605.25879"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.25623",
+    "title": "A pre-merger-informed spectral-level ringdown inference framework for black-hole spectroscopy",
+    "authors": [
+      "Shitong Guo",
+      "Yan-Gang Miao"
+    ],
+    "link": "https://arxiv.org/abs/2605.25623"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.25625",
+    "title": "Periodic orbits and gravitational waveforms around a Schwarzschild black hole with a cloud of strings embedded in perfect fluid dark matter",
+    "authors": [
+      "Ziqiang Cai",
+      "Zhi Li",
+      "Zhenglong Ban",
+      "Qi-Qi Liang",
+      "Zheng-Wen Long"
+    ],
+    "link": "https://arxiv.org/abs/2605.25625"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.25950",
+    "title": "Gravitational wave interactions with matter: beyond quadrupolar perturbations",
+    "authors": [
+      "Ulrich K. Beckering Vinckers",
+      "Nigel T. Bishop"
+    ],
+    "link": "https://arxiv.org/abs/2605.25950"
+  }
+]
