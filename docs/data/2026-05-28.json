@@ -1,0 +1,163 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.13847",
+    "title": "Analytical Fluxes from Generic Schwarzschild Geodesics",
+    "authors": [
+      "Majed Khalaf",
+      "Chris Kavanagh",
+      "Ofri Telem"
+    ],
+    "link": "https://arxiv.org/abs/2605.13847"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.27519",
+    "title": "Probing Dynamical Inverse Seesaw with Low-frequency Gravitational Waves",
+    "authors": [
+      "Debasish Borah",
+      "Sounak Dutta",
+      "Partha Kumar Paul",
+      "Indrajit Saha",
+      "Narendra Sahu"
+    ],
+    "link": "https://arxiv.org/abs/2605.27519"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.27521",
+    "title": "From WIMP to FIMP during reheating: collider vs non-collider probes for p-wave annihilation",
+    "authors": [
+      "Dipankar Pradhan",
+      "Niloy Mondal",
+      "Abhik Sarkar",
+      "Anupam Ghosh",
+      "Shashwat Sharma",
+      "Mathew Thomas Arun",
+      "Basabendu Barman"
+    ],
+    "link": "https://arxiv.org/abs/2605.27521"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.27562",
+    "title": "A Semi-Supervised Variational Autoencoder for Generating Neutron Star Equations of State",
+    "authors": [
+      "Tianqi Zhao",
+      "Fanglida Yan",
+      "Alex Ross",
+      "James M. Lattimer"
+    ],
+    "link": "https://arxiv.org/abs/2605.27562"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28088",
+    "title": "cBHBd: A fast code for the evolution of tidally limited star clusters and their binary black hole mergers",
+    "authors": [
+      "Fotios Fronimos Pouliasis",
+      "Nolan Dickson",
+      "Daniel Marín Pina",
+      "Mark Gieles",
+      "Vincent Hénault-Brunet",
+      "Fabio Antonini"
+    ],
+    "link": "https://arxiv.org/abs/2605.28088"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28572",
+    "title": "Unsupervised Morphological Characterization of Gravitational-Wave Glitches in LIGO O4a Using Frozen DINOv2 Features",
+    "authors": [
+      "Luca Cirfeta"
+    ],
+    "link": "https://arxiv.org/abs/2605.28572"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28658",
+    "title": "Measuring the Hubble constant with strongly lensed gravitational waves from space-based detector networks",
+    "authors": [
+      "Yong Yuan",
+      "Minghui Du",
+      "Wen-Fan Feng",
+      "Benyang Zhu",
+      "Qing Diao",
+      "Peng Xu",
+      "Xilong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.28658"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28804",
+    "title": "Whispers of Supergravity in Gravitational Wave Backgrounds: Determining the Gravitino Mass from Cosmic Thermal History",
+    "authors": [
+      "Angus Spalding",
+      "Stephen F. King"
+    ],
+    "link": "https://arxiv.org/abs/2605.28804"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.28663",
+    "title": "First-Order Perturbations of Covariant Maxwell Equations in Gravitational Waves",
+    "authors": [
+      "Lingyue Lou",
+      "Haorong Wu",
+      "Xi-Long Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.28663"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.28715",
+    "title": "Accurate waveforms for generic planar-orbit binary black holes: The multipolar effective-one-body model SEOBNRv6EHM",
+    "authors": [
+      "Aldo Gamboa",
+      "Alessandra Buonanno",
+      "Lorenzo Pompili",
+      "Raffi Enficiaud",
+      "Michael Boyle",
+      "Lawrence E. Kidder",
+      "Oliver Long",
+      "Peter James Nee",
+      "Harald P. Pfeiffer",
+      "Antoni Ramos-Buades",
+      "Mark A. Scheel"
+    ],
+    "link": "https://arxiv.org/abs/2605.28715"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.27500",
+    "title": "Constraining Gravitational Wave Memory with Hierarchical Inference",
+    "authors": [
+      "Keefe Mitman",
+      "Maximiliano Isi",
+      "Will M. Farr"
+    ],
+    "link": "https://arxiv.org/abs/2605.27500"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.27910",
+    "title": "Matching second-order classical and 1-loop quantum tensor power spectra in de Sitter spacetime",
+    "authors": [
+      "A. Hauser",
+      "M. Laine"
+    ],
+    "link": "https://arxiv.org/abs/2605.27910"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.28716",
+    "title": "Eccentric and unbound compact binaries in the LIGO-Virgo-KAGRA catalog: parameter estimation and waveform systematics with SEOBNRv6EHM",
+    "authors": [
+      "Lorenzo Pompili",
+      "Aldo Gamboa",
+      "Alessandra Buonanno"
+    ],
+    "link": "https://arxiv.org/abs/2605.28716"
+  }
+]
