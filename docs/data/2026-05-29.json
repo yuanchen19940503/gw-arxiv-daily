@@ -1,0 +1,117 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28916",
+    "title": "First head-to-head comparison of agentic AI applied to the analysis of simulated data of the Einstein Telescope",
+    "authors": [
+      "Gianluca Inguglia"
+    ],
+    "link": "https://arxiv.org/abs/2605.28916"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.28972",
+    "title": "Massive Stars in the Thirties: awaiting new Hubble discoveries",
+    "authors": [
+      "Lidia M. Oskinova",
+      "Sylvia Ekström",
+      "Miriam Garcia",
+      "Takashi Moriya",
+      "Andreas A.C. Sander",
+      "Sergio Simón-Díaz",
+      "Aida Wofford"
+    ],
+    "link": "https://arxiv.org/abs/2605.28972"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.29305",
+    "title": "Recoil-regulated extreme mass-ratio inspirals in AGN disks",
+    "authors": [
+      "LingQin Xue",
+      "Zoltán Haiman",
+      "Hiromichi Tagawa",
+      "Imre Bartos"
+    ],
+    "link": "https://arxiv.org/abs/2605.29305"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.29510",
+    "title": "Time-Domain Deep Learning for Pairwise Identification of Strongly Lensed Gravitational-Wave Candidates",
+    "authors": [
+      "Fan Zhang",
+      "Qikai Zhang",
+      "Qiyuan Yang",
+      "Jiaqing Huang",
+      "Yong Yuan",
+      "Xilong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.29510"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.28944",
+    "title": "Impact of the equation of state on core collapse supernovae I: the low-$T/|W|$ instability",
+    "authors": [
+      "Marco Cusinato",
+      "Martin Obergaulinger",
+      "Miguel Ángel Aloy"
+    ],
+    "link": "https://arxiv.org/abs/2605.28944"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.28953",
+    "title": "Signatures of loop quantum gravity in primordial black hole cosmologies",
+    "authors": [
+      "Antoine Dierckx",
+      "Sébastien Clesse",
+      "Francesca Vidotto"
+    ],
+    "link": "https://arxiv.org/abs/2605.28953"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.29187",
+    "title": "Assessing the Relative Importance of Neutrino Matter Interaction Channels in Post-Merger Remnant of Binary Neutron Stars",
+    "authors": [
+      "Samantha Rath",
+      "Francois Foucart",
+      "Lawrence E. Kidder",
+      "Harald P. Pfeiffer",
+      "Mark A. Scheel"
+    ],
+    "link": "https://arxiv.org/abs/2605.29187"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.29519",
+    "title": "Quantum transitions of vector vortex light in gravitational waves",
+    "authors": [
+      "Haorong Wu",
+      "Xilong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2605.29519"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.28932",
+    "title": "Relativistic Elastic Response to Gravitational Waves: Explicit Solutions for a Rectangular Plate",
+    "authors": [
+      "José Natário",
+      "Filipe Nazaré"
+    ],
+    "link": "https://arxiv.org/abs/2605.28932"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.29636",
+    "title": "Decay criteria for asymptotic freedom in plane gravitational waves",
+    "authors": [
+      "Qi-Liang Zhao",
+      "Li-Ming Cao"
+    ],
+    "link": "https://arxiv.org/abs/2605.29636"
+  }
+]
