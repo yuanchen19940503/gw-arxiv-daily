@@ -1,0 +1,59 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.30420",
+    "title": "Parameter resolution of near-Earth asteroids using LISA",
+    "authors": [
+      "Sara Marques",
+      "Oliver Jennrich"
+    ],
+    "link": "https://arxiv.org/abs/2605.30420"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.31600",
+    "title": "Gravitational Waves from hybrid defects as probe of Flavor symmetry breaking: Machine-Learning Approach",
+    "authors": [
+      "Anish Ghoshal",
+      "Ilia Gogoladze",
+      "Amit Tiwari"
+    ],
+    "link": "https://arxiv.org/abs/2605.31600"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.30430",
+    "title": "Exact Mass Conservation in Binary Neutron Star Merger Simulations",
+    "authors": [
+      "Boris Daszuta",
+      "Sebastiano Bernuzzi",
+      "Joan Fontbuté",
+      "Ruocheng Zhai",
+      "Alan Tsz-Lok Lam",
+      "Jacob Fields",
+      "David Radice"
+    ],
+    "link": "https://arxiv.org/abs/2605.30430"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.30665",
+    "title": "Quantification of the parameter estimation error from Rotating Core Collapse supernovae",
+    "authors": [
+      "Claudia Moreno",
+      "Javier M. Antelis",
+      "Michele Zanolin"
+    ],
+    "link": "https://arxiv.org/abs/2605.30665"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.31585",
+    "title": "Stability and instability of torus-symmetric Einstein spacetimes with square-integrable connection",
+    "authors": [
+      "Bruno Le Floch",
+      "Philippe G. LeFloch"
+    ],
+    "link": "https://arxiv.org/abs/2605.31585"
+  }
+]
