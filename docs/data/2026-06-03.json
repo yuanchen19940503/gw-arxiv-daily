@@ -1,0 +1,80 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.02689",
+    "title": "Thermal Metastable Strings in One-Scale Models and Gravitational Waves",
+    "authors": [
+      "Arturo de Giorgi",
+      "James Ingoldby",
+      "Valentin V. Khoze",
+      "Jessica Turner"
+    ],
+    "link": "https://arxiv.org/abs/2606.02689"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.03008",
+    "title": "The decay rate of metastable cosmic strings beyond the thin-string approximation",
+    "authors": [
+      "Valerie Domcke",
+      "Yu Hamada"
+    ],
+    "link": "https://arxiv.org/abs/2606.03008"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.02912",
+    "title": "Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures",
+    "authors": [
+      "Waleed Esmail",
+      "Stuart Russell",
+      "Jana Klinge",
+      "Alexander Kappes",
+      "Christine Thomas"
+    ],
+    "link": "https://arxiv.org/abs/2606.02912"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.03346",
+    "title": "Model-Independent Search Discards Faint Lensed-Pairs of Gravitational Wave Events in the Sub-Threshold Candidates of GWTC-4",
+    "authors": [
+      "Aniruddha Chakraborty",
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2606.03346"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.03634",
+    "title": "Model-independent H0 from GWTC-4 standard sirens and TDCOSMO 2025 strong lensing time delays",
+    "authors": [
+      "En-Yu Xiong",
+      "Ji-Yu Song",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2606.03634"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.03776",
+    "title": "Targeting black holes from metal-poor progenitors with next-generation gravitational-wave detectors",
+    "authors": [
+      "Federico Leto di Priolo",
+      "Martyna Chruślińska",
+      "Davide Gerosa"
+    ],
+    "link": "https://arxiv.org/abs/2606.03776"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.02690",
+    "title": "Speed and accuracy for long signals: Frequency-domain effective-one-body waveforms for compact binary coalescences",
+    "authors": [
+      "Marcus Haberland",
+      "Alessandra Buonanno"
+    ],
+    "link": "https://arxiv.org/abs/2606.02690"
+  }
+]
