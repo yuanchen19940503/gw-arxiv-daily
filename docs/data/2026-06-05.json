@@ -1,0 +1,174 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.05320",
+    "title": "Gravitational Wave Imprints of a High-Quality Axion and the Origin of Flavor Hierarchies",
+    "authors": [
+      "K.S. Babu",
+      "Sai Charan Chandrasekar",
+      "Sudip Jana",
+      "Sudip Manna"
+    ],
+    "link": "https://arxiv.org/abs/2606.05320"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.05322",
+    "title": "How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources",
+    "authors": [
+      "Floor S. Broekgaarden",
+      "Ana Lam",
+      "Sasha Levina",
+      "Jakub Klencki",
+      "Kyle A. Rocha",
+      "Lieke van Son",
+      "Steffani M. Grondin",
+      "Monica Gallegos-Garcia",
+      "Brian D. Metzger",
+      "Enrico Ramirez-Ruiz",
+      "Angela Twum",
+      "Melanie Santiago",
+      "Julia Haynes",
+      "Tyler B. Smith",
+      "Amedeo Romagnolo",
+      "Edo Berger",
+      "Lucas M. de Sá"
+    ],
+    "link": "https://arxiv.org/abs/2606.05322"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.05808",
+    "title": "Galaxy morphology dependent (black hole mass)-(velocity dispersion) relations: implications for gravitational wave forecasts and cosmological simulations",
+    "authors": [
+      "Alister W. Graham"
+    ],
+    "link": "https://arxiv.org/abs/2606.05808"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.06471",
+    "title": "Analytic insight into the physics of SASI II. Spiral instability of the prograde mode in a rotating stellar core",
+    "authors": [
+      "T. Foglizzo"
+    ],
+    "link": "https://arxiv.org/abs/2606.06471"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.05959",
+    "title": "Narrow spectral artifact investigation and mitigation in LIGO data from the fourth LIGO-Virgo-KAGRA observing run",
+    "authors": [
+      "E. Goetz",
+      "A. Neunzert",
+      "A. M. Knee",
+      "A. Calafat",
+      "X. Fan",
+      "J-R. Mérou",
+      "K. A. Pham",
+      "T. Starkman",
+      "N. Aggarwal",
+      "Z. Bhalla",
+      "P. Baxi",
+      "J. Bayley",
+      "Y. Bu",
+      "J. B. Carlin",
+      "P. Charlton",
+      "X. Chen",
+      "G. Cheng",
+      "T. Cheunchitra",
+      "N. Christensen",
+      "A. Claveus",
+      "C. M. Compton",
+      "M. W. Coughlin",
+      "F. De Lillo",
+      "L. Dunn",
+      "S. E. Dwyer",
+      "A. Effler",
+      "T. A. Ferreira",
+      "B Finkel",
+      "P. Goodarzi",
+      "A. E. Granados",
+      "H. Guo",
+      "C. Hsiung",
+      "K. Janssens",
+      "S. Kandhasamy",
+      "K. Kawabe",
+      "Y.-M. Kim",
+      "T. Kimpson",
+      "R. Krismer",
+      "M. Lalleman",
+      "Y. S. C. Lee",
+      "N. K. Y. Low",
+      "J. C. Martins",
+      "H. Middleton",
+      "C.-A. Miritescu",
+      "D. Nykamp",
+      "J. O'Leary",
+      "A. Renzini",
+      "K. Riles",
+      "A. Romero-Rodríguez",
+      "J. R. Sanders",
+      "R. M. S. Schofield",
+      "D. Singh",
+      "D. Singh",
+      "R. Slocum",
+      "Q. Song",
+      "J. Suresh",
+      "S. Suyamprakasam",
+      "J. D. Tasson",
+      "A. Tripathee",
+      "A. F. Vargas",
+      "A. Wang",
+      "K. Wu",
+      "J. Yee",
+      "J. Yi",
+      "Z. Zhang",
+      "O4 LIGO Detector authors"
+    ],
+    "link": "https://arxiv.org/abs/2606.05959"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.06237",
+    "title": "Sensitivity Limits and Operational Threshold Calibration for DINOv2-based Gravitational-Wave Glitch Characterization: A Strain-Domain Mock Data Challenge on LIGO O4a",
+    "authors": [
+      "Luca Cirfeta"
+    ],
+    "link": "https://arxiv.org/abs/2606.06237"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.06376",
+    "title": "Detecting Tidal Resonances in Binary Neutron Stars",
+    "authors": [
+      "Fabian Gittins",
+      "Harsh Narola",
+      "Thibeau Wouters",
+      "Peter T. H. Pang",
+      "Tanja Hinderer",
+      "Chris Van Den Broeck"
+    ],
+    "link": "https://arxiv.org/abs/2606.06376"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.06478",
+    "title": "Short Gravitational-Wave Transients as Probes of Cosmic Domain Walls",
+    "authors": [
+      "Tore Boybeyi",
+      "Doga Veske",
+      "David Maibach"
+    ],
+    "link": "https://arxiv.org/abs/2606.06478"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.06209",
+    "title": "The first decade of gravitational-wave measurements of black hole spins",
+    "authors": [
+      "Sylvia Biscoveanu"
+    ],
+    "link": "https://arxiv.org/abs/2606.06209"
+  }
+]
