@@ -1,0 +1,93 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.12049",
+    "title": "Searching for cosmic vortices",
+    "authors": [
+      "Marek Nikołajuk",
+      "Tomasz Karpiuk",
+      "Mirosław Brewczyk"
+    ],
+    "link": "https://arxiv.org/abs/2606.12049"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.11294",
+    "title": "Intermediate States in Chaotic Triple Evolution and Applications to Black Hole Merger Statistics",
+    "authors": [
+      "Dina Meylakh",
+      "Nicholas C. Stone",
+      "Nathan W.C. Leigh"
+    ],
+    "link": "https://arxiv.org/abs/2606.11294"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.11413",
+    "title": "Linearized stability of T-duality quantum-inspired thin-shell wormholes",
+    "authors": [
+      "Francisco S.N. Lobo",
+      "Manuel E. Rodrigues"
+    ],
+    "link": "https://arxiv.org/abs/2606.11413"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.11504",
+    "title": "Statistical-Uncertainty-Driven Selection of Evaluation Frequency for Time-Dependent Sensing Calibration: A Demonstration with KAGRA Data",
+    "authors": [
+      "Shingo Hido",
+      "Takahiro Yamamoto",
+      "Dan Chen",
+      "Takahiro Sawada",
+      "Shinji Miyoki"
+    ],
+    "link": "https://arxiv.org/abs/2606.11504"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.11595",
+    "title": "Wavelet-Based Extraction of Transient Noise in Gravitational-Wave Interferometers using a Saliency-Guided Learning Architecture",
+    "authors": [
+      "Christopher Allene",
+      "Dhruv Kumar",
+      "Yusuke Sakai",
+      "Marco Meyer-Conde",
+      "Hirotaka Takahashi"
+    ],
+    "link": "https://arxiv.org/abs/2606.11595"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.11705",
+    "title": "Horizon absorption in eccentric precessing binary black hole inspirals and its importance for gravitational wave data analysis",
+    "authors": [
+      "Alberto Álvaro-Díaz",
+      "Gonzalo Morras"
+    ],
+    "link": "https://arxiv.org/abs/2606.11705"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.11297",
+    "title": "Bouncing Geodesics, Singularities, and the Cavity Thermal Product Formula in Asymptotically Flat and de Sitter Black Holes",
+    "authors": [
+      "Sašo Grozdanov",
+      "Vita Movrin",
+      "Samuel Valach"
+    ],
+    "link": "https://arxiv.org/abs/2606.11297"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.11728",
+    "title": "Periodic orbits as probes of charged loop quantum gravity black holes through gravitational waves",
+    "authors": [
+      "Abolhassan Mohammadi",
+      "Arun Kumar",
+      "Hongwei Tan",
+      "Sushant G. Ghosh"
+    ],
+    "link": "https://arxiv.org/abs/2606.11728"
+  }
+]
