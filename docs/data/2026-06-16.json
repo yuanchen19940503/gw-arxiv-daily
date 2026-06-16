@@ -1,0 +1,132 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.13728",
+    "title": "\\textsc{SPLIT}: a robust semi-coherent inference pipeline for long-inspiral gravitational-wave sources",
+    "authors": [
+      "Shubham Kejriwal"
+    ],
+    "link": "https://arxiv.org/abs/2606.13728"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.14852",
+    "title": "Intermediate-mass black hole seeding in galactic nuclei from star cluster migration",
+    "authors": [
+      "Stefano Torniamenti",
+      "Nils Hoyer",
+      "Nadine Neumayer",
+      "Peter J. Smith",
+      "Manuel Arca Sedda"
+    ],
+    "link": "https://arxiv.org/abs/2606.14852"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.15316",
+    "title": "Particle and Gravitational Wave Probes of Minimal Seesaw Neutrinos",
+    "authors": [
+      "Sanjoy Mandal",
+      "Rishav Roshan",
+      "Jose W. F. Valle"
+    ],
+    "link": "https://arxiv.org/abs/2606.15316"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.15961",
+    "title": "Axion-Sourced Gravitational Waves in $\\mathrm{B\\!-\\!L}$ Hybrid Inflation",
+    "authors": [
+      "Ahmed Ayad",
+      "Shaaban Khalil"
+    ],
+    "link": "https://arxiv.org/abs/2606.15961"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.16099",
+    "title": "LIGO, LISA and Ultralight Axion-like Dark Matter",
+    "authors": [
+      "Lawrence M. Krauss"
+    ],
+    "link": "https://arxiv.org/abs/2606.16099"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.14894",
+    "title": "Tidal Stripping of Matter Bound to the Secondary in Extreme Mass-Ratio Inspirals",
+    "authors": [
+      "Sreejith Nair",
+      "Sayak Datta"
+    ],
+    "link": "https://arxiv.org/abs/2606.14894"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.15150",
+    "title": "Eccentricity in Disguise? Insights from GW231123 and Numerically Simulated Binary Black Hole Merger Signals",
+    "authors": [
+      "Koustav Chandra",
+      "Johann Fernandes",
+      "Akshita Mittal",
+      "Gregorio Carullo"
+    ],
+    "link": "https://arxiv.org/abs/2606.15150"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.15387",
+    "title": "Mapping Domain-Wall Bayesian Reconstruction with LISA",
+    "authors": [
+      "Satyabrata Datta",
+      "Rome Samanta"
+    ],
+    "link": "https://arxiv.org/abs/2606.15387"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.15844",
+    "title": "Multi-band cross-correlation dark sirens: Enhancing cosmological parameter and gravitational-wave bias constraints",
+    "authors": [
+      "Ji-Yu Song",
+      "Ya-Nan Du",
+      "Yue-Yan Dong",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2606.15844"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.16296",
+    "title": "Ultraviolet Structure of Real-time Gravitational Wave Linear Response in a Resonant Scalar Field",
+    "authors": [
+      "Han Lai",
+      "Atsuhisa Ota"
+    ],
+    "link": "https://arxiv.org/abs/2606.16296"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.15295",
+    "title": "Probing $\\boldsymbolΛ$CDM-mimicking $\\boldsymbol{f(Q)}$ gravity model using gravitational waves from compact binary coalescences",
+    "authors": [
+      "Sikha Gogoi",
+      "Umananda Dev Goswami"
+    ],
+    "link": "https://arxiv.org/abs/2606.15295"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.16280",
+    "title": "Gravitational waveforms from periodic orbits around Gauss-Bonnet black holes",
+    "authors": [
+      "Yi-Han Huang",
+      "Sen Guo",
+      "Yu Liang",
+      "Lin Wen",
+      "Kai Lin"
+    ],
+    "link": "https://arxiv.org/abs/2606.16280"
+  }
+]
