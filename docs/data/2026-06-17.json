@@ -1,0 +1,124 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.17136",
+    "title": "The Lazuli Space Observatory: Opportunities for time-domain and multi-messenger astronomy",
+    "authors": [
+      "T. Wevers",
+      "T.J. Maccarone",
+      "A. Palmese",
+      "D.J. Sand",
+      "S. Gezari",
+      "L. Rivera Sandoval",
+      "J. DiPalma",
+      "G. Hosseinzadeh",
+      "T.J. Hoyt",
+      "M. Karmen",
+      "J. Kennea",
+      "K. Kunnumkai",
+      "S. Perlmutter",
+      "M. Rigault",
+      "A. Roy",
+      "G. Stefansson",
+      "F. Yang Yang"
+    ],
+    "link": "https://arxiv.org/abs/2606.17136"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.18081",
+    "title": "The Chirp-Mass Ladder: A New Rung Emerges",
+    "authors": [
+      "Vaibhav Tiwari"
+    ],
+    "link": "https://arxiv.org/abs/2606.18081"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.17137",
+    "title": "Improving low-latency multi-messenger follow-up of neutron star-black hole mergers with mode-by-mode filtering",
+    "authors": [
+      "Francesco Iacovelli",
+      "Digvijay Wadekar",
+      "Javier Roulet",
+      "Emanuele Berti",
+      "Alessandra Corsi"
+    ],
+    "link": "https://arxiv.org/abs/2606.17137"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.17214",
+    "title": "CASPER: Interpretable ResNet based Classifier with FastShap Explainer for Gravitational Wave Detection",
+    "authors": [
+      "R. Rai",
+      "R. Verma",
+      "Somya"
+    ],
+    "link": "https://arxiv.org/abs/2606.17214"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.17617",
+    "title": "Synergy between CSST and future gravitational-wave detectors: Probing primordial black holes by cross-correlating dark sirens with galaxies",
+    "authors": [
+      "Ya-Nan Du",
+      "Ji-Yu Song",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2606.17617"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.17765",
+    "title": "Effective description of lensed gravitational waves diffracted by stellar fields",
+    "authors": [
+      "Miguel Zumalacárregui",
+      "Xikai Shan"
+    ],
+    "link": "https://arxiv.org/abs/2606.17765"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.18184",
+    "title": "Beyond Plane Waves: Coherent Network Response to Collimated Gravitational-Wave Wavepackets",
+    "authors": [
+      "S. D. Campos"
+    ],
+    "link": "https://arxiv.org/abs/2606.18184"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.18241",
+    "title": "A Joint Optimal Search for Gravitational Waves from Resolved and Unresolved Supermassive Binary Black Holes with Pulsar Timing Arrays",
+    "authors": [
+      "Boris Goncharov",
+      "Gabriela Sato-Polito",
+      "Xiaoming Bi",
+      "Matias Zaldarriaga"
+    ],
+    "link": "https://arxiv.org/abs/2606.18241"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.17178",
+    "title": "Exciting the Vacuum: Non-Thermal Particle Bursts and Multi-Messenger Signals from Binary Black Holes",
+    "authors": [
+      "Sohrab Rahvar"
+    ],
+    "link": "https://arxiv.org/abs/2606.17178"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.17752",
+    "title": "Intrinsic handedness in O1-O4a black-hole mergers: probing orbital precession, remnant retention in dense environments and cosmological mirror asymmetry",
+    "authors": [
+      "Juan Calderón Bustillo",
+      "Adrián del Rio",
+      "Nicolás Sanchis-Gual",
+      "Koustav Chandra"
+    ],
+    "link": "https://arxiv.org/abs/2606.17752"
+  }
+]
