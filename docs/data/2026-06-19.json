@@ -1,0 +1,144 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.19403",
+    "title": "Emergent Gauge Symmetries in Particle Physics and Cosmology",
+    "authors": [
+      "Steven D. Bass"
+    ],
+    "link": "https://arxiv.org/abs/2606.19403"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.20021",
+    "title": "A Whisper from Within: Response of a Pulsar Timing Array to an Internal Gravitational-wave Source",
+    "authors": [
+      "Houyuan Qi",
+      "Xian Chen",
+      "Lin Wang",
+      "Kuo Liu"
+    ],
+    "link": "https://arxiv.org/abs/2606.20021"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.20171",
+    "title": "High-accuracy polarimetry for CMB: new frontiers with the POLOCALC project",
+    "authors": [
+      "A. Novelli",
+      "F. Astori",
+      "L. Bizzarri",
+      "F. Cacciotti",
+      "G. Cattaneo",
+      "G. Coppi",
+      "N. Dachlythra",
+      "I. Karaaslan",
+      "N. Mezzanzanica",
+      "F. Nati",
+      "M. Zannoni"
+    ],
+    "link": "https://arxiv.org/abs/2606.20171"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.19446",
+    "title": "Dynamical Tidal Response of Neutron Stars: from Effective Field Theory to Gravitational Waveforms",
+    "authors": [
+      "Thomas Apostolidis",
+      "Valerio De Luca",
+      "Leonardo Gualtieri",
+      "Takuya Katagiri",
+      "Paolo Pani",
+      "Luca Santoni"
+    ],
+    "link": "https://arxiv.org/abs/2606.19446"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.19513",
+    "title": "Reheating as a variational probe of cosmological observables",
+    "authors": [
+      "Jinn-Ouk Gong"
+    ],
+    "link": "https://arxiv.org/abs/2606.19513"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.19757",
+    "title": "Graviton Floor",
+    "authors": [
+      "Himeka Matsuo",
+      "Asuka Ito",
+      "Kazunori Kohri",
+      "Teruaki Suyama",
+      "Ryutaro Tomomatsu"
+    ],
+    "link": "https://arxiv.org/abs/2606.19757"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.19907",
+    "title": "NNNN: Neural Networks for Newtonian Noise Mitigation at the Einstein Telescope",
+    "authors": [
+      "Jan Kelleter",
+      "Patrick Schillings",
+      "Jonathan Kuckert",
+      "David Bertram",
+      "Markus Bachlechner",
+      "Achim Stahl",
+      "Johannes Erdmann"
+    ],
+    "link": "https://arxiv.org/abs/2606.19907"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.19995",
+    "title": "Finite-Core Signatures in LISA-Band Wave-Optics Lensing by Low-Mass Dark Matter Halos",
+    "authors": [
+      "Dejiang Li",
+      "Tonghua Liu",
+      "Kai Liao",
+      "Beining Xia",
+      "Cuihong Wen",
+      "Jieci Wang"
+    ],
+    "link": "https://arxiv.org/abs/2606.19995"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.20269",
+    "title": "An explicit and differentiable Wilson-Daubechies-Meyer transform for gravitational-wave data analysis",
+    "authors": [
+      "Avi Vajpeyi",
+      "Giorgio Mentasti",
+      "Quentin Baghi",
+      "Ollie Burke",
+      "Lorenzo Speri"
+    ],
+    "link": "https://arxiv.org/abs/2606.20269"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.20392",
+    "title": "Phase Transitions and Gravitational Wave Production at the End of Thermal Inflation",
+    "authors": [
+      "Hyukjung Kim",
+      "İlayda Kuzu",
+      "Kerem Özsoy",
+      "Zeynep Kahraman",
+      "Wan-Il Park",
+      "Heeseung Zoe"
+    ],
+    "link": "https://arxiv.org/abs/2606.20392"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.19435",
+    "title": "Deriving effective descriptions and signal predictions for dynamical gravitational systems",
+    "authors": [
+      "Steven B. Giddings",
+      "Madhur Mehta"
+    ],
+    "link": "https://arxiv.org/abs/2606.19435"
+  }
+]
