@@ -1,0 +1,331 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.20883",
+    "title": "Molecular cloud dispersal traced by the ionized carbon 158 micron line",
+    "authors": [
+      "L. Bonne",
+      "N. Schneider",
+      "S. Dannhauer",
+      "E. Keilmann",
+      "J.M. Jackson",
+      "R. Simon",
+      "A.G.G.M. Tielens",
+      "E. Chambers",
+      "C. Buchbender",
+      "J. L. Verbena",
+      "S. Kabanovic",
+      "T. Faerber",
+      "L. D. Anderson",
+      "R. Guesten",
+      "A.M. Jacob",
+      "C. Guevara",
+      "F. Wyrowski"
+    ],
+    "link": "https://arxiv.org/abs/2606.20883"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.21380",
+    "title": "Theoretical consistency and phenomenology of supercooled cosmological phase transitions",
+    "authors": [
+      "Maciej Kierkla"
+    ],
+    "link": "https://arxiv.org/abs/2606.21380"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.23305",
+    "title": "When the black holes align: a subpopulation of aligned massive binary black holes observed via gravitational waves",
+    "authors": [
+      "Stefano Rinaldi",
+      "Charmaine Wong",
+      "M. Paola Vaccaro",
+      "Elvir Mislimi",
+      "Otto A. Hannuksela",
+      "Samson H. W. Leong",
+      "Michela Mapelli"
+    ],
+    "link": "https://arxiv.org/abs/2606.23305"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.20787",
+    "title": "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio",
+    "authors": [
+      "Mudit Garg",
+      "Alessia Franchini",
+      "Alessandro Lupi"
+    ],
+    "link": "https://arxiv.org/abs/2606.20787"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.20885",
+    "title": "Radio Follow Up of a Sub-threshold GRB in the Sky Localization Area of GW241125",
+    "authors": [
+      "Natalie Gottschlich",
+      "Alessandra Corsi",
+      "S. Bradley Cenko",
+      "Divyajyoti",
+      "James DeLaunay",
+      "Derek B. Fox",
+      "Tanner O'Dwyer",
+      "Samuele Ronchini"
+    ],
+    "link": "https://arxiv.org/abs/2606.20885"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.21076",
+    "title": "Population-level correlations in Bayesian statistics: an illustrative model for gravitational-wave astronomy",
+    "authors": [
+      "Caroline B. Owen",
+      "Alexandre Toubiana",
+      "Davide Gerosa"
+    ],
+    "link": "https://arxiv.org/abs/2606.21076"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.21402",
+    "title": "A New Scaling of Neutron Star Tidal Deformability for Directly Probing the Core Equation of State",
+    "authors": [
+      "Jian-Hao Shi",
+      "Bao-Jun Cai",
+      "Bao-An Li",
+      "Yu-Gang Ma"
+    ],
+    "link": "https://arxiv.org/abs/2606.21402"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.21439",
+    "title": "Relativistic effects in extreme-mass-ratio inspirals within scalar clouds: Eccentric and inclined orbits",
+    "authors": [
+      "Qi-Xuan Xu",
+      "Richard Brito",
+      "Riccardo Della Monica",
+      "Rodrigo Vicente",
+      "Chen Yuan"
+    ],
+    "link": "https://arxiv.org/abs/2606.21439"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.21519",
+    "title": "Wave-optics imprints of dark matter subhalos on strongly lensed gravitational waves. II. Saddle images and detectability",
+    "authors": [
+      "Shin'ichiro Ando"
+    ],
+    "link": "https://arxiv.org/abs/2606.21519"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.22266",
+    "title": "Fast targeted gravitational-wave followup search for compact binary mergers using GSTLAL pipeline",
+    "authors": [
+      "Leo Tsukada",
+      "Noah Zhang",
+      "Surabhi Sachdev",
+      "Shomik Adhicary",
+      "Chad Hanna",
+      "Prathamesh Joshi",
+      "Divya Singh"
+    ],
+    "link": "https://arxiv.org/abs/2606.22266"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.22985",
+    "title": "Orientation matters: Consequences for gravitational-wave background detectability",
+    "authors": [
+      "Nelson Christensen",
+      "Joseph D.Romano",
+      "Mairi Sakellariadou",
+      "Jishnu Suresh"
+    ],
+    "link": "https://arxiv.org/abs/2606.22985"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.20730",
+    "title": "Scalar-scalar-tensor interaction in DHOST theories",
+    "authors": [
+      "S. Mironov",
+      "V. Volkova"
+    ],
+    "link": "https://arxiv.org/abs/2606.20730"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21029",
+    "title": "An open-source numerical tool for rational orbits and gravitational radiation in static spherically symmetric spacetimes",
+    "authors": [
+      "Dan Li",
+      "Shiyang Hu",
+      "Chen Deng",
+      "Shijie Tan",
+      "Guansheng He"
+    ],
+    "link": "https://arxiv.org/abs/2606.21029"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21473",
+    "title": "The WDM Time-Frequency Transform in Gravitational-Wave Data Analysis I: Formalism",
+    "authors": [
+      "Aaron Johnson",
+      "Katerina Chatziioannou",
+      "Jake Summers"
+    ],
+    "link": "https://arxiv.org/abs/2606.21473"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21549",
+    "title": "Binary Black Hole Coalescence and the Dynamics of Scalar Hair in Einstein-Maxwell-Scalar Theory",
+    "authors": [
+      "Jean Pierre Díaz",
+      "P. A. González",
+      "Eleftherios Papantonopoulos",
+      "Yerko Vásquez"
+    ],
+    "link": "https://arxiv.org/abs/2606.21549"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21805",
+    "title": "Mirror Symmetry and Double Signature Change",
+    "authors": [
+      "Tevian Dray",
+      "Charles Hellaby"
+    ],
+    "link": "https://arxiv.org/abs/2606.21805"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21835",
+    "title": "Quantum Memory in Scalar-Induced Gravitational Waves",
+    "authors": [
+      "Waqas Ahmed"
+    ],
+    "link": "https://arxiv.org/abs/2606.21835"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.21901",
+    "title": "Entanglement, Discord, and Residual Coherence in Scalar-Induced Gravitational Waves",
+    "authors": [
+      "Waqas Ahmed"
+    ],
+    "link": "https://arxiv.org/abs/2606.21901"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.22531",
+    "title": "Steering a warp drive without exotic matter",
+    "authors": [
+      "An T. Le"
+    ],
+    "link": "https://arxiv.org/abs/2606.22531"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.22979",
+    "title": "Observations of Low-Energy-Electron Production and Experimental Characterization of the Test-Mass Charging Process in the LISA Gravitational Reference Sensor with the BART Experiment",
+    "authors": [
+      "Francesco Dimiccoli",
+      "Francesco Venturelli",
+      "Valerio Ferroni",
+      "Antonella Cavalleri",
+      "Teodoro Klaser",
+      "Matteo Tomasi",
+      "Davide Dal Bosco",
+      "Enrico Verroi",
+      "Rita Dolesi William J. Weber"
+    ],
+    "link": "https://arxiv.org/abs/2606.22979"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23021",
+    "title": "Periodic Timelike Motion and Gravitational Wave Signatures around a Magnetically Charged Black Hole Surrounded by Quintessence",
+    "authors": [
+      "R. H. Ali"
+    ],
+    "link": "https://arxiv.org/abs/2606.23021"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23035",
+    "title": "MaxWave Signal: Rapid, coherent maximum likelihood wavelet reconstruction of transient signals in gravitational wave data",
+    "authors": [
+      "Sudhi Mathur",
+      "Neil J. Cornish"
+    ],
+    "link": "https://arxiv.org/abs/2606.23035"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23056",
+    "title": "Polarization States and Effective Stress Energy Tensor of Gravitational Waves in Metric $f(R)$ Gravity",
+    "authors": [
+      "Sakshi Srivastava",
+      "Utkal Keshari Dash",
+      "Murli Manohar Verma"
+    ],
+    "link": "https://arxiv.org/abs/2606.23056"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23415",
+    "title": "High-Stability Deformable Mirrors for Correcting Non-Axisymmetric Residual Aberrations in Thermal Compensation of Future Gravitational Wave Interferometers",
+    "authors": [
+      "Luciano Antonio Corubolo",
+      "Matteo Lorenzini",
+      "Lorenzo Aiello",
+      "Elisabetta Cesarini",
+      "Maria Cifaldi",
+      "Matteo Ianni",
+      "Diana Lumaca",
+      "Yury Minenkov",
+      "Ilaria Nardecchia",
+      "Alessio Rocchi",
+      "Claudia Taranto",
+      "Viviana Fafone"
+    ],
+    "link": "https://arxiv.org/abs/2606.23415"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23418",
+    "title": "Spacetime torsion fixes the mass and spin of gravitationally produced dark matter",
+    "authors": [
+      "Roh-Suan Tung"
+    ],
+    "link": "https://arxiv.org/abs/2606.23418"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23447",
+    "title": "Dark matter from the quadratic spinor Lagrangian I: Geometric mass for a gravitationally produced spin-1/2 fermion",
+    "authors": [
+      "Roh-Suan Tung"
+    ],
+    "link": "https://arxiv.org/abs/2606.23447"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.23635",
+    "title": "Equatorial Periodic Orbits and Gravitational Wave Phenomenology around Spherically-symmetric vacuum solution in Freund-Nambu scalar-tensor gravity",
+    "authors": [
+      "Dhruba Jyoti Gogoi",
+      "Jyatsnasree Bora",
+      "Himanshu Chaudhary",
+      "M. Yousaf",
+      "G. Mustafa"
+    ],
+    "link": "https://arxiv.org/abs/2606.23635"
+  }
+]
