@@ -1,0 +1,175 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.23787",
+    "title": "Multi-peaked high-frequency gravitational waves from PBH-assisted leptogenesis",
+    "authors": [
+      "Debasish Borah",
+      "Nayan Das"
+    ],
+    "link": "https://arxiv.org/abs/2606.23787"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.23926",
+    "title": "Detection of relativistic orbital deformation from improved timing of PSR J1757$-$1854",
+    "authors": [
+      "Jaikhomba Singha",
+      "Vivek Venkatraman Krishnan",
+      "Marisa Geyer",
+      "Victoria Blackmon",
+      "Paulo Freire",
+      "Norbert Wex",
+      "Maura McLaughlin",
+      "Michael Kramer",
+      "Amanda Weltman",
+      "David Champion",
+      "Matthew Bailes",
+      "Sarah Buchner",
+      "Fernando Camilo",
+      "Andrea Possenti",
+      "Maciej Serylak"
+    ],
+    "link": "https://arxiv.org/abs/2606.23926"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.24111",
+    "title": "Constant-Roll Inflation: Analytical Formulae for Power Spectrum and Implications for Induced Gravitational Waves",
+    "authors": [
+      "Hayato Motohashi",
+      "Shi Pi",
+      "Yuichiro Tada",
+      "Jianing Wang"
+    ],
+    "link": "https://arxiv.org/abs/2606.24111"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.24149",
+    "title": "A Novel Arm-Length Stabilization Scheme for Gravitational-Wave Detectors with AlGaAs/GaAs Coated Mirrors",
+    "authors": [
+      "Jian Liu",
+      "Juntao Pan",
+      "Carl Blair",
+      "Chiara Di Fronzo",
+      "Li Ju",
+      "Chunnong Zhao",
+      "Sheon S. Y. Chua",
+      "Bram J. J. Slagmolen",
+      "Nutsinee Kijbunchoo",
+      "David Ottaway"
+    ],
+    "link": "https://arxiv.org/abs/2606.24149"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.24846",
+    "title": "Using SKAO to Understand the Clustering of Gravitational Wave Sources",
+    "authors": [
+      "Michele Bosi",
+      "Sarah Libanore",
+      "Nicola Bellomo",
+      "Caterina Scarpel",
+      "Federico Semenzato",
+      "Alvise Raccanelli",
+      "Michele Liguori"
+    ],
+    "link": "https://arxiv.org/abs/2606.24846"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.24868",
+    "title": "Exploring Gravitational Wave Signatures Due to Primordial Non-gaussianity and Large Scale Structure Using SKAO",
+    "authors": [
+      "H. V. Ragavendra",
+      "Giulia Capurri",
+      "Alina Mierna",
+      "Gabriele Perna",
+      "Federico Semenzato",
+      "Nicola Bartolo",
+      "Daniele Bertacca",
+      "Lorenzo Valbusa Dall'Armi",
+      "Sabino Matarrese",
+      "Matteo Pegorin",
+      "Angelo Ricciardone"
+    ],
+    "link": "https://arxiv.org/abs/2606.24868"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.23773",
+    "title": "Modern tidal interaction models for rapid binary population synthesis: II. Binary black hole formation, mergers, and spins",
+    "authors": [
+      "Veome Kapil",
+      "Ilya Mandel",
+      "Jeff Riley",
+      "Evgeni Grishin",
+      "Jim Fuller",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2606.23773"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.23786",
+    "title": "A Collapsar-Disk Origin for GW190814",
+    "authors": [
+      "Vishal Baibhav",
+      "Brian D. Metzger",
+      "Lam Hui"
+    ],
+    "link": "https://arxiv.org/abs/2606.23786"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.23788",
+    "title": "Red vs. Blue: How metallicity shapes black hole dynamics and mergers in dense star clusters",
+    "authors": [
+      "Saloni Agrawal",
+      "Kyle Kremer",
+      "Michael Zevin",
+      "Cailin Plunkett",
+      "Elena González Prieto",
+      "Fulya Kıroğlu",
+      "Christopher E. O'Connor",
+      "Frederic A. Rasio",
+      "Claire S. Ye"
+    ],
+    "link": "https://arxiv.org/abs/2606.23788"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.23816",
+    "title": "A thorough investigation of cross-correlation estimators for stochastic gravitational-wave background searches in ground-based detector data",
+    "authors": [
+      "Haowen Zhong",
+      "Joseph D. Romano",
+      "Vuk Mandic",
+      "Shivaraj Kandhasamy",
+      "Arianna I. Renzini"
+    ],
+    "link": "https://arxiv.org/abs/2606.23816"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.23846",
+    "title": "Primordial Black Holes: A Review of Formation and Evolution",
+    "authors": [
+      "S. Shankaranarayanan",
+      "Soumya Bhattacharya",
+      "Archit Vidyarthi"
+    ],
+    "link": "https://arxiv.org/abs/2606.23846"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.24070",
+    "title": "Nanohertz gravitational waves from domain walls nucleated during inflation",
+    "authors": [
+      "Zhi-Yong Huang",
+      "Tie-Jun Gao"
+    ],
+    "link": "https://arxiv.org/abs/2606.24070"
+  }
+]
