@@ -1,0 +1,120 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.24992",
+    "title": "Synergies Between Pulsar Timing Array and Astrometry",
+    "authors": [
+      "Gabriele Perna",
+      "Nicola Bellomo",
+      "Daniele Bertacca"
+    ],
+    "link": "https://arxiv.org/abs/2606.24992"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.25020",
+    "title": "Multi-messenger and Multi-band Studies of Massive Black Holes: the Synergies Between LISA and SKAO",
+    "authors": [
+      "Pedro R. Capelo",
+      "Alberto Mangiagli",
+      "Lorenz Zwick",
+      "Lucio Mayer",
+      "Marta Volonteri"
+    ],
+    "link": "https://arxiv.org/abs/2606.25020"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.25030",
+    "title": "Formation of Black Hole-White Dwarf X-ray Binaries in Globular Clusters",
+    "authors": [
+      "William Y. W. Yang",
+      "Kyle Kremer",
+      "James C. Lombardi Jr.",
+      "Kristen C. Dage"
+    ],
+    "link": "https://arxiv.org/abs/2606.25030"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.25845",
+    "title": "Probing Kinematic Anisotropies in the Stochastic Gravitational Wave Background with the SKA",
+    "authors": [
+      "N. M. J. Cruz",
+      "Ameek Malhotra",
+      "Gianmassimo Tasinato",
+      "Ivonne Zavala"
+    ],
+    "link": "https://arxiv.org/abs/2606.25845"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.26011",
+    "title": "Cosmology from Synergies Between SKAO Surveys and Gravitational Wave Observations",
+    "authors": [
+      "Tessa Baker",
+      "Alberto Colombo",
+      "Steven Cunnington",
+      "Ulyana Dupletsa",
+      "José Fonseca",
+      "Ian Harrison",
+      "Konstantin Leyde",
+      "Simone Mastrogiovanni",
+      "Riccardo Murgia",
+      "Dounia Nanadoumgar-Lacroze",
+      "Tommaso Ronconi",
+      "Giulio Scelfo",
+      "Matteo Schulz",
+      "Marta Spinelli"
+    ],
+    "link": "https://arxiv.org/abs/2606.26011"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.25304",
+    "title": "Constraints on Line-of-Sight Acceleration from O1-O4",
+    "authors": [
+      "Labani Roy",
+      "Alexander H. Nitz"
+    ],
+    "link": "https://arxiv.org/abs/2606.25304"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.25671",
+    "title": "Exploring Gravitational Wave Science Frontiers with the SKAO",
+    "authors": [
+      "Nicola Bellomo",
+      "Philippa Cole"
+    ],
+    "link": "https://arxiv.org/abs/2606.25671"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.25702",
+    "title": "DANTE: A Reference-Guided Unsupervised Pipeline for Extended-Transient Anomaly Characterization in LIGO O4a",
+    "authors": [
+      "Luca Cirfeta"
+    ],
+    "link": "https://arxiv.org/abs/2606.25702"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.25773",
+    "title": "Temporal Correlation Statistic for Intrinsic Phase Fluctuation in Double White Dwarf Gravitational-Wave Signals",
+    "authors": [
+      "Naoki Seto"
+    ],
+    "link": "https://arxiv.org/abs/2606.25773"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.25792",
+    "title": "Separability of the motion of spinning test particles in curved space-time",
+    "authors": [
+      "Vojtěch Witzany",
+      "Viktor Skoupý"
+    ],
+    "link": "https://arxiv.org/abs/2606.25792"
+  }
+]
