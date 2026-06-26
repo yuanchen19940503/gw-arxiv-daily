@@ -1,0 +1,151 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.26262",
+    "title": "A Stellar Role Reversal: Multiple Features in the Mass and Mass Ratio Distributions of Merging Binary Black Holes from Stable Mass Transfer",
+    "authors": [
+      "Gina Chen",
+      "Katelyn Breivik",
+      "Lieke A. C. van Son"
+    ],
+    "link": "https://arxiv.org/abs/2606.26262"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.26805",
+    "title": "Stochastic gravitational wave spectrum from cosmic string emitting gauge bosons and Majorana fermions",
+    "authors": [
+      "Nobuchika Okada",
+      "Osamu Seto"
+    ],
+    "link": "https://arxiv.org/abs/2606.26805"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.26934",
+    "title": "Unraveling the mysteries of supernovae with SKA+VLBI",
+    "authors": [
+      "Tao An",
+      "Zhengwei Liu",
+      "Ailing Wang",
+      "Miguel Pérez-Torres",
+      "Javier Moldon",
+      "Liangduan Liu",
+      "Peter Lundqvist",
+      "Xuefei Chen",
+      "Xiangcun Meng"
+    ],
+    "link": "https://arxiv.org/abs/2606.26934"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.27037",
+    "title": "Gamma-ray Bursts and Kilonovae from Gravitational Wave Events",
+    "authors": [
+      "Alberto Colombo",
+      "Marcello Giroletti",
+      "Susanna D. Vergani",
+      "Lauren Rhodes"
+    ],
+    "link": "https://arxiv.org/abs/2606.27037"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.27193",
+    "title": "Stellar black hole binaries from two common envelope evolution phases in triple stellar systems",
+    "authors": [
+      "Lotem Unger",
+      "Noam Soker"
+    ],
+    "link": "https://arxiv.org/abs/2606.27193"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2606.27227",
+    "title": "Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks",
+    "authors": [
+      "Tom Dooney",
+      "Mees de Boer",
+      "Harsh Narola",
+      "Melissa Lopez",
+      "Stefano Bromuri",
+      "Daniel Stanley Tan",
+      "Chris Van Den Broeck"
+    ],
+    "link": "https://arxiv.org/abs/2606.27227"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.26370",
+    "title": "Thermodynamics of thin-shell wormholes",
+    "authors": [
+      "Francisco S. N. Lobo",
+      "Manuel E. Rodrigues"
+    ],
+    "link": "https://arxiv.org/abs/2606.26370"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.26945",
+    "title": "A geometric multimessenger consistency test of radiative and near-zone gravity with LISA and SKA",
+    "authors": [
+      "Bhooshan Gadre"
+    ],
+    "link": "https://arxiv.org/abs/2606.26945"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2606.27290",
+    "title": "A solid unification of the dark sector",
+    "authors": [
+      "Jose Beltrán Jiménez",
+      "María Pérez Garrote",
+      "Florencia A. Teppa Pannia",
+      "Shinji Tsujikawa"
+    ],
+    "link": "https://arxiv.org/abs/2606.27290"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.25845",
+    "title": "Probing Kinematic Anisotropies in the Stochastic Gravitational Wave Background with the SKA",
+    "authors": [
+      "N. M. J. Cruz",
+      "Ameek Malhotra",
+      "Gianmassimo Tasinato",
+      "Ivonne Zavala"
+    ],
+    "link": "https://arxiv.org/abs/2606.25845"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.26182",
+    "title": "Gravitational Wave Signatures from Periodic Orbits around a Non--commutative Schwarzschild Black Hole",
+    "authors": [
+      "N. Heidari",
+      "A. A. Araújo Filho",
+      "I. P. Lobo",
+      "V. B. Bezerra"
+    ],
+    "link": "https://arxiv.org/abs/2606.26182"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.26736",
+    "title": "Coherent collective response in many-qubit systems for dark matter detection",
+    "authors": [
+      "Ryuichiro Kitano",
+      "Ryoto Takai"
+    ],
+    "link": "https://arxiv.org/abs/2606.26736"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2606.27016",
+    "title": "Time-domain evolution of Lorenz-gauge metric perturbations: taming the $\\ell=m=1$ gauge instability",
+    "authors": [
+      "Jonathan Thornburg"
+    ],
+    "link": "https://arxiv.org/abs/2606.27016"
+  }
+]
