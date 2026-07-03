@@ -1,0 +1,87 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.01288",
+    "title": "Pulsar Science with the SKAO",
+    "authors": [
+      "Bhal Chandra Joshi",
+      "Aris Karastergiou",
+      "Marta Burgay"
+    ],
+    "link": "https://arxiv.org/abs/2607.01288"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.01372",
+    "title": "AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity",
+    "authors": [
+      "Bhavya Gupta",
+      "Deep Chatterjee",
+      "William Benoit",
+      "Ethan Marx",
+      "Christina Reissel",
+      "Seiya Tsukamoto",
+      "Kyungseop Yoon",
+      "Michael W. Coughlin",
+      "Philip Harris",
+      "Erik Katsavounidis"
+    ],
+    "link": "https://arxiv.org/abs/2607.01372"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.01697",
+    "title": "Gravitational Waves from Multiple First-Order Phase Transitions in a Scenario with Early Matter Domination",
+    "authors": [
+      "Rouzbeh Allahverdi",
+      "Fazlollah Hajkarim"
+    ],
+    "link": "https://arxiv.org/abs/2607.01697"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.02505",
+    "title": "A critical look at low-scale cosmological phase transitions in the PTA era",
+    "authors": [
+      "Simone Biondini",
+      "Philipp Schicho"
+    ],
+    "link": "https://arxiv.org/abs/2607.02505"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.01318",
+    "title": "Impact of Spacecraft Orbit Uncertainties and Velocity Mismodeling on the LISA Gravitational-Wave Response",
+    "authors": [
+      "Lorenzo Speri",
+      "Olaf Hartwig",
+      "Waldemar Martens",
+      "Oliver Jennrich",
+      "Eric Joffre",
+      "Michele Armano",
+      "Martin Hewitson",
+      "Nora Lützgendorf"
+    ],
+    "link": "https://arxiv.org/abs/2607.01318"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.01818",
+    "title": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers",
+    "authors": [
+      "Ashu Kushwaha"
+    ],
+    "link": "https://arxiv.org/abs/2607.01818"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.02017",
+    "title": "Boson Stars in Teleparallel Gravity with a Nonminimally Coupled Field: The Violation of Energy Conditions and Gravitational Waveforms from EMRIs",
+    "authors": [
+      "Long-Xing Huang",
+      "Ke Yang",
+      "Yong-Qiang Wang"
+    ],
+    "link": "https://arxiv.org/abs/2607.02017"
+  }
+]
