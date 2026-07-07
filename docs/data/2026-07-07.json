@@ -1,0 +1,340 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.02597",
+    "title": "Probing Neutron Star Interiors and the Properties of Cold Ultra-dense Matter with the SKAO",
+    "authors": [
+      "Avishek Basu",
+      "Vanessa Graber",
+      "Marcus E. Lower",
+      "Marco Antonelli",
+      "Danai Antonopoulou",
+      "Manjari Bagchi",
+      "Prasanta Char",
+      "Paulo C. C. Freire",
+      "Brynmor Haskell",
+      "Huanchen Hu",
+      "David I. Jones",
+      "Banibrata Mukhopadhyay",
+      "Micaela Oertel",
+      "Nanda Rea",
+      "Violetta Sagun",
+      "Benjamin Shaw",
+      "Jaikhomba Singha",
+      "Benjamin W. Stappers",
+      "Tinn Thongmeearkom",
+      "Anna L. Watts",
+      "Patrick Weltevrede",
+      "SKA Pulsar Science Working Group"
+    ],
+    "link": "https://arxiv.org/abs/2607.02597"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03045",
+    "title": "nmma: An extended Bayesian framework for Nuclear Multimessenger Astronomy in the Era of Next-Generation Detectors",
+    "authors": [
+      "Henrik Rose",
+      "Hauke Koehn",
+      "Thibeau Wouters",
+      "Peter T. H. Pang",
+      "Mattia Bulla",
+      "Michael W. Coughlin",
+      "Tim Dietrich"
+    ],
+    "link": "https://arxiv.org/abs/2607.03045"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03090",
+    "title": "A Square Kilometre Array Pulsar Census",
+    "authors": [
+      "E. F. Keane",
+      "V. Graber",
+      "L. Levin",
+      "C. M. Tan",
+      "O. A. Johnson",
+      "C. Ng",
+      "C. Pardo-Araujo",
+      "M. Ronchi",
+      "D. Vohl",
+      "M. Xue"
+    ],
+    "link": "https://arxiv.org/abs/2607.03090"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03533",
+    "title": "Pulsar Timing Sensitivity to Dark Matter Substructure in the Presence of a Stochastic Gravitational-Wave Background",
+    "authors": [
+      "Abhiram Cherukupalli",
+      "Vincent S. H. Lee",
+      "Kim Berghaus",
+      "Kathryn M. Zurek"
+    ],
+    "link": "https://arxiv.org/abs/2607.03533"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03840",
+    "title": "Neutron stars with an agnostic Dark sector: Core and Halo configurations from a two-fluid approach",
+    "authors": [
+      "Asit karan",
+      "Asim Kumar Saha",
+      "Tuhin Malik",
+      "Constança Providência",
+      "Ritam Mallick"
+    ],
+    "link": "https://arxiv.org/abs/2607.03840"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.04121",
+    "title": "Set them free: extending RAMCOAL to model massive black hole triplets in hydrodynamical simulations of galaxies",
+    "authors": [
+      "Kunyang Li",
+      "Ricarda Beckmann",
+      "Yohan Dubois",
+      "Marta Volonteri"
+    ],
+    "link": "https://arxiv.org/abs/2607.04121"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05208",
+    "title": "Comparing gravitational wave background predictions from cosmological simulations to pulsar timing observations",
+    "authors": [
+      "Stephanie Buttigieg",
+      "Debora Sijacki",
+      "Christopher J. Moore",
+      "Martin A. Bourne",
+      "Alberto Sesana"
+    ],
+    "link": "https://arxiv.org/abs/2607.05208"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03059",
+    "title": "The SKAO Pulsar Timing Array",
+    "authors": [
+      "Ryan M. Shannon",
+      "N. D. Ramesh Bhat",
+      "Aurélien Chalumeau",
+      "Siyuan Chen",
+      "H. Thankful Cromartie",
+      "A. Gopakumar",
+      "Kathrin Grunthal",
+      "Jeffrey S. Hazboun",
+      "Francesco Iraci",
+      "Bhal Chandra Joshi",
+      "Ryo Kato",
+      "Michael J. Keith",
+      "Kejia Lee",
+      "Kuo Liu",
+      "Hannah Middleton",
+      "Matthew T. Miles",
+      "Chiara M. F. Mingarelli",
+      "Aditya Parthasarathy",
+      "Daniel J. Reardon",
+      "Golam M. Shaifullah",
+      "Keitaro Takahashi",
+      "Caterina Tiburzi",
+      "Riccardo J. Truant",
+      "Xiao Xue",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2607.03059"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03231",
+    "title": "Odd-parity ringdown gravitational waves of a spherically symmetric black hole with perfect fluid accretion",
+    "authors": [
+      "Rikuto Ohashi",
+      "Yasutaka Koga",
+      "Hiroyuki Nakano",
+      "Kota Ogasawara",
+      "Chul-Moon Yoo"
+    ],
+    "link": "https://arxiv.org/abs/2607.03231"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03537",
+    "title": "Gravitational Wave Signatures of Cosmological Stasis: A Unified Spectral Template",
+    "authors": [
+      "Gabriela Barenboim",
+      "Anne-Katherine Burns"
+    ],
+    "link": "https://arxiv.org/abs/2607.03537"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03560",
+    "title": "Black Hole Memory Burden and its Signatures in Gravitational Waves from Mergers",
+    "authors": [
+      "Gia Dvali",
+      "Michael Zantedeschi",
+      "Sebastian Zell"
+    ],
+    "link": "https://arxiv.org/abs/2607.03560"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03575",
+    "title": "SGN: A python framework for stream-processing pipelines",
+    "authors": [
+      "Yun-Jing Huang",
+      "Olivia Godwin",
+      "Chad Hanna",
+      "James Kennington",
+      "Jameson Rollins",
+      "Max Melching",
+      "Nathanael E Sovitzky",
+      "Aaron Viets",
+      "Madeline Wade",
+      "Zach Yarbrough",
+      "Yu-Kuang Chu",
+      "William Wyatt Phillips",
+      "Surabhi Sachdev",
+      "Rhiannon Udall"
+    ],
+    "link": "https://arxiv.org/abs/2607.03575"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03672",
+    "title": "Hubble constant measurement with 13 bright standard sirens from binary black hole mergers inside active galactic nuclei",
+    "authors": [
+      "Dhruv Kumar",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2607.03672"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03674",
+    "title": "A population of LIGO-Virgo-KAGRA mergers happening inside active galactic nuclei",
+    "authors": [
+      "Dhruv Kumar",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2607.03674"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03885",
+    "title": "Identifying lensed gravitational waves with physics-informed posterior learning",
+    "authors": [
+      "Tian-Yang Sun",
+      "Xiao Guo",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2607.03885"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03904",
+    "title": "Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data",
+    "authors": [
+      "Subhajit Dandapat",
+      "Alvin J. K. Chua"
+    ],
+    "link": "https://arxiv.org/abs/2607.03904"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05331",
+    "title": "Modeling Uncertainties in Modified Gravity Predictions for the Stochastic Gravitational-Wave Background",
+    "authors": [
+      "Rodrigo Fraga",
+      "Rafael C. Nunes"
+    ],
+    "link": "https://arxiv.org/abs/2607.05331"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05368",
+    "title": "Effects of Solar Wind Plasma Noise on Stochastic Gravitational Wave Background Searches with the LISA-Taiji Network",
+    "authors": [
+      "Mengfei Sun",
+      "Borui Wang",
+      "Jie Wu",
+      "Jin Li",
+      "Shengyi Ye"
+    ],
+    "link": "https://arxiv.org/abs/2607.05368"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.02792",
+    "title": "Interacting Holographic Dark Energy in $f(Q)$ Gravity: Cosmological Evolution and Gravitational Wave Signatures",
+    "authors": [
+      "N. Amiriborkhani",
+      "Alireza Amani",
+      "M. A. Ramzanpour"
+    ],
+    "link": "https://arxiv.org/abs/2607.02792"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.02935",
+    "title": "Decoherence Effects on Primordial Black Holes and Scalar-Induced Gravitational Waves",
+    "authors": [
+      "Waqas Ahmed"
+    ],
+    "link": "https://arxiv.org/abs/2607.02935"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03879",
+    "title": "Radiated Energy Spectrum, Radiated Angular Distribution and Non-linear Memory from the One-loop Gravitational Bremsstrahlung Waveform",
+    "authors": [
+      "Donato Bini",
+      "Thibault Damour",
+      "Stefano De Angelis",
+      "Andrea Geralico"
+    ],
+    "link": "https://arxiv.org/abs/2607.03879"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04238",
+    "title": "Tests of general relativity using analytic derivatives of parametrized post-Einsteinian gravitational waveforms within the Fisher-matrix framework",
+    "authors": [
+      "Jie Wu",
+      "Mengfei Sun",
+      "Jin Li"
+    ],
+    "link": "https://arxiv.org/abs/2607.04238"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04744",
+    "title": "Rotating Fermion-Boson Stars in $R$-squared Gravity",
+    "authors": [
+      "Saeed Fakhry",
+      "Jorge Castelo Mourelle",
+      "Nicolas Sanchis-Gual",
+      "Daniela Doneva",
+      "Stoytcho Yazadjiev",
+      "José A. Font"
+    ],
+    "link": "https://arxiv.org/abs/2607.04744"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04909",
+    "title": "A stepping stone toward detecting gravitational wave memory: a cumulative analysis with the full $(\\ell=2, m=0)$ spherical harmonic using events from GWTC-4.0 and GWTC-5.0",
+    "authors": [
+      "Maria Rosselló-Sastre",
+      "Sascha Husa",
+      "Yumeng Xu",
+      "Jorge Valencia",
+      "Joan Llobera-Querol",
+      "Antoni Ramos-Buades"
+    ],
+    "link": "https://arxiv.org/abs/2607.04909"
+  }
+]
