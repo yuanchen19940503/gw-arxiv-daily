@@ -1,0 +1,104 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05495",
+    "title": "Formation of rotating supergiants via stellar mergers in dense clusters: Implications for black hole natal spins",
+    "authors": [
+      "Ishaan Satish",
+      "Kyle Kremer",
+      "Fulya Kıroğlu",
+      "Daichi Tsuna",
+      "Shahed Shayan Aran"
+    ],
+    "link": "https://arxiv.org/abs/2607.05495"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05517",
+    "title": "Constant Scaling Fails for Global Monopole Networks",
+    "authors": [
+      "Wakutaka Nakano",
+      "Wen Yin"
+    ],
+    "link": "https://arxiv.org/abs/2607.05517"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05899",
+    "title": "Multi-messenger View of White Dwarf Tidal Disruption Events by Intermediate-Mass Black Holes: I. Gravitational Waves and Disk Photon and Neutrino Emissions",
+    "authors": [
+      "Jin-Hong Chen",
+      "Lixin Dai",
+      "Bing Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2607.05899"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.06067",
+    "title": "A Possible Triple Formation Scenario of Binary Black Hole Merge With One In Pair-instability Supernova Mass Gap",
+    "authors": [
+      "Tian Huang",
+      "Xizhen Lu",
+      "Guoliang Lü",
+      "Chunhua Zhu",
+      "Sufen Guo",
+      "Helei Liu",
+      "Zhuowen Li",
+      "Zhijun Wang",
+      "Lei Li",
+      "Wei-Min Gu",
+      "Nurzada Beissen"
+    ],
+    "link": "https://arxiv.org/abs/2607.06067"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05486",
+    "title": "Finite signal-to-noise ratio bias in parameter estimation for damped oscillations: cautionary remark about catalog-level black-hole spectroscopy",
+    "authors": [
+      "Koutarou Kyutoku"
+    ],
+    "link": "https://arxiv.org/abs/2607.05486"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05491",
+    "title": "Three-dimensional wave optics for weak-field lensing of gravitational waves",
+    "authors": [
+      "Mariana Carrillo-González",
+      "Alan Heavens",
+      "Lorne Whiteway"
+    ],
+    "link": "https://arxiv.org/abs/2607.05491"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.06002",
+    "title": "Solving Hamiltonian Constraint Equation with Physics-Informed Neural Networks",
+    "authors": [
+      "Yu-Chen Zhou",
+      "Hao Ma",
+      "Zhoujian Cao",
+      "Tailin Wu",
+      "Hong-Bo Jin",
+      "Xuefeng Feng",
+      "Shuanglin Huang",
+      "Zhi-Chao Zhao",
+      "Yue-Liang Wu"
+    ],
+    "link": "https://arxiv.org/abs/2607.06002"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.06112",
+    "title": "Starobinsky Inflation in k-Essence Framework: Attractor Dynamics, Reheating, and Consistency with ACT DR6",
+    "authors": [
+      "Abolhassan Mohammadi",
+      "Yogesh",
+      "Hongwei Tan",
+      "M. Sami"
+    ],
+    "link": "https://arxiv.org/abs/2607.06112"
+  }
+]
