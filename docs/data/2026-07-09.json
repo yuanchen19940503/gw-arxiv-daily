@@ -1,0 +1,134 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.06736",
+    "title": "The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves",
+    "authors": [
+      "Ayan Mitra"
+    ],
+    "link": "https://arxiv.org/abs/2607.06736"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.06737",
+    "title": "Effect of post-recombination accretion on primordial binary black hole mergers within virialized dark matter halos",
+    "authors": [
+      "A. Konovalov",
+      "K. Postnov"
+    ],
+    "link": "https://arxiv.org/abs/2607.06737"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.06983",
+    "title": "From inflation to hot big bang -- a tutorial on cosmological perturbations",
+    "authors": [
+      "Mikko Laine",
+      "Simona Procacci"
+    ],
+    "link": "https://arxiv.org/abs/2607.06983"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.07120",
+    "title": "Prospect for Detection of Strongly Lensed Multi-messenger Signals of Binary Neutron Star Mergers",
+    "authors": [
+      "Zhiwei Chen",
+      "Youjun Lu",
+      "Changwen Zeng"
+    ],
+    "link": "https://arxiv.org/abs/2607.07120"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.07272",
+    "title": "Combining gravitational wave search pipelines to find subthreshold signals in GWTC-5.0",
+    "authors": [
+      "Ann-Kristin Malz",
+      "Samuel Russell",
+      "Gregory Ashton",
+      "Nicolo Colombo"
+    ],
+    "link": "https://arxiv.org/abs/2607.07272"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.07398",
+    "title": "Impact of H_0 on gravitational wave propagation: prospects for the LISA mission",
+    "authors": [
+      "Nil Blanco",
+      "Domenec Espriu"
+    ],
+    "link": "https://arxiv.org/abs/2607.07398"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.07477",
+    "title": "Population statistics of nanohertz gravitational wave sources",
+    "authors": [
+      "Jiming Yu",
+      "Zhen Pan",
+      "Xiao Xue",
+      "Liang Dai"
+    ],
+    "link": "https://arxiv.org/abs/2607.07477"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.07602",
+    "title": "When the Environment Speaks: Quantum Signatures in Non-Attractor Inflation",
+    "authors": [
+      "Mattia Cielo",
+      "Simone Scarlatella",
+      "Gianpiero Mangano",
+      "Ofelia Pisanti"
+    ],
+    "link": "https://arxiv.org/abs/2607.07602"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.07668",
+    "title": "Subsolar-mass binary mergers of strange stars and neutron stars: gravitational waves and ejecta",
+    "authors": [
+      "Yong Gao",
+      "Ming-Zhe Han",
+      "Kenta Kiuchi",
+      "Masaru Shibata",
+      "Enping Zhou",
+      "Kenta Hotokezaka"
+    ],
+    "link": "https://arxiv.org/abs/2607.07668"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.06728",
+    "title": "The Era of Precision in Computational Models of Gravitational Waves",
+    "authors": [
+      "Ulrich Sperhake"
+    ],
+    "link": "https://arxiv.org/abs/2607.06728"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.06834",
+    "title": "A new framework for lightning-fast gravitational wave analysis of pulsar timing data",
+    "authors": [
+      "Aiden Gundersen",
+      "Rutger van Haasteren",
+      "Neil J. Cornish",
+      "Michele Vallisneri",
+      "Patrick M. Meyers"
+    ],
+    "link": "https://arxiv.org/abs/2607.06834"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.07070",
+    "title": "Testing General Relativity with GWTC-4.0 through mixture models",
+    "authors": [
+      "Koustav Chandra",
+      "Juan Calderón Bustillo"
+    ],
+    "link": "https://arxiv.org/abs/2607.07070"
+  }
+]
