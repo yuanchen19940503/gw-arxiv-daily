@@ -1,0 +1,161 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.08838",
+    "title": "Dark Phoenix: dark matter relic from its own decay",
+    "authors": [
+      "Debasish Borah",
+      "Satyabrata Mahapatra",
+      "Indrajit Saha",
+      "Narendra Sahu",
+      "Vicky Singh Thounaojam"
+    ],
+    "link": "https://arxiv.org/abs/2607.08838"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.09282",
+    "title": "Leptogenesis with sub-electroweak-scale reheating temperature",
+    "authors": [
+      "Basabendu Barman",
+      "Arindam Basu",
+      "Debasish Borah",
+      "Nayan Das"
+    ],
+    "link": "https://arxiv.org/abs/2607.09282"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.09004",
+    "title": "Interplanetary scintillation-informed heliospheric modelling for the MeerKAT Pulsar Timing Array 4.5 yr dataset",
+    "authors": [
+      "Saurav Mishra",
+      "Daniel J. Reardon",
+      "Andrew Zic",
+      "Matthew Bailes",
+      "John Morgan",
+      "Atharva D. Kulkarni",
+      "Matthew T. Miles",
+      "Ryan M. Shannon",
+      "Caterina Tiburzi",
+      "Mark Cheung",
+      "Michael Kramer",
+      "Ruoyao Ni"
+    ],
+    "link": "https://arxiv.org/abs/2607.09004"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.09040",
+    "title": "Effects of Differential Rotation on the Maximum Mass of Neutron Stars",
+    "authors": [
+      "Hyukjin Kwon",
+      "Jinho Kim",
+      "Kazuyuki Sekizawa"
+    ],
+    "link": "https://arxiv.org/abs/2607.09040"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.09119",
+    "title": "Effects of dark matter and magnetic field on neutron star properties in relativistic mean-field theory: A single-fluid approach",
+    "authors": [
+      "Neeshu Rani",
+      "M. Mishra",
+      "Deepak Kumar",
+      "Arpan Das"
+    ],
+    "link": "https://arxiv.org/abs/2607.09119"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.09644",
+    "title": "Periodic line-of-sight velocity-driven modulations to gravitational waves emitted by compact binaries in Keplerian outer orbits",
+    "authors": [
+      "Avinash Tiwari",
+      "Shasvath J. Kapadia",
+      "Aditya Vijaykumar",
+      "Sourav Chatterjee"
+    ],
+    "link": "https://arxiv.org/abs/2607.09644"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.09658",
+    "title": "Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors",
+    "authors": [
+      "Avinash Tiwari",
+      "Aditya Vijaykumar",
+      "Shasvath J. Kapadia",
+      "Sourav Chatterjee"
+    ],
+    "link": "https://arxiv.org/abs/2607.09658"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.08807",
+    "title": "Einstein--Gauss--Bonnet Inflationary Cosmology in Phase-$θ$ Formalism",
+    "authors": [
+      "Gevorg D. Manucharyan",
+      "Igor V. Fomin",
+      "Shivam Kumar Mishra",
+      "B.Mishra"
+    ],
+    "link": "https://arxiv.org/abs/2607.08807"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.09111",
+    "title": "Joint inference for gravitational-wave signal and noise glitch: Method and application",
+    "authors": [
+      "Shun Yin Cheung",
+      "Rhiannon Udall",
+      "Derek Davis",
+      "Paul D. Lasky",
+      "Eric Thrane"
+    ],
+    "link": "https://arxiv.org/abs/2607.09111"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.09201",
+    "title": "The gravitational-wave fingerprint of dynamically assembled primordial black hole cluster seeds in JWST's Little Red Dots",
+    "authors": [
+      "Juan Garcia-Bellido"
+    ],
+    "link": "https://arxiv.org/abs/2607.09201"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.09214",
+    "title": "Eccentricity-Modulated Phase Degeneracy and Distinguishability between Dark Matter and Accretion Disk Environmental Effects in EMRIs",
+    "authors": [
+      "Tan-hao Wu",
+      "Shu-jun Rong"
+    ],
+    "link": "https://arxiv.org/abs/2607.09214"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.09335",
+    "title": "Clock-noise subtraction in geometric time-delay interferometry for space-based gravitational-wave parameter estimation",
+    "authors": [
+      "Rui Luo",
+      "Pan-Pan Wang",
+      "Zi-Jiang Yang",
+      "Wei-Liang Qian",
+      "Cheng-Gang Shao"
+    ],
+    "link": "https://arxiv.org/abs/2607.09335"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.09494",
+    "title": "Head-on Collisions of Boson Stars with Bowen-York Type Initial Data",
+    "authors": [
+      "Jake Doherty",
+      "Pablo Laguna"
+    ],
+    "link": "https://arxiv.org/abs/2607.09494"
+  }
+]
