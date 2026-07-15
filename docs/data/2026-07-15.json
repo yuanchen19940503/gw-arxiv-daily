@@ -1,0 +1,170 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.12038",
+    "title": "Mitigating the Timing Impact of Anomalous Pulse Profile Shape Variability in PSR J1713+0747 with Gaussian Component Modeling",
+    "authors": [
+      "Shania A. Nichols",
+      "Michael T. Lam",
+      "Gabriella Agazie",
+      "Anjana Ashok",
+      "Jeremy G. Baier",
+      "H. Thankful Cromartie",
+      "Kathryn Crowter",
+      "Megan E. DeCesar",
+      "Paul B. Demorest",
+      "Lankeswar Dey",
+      "William Fiore",
+      "Emmanuel Fonseca",
+      "Joseph Glaser",
+      "Deborah C. Good",
+      "Jeffrey S. Hazboun",
+      "Ross J. Jennings",
+      "David L. Kaplan",
+      "Bjorn Larsen",
+      "Georgia A. Lowes",
+      "Ryan S. Lynch",
+      "Ashley Martsen",
+      "Bradley W. Meyers",
+      "Patrick M. Meyers",
+      "Mason Ng",
+      "Daniel J. Oliver",
+      "Benetge B. P. Perera",
+      "Henri A. Radovan",
+      "Scott M. Ransom",
+      "Alexander Saffer",
+      "Ingrid H. Stairs",
+      "Mercedes S. Thompson",
+      "Amir Tresnjic",
+      "Joris P. W. Verbiest",
+      "David Wright"
+    ],
+    "link": "https://arxiv.org/abs/2607.12038"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.12049",
+    "title": "Mitigating galaxy systematics with gravitational wave clustering",
+    "authors": [
+      "Caterina Scarpel",
+      "Nicola Bellomo",
+      "Sarah Libanore",
+      "Michele Liguori",
+      "Alvise Raccanelli"
+    ],
+    "link": "https://arxiv.org/abs/2607.12049"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.12427",
+    "title": "Astrophysical Population Coordinates for Supermassive Black Hole Binaries in Pulsar Timing Array Inference",
+    "authors": [
+      "Yikun Li",
+      "Muhammad Ahmad",
+      "Shaoguang Guo",
+      "Lang Cui"
+    ],
+    "link": "https://arxiv.org/abs/2607.12427"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.12708",
+    "title": "Perturber-Driven Dynamics of Supermassive Black Hole Binaries in Galaxy Merger",
+    "authors": [
+      "Julian Chan",
+      "Alessia Gualandris",
+      "Walter Dehnen",
+      "Justin I. Read"
+    ],
+    "link": "https://arxiv.org/abs/2607.12708"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.12887",
+    "title": "Overview: Cosmology with the SKAO",
+    "authors": [
+      "Marta Spinelli",
+      "Ian Harrison",
+      "Richard A. Battye",
+      "Stefano Camera",
+      "Xulei Chen",
+      "Roy Maartens",
+      "Mario G. Santos",
+      "Laura Wolz"
+    ],
+    "link": "https://arxiv.org/abs/2607.12887"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.12769",
+    "title": "Evaluating KAGRA upgrade scenarios for multimessenger observations of binary neutron stars",
+    "authors": [
+      "Yuta Michimura",
+      "Soichiro Morisaki",
+      "Kenta Hotokezaka",
+      "Masaomi Tanaka"
+    ],
+    "link": "https://arxiv.org/abs/2607.12769"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.12971",
+    "title": "A new model for the continuum spectra of AM CVn binaries and multi-messenger inference with normalizing flows",
+    "authors": [
+      "Nathan Steinle",
+      "Samar Safi-Harb",
+      "Austin MacMaster",
+      "Liliana Rivera Sandoval",
+      "Katelyn Breivik",
+      "Tyrone E. Woods",
+      "Tom Maccarone",
+      "Tom Wagg"
+    ],
+    "link": "https://arxiv.org/abs/2607.12971"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.12043",
+    "title": "No persuasive evidence yet of gravitational-wave tails from perturbers along the line of sight in LVK observations",
+    "authors": [
+      "Kuba Kopczuk",
+      "Ethan Blake",
+      "Matthew F. Carney",
+      "Jeremy G. Baier",
+      "Michael Van Keuren",
+      "Adam Khan",
+      "Leslie Wade",
+      "Madeline Wade",
+      "Glenn Starkman",
+      "Craig Copi"
+    ],
+    "link": "https://arxiv.org/abs/2607.12043"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.12617",
+    "title": "High-Frequency Gravitational Wave Constraints from Precision Spectroscopy",
+    "authors": [
+      "Dmitry Budker",
+      "Valerie Domcke",
+      "Joachim Kopp",
+      "Oleg Tretiak"
+    ],
+    "link": "https://arxiv.org/abs/2607.12617"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.12661",
+    "title": "Two-fluid $f$-mode oscillations of dark-matter-admixed neutron stars",
+    "authors": [
+      "Zi-Yue Zheng",
+      "Ting-Ting Sun",
+      "Huan Chen",
+      "Xiao-Ping Zheng",
+      "Jin-Biao Wei",
+      "G. F. Burgio",
+      "H.-J. Schulze"
+    ],
+    "link": "https://arxiv.org/abs/2607.12661"
+  }
+]
