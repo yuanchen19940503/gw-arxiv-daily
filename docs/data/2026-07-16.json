@@ -1,0 +1,89 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.13152",
+    "title": "Dynamics in Nuclear Stellar Clusters: The Impact of Collisions and Disrupted Binaries",
+    "authors": [
+      "Barak Rom",
+      "Re'em Sari"
+    ],
+    "link": "https://arxiv.org/abs/2607.13152"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.13363",
+    "title": "Probing the Orientation Distribution of Nearby Double White Dwarfs through Gravitational Waves with LISA",
+    "authors": [
+      "N. Seto",
+      "G.C. Liu"
+    ],
+    "link": "https://arxiv.org/abs/2607.13363"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.13786",
+    "title": "RABBITS IV: Stellar feedback and SMBH merging time-scales in the sub-Milky Way mass regime",
+    "authors": [
+      "Ruby J. Wright",
+      "Roosa Heiskanen",
+      "Shihong Liao",
+      "Alexander Rawlings",
+      "Peter H. Johansson",
+      "Max Mattero",
+      "Fiona H. Panther",
+      "Atte Keitaanranta"
+    ],
+    "link": "https://arxiv.org/abs/2607.13786"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.13741",
+    "title": "Solid-state gravitational-wave detectors at GHz frequencies: the search for the primordial stochastic GW background and light primordial black hole binaries",
+    "authors": [
+      "Juan Garcia-Bellido"
+    ],
+    "link": "https://arxiv.org/abs/2607.13741"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.13146",
+    "title": "Weyl gauge symmetry at LIGO-Virgo-KAGRA",
+    "authors": [
+      "D. M. Ghilencea",
+      "V. -M. Mandric"
+    ],
+    "link": "https://arxiv.org/abs/2607.13146"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.13168",
+    "title": "Modeling non-stationary noise: applications in gravitational wave astronomy",
+    "authors": [
+      "Neil J. Cornish"
+    ],
+    "link": "https://arxiv.org/abs/2607.13168"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.13275",
+    "title": "Precision Ringdown Measurements of Binary Black Hole Remnants",
+    "authors": [
+      "Achal Kumar",
+      "Poulami Dutta Roy",
+      "Marek J. Szczepańczyk",
+      "Sergey Klimenko"
+    ],
+    "link": "https://arxiv.org/abs/2607.13275"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.13483",
+    "title": "Testing the Transverse Scalar Mode of Gravitational Quantum Field Theory with Taiji and LISA",
+    "authors": [
+      "Cong Xu",
+      "Yong Tang",
+      "Yue-Liang Wu"
+    ],
+    "link": "https://arxiv.org/abs/2607.13483"
+  }
+]
