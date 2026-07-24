@@ -1,0 +1,141 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20611",
+    "title": "A Framework for Linking Pre- and Post-Common Envelope Binary Properties with Star Clusters: The First Demonstration with a Massive White Dwarf+M Dwarf Binary in Alessi 12",
+    "authors": [
+      "Steffani M. Grondin",
+      "Maria R. Drout",
+      "Jason Nordhaus",
+      "Philip S. Muirhead",
+      "Bailey Filer",
+      "Alexander Laroche",
+      "Jeremy J. Webb",
+      "Floor S. Broekgaarden",
+      "Ryan Chornock",
+      "Kyle Kremer",
+      "Natalie LeBaron",
+      "Raffaella Margutti",
+      "Nikki Noughani",
+      "Huei Sears",
+      "Pier-Emmanuel Tremblay"
+    ],
+    "link": "https://arxiv.org/abs/2607.20611"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20693",
+    "title": "Reaction-constrained composition \\(g\\)-modes in neutron stars with antikaon condensates, hyperons, and \\(Δ(1232)\\) resonances",
+    "authors": [
+      "Prashant Thakur",
+      "Ishfaq Ahmad Rather"
+    ],
+    "link": "https://arxiv.org/abs/2607.20693"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.21154",
+    "title": "Infrasound Newtonian Noise Estimation at the Einstein Telescope Candidate Site Sos Enattos",
+    "authors": [
+      "Wathela Alhassan",
+      "D. Rosinska",
+      "M. Suchenek",
+      "E. Fenyvesi",
+      "T. Bulik"
+    ],
+    "link": "https://arxiv.org/abs/2607.21154"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20609",
+    "title": "Black hole-neutron star binaries with high spins and large mass asymmetries: III. Properties of the ejected material and its electromagnetic signatures",
+    "authors": [
+      "Konrad Topolski",
+      "Samuel D. Tootle",
+      "Paramvir Singh",
+      "Mattia Bulla",
+      "Luciano Rezzolla"
+    ],
+    "link": "https://arxiv.org/abs/2607.20609"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20661",
+    "title": "A product template bank to search for compact binary coalescences microlensed by isolated point mass lenses",
+    "authors": [
+      "Sudhir Gholap",
+      "Sanjeev V. Dhurandhar",
+      "Shasvath J. Kapadia"
+    ],
+    "link": "https://arxiv.org/abs/2607.20661"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20689",
+    "title": "Gravitational Wave Birefringence in generalized Palatini Chern Simons",
+    "authors": [
+      "Jose Perdiguero",
+      "Macarena Lagos"
+    ],
+    "link": "https://arxiv.org/abs/2607.20689"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20921",
+    "title": "Exploring Physics beyond the Standard Model from kHz-Gravitational-Wave Signals of Core-Collapse Supernovae",
+    "authors": [
+      "Kei Kotake",
+      "Takami Kuroda"
+    ],
+    "link": "https://arxiv.org/abs/2607.20921"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.21385",
+    "title": "Ultra-High-Energy Particle Production in Binary Mergers Endowed with Magnetic Fields",
+    "authors": [
+      "Carlos H. Coimbra-Araujo",
+      "Rita C. Anjos",
+      "Jonas P. Pereira",
+      "Jaziel G. Coelho"
+    ],
+    "link": "https://arxiv.org/abs/2607.21385"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.21484",
+    "title": "A story about a tipsy kangaroo: Reversible jump MCMC for model selection in the analysis of gravitational-wave signals from the coalescence of compact objects",
+    "authors": [
+      "Anna Puecher",
+      "Tim Dietrich",
+      "Hauke Koehn",
+      "Jonathan Gair",
+      "Gregory Ashton",
+      "Luca Negri",
+      "Anuradha Samajdar"
+    ],
+    "link": "https://arxiv.org/abs/2607.21484"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.20573",
+    "title": "Eikonal Quality-Factor Parameterization of Model-Conditional Static Black-Hole Thermodynamics",
+    "authors": [
+      "Nikko John Leo S. Lobos",
+      "Emmanuel T. Rodulfo"
+    ],
+    "link": "https://arxiv.org/abs/2607.20573"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.20839",
+    "title": "Multi-Spin Perturbations, Thermodynamics, and Observational Signatures of Reissner-Nordstrom Black Holes in Bumblebee Gravity",
+    "authors": [
+      "Jayasri Choudhury",
+      "Yenshembam Priyobarta Singh",
+      "Dhruba Jyoti Gogoi",
+      "Telem Ibungochouba Singh"
+    ],
+    "link": "https://arxiv.org/abs/2607.20839"
+  }
+]
