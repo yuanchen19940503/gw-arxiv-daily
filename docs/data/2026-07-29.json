@@ -1,0 +1,283 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.24978",
+    "title": "CosmoLattice 2.0",
+    "authors": [
+      "Jorge Baeza-Ballesteros",
+      "Daniel G. Figueroa",
+      "Adrien Florio",
+      "Nicolás Loayza",
+      "Franz R. Sattler",
+      "Francisco Torrentí",
+      "Ander Urio"
+    ],
+    "link": "https://arxiv.org/abs/2607.24978"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.25285",
+    "title": "LiteBIRD Mission Overview after Mission Reformation",
+    "authors": [
+      "LiteBIRD Collaboration",
+      "K. Aizawa",
+      "H. Akamatsu",
+      "R. Akizawa",
+      "E. Allys",
+      "A. Anand",
+      "D. Audley",
+      "J. Aumont",
+      "S. Azzoni",
+      "C. Baccigalupi",
+      "M. Ballardini",
+      "A. J. Banday",
+      "G. Barbieri Ripamonti",
+      "R. B. Barreiro",
+      "N. Bartolo",
+      "S. Basak",
+      "M. Bersanelli",
+      "A. Besnard",
+      "D. Blinov",
+      "F. Bouchet",
+      "F. Boulanger",
+      "N. Brancadori",
+      "T. Brinckmann",
+      "E. Calabrese",
+      "P. Campeti",
+      "A. Carones",
+      "F. Carralot",
+      "F. J. Casas",
+      "J. Chandran",
+      "Y. Chinone",
+      "M. Citran",
+      "F. Columbro",
+      "A. Coppolecchia",
+      "F. Cuttaia",
+      "P. Dal Bo",
+      "P. de Bernardis",
+      "T. de Haan",
+      "E. de la Hoz",
+      "M. De Lucia",
+      "M. De Petris",
+      "S. Della Torre",
+      "C. Dickinson",
+      "P. Diego-Palazuelos",
+      "J. J. Díaz García",
+      "T. Dotani",
+      "M. Douspis",
+      "K. Ebisawa",
+      "H. K. Eriksen",
+      "J. Errard",
+      "E. Ferreira",
+      "F. Finelli",
+      "C. Franceschet",
+      "R. Fujimoto",
+      "U. Fuskeland",
+      "G. Galloni",
+      "M. Galloway",
+      "M. Gerbino",
+      "M. Gervasi",
+      "R. T. Génova-Santos",
+      "T. Ghigna",
+      "S. Giardiello",
+      "E. Gjerløw",
+      "M. Gomes",
+      "A. Gruppuso",
+      "J. E. Gudmundsson",
+      "P. Hargrave",
+      "S. E. Harper",
+      "M. Hasegawa",
+      "M. Hazumi",
+      "S. Henrot-Versillé",
+      "L. T. Hergt",
+      "E. Hivon",
+      "K. Ichiki",
+      "K. Ikuma",
+      "T. L. Irikura",
+      "H. Ishino",
+      "B. Jost",
+      "R. Keskitalo",
+      "K. Kikuno",
+      "K. Kohri",
+      "E. Komatsu",
+      "L. Lamagna",
+      "M. Lattanzi",
+      "C. Leloup",
+      "M. Lembo",
+      "F. Levrier",
+      "J. Liu",
+      "A. I. Lonappan",
+      "M. López-Caniego",
+      "G. Luzzi",
+      "J. Macias-Perez",
+      "A. Maeda",
+      "B. Maffei",
+      "D. Maino",
+      "V. Maranchery",
+      "E. Martínez-González",
+      "S. Masi",
+      "S. Matarrese",
+      "F. T. Matsuda",
+      "T. Matsumura"
+    ],
+    "link": "https://arxiv.org/abs/2607.25285"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.25349",
+    "title": "Residual Galactic binary foreground in LISA stochastic gravitational-wave background inference: source power concentration and spectral degeneracy",
+    "authors": [
+      "Ruo-Yu Guan",
+      "Yan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2607.25349"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.25557",
+    "title": "V407 Vul: a triple star system with an AM CVn detectable by gravitational wave observatories",
+    "authors": [
+      "James Munday",
+      "Antonio C. Rodriguez",
+      "Nicole Reindl",
+      "Nina Mackensen",
+      "Tin Long Sunny Wong",
+      "S.P. Littlefair",
+      "Ingrid Pelisoli",
+      "Alex Brown",
+      "N. Castro Segura",
+      "Joheen Chakraborty",
+      "Harry Dawson",
+      "V. S. Dhillon",
+      "Matti Dorsch",
+      "Martin Dyer",
+      "James A. Garbutt",
+      "Stephan Geier",
+      "Matthew Green",
+      "Dan Jarvis",
+      "Mark R. Kennedy",
+      "Paul Kerry",
+      "James McCormac",
+      "Steven G. Parsons",
+      "Jan van Roestel",
+      "Dave Sahman",
+      "P.-E. Tremblay",
+      "Amalie Yates"
+    ],
+    "link": "https://arxiv.org/abs/2607.25557"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.26051",
+    "title": "QuickGWecc: Fast Bayesian pipeline for searching eccentric binaries in pulsar timing array data",
+    "authors": [
+      "Lankeswar Dey",
+      "Bence Bécsy",
+      "Abhimanyu Susobhanan",
+      "Maria Charisi"
+    ],
+    "link": "https://arxiv.org/abs/2607.26051"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.24938",
+    "title": "Tidal deformation of an accreting compact object",
+    "authors": [
+      "Avijit Chowdhury",
+      "Chiranjeeb Singha",
+      "Kazuharu Bamba",
+      "Sumanta Chakraborty"
+    ],
+    "link": "https://arxiv.org/abs/2607.24938"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.24951",
+    "title": "Gravitational Wave Modeling of White-Dwarf--Compact-Object Binaries and Observational Outlook",
+    "authors": [
+      "Tristan S. Weaver",
+      "David Radice",
+      "Donghui Jeong",
+      "Victor Liu"
+    ],
+    "link": "https://arxiv.org/abs/2607.24951"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.25073",
+    "title": "Fixing IR tail of gravitational waves from domain walls",
+    "authors": [
+      "Ivan Dankovsky",
+      "Dmitry Gorbunov"
+    ],
+    "link": "https://arxiv.org/abs/2607.25073"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.25208",
+    "title": "GSpyNetTree-O4: an event validation tool used in the fourth LIGO-Virgo-KAGRA observing run",
+    "authors": [
+      "Sofia Alvarez-Lopez",
+      "Man Leong Chan",
+      "Franz S. Herbst",
+      "Dhatri Raghunathan",
+      "Airene Ahuja",
+      "Annudesh Liyanage",
+      "Julian Ding",
+      "Alejandro Garcia-Varela",
+      "Raymond Ng",
+      "Jess McIver"
+    ],
+    "link": "https://arxiv.org/abs/2607.25208"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.25317",
+    "title": "Gravitational Waves from Superconducting Cosmic Strings",
+    "authors": [
+      "Jinyoung Jhun",
+      "Takashi Hiramatsu"
+    ],
+    "link": "https://arxiv.org/abs/2607.25317"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.24930",
+    "title": "Gravitational waves decay in vacuum: a low energy effect of quantized gravitation",
+    "authors": [
+      "Diego Blas",
+      "José Antonio Oller"
+    ],
+    "link": "https://arxiv.org/abs/2607.24930"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.25452",
+    "title": "Memory Effect for deformed gravitational waves",
+    "authors": [
+      "P.-M. Zhang",
+      "M. Elbistan",
+      "P. A. Horvathy"
+    ],
+    "link": "https://arxiv.org/abs/2607.25452"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.25513",
+    "title": "Gravitational wave constraints on corrections to Bekenstein-Hawking Area Formula in classical F(R) gravity and quantum GR : implications for theory parameters",
+    "authors": [
+      "Parthasarathi Majumdar"
+    ],
+    "link": "https://arxiv.org/abs/2607.25513"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.26010",
+    "title": "Causal Green function decomposition for quantum black hole seismology",
+    "authors": [
+      "Xi-Li Zhang",
+      "Jing Ren"
+    ],
+    "link": "https://arxiv.org/abs/2607.26010"
+  }
+]
