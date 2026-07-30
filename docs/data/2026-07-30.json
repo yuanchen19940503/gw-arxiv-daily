@@ -1,0 +1,334 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.26125",
+    "title": "Emulating the complex galactic-scale orbital dynamics of LISA massive black hole pairs with normalizing flows",
+    "authors": [
+      "Pedro R. Capelo",
+      "Carlos Moreno Martinez",
+      "Nodens Koren",
+      "Tommaso Zana",
+      "Elisa Bortolas",
+      "Matteo Bonetti",
+      "Janis Fluri",
+      "Thomas Hofmann",
+      "Lucio Mayer"
+    ],
+    "link": "https://arxiv.org/abs/2607.26125"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.26133",
+    "title": "Gamma-ray burst progenitors revisited",
+    "authors": [
+      "Andrew J. Levan",
+      "Jillian C. Rastinejad",
+      "Helena-Margaret S. Grabham",
+      "Daniele B. Malesani",
+      "Nial R. Tanvir",
+      "Eric Burns",
+      "Benjamin P. Gompertz",
+      "Gavin P. Lamb",
+      "Ashley A. Chrimes",
+      "Peter G. Jonker",
+      "Om Salafia",
+      "Nikhil Sarin",
+      "Ilya Mandel",
+      "Antonio Martin-Carrillo"
+    ],
+    "link": "https://arxiv.org/abs/2607.26133"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.26193",
+    "title": "Cosmology beyond standard sirens: cross-correlation of gravitational waves and neutral hydrogen intensity mapping",
+    "authors": [
+      "Matteo Schulz",
+      "Ulyana Dupletsa",
+      "Andrea Cozzumbo",
+      "Giona Sala",
+      "Tommaso Ronconi",
+      "Marta Spinelli",
+      "Riccardo Murgia",
+      "Simone Mastrogiovanni",
+      "Jan Harms",
+      "Erik de la Haye",
+      "Felicitas Keil"
+    ],
+    "link": "https://arxiv.org/abs/2607.26193"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.26430",
+    "title": "Addressing rotational motion on gravitational waves detectors",
+    "authors": [
+      "Chiara Di Fronzo",
+      "Jian Liu"
+    ],
+    "link": "https://arxiv.org/abs/2607.26430"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.27046",
+    "title": "Braking indices as probes of r-mode spin-down in young pulsars",
+    "authors": [
+      "Shahram Abbassi",
+      "Armin Memarian",
+      "Evelyn Sophia Guest",
+      "S.R. Valluri"
+    ],
+    "link": "https://arxiv.org/abs/2607.27046"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.27141",
+    "title": "The art of simulating the early Universe. Part III: Scalar-Gauge-Fluid Dynamics",
+    "authors": [
+      "Daniel G. Figueroa",
+      "Kenneth Marschall",
+      "Antonino S. Midiri",
+      "Alberto Roper Pol"
+    ],
+    "link": "https://arxiv.org/abs/2607.27141"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.27158",
+    "title": "Outcomes of Grand Unified Symmetry Breaking",
+    "authors": [
+      "Harish Hemming",
+      "Tanmay Vachaspati",
+      "Anja Wachowitz"
+    ],
+    "link": "https://arxiv.org/abs/2607.27158"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.26124",
+    "title": "Gravitational Waves from Multiple Cosmic Superstrings and the Overshoot Problem",
+    "authors": [
+      "Luca Brunelli",
+      "Michele Cicoli",
+      "Muhammad Hassan",
+      "Seyed Ehsan Qoreishi",
+      "Francisco Gil Pedro"
+    ],
+    "link": "https://arxiv.org/abs/2607.26124"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.26127",
+    "title": "From S2 to LISA: Astrometric Bounds on Extreme-Mass-Ratio Inspirals and Bursts",
+    "authors": [
+      "Andrea Caputo",
+      "Valerie Domcke"
+    ],
+    "link": "https://arxiv.org/abs/2607.26127"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.26359",
+    "title": "Dendro-GR at high mass ratios with high spins",
+    "authors": [
+      "William K. Black",
+      "David W. Neilsen",
+      "Eric W. Hirschmann",
+      "David F. Van Komen"
+    ],
+    "link": "https://arxiv.org/abs/2607.26359"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.26619",
+    "title": "Bayesian nonparametric estimation of correlated gravitational wave detector network noise using matrix-gamma process priors",
+    "authors": [
+      "Yixuan Liu",
+      "Renate Meyer",
+      "Nelson Christensen",
+      "Jeung Eun Lee",
+      "Jianan Liu",
+      "Patricio Maturana",
+      "Avi Vajpeyi"
+    ],
+    "link": "https://arxiv.org/abs/2607.26619"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.27133",
+    "title": "Quantum Field Theory Of Cosmological Perturbations Induced By Ultralight Dark Matter",
+    "authors": [
+      "Tomislav Prokopec",
+      "Marco Vecchioni"
+    ],
+    "link": "https://arxiv.org/abs/2607.27133"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.27193",
+    "title": "Non-Minimally Coupled Chain Inflation at High Scales",
+    "authors": [
+      "Miguel Barroso Varela",
+      "Orfeu Bertolami",
+      "Katherine Freese",
+      "Evangelos Sfakianakis"
+    ],
+    "link": "https://arxiv.org/abs/2607.27193"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.25349",
+    "title": "Residual Galactic binary foreground in LISA stochastic gravitational-wave background inference: source power concentration and spectral degeneracy",
+    "authors": [
+      "Ruo-Yu Guan",
+      "Yan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2607.25349"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.26493",
+    "title": "Chaotic Imprints in Gravitational Waves from Conformal-Anomaly-Corrected Extreme-Mass-Ratio Inspirals",
+    "authors": [
+      "Wei-Hao Zhang",
+      "Yu-Sen An"
+    ],
+    "link": "https://arxiv.org/abs/2607.26493"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.26561",
+    "title": "Constraining deviations from the Teukolsky equation with GW250114",
+    "authors": [
+      "Sebastian H. Völkel",
+      "Nicola Franchini"
+    ],
+    "link": "https://arxiv.org/abs/2607.26561"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.26872",
+    "title": "Advanced Virgo during the LIGO-Virgo-KAGRA fourth observing run",
+    "authors": [
+      "Virgo Collaboration",
+      "F Acernese",
+      "A Agapito",
+      "D Agarwal",
+      "I-L Ahrend",
+      "L Aiello",
+      "A Ain",
+      "W Ali",
+      "A Allocca",
+      "W Amar",
+      "A Amato",
+      "F Amicucci",
+      "C Amra",
+      "M Andia",
+      "T Andri",
+      "S Antier",
+      "F Arciprete",
+      "F Armato",
+      "N Arnaud",
+      "L Asprea",
+      "M Assiduo",
+      "S Assis de Souza Melo",
+      "P Astone",
+      "F Attadio",
+      "F Aubin",
+      "G Avallone",
+      "N Avdeev",
+      "S Babak",
+      "S Bagnasco",
+      "S Baimukhametova",
+      "T Baka",
+      "G Balbi",
+      "G Baldi",
+      "N Baldicchi",
+      "G Ballardin",
+      "M Ballelli",
+      "B Banerjee",
+      "M Baratti",
+      "F Barone",
+      "M Barsuglia",
+      "D Barta",
+      "A Basti",
+      "M Bawaj",
+      "M Bazzan",
+      "F Beirnaert",
+      "M Bejger",
+      "C Bellani",
+      "D Beltran-Martinez",
+      "E Benedetti",
+      "I Bentara",
+      "S Bera",
+      "D Bersanetti",
+      "T Bertheas",
+      "A Bertolini",
+      "J Bezerra-Sobrinho",
+      "V Biancalana",
+      "F Bianchi",
+      "M Bilicki",
+      "A Binetti",
+      "S Biot",
+      "M Bitossi",
+      "M-A Bizouard",
+      "M Bloch",
+      "G Boileau",
+      "M Boldrini",
+      "R Bonnand",
+      "N Borghi",
+      "V Boschi",
+      "Y Bothra",
+      "A Boudon",
+      "A Bozzi",
+      "C Bradaschia",
+      "M Branchesi",
+      "T Briant",
+      "A Brillet",
+      "M L Brozzetti",
+      "G Bruno",
+      "F Bucci",
+      "A Buchicchio",
+      "A Buggiani",
+      "O Bulashenko",
+      "T Bulik",
+      "H J Bulten",
+      "R Buscicchio",
+      "N Busdon",
+      "D Buskulic",
+      "R Cabrita",
+      "G Cagnoli",
+      "E Calloni",
+      "E Capocasa",
+      "G Capoccia",
+      "G Capurri",
+      "F Carbognani",
+      "M Carpinelli",
+      "A Casallas-Lagos",
+      "J Casanueva Diaz",
+      "C Casentini",
+      "R Cavalieri",
+      "G Cella",
+      "P Cerd"
+    ],
+    "link": "https://arxiv.org/abs/2607.26872"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.27129",
+    "title": "Quadrupolar tidal effects destroy the integrability of black hole geodesics: analytic proof and numerical evidence of chaos",
+    "authors": [
+      "Paul Ramond"
+    ],
+    "link": "https://arxiv.org/abs/2607.27129"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.27174",
+    "title": "Perturbing Gravitational Atoms: Negative Love, Resonant Tides and Shifted Resonances",
+    "authors": [
+      "Mateja Bošković",
+      "Nikola Savić"
+    ],
+    "link": "https://arxiv.org/abs/2607.27174"
+  }
+]
