@@ -1,0 +1,112 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04092",
+    "title": "From Multimessenger Inference to Simulations: A Ranked Ensemble of Finite-Temperature Equations of State",
+    "authors": [
+      "Max Jacobi",
+      "Giulia Huez",
+      "Sebastiano Bernuzzi",
+      "David Radice"
+    ],
+    "link": "https://arxiv.org/abs/2608.04092"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04102",
+    "title": "Consistent Thermal Resummation and Phase Transitions with 2PI Methods",
+    "authors": [
+      "Amitayus Banik",
+      "Kimmo Kainulainen"
+    ],
+    "link": "https://arxiv.org/abs/2608.04102"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04179",
+    "title": "A survey of ultra-compact high-state AM CVn binaries with ZTF and Gaia: New discoveries and observational constraints on Galactic space density",
+    "authors": [
+      "Ilkham Galiullin",
+      "Antonio C. Rodriguez",
+      "Kareem El-Badry",
+      "Valery Suleimanov",
+      "Vladislav Dodon",
+      "Askar Sibgatullin",
+      "Warren R. Brown",
+      "Kevin Burdge",
+      "Jan van Roestel",
+      "Edo Berger",
+      "V. Ashley Villar",
+      "Ilaria Caiazzo"
+    ],
+    "link": "https://arxiv.org/abs/2608.04179"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04220",
+    "title": "The Constant Evolution of the Neil Gehrels Swift Observatory: Two Decades of Operational Innovation for Time-Domain and Multi-Messenger Astrophysics",
+    "authors": [
+      "Jamie A. Kennea"
+    ],
+    "link": "https://arxiv.org/abs/2608.04220"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04961",
+    "title": "X-ray Reflection as Diagnostic of Supermassive Black Hole Binary Properties",
+    "authors": [
+      "Julie Malewicz",
+      "Tamara Bogdanović",
+      "David R. Ballantyne",
+      "Laura Brenneman",
+      "Thomas Dauser"
+    ],
+    "link": "https://arxiv.org/abs/2608.04961"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.04967",
+    "title": "Bayesian Inference of fine-features of dense matter EOS from future high-precision data of neutron star radii",
+    "authors": [
+      "Bao-An Li",
+      "Xavier Grundler",
+      "Wen-Jie Xie",
+      "Nai-Bo Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2608.04967"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.04628",
+    "title": "Population synthesis and detection prospects for Galactic long-period transients with LISA",
+    "authors": [
+      "Arthur G. Suvorov",
+      "Nikolaos Karnesis",
+      "Valeriya Korol"
+    ],
+    "link": "https://arxiv.org/abs/2608.04628"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.05079",
+    "title": "Post-Inflationary Constraints on Nonminimally Coupled Quintessential Inflation",
+    "authors": [
+      "Min Gi Park",
+      "Seong Chan Park",
+      "Tomo Takahashi",
+      "José Jaime Terente Díaz"
+    ],
+    "link": "https://arxiv.org/abs/2608.05079"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.05117",
+    "title": "Correlation-based Modeling of Seismic Newtonian Noise in Half-Space and Full-Space Media",
+    "authors": [
+      "Mohamed Samy",
+      "Jan Harms",
+      "Tomislav Andric"
+    ],
+    "link": "https://arxiv.org/abs/2608.05117"
+  }
+]
