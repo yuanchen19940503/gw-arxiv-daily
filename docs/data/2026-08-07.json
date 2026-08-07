@@ -1,0 +1,219 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.05456",
+    "title": "Reconstructing Core-Collapse Supernova Gravitational-Wave Signals with Transdimensional Bayesian Inference",
+    "authors": [
+      "Hayden Chapman",
+      "Jade Powell",
+      "Nir Guttman",
+      "Yi Shuen Christine Lee",
+      "Paul D. Lasky"
+    ],
+    "link": "https://arxiv.org/abs/2608.05456"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.05846",
+    "title": "Prospects for characterizing Population III remnants with next-generation gravitational-wave observatories",
+    "authors": [
+      "N. V. Krishnendu",
+      "Patricia Schmidt",
+      "Geraint Pratten"
+    ],
+    "link": "https://arxiv.org/abs/2608.05846"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.06017",
+    "title": "The impact of nuclear equations of state on the dynamics and multi-messenger emission of magnetorotational stellar explosions",
+    "authors": [
+      "Andrea Celati",
+      "Matteo Bugli",
+      "Luca Del Zanna",
+      "Marco Cusinato",
+      "Martin Obergaulinger"
+    ],
+    "link": "https://arxiv.org/abs/2608.06017"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.06268",
+    "title": "A Streamer Driving Misalignment in the Circumtriple Disk of GW Ori",
+    "authors": [
+      "Maria Galloway-Sprietsma",
+      "Jaehan Bae",
+      "Toni Phillips",
+      "Jane Huang",
+      "Myriam Benisty",
+      "Matthew Porter",
+      "Christian Ginski",
+      "Andrew Winter"
+    ],
+    "link": "https://arxiv.org/abs/2608.06268"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.06269",
+    "title": "An \"inside-out\" approach to modeling supermassive black hole binary inspiral",
+    "authors": [
+      "Laura Blecha"
+    ],
+    "link": "https://arxiv.org/abs/2608.06269"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.06343",
+    "title": "SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches",
+    "authors": [
+      "Y. Nakato",
+      "W. L. K. Wu",
+      "Y. Omori",
+      "E. Anderes",
+      "A. J. Anderson",
+      "B. Ansarinejad",
+      "M. Archipley",
+      "L. Balkenhol",
+      "D. R. Barron",
+      "P. S. Barry",
+      "K. Benabed",
+      "A. N. Bender",
+      "B. A. Benson",
+      "F. Bianchini",
+      "L. E. Bleem",
+      "S. Bocquet",
+      "F. R. Bouchet",
+      "E. Camphuis",
+      "M. G. Campitiello",
+      "J. E. Carlstrom",
+      "J. Carron",
+      "C. L. Chang",
+      "P. M. Chichura",
+      "A. Chokshi",
+      "T.-L. Chou",
+      "A. Coerver",
+      "T. M. Crawford",
+      "C. Daley",
+      "T. de Haan",
+      "K. R. Dibert",
+      "M. A. Dobbs",
+      "M. Doohan",
+      "D. Dutcher",
+      "C. Feng",
+      "K. R. Ferguson",
+      "N. C. Ferree",
+      "K. Fichman",
+      "A. Foster",
+      "S. Galli",
+      "A. E. Gambrel",
+      "A. K. Gao",
+      "F. Ge",
+      "F. Guidi",
+      "S. Guns",
+      "N. W. Halverson",
+      "E. Hivon",
+      "G. P. Holder",
+      "W. L. Holzapfel",
+      "J. C. Hood",
+      "A. Hryciuk",
+      "N. Huang",
+      "T. Jhaveri",
+      "F. Kéruzoré",
+      "A. R. Khalife",
+      "L. Knox",
+      "K. Kornoelje",
+      "C.-L. Kuo",
+      "K. Levy",
+      "Y. Li",
+      "A. E. Lowitz",
+      "C. Lu",
+      "G. P. Lynch",
+      "T. J. Maccarone",
+      "A. S. Maniyar",
+      "E. S. Martsen",
+      "F. Menanteau",
+      "M. Millea",
+      "J. Montgomery",
+      "T. Natoli",
+      "A. Ouellette",
+      "Z. Pan",
+      "P. Paschos",
+      "K. A. Phadke",
+      "K. Prabhu",
+      "W. Quan",
+      "S. Raghunathan",
+      "M. Rahimi",
+      "A. Rahlin",
+      "C. L. Reichardt",
+      "M. Rouble",
+      "J. E. Ruhl",
+      "A. C. Silva Oliveira",
+      "A. Simpson",
+      "J. A. Sobrin",
+      "A. A. Stark",
+      "J. Stephen",
+      "C. Tandoi",
+      "C. Trendafilova",
+      "J. D. Vieira",
+      "A. G. Vieregg",
+      "A. Vitrier",
+      "Y. Wan",
+      "N. Whitehorn",
+      "M. R. Young",
+      "J. A. Zebrowski"
+    ],
+    "link": "https://arxiv.org/abs/2608.06343"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.05200",
+    "title": "Equivalence of mapping gravitational wave background anisotropy across bases at equal information content",
+    "authors": [
+      "Deepali Agarwal"
+    ],
+    "link": "https://arxiv.org/abs/2608.05200"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.05295",
+    "title": "Summary statistic for pulsar timing arrays",
+    "authors": [
+      "Gabriela Sato-Polito",
+      "Matias Zaldarriaga",
+      "Barak Zackay"
+    ],
+    "link": "https://arxiv.org/abs/2608.05295"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.05974",
+    "title": "Coherent End-to-End Search for Generic Extreme-Mass-Ratio Inspirals",
+    "authors": [
+      "Xiaobo Zou",
+      "Xingyu Zhong",
+      "Wen-Biao Han",
+      "Soumya D. Mohanty"
+    ],
+    "link": "https://arxiv.org/abs/2608.05974"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.05794",
+    "title": "How Loud Must a Neutron-Star Merger Be to Reveal Its Equation of State?",
+    "authors": [
+      "Sk Md Adil Imam"
+    ],
+    "link": "https://arxiv.org/abs/2608.05794"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.06121",
+    "title": "Master equation for systems interacting with linearized gravity",
+    "authors": [
+      "Oliviero Angeli",
+      "Anirudh Gundhi",
+      "Angelo Bassi"
+    ],
+    "link": "https://arxiv.org/abs/2608.06121"
+  }
+]
