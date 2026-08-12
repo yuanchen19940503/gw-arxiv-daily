@@ -1,0 +1,89 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.10123",
+    "title": "Heavy neutral leptons beyond the BBN bound: probing the lepton asymmetry of the Universe",
+    "authors": [
+      "Kensuke Akita",
+      "Maksym Ovchynnikov",
+      "Vsevolod Syvolap"
+    ],
+    "link": "https://arxiv.org/abs/2608.10123"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.10259",
+    "title": "Astrophysical Constraints on Hadron--Quark Crossover in Hybrid Neutron Stars",
+    "authors": [
+      "Gábor László Kasza",
+      "György Wolf"
+    ],
+    "link": "https://arxiv.org/abs/2608.10259"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.09978",
+    "title": "A fast, differentiable neural-network surrogate for precessing binary black-hole waveforms",
+    "authors": [
+      "Beka Modrekiladze"
+    ],
+    "link": "https://arxiv.org/abs/2608.09978"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.10264",
+    "title": "On the nature of oscillating modes of proto-neutron stars",
+    "authors": [
+      "Dimitra Tseneklidou",
+      "Alejandro Torres-Forne",
+      "Pablo Cerda-Duran",
+      "Martin Obergaulinger",
+      "Jose Antonio Font"
+    ],
+    "link": "https://arxiv.org/abs/2608.10264"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.10511",
+    "title": "Electromagnetic responses driven by gravitational-wave memory in magnetar-flare outflows",
+    "authors": [
+      "Wen-Biao Han"
+    ],
+    "link": "https://arxiv.org/abs/2608.10511"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.11119",
+    "title": "All You Need is not $Ω_\\mathrm{gw}$: Beyond the Mean of the Cross-Correlation Estimator when Searching for an Astrophysical Gravitational-Wave Background",
+    "authors": [
+      "Haowen Zhong",
+      "Francesco Iacovelli",
+      "Vuk Mandic",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2608.11119"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.10477",
+    "title": "Quantum-Corrected Entropy Bounds on Black Hole Merger Efficiency",
+    "authors": [
+      "Jiswin Varghese"
+    ],
+    "link": "https://arxiv.org/abs/2608.10477"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.11048",
+    "title": "Periodic orbits and gravitational wave signatures from magnetic dipoles around magnetized Kerr black holes",
+    "authors": [
+      "Shokhzod Jumaniyozov",
+      "Javlon Rayimbaev",
+      "Chengxun Yuan",
+      "Satimbay Palvanov",
+      "Khurshida Khaknazarova",
+      "Faisal Javed"
+    ],
+    "link": "https://arxiv.org/abs/2608.11048"
+  }
+]
