@@ -1,0 +1,58 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13641",
+    "title": "Orbital Migration of Interacting Stellar Mass Black Holes in Disks around Supermassive Black Holes. III. Mass Distribution of Hierarchical Mergers",
+    "authors": [
+      "Katherine L. Gonglewski",
+      "Amy Secunda",
+      "Mordecai-Mark Mac Low",
+      "K. E. Saavik Ford",
+      "Barry McKernan",
+      "Fabian R. N. Schneider"
+    ],
+    "link": "https://arxiv.org/abs/2608.13641"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13692",
+    "title": "Gravitational Waves from Dimension-6 Assisted Peccei - Quinn Phase Transitions",
+    "authors": [
+      "Nico Benincasa",
+      "Kristjan Müürsepp"
+    ],
+    "link": "https://arxiv.org/abs/2608.13692"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13991",
+    "title": "On the Acceleration of Pulsar Timing computations using Normalising Flows and Parallelisation",
+    "authors": [
+      "Churchil Dwivedi",
+      "Hiya Shah",
+      "Hemanga Tahbildar"
+    ],
+    "link": "https://arxiv.org/abs/2608.13991"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16710",
+    "title": "High-Frequency Thermal Noise in Michelson Interferometers",
+    "authors": [
+      "Daniel Grass",
+      "Sander M. Vermeulen",
+      "Ian A. O. MacMillan",
+      "Lee McCuller"
+    ],
+    "link": "https://arxiv.org/abs/2605.16710"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14204",
+    "title": "Asymptotic flatness beyond General Relativity",
+    "authors": [
+      "David Maibach"
+    ],
+    "link": "https://arxiv.org/abs/2608.14204"
+  }
+]
