@@ -1,0 +1,200 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.18343",
+    "title": "Modeling the Gravitational Wave Signal from the X-ray Pulsar Her X-1",
+    "authors": [
+      "I. D. Markozov",
+      "G. K. Pimenov",
+      "A. A. Mushtukov"
+    ],
+    "link": "https://arxiv.org/abs/2608.18343"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.19019",
+    "title": "Quantifying uncertainty in the neutron-star equation of state using point estimates and posterior distributions",
+    "authors": [
+      "André Gonçalves da Silva",
+      "Ricardo Luciano Sonego Farias"
+    ],
+    "link": "https://arxiv.org/abs/2608.19019"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.19114",
+    "title": "Identifying Cost-Favorable Locations for Cosmic Explorer",
+    "authors": [
+      "Laurence Datrier",
+      "Geoffrey Lovelace",
+      "Tooba Ansar",
+      "Lance Blagg",
+      "Warren Bristol",
+      "Matthew Evans",
+      "Chris Lukinbeal",
+      "Vuk Mandic",
+      "Kiet Pham",
+      "Jocelyn Read",
+      "Sarmad Rameez",
+      "Amber Romero",
+      "Oscar Romero",
+      "Babatunde Isaac Rotimi",
+      "Joshua B. Russell",
+      "Andrew Saenz",
+      "Francois Schiettekatte",
+      "Robert Schofield",
+      "David H. Shoemaker",
+      "Bretton Simpson",
+      "Bram J.J. Slagmolen",
+      "Joshua R. Smith"
+    ],
+    "link": "https://arxiv.org/abs/2608.19114"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.18281",
+    "title": "CosmoPyro: Gradients for Gravitational-Wave Cosmology",
+    "authors": [
+      "Konstantin Leyde",
+      "Elena Colangeli"
+    ],
+    "link": "https://arxiv.org/abs/2608.18281"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.18649",
+    "title": "Broadband Chiral Primordial Gravitational Waves from Constant-roll Inflation in Parity-violating Symmetric Teleparallel Gravity",
+    "authors": [
+      "Xu Zhang",
+      "Chang Liu",
+      "Chengjie Fu"
+    ],
+    "link": "https://arxiv.org/abs/2608.18649"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.18743",
+    "title": "Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility",
+    "authors": [
+      "Gianluigi Arduini",
+      "Nadja Augst",
+      "Mark G. Bason",
+      "Charles Baynham",
+      "Andrea Bertoldi",
+      "Gianfranco Bertone",
+      "Diego Blas",
+      "Daniela Bortoletto",
+      "Sougato Bose",
+      "Roberto Ales Bozzi",
+      "Oliver Buchmueller",
+      "Tamara Alice Bud",
+      "Clare Burrage",
+      "Sergio Calatroni",
+      "John Carlton",
+      "Vassilis Charmandaris",
+      "Maria Luisa Chiofalo",
+      "Pierre Cladé",
+      "Jonathon Coleman",
+      "Fabio Corsanego",
+      "Albert De Roeck",
+      "Arnaud Devienne",
+      "Fabio Di Pumpo",
+      "John Ellis",
+      "Pierre Fayet",
+      "Chris Foot",
+      "Elina Fuchs",
+      "Naceur Gaaloul",
+      "Susan Gardner",
+      "Enno Giese",
+      "Eduardo Granados",
+      "Saïda Guellati-Khelifa",
+      "Michael Guinchard",
+      "Timo Hakulinen",
+      "Tiffany Harte",
+      "Richard Hobson",
+      "Michael Holynski",
+      "Angelo Infantino",
+      "Alex Kehagias",
+      "Eva Kilian-Rademacher",
+      "Wolfgang Korsch",
+      "Damien Lafarge",
+      "Samuel Lellouch",
+      "Lucas Lombriser",
+      "Elias Lopez Asamar",
+      "J. Luis Lopez-Gonzalez",
+      "Michele Maggiore",
+      "Charline Marcel",
+      "Anna Marchant",
+      "Christopher McCabe",
+      "Gaetano Mileti",
+      "Peter Millington",
+      "Jeremiah Mitchell",
+      "Noam Mouelle",
+      "Angel Navascues Cornago",
+      "François Pillon",
+      "Rosa Poggiani",
+      "Johann Rafelski",
+      "Ernst M. Rasel",
+      "Maike Reckermann",
+      "Albert Roura",
+      "Rui Samoes",
+      "Federico Sanchez Nieto",
+      "Jack Sander",
+      "Carlo Scarcia",
+      "Jesse Schelfhout",
+      "Wolfgang Schleich",
+      "Dennis Schlippert",
+      "Ulrich Schneider",
+      "Steven Schramm",
+      "Florian Schreck",
+      "Olga Sergijenko",
+      "Marcelle Soares-Santos",
+      "Guglielmo M. Tino",
+      "Jonathan N. Tinsley",
+      "Tristan Valenzuela",
+      "Daniel Valuch",
+      "Maurits van der Grinten",
+      "Klaasjan van Druten",
+      "Ville Vaskonen",
+      "Wolf von Klitzing",
+      "Michael Werner"
+    ],
+    "link": "https://arxiv.org/abs/2608.18743"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.18877",
+    "title": "Estimation of systematic error from bulk deformation of end test mass induced by photon calibrator for LIGO post-O5 gravitational wave projects",
+    "authors": [
+      "Daiki Tanabe",
+      "Aloysius Niko",
+      "Kun-Yao Chang",
+      "Yuki Inoue",
+      "Dripta Bhattacharjee",
+      "Richard Savage",
+      "Henry Tsz-King Wong"
+    ],
+    "link": "https://arxiv.org/abs/2608.18877"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.16046",
+    "title": "Gravitational wave signatures from area metric gravity",
+    "authors": [
+      "Bianca Dittrich"
+    ],
+    "link": "https://arxiv.org/abs/2608.16046"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.18310",
+    "title": "No parametrisation, No Problem: A Weakly Modelled Framework to Constrain the Luminosity Distance--Redshift Relation Using Gravitational Wave Sirens",
+    "authors": [
+      "Elena Colangeli",
+      "Konstantin Leyde",
+      "Tessa Baker",
+      "Anson Chen"
+    ],
+    "link": "https://arxiv.org/abs/2608.18310"
+  }
+]
