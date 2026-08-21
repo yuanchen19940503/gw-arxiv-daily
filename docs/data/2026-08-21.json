@@ -1,0 +1,178 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.19449",
+    "title": "Fast Control for LIGO Interferometer Lock Acquisition",
+    "authors": [
+      "Masaya Ono",
+      "Nathan A. Holand",
+      "Radhika Bhatt",
+      "Peter G. Carney",
+      "Francisco Salces Càrcoba",
+      "Koji Arai",
+      "Rana X. Adhikari"
+    ],
+    "link": "https://arxiv.org/abs/2608.19449"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.19493",
+    "title": "A Systematic Gaia--ZTF Search for Short-Period Blue Compact-Binary Candidates",
+    "authors": [
+      "Jiamao Lin",
+      "Liangliang Ren",
+      "Yilong Li",
+      "Bo Ma",
+      "Di-Chang Chen",
+      "Zi-Heng Yu",
+      "Sen Yang",
+      "Shun-Jia Huang",
+      "Yi-Ming Hu",
+      "Chengyuan Li"
+    ],
+    "link": "https://arxiv.org/abs/2608.19493"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.19406",
+    "title": "Bayesian Forecasts on Cosmic Superstring Searches with LISA",
+    "authors": [
+      "Satyabrata Datta",
+      "Rome Samanta"
+    ],
+    "link": "https://arxiv.org/abs/2608.19406"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.19781",
+    "title": "Quintessential α-attractors, updated",
+    "authors": [
+      "Renata Kallosh",
+      "Andrei Linde",
+      "Marina Shmakova",
+      "Yusuke Yamada"
+    ],
+    "link": "https://arxiv.org/abs/2608.19781"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20219",
+    "title": "Inflation on the lattice: scalar Gauss-Bonnet single field inflation",
+    "authors": [
+      "Fei-Yu Chen",
+      "Jing-Zhi Zhou",
+      "Zhi-Chao Li",
+      "Di Wu"
+    ],
+    "link": "https://arxiv.org/abs/2608.20219"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20222",
+    "title": "Gravitational-wave parameter estimation with machine-learning generated surrogate waveforms",
+    "authors": [
+      "Suyog Garg",
+      "Kipp Cannon"
+    ],
+    "link": "https://arxiv.org/abs/2608.20222"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20262",
+    "title": "Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters",
+    "authors": [
+      "Xiao-Fei Dong",
+      "Ik Siong Heng",
+      "Gavin P. Lamb",
+      "Chris Messenger",
+      "Nikhil Sarin",
+      "Benjamin Rayson",
+      "Nial R. Tanvir",
+      "Jessica Irwin",
+      "Thomas Wallace",
+      "Skye Rosetti",
+      "Bo Milvang-Jensen",
+      "Andrew J. Levan",
+      "Jens Hjorth"
+    ],
+    "link": "https://arxiv.org/abs/2608.20262"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.19273",
+    "title": "DSLHyPE-a DSL kernel language for the Exascale Hyperbolic PDE Engine ExaHyPE",
+    "authors": [
+      "Timothy J.R. Stokes",
+      "Nick Brown",
+      "Thomas A. Flynn",
+      "Maurice Jamieson",
+      "Tobias Weinzierl"
+    ],
+    "link": "https://arxiv.org/abs/2608.19273"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.19333",
+    "title": "Strongly coupled atom-cavity systems under boundary modulation: simulating gravitational-wave effects",
+    "authors": [
+      "Patryk Michalski",
+      "Jerzy Paczos",
+      "Navdeep Arya",
+      "Magdalena Zych"
+    ],
+    "link": "https://arxiv.org/abs/2608.19333"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.19392",
+    "title": "Gravitational-wave propagation constraints on the dynamical Barbero--Immirzi field from GWTC-3 dark sirens",
+    "authors": [
+      "Zhi-Fu Gao",
+      "Hui Wang",
+      "Luiz Carlos Garcia de Andrade"
+    ],
+    "link": "https://arxiv.org/abs/2608.19392"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.19692",
+    "title": "Open quantum system approach to the Unruh-DeWitt detector in impulsive plane wave spacetimes",
+    "authors": [
+      "Hing-Tong Cho"
+    ],
+    "link": "https://arxiv.org/abs/2608.19692"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.19755",
+    "title": "Finite-Momentum Kinetic Corrections to Viscous Tensor Perturbations in an Expanding Universe",
+    "authors": [
+      "Nishil Savla",
+      "Gurudatt Gaur"
+    ],
+    "link": "https://arxiv.org/abs/2608.19755"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.20081",
+    "title": "Analyzing Quasi-normal modes spectrum in asymptotically de Sitter black bounces and their optical appearance",
+    "authors": [
+      "G. Alencar",
+      "Albert Duran-Cabacés",
+      "A. Lima",
+      "Ángel Rincón",
+      "Diego Sáez-Chillón Gómez"
+    ],
+    "link": "https://arxiv.org/abs/2608.20081"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.20174",
+    "title": "Spin-Inversion Degeneracies in Restricted Inspiral Waveforms for LISA",
+    "authors": [
+      "Kata Karácsonyi",
+      "László Árpád Gergely"
+    ],
+    "link": "https://arxiv.org/abs/2608.20174"
+  }
+]
