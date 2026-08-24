@@ -1,0 +1,91 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.07430",
+    "title": "Circularly polarized gravitational waves from parity-violating scalar-tensor theory",
+    "authors": [
+      "Jia-Xi Feng",
+      "Jia-Yuan Fang",
+      "Xian Gao"
+    ],
+    "link": "https://arxiv.org/abs/2602.07430"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20897",
+    "title": "Probing cosmological phase transitions with SKAO through nano-Hz gravitational-wave portal",
+    "authors": [
+      "Roman Pasechnik",
+      "António P. Morais"
+    ],
+    "link": "https://arxiv.org/abs/2608.20897"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20595",
+    "title": "Causal Gravitational-Wave Production Does Not Generate Infrared Adiabatic Curvature",
+    "authors": [
+      "Ruth Durrer",
+      "Alessandro Melchiorri"
+    ],
+    "link": "https://arxiv.org/abs/2608.20595"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20629",
+    "title": "Bayesian P-spline recovery of stochastic gravitational-wave backgrounds in LISA",
+    "authors": [
+      "Nazeela Aimen",
+      "Patricio Maturana-Russel",
+      "Avi Vajpeyi",
+      "Nelson Christensen",
+      "Renate Meyer"
+    ],
+    "link": "https://arxiv.org/abs/2608.20629"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20752",
+    "title": "A Dark Matter Masquerade: Degeneracies in Black Hole and Accretion Inference from X-ray Reflection Measurements and Prospects for Compact Dark Matter Halo Constraints",
+    "authors": [
+      "Leif Lui",
+      "Zijian Zhang",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2608.20752"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.21193",
+    "title": "Resonance crossings as entire functions of the Koopman operator",
+    "authors": [
+      "Priscilla Canizares"
+    ],
+    "link": "https://arxiv.org/abs/2608.21193"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.20463",
+    "title": "Spinning test particles in a weak gravitational wave and the memory effect",
+    "authors": [
+      "Ritwik Acharyya",
+      "Shailesh Kumar",
+      "Sayan Kar"
+    ],
+    "link": "https://arxiv.org/abs/2608.20463"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21184",
+    "title": "Scalar dark matter in space-based gravitational-wave detectors: center-of-mass motion, size breathing, and TDI projection",
+    "authors": [
+      "Rui-Yang Hu",
+      "Yuan-Zhi Li",
+      "An-Qi Wang",
+      "Zong-Ru Zou",
+      "Fa-Peng Huang",
+      "Cheng-Gang Qin"
+    ],
+    "link": "https://arxiv.org/abs/2608.21184"
+  }
+]
