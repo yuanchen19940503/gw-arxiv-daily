@@ -1,0 +1,163 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23677",
+    "title": "Signatures of Compact Object Mergers Inside Stars in AGN Disks",
+    "authors": [
+      "Matteo Cantiello",
+      "Alexander J. Dittmann",
+      "Saavik Ford",
+      "Barry McKernan",
+      "Carlos Palenzuela",
+      "Rosalba Perna",
+      "Taeho Ryu"
+    ],
+    "link": "https://arxiv.org/abs/2608.23677"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23679",
+    "title": "When the HL-LHC is blind, LISA is deaf (but not vice versa): 2HDM collider-cosmology synergies",
+    "authors": [
+      "Stefano Moretti",
+      "André Pousette",
+      "Carlo Tasillo"
+    ],
+    "link": "https://arxiv.org/abs/2608.23679"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23684",
+    "title": "Exact Equivalence of the Observed Redshift and the Pulsar Timing Modulation in the Infinitesimal-Pulse Limit",
+    "authors": [
+      "Matteo Magi",
+      "Jaiyul Yoo"
+    ],
+    "link": "https://arxiv.org/abs/2608.23684"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23704",
+    "title": "Sub-Millisecond Pulsars: Missing or Impossible?",
+    "authors": [
+      "T.M. Tauris",
+      "V. Venkatraman Krishnan",
+      "R. Senzel",
+      "P.C.C. Freire",
+      "S.M. Ransom",
+      "A. Papitto",
+      "C.A.N. Biscio",
+      "N. Langer",
+      "E.P.J. van den Heuvel",
+      "M. Kramer"
+    ],
+    "link": "https://arxiv.org/abs/2608.23704"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23789",
+    "title": "Topics in the phenomenology of axions: the cases of cosmic strings and superradiance",
+    "authors": [
+      "Antonios Kyriazis"
+    ],
+    "link": "https://arxiv.org/abs/2608.23789"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.24475",
+    "title": "Narrow Population Inference Enhanced by Analytical Likelihood Models",
+    "authors": [
+      "Meesum Qazalbash",
+      "Sophiya Mehra",
+      "Muhammad Zeeshan",
+      "Vera Delfavero",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2608.24475"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.24883",
+    "title": "Impact of Scale-dependent Primordial Non-Gaussianity on Scalar-induced Gravitational Waves",
+    "authors": [
+      "Alisha Marriott-Best",
+      "Devanshu Sharma",
+      "Anish Ghoshal",
+      "Gianmassimo Tasinato"
+    ],
+    "link": "https://arxiv.org/abs/2608.24883"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.23957",
+    "title": "Projected Constraints on Primordial Black Holes from Scalar-Induced Gravitational Waves with Taiji",
+    "authors": [
+      "Yang Jiang",
+      "Chen Yuan",
+      "Qing-Guo Huang"
+    ],
+    "link": "https://arxiv.org/abs/2608.23957"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.24505",
+    "title": "Testing the QGP Star Hypothesis: The oMEGACat BH-2 System as a Candidate Color-Superconducting Quark-Gluon Plasma Star",
+    "authors": [
+      "Herman J. Mosquera Cuesta"
+    ],
+    "link": "https://arxiv.org/abs/2608.24505"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.24690",
+    "title": "Unsupervised Deep Learning Method for Clustering KAGRA O3GK Transient Noise Data",
+    "authors": [
+      "Yubin Kim",
+      "Kihyun Jung",
+      "Kyujin Kwak"
+    ],
+    "link": "https://arxiv.org/abs/2608.24690"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.24800",
+    "title": "Dynamical Friction as Environmental Gravitational Self-Force",
+    "authors": [
+      "Sayak Datta"
+    ],
+    "link": "https://arxiv.org/abs/2608.24800"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.23739",
+    "title": "Defining higher memory signals and forecasting their observation prospects for binary-black-hole mergers with next-generation gravitational-wave detectors",
+    "authors": [
+      "Siddhant Siddhant",
+      "Alexander M. Grant",
+      "David A. Nichols"
+    ],
+    "link": "https://arxiv.org/abs/2608.23739"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.24002",
+    "title": "Gravitational Wave Parity-Violating Strain from Pulsar Glitches in Chern-Simons Modified Gravity",
+    "authors": [
+      "Abhishek Rout",
+      "Brett Altschul"
+    ],
+    "link": "https://arxiv.org/abs/2608.24002"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.24772",
+    "title": "Gravitational Lensing of Gravitational Wave for Generalized Navarro-Frenk-White Profile and Einasto Profile",
+    "authors": [
+      "Hanyu Jiang",
+      "Xiao Guo",
+      "Youjun Lu",
+      "Yun-Long Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2608.24772"
+  }
+]
