@@ -1,0 +1,176 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.23739",
+    "title": "Defining higher memory signals and forecasting their observation prospects for binary-black-hole mergers with next-generation gravitational-wave detectors",
+    "authors": [
+      "Siddhant Siddhant",
+      "Alexander M. Grant",
+      "David A. Nichols"
+    ],
+    "link": "https://arxiv.org/abs/2608.23739"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.25014",
+    "title": "Optics and broadband anti-reflection coatings for the BA4-90/150 receiver",
+    "authors": [
+      "A. R. Polish",
+      "P. A. R. Ade",
+      "Z. Ahmed",
+      "M. Amiri",
+      "D. Barkats",
+      "R. Basu Thakur",
+      "C. A. Bischoff",
+      "D. Beck",
+      "J. J. Bock",
+      "V. Buza",
+      "B. Cantrall",
+      "J. R. Cheshire IV",
+      "J. Connors",
+      "J. Cornelison",
+      "M. Crumrine",
+      "A. J. Cukierman",
+      "E. Denison",
+      "L. Duband",
+      "M. A. Echter",
+      "M. Eiben",
+      "B. D. Elwood",
+      "S. Fatigoni",
+      "J. P. Filippini",
+      "A. Fortes",
+      "M. Gao",
+      "C. Giannakopoulos",
+      "N. Goeckner-Wald",
+      "D. C. Goldfinger",
+      "S. Gratton",
+      "J. A. Grayson",
+      "A. Greathouse",
+      "P. K. Grimes",
+      "M. Halpern",
+      "S. Henderson",
+      "T. D. Hoang",
+      "J. Hubmayr",
+      "H. Hui",
+      "K. D. Irwin",
+      "M. Izquierdo Poza",
+      "J. H. Kang",
+      "K. S. Karkare",
+      "S. Kefeli",
+      "J. M. Kovac",
+      "C. Kuo",
+      "K. Lasko",
+      "K. Lau",
+      "M. Lautzenhiser",
+      "T. Liu",
+      "S. C. Mackey",
+      "N. Maher",
+      "K. G. Megerian",
+      "L. Minutolo",
+      "L. Moncelsi",
+      "Y. Nakato",
+      "H. T. Nguyen",
+      "R. O'Brient",
+      "S. N. Paine",
+      "A. Patel",
+      "M. A. Petroff",
+      "T. Prouve",
+      "C. Pryke",
+      "C. D. Reintsema",
+      "P. J. Rioles",
+      "T. Romand",
+      "M. Salatino",
+      "A. Schillaci",
+      "B. Schmitt",
+      "B. Singari",
+      "A. Soliman",
+      "T. St. Germaine",
+      "A. Steiger",
+      "B. Steinbach",
+      "R. Sudiwala",
+      "K. L. Thompson",
+      "C. Tucker",
+      "A. D. Turner",
+      "C. Vergès",
+      "A. G. Vieregg",
+      "A. Wandui",
+      "A. C. Weber",
+      "J. Willmert",
+      "W. L. K. Wu",
+      "H. Yang",
+      "C. Yu",
+      "L. Zeng",
+      "C. Zhang",
+      "S. Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2608.25014"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.25338",
+    "title": "Multi-messenger signal from QCD-Axion Ultracompact Minihalos",
+    "authors": [
+      "Dorian W. P. Amaral",
+      "Enrico D. Schiappacasse",
+      "Karla Tapia-Rebolledo"
+    ],
+    "link": "https://arxiv.org/abs/2608.25338"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.25538",
+    "title": "Triple-induced mergers of black hole binaries: A comprehensive look at the role of stellar evolution, dynamical stability, and spin evolution",
+    "authors": [
+      "C. W. Bruenech",
+      "S. Toonen",
+      "T. Boekholt",
+      "A. Dorozsmai"
+    ],
+    "link": "https://arxiv.org/abs/2608.25538"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.25978",
+    "title": "Winds Against Alignment: AGN Feedback and the Spin Evolution of Massive Black Hole Binaries",
+    "authors": [
+      "Francesco Bollati",
+      "Marta Volonteri",
+      "Alessandro Lupi",
+      "Massimo Dotti",
+      "Francesco Haardt"
+    ],
+    "link": "https://arxiv.org/abs/2608.25978"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.24992",
+    "title": "Enhancing dark siren cosmology via Gaussian process reconstruction of incomplete galaxy catalogs",
+    "authors": [
+      "Matteo Tagliazucchi",
+      "Jonathan Gair",
+      "Riccardo Barbieri",
+      "Michele Moresco"
+    ],
+    "link": "https://arxiv.org/abs/2608.24992"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.25715",
+    "title": "The properties of the first continuous gravitational waves: Optimizing pulsar timing observations for supermassive black hole binary detection",
+    "authors": [
+      "Blaze Houlden",
+      "Eric Thrane",
+      "Katie Auchettl"
+    ],
+    "link": "https://arxiv.org/abs/2608.25715"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.25363",
+    "title": "A 3D Summation-by-Parts scheme on a Hyperboloidal Foliation of Minkowski",
+    "authors": [
+      "Shalabh Gautam"
+    ],
+    "link": "https://arxiv.org/abs/2608.25363"
+  }
+]
