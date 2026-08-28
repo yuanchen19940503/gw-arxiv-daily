@@ -1,0 +1,68 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.26247",
+    "title": "Primordial Black Holes as Cosmic Architects: Imprints of an extended mass function",
+    "authors": [
+      "Alberto Magaraggia",
+      "Nico Cappelluti",
+      "Günther Hasinger",
+      "Maël Gonin",
+      "Priyamvada Natarajan"
+    ],
+    "link": "https://arxiv.org/abs/2608.26247"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.26307",
+    "title": "The Impact of Magnitude Uncertainties and K-corrections on Standard Siren Measurements of the Hubble Constant",
+    "authors": [
+      "M. Pálfi",
+      "P. Raffai"
+    ],
+    "link": "https://arxiv.org/abs/2608.26307"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.26274",
+    "title": "Effects of the interaction of dark matter and neutron-star matter on extreme and intermediate mass-ratio inspirals",
+    "authors": [
+      "Benjamin A. Wade",
+      "Julian Heeck",
+      "David A. Nichols"
+    ],
+    "link": "https://arxiv.org/abs/2608.26274"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.26203",
+    "title": "Crudely Estimated Maximum Mass for a Cosmological Black Hole",
+    "authors": [
+      "Don N. Page"
+    ],
+    "link": "https://arxiv.org/abs/2608.26203"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.26271",
+    "title": "Validating Timing-Model Accuracy for Continuous Gravitational Waves: A Comparison of LALSuite and PINT",
+    "authors": [
+      "Kartikey Sharma",
+      "Reinhard Prix",
+      "Maria Alessandra Papa",
+      "Curt Cutler"
+    ],
+    "link": "https://arxiv.org/abs/2608.26271"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.26284",
+    "title": "Gravitational Compton Amplitude to All Orders in Perturbation Theory",
+    "authors": [
+      "Miguel Correia",
+      "Giulia Isabella",
+      "Anna M. Wolz"
+    ],
+    "link": "https://arxiv.org/abs/2608.26284"
+  }
+]
