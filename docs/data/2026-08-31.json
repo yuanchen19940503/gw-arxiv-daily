@@ -1,0 +1,148 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27468",
+    "title": "Multimessenger Constraints on the Central Engine in SN 2023ixf: Neutron Star or Black Hole?",
+    "authors": [
+      "Maryam Aghaei Abchouyeh",
+      "Maurice H.P.M. van Putten",
+      "Massimo Della Valle"
+    ],
+    "link": "https://arxiv.org/abs/2608.27468"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27595",
+    "title": "Dynamical formation of high-eccentricity compact binaries through BH--BH*/TZO collisions",
+    "authors": [
+      "Qingru Hu",
+      "Yanlong Shi",
+      "Douglas N. C. Lin",
+      "Norman Murray"
+    ],
+    "link": "https://arxiv.org/abs/2608.27595"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27596",
+    "title": "Formation of black hole stars via star--black hole collisions",
+    "authors": [
+      "Yanlong Shi",
+      "Qingru Hu",
+      "Zhenghao Xu",
+      "Douglas N. C. Lin",
+      "Norman Murray"
+    ],
+    "link": "https://arxiv.org/abs/2608.27596"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27730",
+    "title": "Overmassive supermassive black holes in SDSS close galaxy pairs",
+    "authors": [
+      "Maggie C. Huber",
+      "Julia M. Comerford",
+      "Joseph Simon"
+    ],
+    "link": "https://arxiv.org/abs/2608.27730"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27786",
+    "title": "JUG: JAX-based Unified pulsar timinG",
+    "authors": [
+      "Matthew T. Miles",
+      "Stephen R. Taylor",
+      "Matthew Bailes",
+      "Aurelien Chalumeau",
+      "H. Thankful Cromartie",
+      "Kyle A. Gersbach",
+      "Rutger van Haasteren",
+      "Michael J. Keith",
+      "Nima Laal",
+      "Michael T. Lam",
+      "Kuo Liu",
+      "Aditya Parthasarathy",
+      "Scott M. Ransom",
+      "Daniel J. Reardon",
+      "Ryan M. Shannon",
+      "David C. Wright",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2608.27786"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.27970",
+    "title": "From Inspiral to Expansion: The Wake-Driven Torque on Binary Black Holes in Gaseous Medium",
+    "authors": [
+      "Jixuan Yang",
+      "Lile Wang",
+      "Xinyu Li",
+      "Rixin Li"
+    ],
+    "link": "https://arxiv.org/abs/2608.27970"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.28358",
+    "title": "Three-dimensional Core-Collapse Supernova Simulations: From shell burning to shock revival",
+    "authors": [
+      "Haakon Andresen",
+      "Evan P. O'Connor",
+      "C. E. Fields",
+      "Sean M. Couch"
+    ],
+    "link": "https://arxiv.org/abs/2608.28358"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.27555",
+    "title": "A first-principles binary neutron star merger model of GW170817, GRB170817A, and AT2017gfo",
+    "authors": [
+      "Kenta Kiuchi",
+      "Sho Fujibayashi",
+      "Kota Hayashi",
+      "Kyohei Kawaguchi",
+      "Quentin Pognan",
+      "Alexis Reboul-Salze",
+      "Yuichiro Sekiguchi",
+      "Masaru Shibata",
+      "Shinya Wanajo"
+    ],
+    "link": "https://arxiv.org/abs/2608.27555"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.28000",
+    "title": "Hyperon bulk viscosity effects in neutron-star inspirals",
+    "authors": [
+      "Elena M. Kantor",
+      "Mikhail E. Gusakov",
+      "Kirill Y. Kraav"
+    ],
+    "link": "https://arxiv.org/abs/2608.28000"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.28037",
+    "title": "Devoured by a Hairy Gargantua: Probing Massive Scalar Charges with Non-minimal Curvature Coupling with Extreme-Mass-Ratio Inspirals",
+    "authors": [
+      "Leif Lui",
+      "Adrian Ka-Wai Chung",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2608.28037"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.27585",
+    "title": "Tidal effects on radiation in gravitational shockwave collisions",
+    "authors": [
+      "Isabelle Blackstad",
+      "Himanshu Raj",
+      "Raju Venugopalan"
+    ],
+    "link": "https://arxiv.org/abs/2608.27585"
+  }
+]
