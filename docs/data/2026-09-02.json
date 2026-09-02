@@ -1,0 +1,179 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00613",
+    "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
+    "authors": [
+      "Yiqin Chen",
+      "Shi-Yi Zhao",
+      "Xingjiang Zhu",
+      "N. D. Ramesh Bhat",
+      "Jacob Cardinal Tremblay",
+      "Małgorzata Curyło",
+      "Valentina Di Marco",
+      "George Hobbs",
+      "Wenhua Ling",
+      "Rami F. Mandow",
+      "Richard N. Manchester",
+      "Saurav Mishra",
+      "Daniel J. Reardon",
+      "Sparrow Roch",
+      "Christopher J. Russell",
+      "Ryan M. Shannon",
+      "Jingbo Wang",
+      "Shuangqiang Wang",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2609.00613"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00766",
+    "title": "$\\texttt{BilbyFlow}$: user-friendly neural posterior estimation for gravitational-wave astronomy",
+    "authors": [
+      "Liam Pinchbeck",
+      "Eric Thrane",
+      "Csaba Balazs",
+      "Paul Lasky"
+    ],
+    "link": "https://arxiv.org/abs/2609.00766"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01480",
+    "title": "Gravitational Waves from Reheating beyond Instantaneous Thermalization",
+    "authors": [
+      "Kyohei Mukaida",
+      "Tenta Tsuji"
+    ],
+    "link": "https://arxiv.org/abs/2609.01480"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00095",
+    "title": "Detectability-Aware Screening of Post-Merger Gravitational-Wave Damping Anomalies in Real Detector Noise: A Graph-Spectral Approach with Empirical Null Calibration",
+    "authors": [
+      "Ruslan Alaskarov"
+    ],
+    "link": "https://arxiv.org/abs/2609.00095"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00200",
+    "title": "Gravitational waves from core collapse of rotating very-massive stars: 3D numerical relativity computation",
+    "authors": [
+      "Alan Tsz-Lok Lam",
+      "Masaru Shibata",
+      "Sho Fujibayashi"
+    ],
+    "link": "https://arxiv.org/abs/2609.00200"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00339",
+    "title": "A Fast and Scalable Transformer Pipeline for Binary Black Hole Detection",
+    "authors": [
+      "Chayan Chatterjee",
+      "Abigail Petulante",
+      "Haowei Fu",
+      "Yang Hu",
+      "Roy Lau",
+      "Karan Jani"
+    ],
+    "link": "https://arxiv.org/abs/2609.00339"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00945",
+    "title": "Constraining AGN Disk Properties with Gravitational Waves from Inspiraling Stellar-Mass Binary Black Holes in Hierarchical Triple Systems",
+    "authors": [
+      "Jie Wu",
+      "Mengfei Sun",
+      "Jin Li",
+      "Zhoujian Cao"
+    ],
+    "link": "https://arxiv.org/abs/2609.00945"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00992",
+    "title": "Dissipative Multi-Field Dynamics from Non-Hermitian Inflationary Potentials",
+    "authors": [
+      "S. D. Campos"
+    ],
+    "link": "https://arxiv.org/abs/2609.00992"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.01193",
+    "title": "Angular power spectrum of induced gravitational waves: breaking model and parameter degeneracies in PTA observations",
+    "authors": [
+      "Peng-Yu Wu",
+      "Di Wu",
+      "Jing-Zhi Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2609.01193"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.01331",
+    "title": "Gravitational-wave signatures of primordial black hole clusters and the imprint of an early dense-core collapse",
+    "authors": [
+      "Marc Barceló-Sastre",
+      "Juan García-Bellido"
+    ],
+    "link": "https://arxiv.org/abs/2609.01331"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.28785",
+    "title": "Reconstructing stochastic gravitational-wave signals from flavour deconstruction with LISA",
+    "authors": [
+      "Noemi Fabri",
+      "Raphael Bertrand-Delgado",
+      "Danny Laghi",
+      "Lucio Mayer"
+    ],
+    "link": "https://arxiv.org/abs/2608.28785"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.00589",
+    "title": "Directional Response Optimization through Linear Recombination of Time-Delay Interferometry Channels in Space-based Gravitational Wave Detection",
+    "authors": [
+      "Heng-Sen Jiao",
+      "Jing-Rui Zhang",
+      "Hong-Bo Jin",
+      "Yun-Long Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.00589"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01054",
+    "title": "High-Frequency Gravitational-Wave Transduction in a SQUID-Terminated Superconducting Cavity",
+    "authors": [
+      "H. Hadil",
+      "Amin Rezaei Akbarieh"
+    ],
+    "link": "https://arxiv.org/abs/2609.01054"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01568",
+    "title": "Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits",
+    "authors": [
+      "Aldo Gamboa",
+      "Lorenzo Pompili",
+      "Alessandra Buonanno",
+      "Luca Sebastiani",
+      "Raffi Enficiaud",
+      "Michael Boyle",
+      "Lawrence E. Kidder",
+      "Harald P. Pfeiffer",
+      "Antoni Ramos-Buades",
+      "Mark A. Scheel"
+    ],
+    "link": "https://arxiv.org/abs/2609.01568"
+  }
+]
