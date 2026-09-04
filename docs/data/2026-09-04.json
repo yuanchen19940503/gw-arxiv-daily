@@ -1,0 +1,166 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.03027",
+    "title": "A fast, wide-field, and real-time imaging prototype for large aperture arrays",
+    "authors": [
+      "Nithyanandan Thyagarajan",
+      "Jishnu Thekkeppattu",
+      "David Humphrey"
+    ],
+    "link": "https://arxiv.org/abs/2609.03027"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.03140",
+    "title": "Thermal and non-thermal emission from supermassive black hole circumbinary disks: Disks, Coronae, Streams, and Cavities",
+    "authors": [
+      "Chris Nagele",
+      "Julian H. Krolik",
+      "Brooks E. Kinch",
+      "Jeremy D. Schnittman",
+      "Scott Noble"
+    ],
+    "link": "https://arxiv.org/abs/2609.03140"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.03373",
+    "title": "3.5-meter Segmented-Mirror Robotic Space Telescope Mission White Paper V. Key Scientific Mission: Compact-Object Time-Domain Science",
+    "authors": [
+      "Juhan Kim",
+      "Yong-Woo Kang",
+      "Sang Hyun Lee",
+      "Jeong-Yeol Han",
+      "Sungwook E. Hong",
+      "Bongkon Moon",
+      "Donguk Song",
+      "Juhyung Kang",
+      "Myeong-Gu Park",
+      "Sang Chul Kim",
+      "Chung-Uk Lee",
+      "Sangmo Tony Sohn",
+      "Arman Shafieloo",
+      "David Parkinson",
+      "Hong Soo Park",
+      "Dohyeong Kim",
+      "Chan Park",
+      "Jungjoo Sohn",
+      "Young-Beom Jeon",
+      "Jong-Hak Woo",
+      "Hyung Mok Lee",
+      "Hong Bae Ann",
+      "Myungkook James Jee",
+      "Mansoo Choi",
+      "Changbom Park"
+    ],
+    "link": "https://arxiv.org/abs/2609.03373"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.03007",
+    "title": "Tidally-enhanced resonances in extreme-mass-ratio inspirals: A tertiary path to chaos",
+    "authors": [
+      "Kyriakos Destounis",
+      "Takuya Katagiri",
+      "Sajal Mukherjee",
+      "Kostas D. Kokkotas"
+    ],
+    "link": "https://arxiv.org/abs/2609.03007"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.03025",
+    "title": "DANSur_HM: Modularly incorporating higher modes in a deep learning based gravitational-wave surrogate",
+    "authors": [
+      "Osvaldo Gramaxo Freitas",
+      "Anastasios Theodoropoulos",
+      "Nino Villanueva",
+      "José A. Font",
+      "Antonio Onofre",
+      "Alejandro Torres-Forné",
+      "José D. Martin-Guerrero"
+    ],
+    "link": "https://arxiv.org/abs/2609.03025"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.03329",
+    "title": "Introducing SINFONIA: Symplectic, slimplectic and Magnusian (Neural) Flows for Orbital Numerical Integration and Acceleration",
+    "authors": [
+      "Lidia J. Gomes Da Silva"
+    ],
+    "link": "https://arxiv.org/abs/2609.03329"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.03859",
+    "title": "A catalogue of insights from the fourth LIGO-Virgo-KAGRA observing run",
+    "authors": [
+      "Christopher P L Berry",
+      "Daniel Williams"
+    ],
+    "link": "https://arxiv.org/abs/2609.03859"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.03979",
+    "title": "Eight Local Couplings of Gravitational Waves from Unified Field Equations",
+    "authors": [
+      "Hong-Bo Jin",
+      "Yue-Liang Wu"
+    ],
+    "link": "https://arxiv.org/abs/2609.03979"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.04112",
+    "title": "Consistency between cosmological and standard siren observations in evolving dark energy",
+    "authors": [
+      "Macarena Lagos",
+      "William J. Wolf"
+    ],
+    "link": "https://arxiv.org/abs/2609.04112"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.03082",
+    "title": "Gravitational Waves and Matter Constraints in Gravity from Entropy",
+    "authors": [
+      "David S. Pereira"
+    ],
+    "link": "https://arxiv.org/abs/2609.03082"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.03260",
+    "title": "Constraint closure and gravitational-wave content of shear-free cosmologies in metric f(R) gravity",
+    "authors": [
+      "Mudhahir Al Ajmi",
+      "Amare Abebe"
+    ],
+    "link": "https://arxiv.org/abs/2609.03260"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.03935",
+    "title": "On the interplay between waveform systematics and lensing signatures in gravitational-wave signals",
+    "authors": [
+      "Disha Hegde",
+      "Justin Janquart"
+    ],
+    "link": "https://arxiv.org/abs/2609.03935"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.03983",
+    "title": "Black holes in alternative theories of gravity",
+    "authors": [
+      "Jose Luis Blázquez-Salcedo",
+      "Fech Scen Khoo",
+      "Burkhard Kleihaus",
+      "Jutta Kunz"
+    ],
+    "link": "https://arxiv.org/abs/2609.03983"
+  }
+]
