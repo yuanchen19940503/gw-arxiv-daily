@@ -1,0 +1,101 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.04776",
+    "title": "The angular structure of the GW170817 jet from prompt emission alone",
+    "authors": [
+      "R. Moradi",
+      "R. Ruffini"
+    ],
+    "link": "https://arxiv.org/abs/2609.04776"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.05035",
+    "title": "Nonstationary Stochastic Timing Signatures in the Prompt Gamma-Ray Light Curve of GRB 170817A",
+    "authors": [
+      "Lin Xie",
+      "Dahai Yan"
+    ],
+    "link": "https://arxiv.org/abs/2609.05035"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.05209",
+    "title": "Exploring the connection between Fast Radio Bursts and binary neutron star mergers",
+    "authors": [
+      "Barbara Patricelli",
+      "Maria Grazia Bernardini",
+      "Cecilia Sgalletta",
+      "Michela Mapelli"
+    ],
+    "link": "https://arxiv.org/abs/2609.05209"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.04340",
+    "title": "Waveform models for the gravitational-wave memory effect: III. Phenomenological frequency-domain model for nonspinning binaries",
+    "authors": [
+      "Arwa Elhashash",
+      "David A. Nichols"
+    ],
+    "link": "https://arxiv.org/abs/2609.04340"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.04991",
+    "title": "Expanding the scope of dark siren cosmology: Inferring the population properties of gravitational wave-hosting galaxies",
+    "authors": [
+      "Rachel Gray",
+      "Daniel Williams",
+      "Alexander Papadopoulos"
+    ],
+    "link": "https://arxiv.org/abs/2609.04991"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05020",
+    "title": "Probing Dark Matter with Strongly Lensed Binary Black Hole Mergers: Prospects in the Near Future",
+    "authors": [
+      "Koustav N. Maity",
+      "Souvik Jana",
+      "Ankur Barsode",
+      "Tejaswi Venumadhav",
+      "Parameswaran Ajith"
+    ],
+    "link": "https://arxiv.org/abs/2609.05020"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05118",
+    "title": "Probing Neutron Star Equation of State Universality with Gravitational Waves",
+    "authors": [
+      "Praveer Tiwari",
+      "Ajit Kumar Mehta",
+      "K. G. Arun"
+    ],
+    "link": "https://arxiv.org/abs/2609.05118"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05375",
+    "title": "Fast Bayesian Inference for Long-Duration Gravitational-Wave Signals in 3G detectors",
+    "authors": [
+      "Anand S. Sengupta"
+    ],
+    "link": "https://arxiv.org/abs/2609.05375"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.04900",
+    "title": "Probing magnetic fields of compact objects with continuous gravitational waves",
+    "authors": [
+      "Gopalkrishna Prabhu",
+      "Aditya Kumar Sharma",
+      "R. Prasad",
+      "David Keitel",
+      "Shasvath J. Kapadia"
+    ],
+    "link": "https://arxiv.org/abs/2609.04900"
+  }
+]
