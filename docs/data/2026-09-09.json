@@ -1,0 +1,393 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.06156",
+    "title": "Project Setu: 3D Multi-Physics Design and Spaceflight-Validated Framework for a 0.20c Relativistic Lightsail",
+    "authors": [
+      "Prashant Suresh Kamble"
+    ],
+    "link": "https://arxiv.org/abs/2609.06156"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.06805",
+    "title": "Multimessenger Spectroscopy",
+    "authors": [
+      "Kristen Lackeos"
+    ],
+    "link": "https://arxiv.org/abs/2609.06805"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.06825",
+    "title": "Inelastic Self-interacting Dark Matter and LUX-ZEPLIN 248 keV Event in a Dirac Modular Inverse Seesaw",
+    "authors": [
+      "Pritam Das",
+      "Biswajit Karmakar",
+      "Satyabrata Mahapatra",
+      "Partha Kumar Paul"
+    ],
+    "link": "https://arxiv.org/abs/2609.06825"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07043",
+    "title": "Primordial Black Hole Abundances and Scalar Induced Gravitational Waves from Finite-Width Power Spectra in a Stiff Thermal History",
+    "authors": [
+      "Abolhassan Mohammadi",
+      "Yogesh",
+      "Cristian Joana",
+      "Hongwei Tan",
+      "Ying-li Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.07043"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07176",
+    "title": "One Merger, Three Bands: Multiband Detection Rates and Parameter Estimation of Stellar-mass Binary Black Hole Coalescences from Millihertz to Kilohertz",
+    "authors": [
+      "Anson Chen",
+      "Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.07176"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07348",
+    "title": "Recovering Large-Scale Clustering of Missing Galaxies for Galaxy--Gravitational-Wave Cross-correlations",
+    "authors": [
+      "Tathagata Ghosh",
+      "Surhud More"
+    ],
+    "link": "https://arxiv.org/abs/2609.07348"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07401",
+    "title": "Ultra-slow-roll Inflation with Non-perturbative Non-Gaussianity and Scalar Induced Gravitational Waves",
+    "authors": [
+      "Manuel Drees",
+      "Chenhuan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.07401"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07574",
+    "title": "Optical Flashes from Beam-Driven Light Sails with the Roman, Rubin and Euclid Observatories",
+    "authors": [
+      "James Guillochon",
+      "Abraham Loeb"
+    ],
+    "link": "https://arxiv.org/abs/2609.07574"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.07686",
+    "title": "Approximating the statistics of a gravitational wave background",
+    "authors": [
+      "Mikel Falxa"
+    ],
+    "link": "https://arxiv.org/abs/2609.07686"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.08462",
+    "title": "Vacuum Decay and Baryogenesis Associated with Primordial Black Holes at Finite Temperature",
+    "authors": [
+      "Qi Sun",
+      "Ligong Bian"
+    ],
+    "link": "https://arxiv.org/abs/2609.08462"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.08704",
+    "title": "Supermassive black hole binaries in the multi-messenger context of ground and spaceborne VLBI",
+    "authors": [
+      "B. Hudson",
+      "L. I. Gurvits",
+      "D. J. D'Orazio",
+      "C. Tiede",
+      "T. M. Eubanks",
+      "E. Mooij"
+    ],
+    "link": "https://arxiv.org/abs/2609.08704"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05601",
+    "title": "A compact time-frequency representation for gravitational-wave data analysis",
+    "authors": [
+      "Noah Pearson",
+      "Mesut Çalışkan",
+      "Sophie Bini",
+      "Neil J. Cornish"
+    ],
+    "link": "https://arxiv.org/abs/2609.05601"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05890",
+    "title": "Self-supervised reconstruction of transients in data from space-borne gravitational-wave detectors",
+    "authors": [
+      "Yuxiang Xu",
+      "Minghui Du",
+      "Bo Liang",
+      "Zihao Xiao",
+      "Tianyu Zhao",
+      "Peng Xu"
+    ],
+    "link": "https://arxiv.org/abs/2609.05890"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05996",
+    "title": "Physics-based phenomenological modeling of binary black hole hierarchical formation 1: Synthetic universes from globular cluster simulations for GWTC",
+    "authors": [
+      "R. O'Shaughnessy",
+      "R. Mechum",
+      "M. Qazalbash",
+      "Z. Rosenberg",
+      "M. Zeeshan"
+    ],
+    "link": "https://arxiv.org/abs/2609.05996"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06031",
+    "title": "The accuracy of merger times in hierarchical black hole triples",
+    "authors": [
+      "Giulia Fumagalli",
+      "Alejandro Vigna-Gómez"
+    ],
+    "link": "https://arxiv.org/abs/2609.06031"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06150",
+    "title": "An HLLD Implementation for General Relativistic Magnetohydrodynamics in AthenaK",
+    "authors": [
+      "Jacob Fields",
+      "George N. Wong",
+      "James M. Stone"
+    ],
+    "link": "https://arxiv.org/abs/2609.06150"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06211",
+    "title": "Alternative neural-network follow-up for all-sky FrequencyHough in continuous gravitational-wave searches",
+    "authors": [
+      "Martina Di Cesare",
+      "Pia Astone",
+      "Rosario De Rosa",
+      "David Keitel",
+      "Cristiano Palomba",
+      "Marco Serra"
+    ],
+    "link": "https://arxiv.org/abs/2609.06211"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06347",
+    "title": "Distinguishing lensing and precessional modulation in binary black-hole inspiral waveforms",
+    "authors": [
+      "Tien N. Nguyen-Vo",
+      "Tamanjyot Singh",
+      "Benjamin McKallip",
+      "Michael Kesden",
+      "Lindsay King"
+    ],
+    "link": "https://arxiv.org/abs/2609.06347"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06369",
+    "title": "Constraining the Equation of State of Neutron Stars with third-generation Gravitational Wave detectors",
+    "authors": [
+      "Zhenyu Zhu",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2609.06369"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06374",
+    "title": "Detectability of bulk viscosity effects on post-merger gravitational wave signals from binary neutron star mergers",
+    "authors": [
+      "Zhenyu Zhu",
+      "Michail Chabanov",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2609.06374"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.06728",
+    "title": "Physics-based phenomenological modeling of binary black hole hierarchical formation 2: Autodifferentiable functional inference of hierarchical compact-binary populations",
+    "authors": [
+      "R. O'Shaughnessy",
+      "M. Zeeshan",
+      "M. Qazalbash"
+    ],
+    "link": "https://arxiv.org/abs/2609.06728"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.07326",
+    "title": "Exact Cancellation of Horizon Modes in Kerr Ringdown",
+    "authors": [
+      "Kei-ichiro Kubota",
+      "Yusuke Manita",
+      "Hayato Motohashi",
+      "Daiki Watarai"
+    ],
+    "link": "https://arxiv.org/abs/2609.07326"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.07703",
+    "title": "Bridging the Population Synthesis of Supermassive Binary Black Holes and the Gravitational Wave Background",
+    "authors": [
+      "Kanyuni Iemoto",
+      "Boris Goncharov",
+      "Gabriela Sato-Polito",
+      "Xiaoming Bi"
+    ],
+    "link": "https://arxiv.org/abs/2609.07703"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.07774",
+    "title": "Search for Long-Transient Gravitational Waves from Supernova SN2023ixf using GFH-v2 Pipeline",
+    "authors": [
+      "Sandhya Sajith Menon",
+      "Lorenzo Pierini",
+      "Pia Astone",
+      "Cristiano Palomba",
+      "Francesco Safai Tehrani",
+      "Lorenzo Silvestri",
+      "Ornella Juliana Piccinni",
+      "Simone Dall'Osso",
+      "Stefano Dal Pra",
+      "Sabrina D'Antonio",
+      "Sergio Frasca",
+      "Dafne Guetta",
+      "Paola Leaci",
+      "Michal Bejger",
+      "Alicia Calafat",
+      "Evan Goetz",
+      "Rafel Jaume Amengual",
+      "Ian Jones",
+      "David Keitel",
+      "Andrzej Krolak",
+      "Iuri La Rosa",
+      "Andrew Melatos",
+      "Joan-Rene Merou",
+      "Lorenzo Mirasola",
+      "Rosa Poggiani",
+      "Claudio Salvadore",
+      "Alicia M. Sintes",
+      "Karl Wette",
+      "Michele Zanolin"
+    ],
+    "link": "https://arxiv.org/abs/2609.07774"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.08695",
+    "title": "A Content-Addressed Workflow for Reproducible DANTE Gravitational-Wave Anomaly Analysis",
+    "authors": [
+      "Luca Cirfeta"
+    ],
+    "link": "https://arxiv.org/abs/2609.08695"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.09083",
+    "title": "Breaking binary formation mechanism degeneracies with gravitational wave clustering",
+    "authors": [
+      "Nicola Bellomo",
+      "Michele Bosi",
+      "Sarah Libanore",
+      "Michele Liguori",
+      "Michela Mapelli",
+      "Federico Semenzato",
+      "Stefano Torniamenti"
+    ],
+    "link": "https://arxiv.org/abs/2609.09083"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.09086",
+    "title": "Hierarchical Inference of the Supermassive Black Hole Binary Merger Rates from Joint Searches using Pulsar Timing Arrays",
+    "authors": [
+      "Sharon Mary Tomson",
+      "Rutger van Haasteren",
+      "Boris Goncharov"
+    ],
+    "link": "https://arxiv.org/abs/2609.09086"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.05524",
+    "title": "\"It's getting away from us!\" - Black Hole Horizons and Relative Speed",
+    "authors": [
+      "Markus Pössel"
+    ],
+    "link": "https://arxiv.org/abs/2609.05524"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.06861",
+    "title": "Dissection of a merger-ringdown waveform in the small-mass-ratio limit",
+    "authors": [
+      "Patrick Bourg",
+      "Lorenzo Küchler",
+      "Benjamin Leather",
+      "Kevin Cunningham",
+      "Jack Lewis",
+      "Adam Pound",
+      "Béatrice Bonga",
+      "Marc Casals",
+      "Rodrigo Panosso Macedo"
+    ],
+    "link": "https://arxiv.org/abs/2609.06861"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.07413",
+    "title": "Binary Black Holes in Einstein-Maxwell-Dilaton Theory: Second Post-Newtonian Dynamics from Effective Field Theory",
+    "authors": [
+      "Pawan Kumar Gupta"
+    ],
+    "link": "https://arxiv.org/abs/2609.07413"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.07873",
+    "title": "NRSur7dq4v2: A multi-domain precessing surrogate model with improved accuracy",
+    "authors": [
+      "Abhishek Ravishankar",
+      "Vijay Varma",
+      "Scott E. Field",
+      "Keefe Mitman",
+      "Nils Deppe",
+      "Leo C. Stein",
+      "Michael Boyle",
+      "Mark A. Scheel"
+    ],
+    "link": "https://arxiv.org/abs/2609.07873"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.08584",
+    "title": "Gravitational decoherence from soft-graviton $S$-matrix",
+    "authors": [
+      "Hiroki Matsui"
+    ],
+    "link": "https://arxiv.org/abs/2609.08584"
+  }
+]
