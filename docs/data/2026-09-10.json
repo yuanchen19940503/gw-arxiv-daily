@@ -1,0 +1,138 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.09447",
+    "title": "Evolution of Main Sequence Stars Transferring Mass to a Supermassive Black Hole",
+    "authors": [
+      "Andrey Sandomirsky",
+      "Re'em Sari",
+      "Aleksandra Olejak",
+      "Selma E. de Mink"
+    ],
+    "link": "https://arxiv.org/abs/2609.09447"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.09704",
+    "title": "A universal connection between lens density profiles and low-frequency wave optics in gravitational-wave lensing",
+    "authors": [
+      "So Tanaka",
+      "Teruaki Suyama"
+    ],
+    "link": "https://arxiv.org/abs/2609.09704"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.09919",
+    "title": "Time-Correlated Profile Variability in the MeerKAT Pulsar Timing Array",
+    "authors": [
+      "Bhavnesh Bhat",
+      "Michael J. Keith",
+      "E. Carli",
+      "R. M. Shannon",
+      "Benjamin W. Stappers"
+    ],
+    "link": "https://arxiv.org/abs/2609.09919"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.10285",
+    "title": "Associating binary black holes with galactic centres using lensed gravitational waves",
+    "authors": [
+      "Laura Uronen",
+      "Tian Li",
+      "Qiuhan He",
+      "Justin Janquart",
+      "Thomas Collett",
+      "Léon V.E. Koopmans",
+      "Otto Hannuksela"
+    ],
+    "link": "https://arxiv.org/abs/2609.10285"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.09820",
+    "title": "Clock-noise propagation and calibration for phase-locking configurations in space-based gravitational-wave detectors",
+    "authors": [
+      "Pan-Pan Wang",
+      "Cheng-Gang Shao"
+    ],
+    "link": "https://arxiv.org/abs/2609.09820"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.09926",
+    "title": "Prospects of electromagnetic follow-up of neutron star-black hole mergers in the LIGO-India era",
+    "authors": [
+      "Yogita Kumari",
+      "Kanchan Soni",
+      "Sanjit Mitra"
+    ],
+    "link": "https://arxiv.org/abs/2609.09926"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.09955",
+    "title": "Milky Way Structure from Double White Dwarf Gravitational-Wave Sources",
+    "authors": [
+      "Shao-Dong Zhao",
+      "Xue-Hao Zhang",
+      "Qun-Ying Xie",
+      "Yu-Xiao Liu",
+      "Soumya D. Mohanty"
+    ],
+    "link": "https://arxiv.org/abs/2609.09955"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.10220",
+    "title": "Testing Source Dependence in Gravitational-Wave Tests of General Relativity with Mutual Information",
+    "authors": [
+      "Yi-Fan Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.10220"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.10251",
+    "title": "Pulsar Timing Response and Spatial Correlations of Shear Modes in Torsionless Palatini Spacetime",
+    "authors": [
+      "Tian-Shi Li",
+      "Yu-Mei Wu",
+      "Chang Liu"
+    ],
+    "link": "https://arxiv.org/abs/2609.10251"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.09487",
+    "title": "Shadows and gravitational perturbations of black bounces",
+    "authors": [
+      "Alana C. L. Santos",
+      "Leandro A. Lessa",
+      "Roberto V. Maluf",
+      "Gonzalo J. Olmo"
+    ],
+    "link": "https://arxiv.org/abs/2609.09487"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.09931",
+    "title": "Revealing the Quantum Signature of Gravity via Gravitational Waves",
+    "authors": [
+      "Partha Nandi"
+    ],
+    "link": "https://arxiv.org/abs/2609.09931"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.10354",
+    "title": "A Novel Scheme for Inter-Satellite Integrated Laser Ranging and Communication in Space-Based GW Detection",
+    "authors": [
+      "Zihao Shao",
+      "Siyuan Xie",
+      "Kai Luo"
+    ],
+    "link": "https://arxiv.org/abs/2609.10354"
+  }
+]
