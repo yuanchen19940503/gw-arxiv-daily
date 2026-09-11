@@ -1,0 +1,119 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.10675",
+    "title": "A data processing pipeline for the WINTER near-infrared surveyor using the $\\texttt{mirar}$ framework",
+    "authors": [
+      "Viraj Karambelkar",
+      "Robert Stein",
+      "Danielle Frostig",
+      "Saarah Hall",
+      "Mansi M. Kasliwal",
+      "Tomás Ahumada",
+      "Michael W. Coughlin",
+      "Thomas Culino",
+      "Kishalay De",
+      "Sulekha Kishore",
+      "Theophile Jegou du Laz",
+      "Nathan P. Lourie",
+      "Geoffrey Mo",
+      "Tanishk Mohan",
+      "Sam Rose",
+      "Benjamin R. Roulston",
+      "Aditya Pawan Saikia",
+      "Mallika Sheshadri",
+      "Robert A. Simcoe",
+      "Jamie Soon",
+      "Aswin Suresh"
+    ],
+    "link": "https://arxiv.org/abs/2609.10675"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.10736",
+    "title": "Teglon: A Pixel-Level Pipeline for Galaxy-Informed Gravitational-Wave Follow-up Planning and Efficiency Analysis",
+    "authors": [
+      "D. A. Coulter",
+      "P. Darc",
+      "C. D. Kilpatrick",
+      "R. J. Foley",
+      "P. McGill",
+      "S. D. Wyatt",
+      "R. Hausen"
+    ],
+    "link": "https://arxiv.org/abs/2609.10736"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.11891",
+    "title": "Reconstructing Early Primordial Black Hole Domination from Gravitational-Wave Backgrounds",
+    "authors": [
+      "Daniel del-Corral",
+      "Angus Spalding"
+    ],
+    "link": "https://arxiv.org/abs/2609.11891"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.10753",
+    "title": "Binary-black hole spin population results may be driven by prior degeneracies",
+    "authors": [
+      "Noah E. Wolfe",
+      "Asad Hussain",
+      "Jack Heinzel",
+      "Salvatore Vitale"
+    ],
+    "link": "https://arxiv.org/abs/2609.10753"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.11885",
+    "title": "Hierarchical Population Inference with Normalizing Flows for Binary Black Holes",
+    "authors": [
+      "Leonardo Iampieri",
+      "Simone Mastrogiovanni"
+    ],
+    "link": "https://arxiv.org/abs/2609.11885"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.10717",
+    "title": "GW Explorer: A Beginner's Guide -- Developing a Computational Gravitational-Wave Outreach Curriculum for High School Students",
+    "authors": [
+      "Rachel Langgin",
+      "Bradlee Tejeda",
+      "Carl-Johan Haster"
+    ],
+    "link": "https://arxiv.org/abs/2609.10717"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.11401",
+    "title": "Improving the Sensitivity of Gravitational Wave Detection with Weighted Conformal Prediction",
+    "authors": [
+      "Ann-Kristin Malz",
+      "Gregory Ashton",
+      "Nicolo Colombo"
+    ],
+    "link": "https://arxiv.org/abs/2609.11401"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.11525",
+    "title": "Signatures of charged rotating regular black holes: quasinormal modes, grey-body factors and shadows",
+    "authors": [
+      "Abhisek Barman Maji"
+    ],
+    "link": "https://arxiv.org/abs/2609.11525"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.11819",
+    "title": "Universal Structure of Horizon Formation in Generic Binary Black Hole Mergers",
+    "authors": [
+      "Yu-Cun Xie",
+      "Vaishak Prasad"
+    ],
+    "link": "https://arxiv.org/abs/2609.11819"
+  }
+]
