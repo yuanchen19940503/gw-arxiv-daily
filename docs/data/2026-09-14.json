@@ -1,0 +1,206 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2605.05537",
+    "title": "Implications of the LISA stochastic signal from eccentric stellar mass black hole binaries in vacuum",
+    "authors": [
+      "Ran Chen",
+      "Rohit S. Chandramouli",
+      "Federico Pozzoli",
+      "Riccardo Buscicchio",
+      "Enrico Barausse"
+    ],
+    "link": "https://arxiv.org/abs/2605.05537"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.12053",
+    "title": "Reconsidering the role of bright and dark gravitational-wave standard sirens for cosmology",
+    "authors": [
+      "Alberto Colombo",
+      "Sonia Triscari-Benimavò",
+      "Simone Mastrogiovanni"
+    ],
+    "link": "https://arxiv.org/abs/2609.12053"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.12153",
+    "title": "A Proliferated Space Architecture for Time-Domain Astrophysics",
+    "authors": [
+      "Daniel Kocevski",
+      "Eric Burns",
+      "Thomas Barclay",
+      "Nicholas E. White",
+      "Massimiliano Galeazzi",
+      "Brendan O'Connor",
+      "Amy Lien",
+      "Chris Fryer",
+      "Hallie Fausey",
+      "Fe McBride",
+      "Neil Cornish",
+      "Dheeraj Pasham",
+      "Kip Kuntz",
+      "Anya Nugent",
+      "Scott Porter",
+      "Tzu-Ching Chang",
+      "Adam Lidz",
+      "Alexander van der Horst",
+      "Sylvain Guiriec",
+      "Ed Cackett",
+      "Dieter Hartmann",
+      "Brad Cenko",
+      "C. Michelle Hui",
+      "Tyler Parsotan",
+      "Michael W. Coughlin",
+      "Eliza Neights",
+      "Zorawar Wadiasingh",
+      "Catherine Grant",
+      "Oindabi Mukherjee",
+      "Francesco Longo",
+      "Eric Bellm",
+      "Alec Habig",
+      "George Younes",
+      "Kim Page",
+      "Shivam Kumar Sharma",
+      "Oliver J. Roberts",
+      "Rachel Hamburg",
+      "Rahul Gupta",
+      "Colleen A. Wilson-Hodge",
+      "William Cleveland",
+      "Breann Sitarski",
+      "Vikas Chand",
+      "Raffaella Margutti",
+      "Adam Goldstein",
+      "Ryan J. Foley",
+      "Vidushi Sharma",
+      "Yi-Jung Yang",
+      "Elisabetta Bissaldi",
+      "M. Coleman Miller",
+      "T. A. Pritchard",
+      "D. J. Sand",
+      "Tomas Ahumada",
+      "Judith Racusin",
+      "Noah Franz",
+      "Kate D. Alexander",
+      "Brenna Mockler",
+      "D. Andrew Howell",
+      "Elisa Quintana",
+      "Chin-Ping Hu",
+      "Igor Andreoni",
+      "Boyan Hristov"
+    ],
+    "link": "https://arxiv.org/abs/2609.12153"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.12204",
+    "title": "Path-Degenerate Quantum Interferometry for Decoherence Mitigation in Gravitational-Wave Detectors",
+    "authors": [
+      "Jonas Rittmeyer",
+      "Niels Boettner",
+      "Farid Khalili",
+      "Mikhail Korobko",
+      "Roman Schnabel"
+    ],
+    "link": "https://arxiv.org/abs/2609.12204"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.12308",
+    "title": "Electromagnetic Probes of the Supernova Engine",
+    "authors": [
+      "Chris L. Fryer"
+    ],
+    "link": "https://arxiv.org/abs/2609.12308"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12476",
+    "title": "A semicoherent resampling method for long-transient gravitational wave searches with applications to subsolar-mass primordial black-hole binaries",
+    "authors": [
+      "Neil Lu",
+      "Cristiano Palomba",
+      "Ornella J. Piccinni",
+      "Ling Sun"
+    ],
+    "link": "https://arxiv.org/abs/2609.12476"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12797",
+    "title": "The Wavelet Detection Filter: a real time unmodeled pipeline for gravitational wave transients, ranking coincidences with a graph neural network",
+    "authors": [
+      "Elena Cuoco"
+    ],
+    "link": "https://arxiv.org/abs/2609.12797"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12806",
+    "title": "Reconstructing the Dark Matter Equation of State with Compact Object Inspirals",
+    "authors": [
+      "Boris Betancourt Kamenetskaia",
+      "Qianhang Ding",
+      "Hui-Yu Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2609.12806"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12867",
+    "title": "Probing Inflationary Origins of Primordial Black Holes with LIGO--Virgo--KAGRA O1--O4a data",
+    "authors": [
+      "Haipeng An",
+      "Huai-Ke Guo",
+      "Mai Qiao",
+      "Lian-Tao Wang",
+      "Chen Yang",
+      "Yue Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2609.12867"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12986",
+    "title": "\\texttt{cWB-space}: A time-frequency transient-search pipeline for LISA",
+    "authors": [
+      "Shubhanshu Tiwari",
+      "Yumeng Xu",
+      "Giovanni A. Prodi"
+    ],
+    "link": "https://arxiv.org/abs/2609.12986"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.12998",
+    "title": "An efficient approach to resistive GRMHD simulations of binary neutron star mergers",
+    "authors": [
+      "Miquel Miravet-Tenés",
+      "Ian Hawke",
+      "Rahime Matur",
+      "Alexander J. Wright"
+    ],
+    "link": "https://arxiv.org/abs/2609.12998"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.12098",
+    "title": "The devil in the transition: NLO nucleation and the particle physics behind the PTA signal",
+    "authors": [
+      "Cristina Puchades-Ibáñez",
+      "Pedro Schwaller"
+    ],
+    "link": "https://arxiv.org/abs/2609.12098"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.12784",
+    "title": "Compact binary systems in the post-Newtonian limit of gravitational theories with preferred frames",
+    "authors": [
+      "Oliver Pitt",
+      "Timothy Clifton"
+    ],
+    "link": "https://arxiv.org/abs/2609.12784"
+  }
+]
