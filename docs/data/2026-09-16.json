@@ -1,0 +1,102 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.16209",
+    "title": "Gravitational Wave Bias in IllustrisTNG300 from Machine-Learned Population-Synthesis Calibrated Merger Rates",
+    "authors": [
+      "Dorsa Sadat Hosseini",
+      "Taisiia Karasova",
+      "Nikshay Chugh",
+      "Alex Krolewski",
+      "Ghazal Geshnizjani"
+    ],
+    "link": "https://arxiv.org/abs/2609.16209"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.16330",
+    "title": "Neutron Star Merger Universality Relations for a Quark--Hadron Crossover Equation of State",
+    "authors": [
+      "Wei Sun",
+      "Grant J. Mathews",
+      "Atul Kedia"
+    ],
+    "link": "https://arxiv.org/abs/2609.16330"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.16238",
+    "title": "Bridging the chirp-mass gap: searching for gravitational waves from inspiraling ultra-compact binaries using LIGO O4ab data",
+    "authors": [
+      "Andrew L. Miller"
+    ],
+    "link": "https://arxiv.org/abs/2609.16238"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.16290",
+    "title": "Formation of Merging Black Hole Binaries Inside Massive AGN Stars",
+    "authors": [
+      "Sizheng Ma",
+      "Douglas N. C. Lin",
+      "David A. Velasco-Romero"
+    ],
+    "link": "https://arxiv.org/abs/2609.16290"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.16534",
+    "title": "Bridging Between Statistical Mechanics and Black Hole Evolution: Theoretical Formalism",
+    "authors": [
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2609.16534"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.16891",
+    "title": "Gravitational lensing of gravitational waves by galaxy clusters",
+    "authors": [
+      "Xikai Shan",
+      "Yi-Fan Wang",
+      "Shude Mao",
+      "Huan Yang",
+      "Miguel Zumalacárregui"
+    ],
+    "link": "https://arxiv.org/abs/2609.16891"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.16990",
+    "title": "Impact of the Host Galaxy on the Search for Gravitational-Wave Microlensing by Compact Objects",
+    "authors": [
+      "Uddeepta Deka",
+      "Apratim Ganguly",
+      "Soham Bhattacharyya",
+      "Parameswaran Ajith"
+    ],
+    "link": "https://arxiv.org/abs/2609.16990"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.16463",
+    "title": "Weak in the Presence of Beauty: Gravitational waves from the mergers of black holes and neutron stars as a messenger",
+    "authors": [
+      "Fiona H. Panther",
+      "Jordan W. N. Moncrieff",
+      "Mac L. Button"
+    ],
+    "link": "https://arxiv.org/abs/2609.16463"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.16477",
+    "title": "Correlated Galactic Confusion Foreground for the LISA-Taiji-TianQin Network and Its Implications for Resolvable Source Analysis",
+    "authors": [
+      "Minghui Du",
+      "Peng Xu",
+      "Ziren Luo"
+    ],
+    "link": "https://arxiv.org/abs/2609.16477"
+  }
+]
