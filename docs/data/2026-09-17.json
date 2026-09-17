@@ -1,0 +1,170 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.17776",
+    "title": "The Hidden Evolution of Gamma-Ray Burst Jets Revealed by Gravitational Waves",
+    "authors": [
+      "Gerardo Urrutia",
+      "Fabio De Colle",
+      "Agnieszka Janiuk",
+      "Claudia Moreno",
+      "Enrico Ramirez-Ruiz"
+    ],
+    "link": "https://arxiv.org/abs/2609.17776"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.17850",
+    "title": "Tidal Properties of White Dwarfs Admixed with Fermionic Dark Matter",
+    "authors": [
+      "G. A. Carvalho",
+      "J. D. V. Arbañil",
+      "I. A. Lacerda",
+      "J. G. Coelho"
+    ],
+    "link": "https://arxiv.org/abs/2609.17850"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.17936",
+    "title": "Updated estimates of post-merger gravitational wave energy released in GW170817 and the maximum neutron star mass",
+    "authors": [
+      "Yong Chen",
+      "Bo Gao",
+      "Yong-Jia Huang",
+      "Shao-Peng Tang",
+      "Yi-Zhong Fan"
+    ],
+    "link": "https://arxiv.org/abs/2609.17936"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.18233",
+    "title": "Toward Autonomous Radio Follow-up of Multi-messenger Transients with RADAR: From Alert Parsing to Inference and Observation Scheduling",
+    "authors": [
+      "Mihael Hategan-Marandiuc",
+      "Tanner O'Dwyer",
+      "Alessandra Corsi",
+      "Eliu Huerta",
+      "Zilinghan Li",
+      "Ian T. Foster",
+      "Kyle Chard",
+      "Ryan Chard",
+      "Amal Gueroudji"
+    ],
+    "link": "https://arxiv.org/abs/2609.18233"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.18443",
+    "title": "The GOTO Telescope Control System",
+    "authors": [
+      "Martin J. Dyer",
+      "Vik S. Dhillon",
+      "Stuart Littlefair",
+      "Kendall Ackley",
+      "Sergey Belkin",
+      "Lisa Kelsey",
+      "Tom Killestein",
+      "Amit Kumar",
+      "Joseph Lyman",
+      "David O'Neill",
+      "Krzysztof Ulaczyk",
+      "Ben Godson",
+      "Dan Jarvis",
+      "Danny Steeghs",
+      "Duncan K. Galloway",
+      "Paul O'Brien",
+      "Gavin Ramsay",
+      "Kanthanakorn Noysena",
+      "Rubina Kotak",
+      "Rene Breton",
+      "Laura Nuttall",
+      "Ben Gompertz",
+      "Jorge Casares Velázquez",
+      "Don Pollacco"
+    ],
+    "link": "https://arxiv.org/abs/2609.18443"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.18523",
+    "title": "WFST Follow-up of S251112cm: Searching for an Optical Counterpart to a Subsolar-mass Compact-binary Merger Candidate",
+    "authors": [
+      "Zhengyan Liu",
+      "Zelin Xu",
+      "Ji-an Jiang",
+      "Wen Zhao",
+      "Zhiping Jin",
+      "Zigao Dai",
+      "Dezheng Meng",
+      "Yefei Yuan",
+      "Xuefeng Wu",
+      "Lulu Fan",
+      "Xu Kong",
+      "Xander J. Hall",
+      "Brendan O'Connor",
+      "Feng Li",
+      "Ming Liang",
+      "Binyang Liu",
+      "Zhen Wan",
+      "Hairen Wang",
+      "Jian Wang",
+      "Tinggui Wang",
+      "Hongfei Zhang",
+      "Xianzhong Zheng",
+      "Qingfeng Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2609.18523"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.17665",
+    "title": "Unifying spatial correlation with hierarchical population inference to constrain the AGN channel for binary black hole mergers",
+    "authors": [
+      "Lucas Pouw",
+      "Lorenzo Speri",
+      "Niccolò Veronesi",
+      "Elena Maria Rossi"
+    ],
+    "link": "https://arxiv.org/abs/2609.17665"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.17668",
+    "title": "Proper Time Shifts in Pulsar Timing Arrays",
+    "authors": [
+      "Vincent S. H. Lee"
+    ],
+    "link": "https://arxiv.org/abs/2609.17668"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.17674",
+    "title": "Massively parallel transdimensional sampling with data assimilation: an application to LISA galactic binaries",
+    "authors": [
+      "Gabriele Demasi",
+      "Walter Del Pozzo"
+    ],
+    "link": "https://arxiv.org/abs/2609.17674"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.17928",
+    "title": "Infrared Universality of Scalar Induced Gravitational Waves Beyond Second Order",
+    "authors": [
+      "Chen Yuan"
+    ],
+    "link": "https://arxiv.org/abs/2609.17928"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.18337",
+    "title": "Searching for gravitational wave echo with group equivariant neural posterior estimation",
+    "authors": [
+      "Jian-Wei Luo",
+      "Yun-Song Piao"
+    ],
+    "link": "https://arxiv.org/abs/2609.18337"
+  }
+]
