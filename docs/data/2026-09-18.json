@@ -1,0 +1,228 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.19284",
+    "title": "Lukewarm inflation and the QCD axion",
+    "authors": [
+      "Paulo B. Ferraz",
+      "António Torres Manso",
+      "João G. Rosa"
+    ],
+    "link": "https://arxiv.org/abs/2609.19284"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.19327",
+    "title": "Gravitas: A Browser-Based Astrophysics Laboratory for Prediction, Measurement, and Discovery",
+    "authors": [
+      "Carl Ziegler"
+    ],
+    "link": "https://arxiv.org/abs/2609.19327"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.19922",
+    "title": "Investigating the influence of the full-kinematics treatment for charged-current processes in binary neutron star mergers",
+    "authors": [
+      "Ramon Jaeger",
+      "Henrique Gieg",
+      "Tim Dietrich"
+    ],
+    "link": "https://arxiv.org/abs/2609.19922"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.20500",
+    "title": "Particle Physics Driven by Quantum Technology - Quantum Simulations and Quantum Sensing",
+    "authors": [
+      "Itay M. Bloch",
+      "Marcela Carena",
+      "Yifan Chen",
+      "Xinran Li",
+      "Ying-Ying Li",
+      "Jing Shu"
+    ],
+    "link": "https://arxiv.org/abs/2609.20500"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.19270",
+    "title": "Lukewarm inflation, primordial black holes and gravitational waves",
+    "authors": [
+      "Paulo B. Ferraz",
+      "António Torres Manso",
+      "João G. Rosa"
+    ],
+    "link": "https://arxiv.org/abs/2609.19270"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.19416",
+    "title": "Deep Learning Detection of Beyond-General-Relativity Deviations in Gravitational-Wave Signals: A Detection-Threshold Study with Real LIGO Noise",
+    "authors": [
+      "Muhammad Adnan Shahzad"
+    ],
+    "link": "https://arxiv.org/abs/2609.19416"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.20280",
+    "title": "Stasis Combs: Gravitational-Wave Signatures of Recurrent Cosmological Stasis",
+    "authors": [
+      "Gabriela Barenboim",
+      "Anne-Katherine Burns"
+    ],
+    "link": "https://arxiv.org/abs/2609.20280"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2604.06606",
+    "title": "Enhanced Precision in Entangled Quantum Clocks with Phase Estimation Algorithm",
+    "authors": [
+      "Won-Young Hwang"
+    ],
+    "link": "https://arxiv.org/abs/2604.06606"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.19317",
+    "title": "Observing and evading quantum back-action on a kilogram-scale oscillator",
+    "authors": [
+      "Begüm Kabagöz",
+      "Eric Oelker",
+      "Dhruva Ganapathy",
+      "Nergis Mavalvala",
+      "Vivishek Sudhir",
+      "Vladimir Bossilkov",
+      "Joseph Betzweiser",
+      "Valery V. Frolov",
+      "Anamaria Effler",
+      "Adam Mullavey",
+      "Lisa Barsotti",
+      "Evan D. Hall",
+      "Peter Fritschel",
+      "R. Abbott",
+      "I. Abouelfettouh",
+      "R. X. Adhikari",
+      "A. Ananyeva",
+      "S. Appert",
+      "S. K. Apple",
+      "K. Arai",
+      "N. Aritomi",
+      "S. M. Aston",
+      "M. Ball",
+      "S. W. Ballmer",
+      "D. Barker",
+      "B. K. Berger",
+      "D. Bhattacharjee",
+      "G. Billingsley",
+      "S. Biscans",
+      "C. D. Blair",
+      "N. Bode",
+      "E. Bonilla",
+      "A. Branch",
+      "A. F. Brooks",
+      "D. D. Brown",
+      "J. Bryant",
+      "C. Cahillane",
+      "A. Calafat",
+      "S. R. Callos",
+      "H. Cao",
+      "E. Capote",
+      "F. Clara",
+      "J. Collins",
+      "C. M. Compton",
+      "G. Connolly",
+      "R. Cottingham",
+      "D. C. Coyne",
+      "R. Crouch",
+      "J. Csizmazia",
+      "A. Cumming",
+      "L. P. Dartez",
+      "D. Davis",
+      "N. Demos",
+      "E. Dohmen",
+      "K. L. Dooley",
+      "J. C. Driggers",
+      "S. E. Dwyer",
+      "A. Ejlli",
+      "T. Etzel",
+      "M. Evans",
+      "J. Feicht",
+      "R. Frey",
+      "W. Frischhertz",
+      "M. Fuentes-Garcia",
+      "P. Fulda",
+      "M. Fyffe",
+      "B. Gateley",
+      "T. Gayer",
+      "J. A. Giaime",
+      "K. D. Giardina",
+      "J. Glanzer",
+      "E. Goetz",
+      "R. Goetz",
+      "A. W. Goodwin-Jones",
+      "S. Gras",
+      "C. Gray",
+      "D. Griffith",
+      "H. Grote",
+      "T. Guidry",
+      "J. Gurs",
+      "J. Hanks",
+      "J. Hanson",
+      "M. C. Heintze",
+      "A. F. Helmling-Cornell",
+      "N. A. Holland",
+      "D. Hoyland",
+      "H. Y. Huang",
+      "Y. Inoue",
+      "A. L. James",
+      "A. Jamies",
+      "R. Jaume",
+      "A. Jennings",
+      "W. Jia",
+      "D. H. Jones",
+      "S. Karat",
+      "S. Karki",
+      "M. Kasprzack",
+      "K. Kawabe",
+      "N. Kijbunchoo",
+      "P. J. King"
+    ],
+    "link": "https://arxiv.org/abs/2609.19317"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.19462",
+    "title": "On Stochastic Memory Backgrounds In LISA",
+    "authors": [
+      "James Buda",
+      "Andrew Laeuger",
+      "Yanbei Chen"
+    ],
+    "link": "https://arxiv.org/abs/2609.19462"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.19975",
+    "title": "Extending the Love-Q Relation to Rapidly Rotating Neutron Stars for Gravitational-Waveform Modelling",
+    "authors": [
+      "Natalie Williams",
+      "Tim Dietrich"
+    ],
+    "link": "https://arxiv.org/abs/2609.19975"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.20168",
+    "title": "Higher-order generalized uncertainty principle corrections to Casimir-supported traversable wormholes",
+    "authors": [
+      "Jureeporn Yuennan",
+      "Allah Ditta",
+      "Thammarong Eadkhong",
+      "Kazuharu Bamba",
+      "Phongpichit Channuie"
+    ],
+    "link": "https://arxiv.org/abs/2609.20168"
+  }
+]
