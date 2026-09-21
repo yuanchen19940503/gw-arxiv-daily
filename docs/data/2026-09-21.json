@@ -1,0 +1,68 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.20976",
+    "title": "Comparing the Detectability of the Baryon Acoustic Oscillation through Gravitational-Wave Autocorrelation and Cross-Correlation with Galaxies",
+    "authors": [
+      "Gautam Bhuyan",
+      "Tathagata Ghosh",
+      "Surhud More"
+    ],
+    "link": "https://arxiv.org/abs/2609.20976"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.22074",
+    "title": "The AGN Channel in 3D: Scattering Belts and the Importance of Eccentricity in the Black Hole Population",
+    "authors": [
+      "Connar Rowan",
+      "Martin E. Pessah"
+    ],
+    "link": "https://arxiv.org/abs/2609.22074"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.21119",
+    "title": "Non-Conservative Mechanics in the Compact-Body Mass-Shell Model and its Waveform Structuring",
+    "authors": [
+      "Noah M. MacKay"
+    ],
+    "link": "https://arxiv.org/abs/2609.21119"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.21606",
+    "title": "Combining astrometry with pulsar timing: the first joint analysis of very low frequency gravitational waves",
+    "authors": [
+      "Lorenzo Filipello",
+      "William Beordo",
+      "Volodymyr Akhmetov",
+      "Mariateresa Crosta",
+      "Mario Gilberto Lattanzi"
+    ],
+    "link": "https://arxiv.org/abs/2609.21606"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.20934",
+    "title": "Second-order scattering response of a Schwarzschild black hole",
+    "authors": [
+      "Bruno Bucciotti",
+      "Jaime Redondo-Yuste",
+      "Adrien Kuntz",
+      "Vitor Cardoso"
+    ],
+    "link": "https://arxiv.org/abs/2609.20934"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.22080",
+    "title": "Rotating Neutron Star Migrations as a Standardized Test for 3+1 Numerical Relativity",
+    "authors": [
+      "Óscar H. Petit",
+      "José A. Font",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2609.22080"
+  }
+]
