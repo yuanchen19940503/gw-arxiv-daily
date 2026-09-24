@@ -1,0 +1,183 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.26938",
+    "title": "The Simons Observatory: Commissioning of the Mid-Frequency Small Aperture Telescopes",
+    "authors": [
+      "Kathleen Harrington",
+      "Remington Gerras",
+      "Nicholas Galitzki",
+      "Samuel Day-Weiss",
+      "Yoshinori Sueno",
+      "Thomas Alford",
+      "Michael J. Randall",
+      "Kyohei Yamada",
+      "Maximiliano Silva-Feaver",
+      "Kevin Crowley",
+      "Shunsuke Adachi",
+      "Alexandre E. Adler",
+      "Prakamya Agrawal",
+      "Simone Aiola",
+      "David Alonso",
+      "Kam Arnold",
+      "Susanna Azzoni",
+      "Andrew Bazarko",
+      "Sanah Bhimani",
+      "Simon Biquard",
+      "Bryce Bixler",
+      "Josh Borrow",
+      "Michael L. Brown",
+      "Erminia Calabrese",
+      "Yuji Chinone",
+      "Steve K. Choi",
+      "Nadia Dachlythra",
+      "Mark Devlin",
+      "Simon Dicker",
+      "Peter N. Dow",
+      "Shannon M. Duff",
+      "Jo Dunkley",
+      "Rolando Dunner",
+      "Daniel Dutcher",
+      "Hamza El Bouhargani",
+      "Josquin Errard",
+      "Allen Foster",
+      "Ken Ganga",
+      "John Groh",
+      "Yilun Guan",
+      "Jon E. Gudmundsson",
+      "Saianeesh Haridas",
+      "Masaya Hasegawa",
+      "Matthew Hasselfield",
+      "Shawn W. Henderson",
+      "Carlos Hervías-Caimapo",
+      "Adam D. Hincks",
+      "Renée Hložek",
+      "Johannes Hubmayr",
+      "Bradley R. Johnson",
+      "Yutaro Kasai",
+      "Brian Keating",
+      "Ben Keller",
+      "Theodore Kisner",
+      "Brian J. Koopman",
+      "Akito Kusaka",
+      "Adrian Lee",
+      "JB Lloyd",
+      "Anto Lonappan",
+      "Marius Lungu",
+      "Aashrita Mangu",
+      "Michael McCrackan",
+      "Jeff McMahon",
+      "Jenna Moore",
+      "Thomas W. Morris",
+      "Hironobu Nakata",
+      "Federico Nati",
+      "Laura Newburgh",
+      "David V. Nguyen",
+      "John Orlowski-Scherer",
+      "Lyman Page",
+      "Ioannis Paraskevakos",
+      "Tristan Pinsonneault-Marotte",
+      "Erik Rosenberg",
+      "Yuki Sakurai",
+      "Goureesankar Sathyanathan",
+      "Thomas P. Satterthwaite",
+      "Yudai Seino",
+      "Elle Shaw",
+      "Sara M. Simon",
+      "Suzanne T. Staggs",
+      "Junna Sugiyama",
+      "Junya Suzuki",
+      "Satoru Takakura",
+      "Osamu Tajima",
+      "Alex Thomas",
+      "Daniel B. Thomas",
+      "Tran Tsan",
+      "Eve Vavagiakis",
+      "Yuhan Wang",
+      "John Wilson"
+    ],
+    "link": "https://arxiv.org/abs/2609.26938"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.27978",
+    "title": "Dark Transport Erases Baryon Inhomogeneity from Supercooled Phase Transitions",
+    "authors": [
+      "Sudhakantha Girmohanta",
+      "Kohei Kamada",
+      "Yuichiro Nakai",
+      "Fumio Uchida"
+    ],
+    "link": "https://arxiv.org/abs/2609.27978"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.28348",
+    "title": "Big Bang Nucleosynthesis as a Probe of First-Order Phase Transitions",
+    "authors": [
+      "Masanori Tanaka"
+    ],
+    "link": "https://arxiv.org/abs/2609.28348"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.26878",
+    "title": "Compact Object Mergers and Micro-Tidal Disruption Events: A Multi-Messenger Probe of Dense Stellar Environments",
+    "authors": [
+      "Konstantinos Kritos",
+      "Francesco Iacovelli",
+      "Rosalba Perna",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2609.26878"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.27254",
+    "title": "Correcting for Evidence Uncertainty in the Templated Background Search for the Stochastic Gravitational-Wave Background",
+    "authors": [
+      "Xiao-Xiao Kou",
+      "Argyro Sasli",
+      "Muhammed Saleem",
+      "Vuk Mandic"
+    ],
+    "link": "https://arxiv.org/abs/2609.27254"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.28031",
+    "title": "Neural Network Guided Parameter Space Constraints for Gravitational Wave Searches from Binary Black Holes",
+    "authors": [
+      "Chetan Verma",
+      "Amit Reza",
+      "Gurudatt Gaur",
+      "Dilip Krishnaswamy",
+      "Sarah Caudill"
+    ],
+    "link": "https://arxiv.org/abs/2609.28031"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.27539",
+    "title": "Evolution and disruption of circular orbits during dynamic black hole scalarization",
+    "authors": [
+      "Yu-Peng Zhang",
+      "Shao-Wen Wei",
+      "Yu-Xiao Liu"
+    ],
+    "link": "https://arxiv.org/abs/2609.27539"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.28146",
+    "title": "A Catalog-Wide Study of Gravitational-Wave Residuals in GWTC-4 and GWTC-5",
+    "authors": [
+      "Junlin Qin",
+      "Zhan-Feng Mai",
+      "Dicong Liang",
+      "Hai-Tian Wang",
+      "En-Wei Liang"
+    ],
+    "link": "https://arxiv.org/abs/2609.28146"
+  }
+]
