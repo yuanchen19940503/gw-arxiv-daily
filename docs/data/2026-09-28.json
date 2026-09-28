@@ -1,0 +1,101 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.30366",
+    "title": "Hybrid Partial Dressing: Correct Effective Potentials at All Temperatures",
+    "authors": [
+      "Raphaël Berthiaume",
+      "David Curtin",
+      "Michael Luke",
+      "Andrija Rasovic",
+      "Jyotirmoy Roy"
+    ],
+    "link": "https://arxiv.org/abs/2609.30366"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.31340",
+    "title": "Natural Saturation Of The Sterile Neutrino Dark Matter Resonant Production By a High Lepton Flavor Asymmetry In Primordial Plasma",
+    "authors": [
+      "Dmitry Gorbunov",
+      "Dmitry Kalashnikov"
+    ],
+    "link": "https://arxiv.org/abs/2609.31340"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.31543",
+    "title": "Cosmic Heterogeneity Shapes the Evolution of Dark Energy and Time",
+    "authors": [
+      "Jacky David Yang",
+      "Hans-Otto Carmesin"
+    ],
+    "link": "https://arxiv.org/abs/2609.31543"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.30318",
+    "title": "MAGGIE: A Magnetic Gravitational Wave Induction Experiment",
+    "authors": [
+      "Jasper Jödicke",
+      "Marios Maroudas",
+      "Toma-Stefan Cezar",
+      "Dieter Horns"
+    ],
+    "link": "https://arxiv.org/abs/2609.30318"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.30378",
+    "title": "Mass and spin properties of black-hole mergers reveal formation in triples",
+    "authors": [
+      "Jakob Stegmann",
+      "Aleksandra Olejak"
+    ],
+    "link": "https://arxiv.org/abs/2609.30378"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.31118",
+    "title": "Architecture Acceleration of Machine Learning Gravitational Waveform Surrogate Models",
+    "authors": [
+      "Adriano Frattale Mascioli",
+      "Lorenzo Piccari",
+      "Saulo Albuquerque",
+      "Gabriele Demasi",
+      "Giulia Capurri",
+      "Massimo Lenti",
+      "Angelo Ricciardone",
+      "Barbara Patricelli",
+      "Gianluca M. Guidi",
+      "Giulia Stratta",
+      "Walter Del Pozzo",
+      "Francesco Pannarale"
+    ],
+    "link": "https://arxiv.org/abs/2609.31118"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.31550",
+    "title": "Mind the second gap: The impact of gaps on noise and signal parameter inference",
+    "authors": [
+      "Ollie Burke",
+      "Federico Pozzoli",
+      "Martina Muratore",
+      "Jonathan R. Gair"
+    ],
+    "link": "https://arxiv.org/abs/2609.31550"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.31000",
+    "title": "Gravitational wave radiation from periodic orbits around a black hole in Einstein-Maxwell-scalar theory",
+    "authors": [
+      "Mirzabek Alloqulov",
+      "Xojibonu Abdurashidova",
+      "Sanjar Shaymatov",
+      "Raxmatillo Karimov"
+    ],
+    "link": "https://arxiv.org/abs/2609.31000"
+  }
+]
