@@ -1,0 +1,156 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.35994",
+    "title": "Hierarchical Bayesian Inference on the intrinsic event rate of Type I gamma-ray bursts from the {\\it Fermi}/GBM catalogue",
+    "authors": [
+      "Cao Tian-Yong",
+      "Yi Shu-Xu",
+      "Du Yun-Fei",
+      "Yorgancioglu S. Emre",
+      "Xiong Shao-Lin"
+    ],
+    "link": "https://arxiv.org/abs/2609.35994"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.36961",
+    "title": "LISA Double White Dwarfs in Triple Systems",
+    "authors": [
+      "Zhijun Wang",
+      "Guoliang Lü",
+      "Chunhua Zhu",
+      "Xizhen Lu",
+      "Sufen Guo",
+      "Helei Liu",
+      "Renyu Luo",
+      "Tian Huang"
+    ],
+    "link": "https://arxiv.org/abs/2609.36961"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.37770",
+    "title": "Shaping binary black hole merger efficiency with gravitational wave observations",
+    "authors": [
+      "Michele Bosi",
+      "Lumen Boco",
+      "Stefano Torniamenti",
+      "Stefano Rinaldi",
+      "Cecilia Sgalletta",
+      "Michela Mapelli",
+      "Carlo Baccigalupi",
+      "Andrea Lapi"
+    ],
+    "link": "https://arxiv.org/abs/2609.37770"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.35962",
+    "title": "Low Frequency Gravitational Wave Detection with Gravito-Magnetism",
+    "authors": [
+      "Reza Ebadi",
+      "Surjeet Rajendran"
+    ],
+    "link": "https://arxiv.org/abs/2609.35962"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.36005",
+    "title": "Stochastic gravitational-wave background from subsolar neutron stars in collapsar disks",
+    "authors": [
+      "Valerio De Luca",
+      "Loris Del Grosso",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2609.36005"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.36327",
+    "title": "Computing gravitational radiation from highly eccentric bound binaries in the small-mass-ratio limit",
+    "authors": [
+      "Diego Andrés Rivera Orona",
+      "Scott A. Hughes"
+    ],
+    "link": "https://arxiv.org/abs/2609.36327"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.37234",
+    "title": "The Irreversible Depletion of Dark Matter Spikes by Extreme-Mass-Ratio Inspirals",
+    "authors": [
+      "Charlie Sharpe",
+      "Yonadav Barry Ginat",
+      "Thomas F. M. Spieksma",
+      "Alexander Heger",
+      "Bence Kocsis"
+    ],
+    "link": "https://arxiv.org/abs/2609.37234"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.37248",
+    "title": "Gravitational-Wave Inference For Noise PSD Jumps Across Data Gaps",
+    "authors": [
+      "Jian-Ming Yan",
+      "Zong-Kuan Guo"
+    ],
+    "link": "https://arxiv.org/abs/2609.37248"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.37393",
+    "title": "Scaling RIFT 1: Extending RIFT to third-generation gravitational-wave analyses",
+    "authors": [
+      "R. O'Shaughnessy",
+      "A. Jan",
+      "J. Lange",
+      "R. Mechum"
+    ],
+    "link": "https://arxiv.org/abs/2609.37393"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.38110",
+    "title": "Gravitational-wave dark sirens as astrophysical probes: inferring galaxy-merger relations and identifying individual hosts",
+    "authors": [
+      "Alessandro Agapito",
+      "Michele Mancarella"
+    ],
+    "link": "https://arxiv.org/abs/2609.38110"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.38122",
+    "title": "Fast and Flow-rious: Gravitational Wave Background Bayesian Model Comparison using Normalizing Flows and Nested Sampling",
+    "authors": [
+      "David C. Wright",
+      "Aaron D. Johnson",
+      "Jeffrey S. Hazboun",
+      "William G. Lamb"
+    ],
+    "link": "https://arxiv.org/abs/2609.38122"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.37039",
+    "title": "Beyond circular and equatorial orbits: Bayesian constraint on vector charge with the adiabatic inspirals of generic Kerr geodesics",
+    "authors": [
+      "Tieguang Zi",
+      "Genliang Li"
+    ],
+    "link": "https://arxiv.org/abs/2609.37039"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.37079",
+    "title": "Self-Interacting Dark Matter-Induced Dynamical Friction and Its Imprint on EMRI Gravitational Waves",
+    "authors": [
+      "Yu Wang",
+      "Meilin Liu",
+      "Haiguang Xu"
+    ],
+    "link": "https://arxiv.org/abs/2609.37079"
+  }
+]
