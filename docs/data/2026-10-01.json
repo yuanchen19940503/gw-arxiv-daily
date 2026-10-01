@@ -1,0 +1,162 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.38305",
+    "title": "Close Pulsar Pairs See Dark Matter Substructure through the Gravitational-Wave Background",
+    "authors": [
+      "Abhiram Cherukupalli",
+      "Vincent S. H. Lee",
+      "Kim V. Berghaus",
+      "Kathryn M. Zurek"
+    ],
+    "link": "https://arxiv.org/abs/2609.38305"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.38590",
+    "title": "Chandra X-ray Spectral Evidence of the Dual AGN Nature of the Gravitational lens MG B2016+112 at z=3.273 with 175 pc separation",
+    "authors": [
+      "Daniel A. Schwartz",
+      "Julia M. Sisk-Reynes",
+      "Anna Barnacka"
+    ],
+    "link": "https://arxiv.org/abs/2609.38590"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.39100",
+    "title": "The Simons Observatory: Design and Initial Performance of the Detector Readout System for the Large-Aperture Telescope",
+    "authors": [
+      "Thomas P. Satterthwaite",
+      "Tristan Pinsonneault-Marotte",
+      "Shawn W. Henderson",
+      "Zeeshan Ahmed",
+      "Kam Arnold",
+      "Declan Baker",
+      "Andrew Bazarko",
+      "Josh Borrow",
+      "Michael L. Brown",
+      "Mark Devlin",
+      "Simon Dicker",
+      "Peter N. Dow",
+      "Shannon M. Duff",
+      "Daniel Dutcher",
+      "John C. Groh",
+      "Saianeesh K. Haridas",
+      "Kathleen Harrington",
+      "Erin Healy",
+      "Johannes Hubmayr",
+      "Bradley R. Johnson",
+      "Brian Keating",
+      "Anna M. Kofman",
+      "Adrian T. Lee",
+      "Alex Manduca",
+      "Aashrita Mangu",
+      "Jenna E. Moore",
+      "Michael D. Niemack",
+      "Sandra O'Neill",
+      "John Orlowski-Scherer",
+      "Yudai Seino",
+      "Mufan Shao",
+      "Carlos Sierra",
+      "Max Silva-Feaver",
+      "Suzanne Staggs",
+      "Eve M. Vavagiakis",
+      "Yuhan Wang",
+      "Edward J. Wollack"
+    ],
+    "link": "https://arxiv.org/abs/2609.39100"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.39224",
+    "title": "Electromagnetic Counterparts of Stellar-mass Binary Black Hole Mergers in AGN Accretion Disks: Theoretical Models and Observational Status",
+    "authors": [
+      "Lei He",
+      "Liang-Gui Zhu",
+      "Ken Chen",
+      "Zi-Gao Dai",
+      "Ye-Fei Yuan",
+      "Jian-Min Wang",
+      "Wen Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2609.39224"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.38399",
+    "title": "Fisher and DALI posterior approximations for testing gravity with gravitational waves",
+    "authors": [
+      "Felipe A. da Silva Barbosa",
+      "Davi C. Rodrigues",
+      "Josiel Mendonça Soares de Souza",
+      "Miguel Quartin"
+    ],
+    "link": "https://arxiv.org/abs/2609.38399"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.38508",
+    "title": "Relativistic Spherical Accretion in Nonrotating Black Hole Spacetimes: Astrophysical Implications",
+    "authors": [
+      "David Barrero-González",
+      "Alejandro Cruz-Osorio"
+    ],
+    "link": "https://arxiv.org/abs/2609.38508"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.39057",
+    "title": "Improved Population and EOS Joint Inference for Binary Neutron Star Systems",
+    "authors": [
+      "Marc Ebiri",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2609.39057"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.39087",
+    "title": "Primordial Tensor Signatures and Gravitational Wave Constraints in Lorentz Violating Inflation with Non-Canonical Kinetics",
+    "authors": [
+      "Dibash Plaban Kalita",
+      "Shreya Banerjee"
+    ],
+    "link": "https://arxiv.org/abs/2609.39087"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.39208",
+    "title": "Probing Helical Primordial Magnetic Fields via Chiral Gravitational Waves in the LISA-TAIJI Network",
+    "authors": [
+      "Kazuya Furusawa",
+      "Hiroyuki Tashiro"
+    ],
+    "link": "https://arxiv.org/abs/2609.39208"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.39583",
+    "title": "MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data",
+    "authors": [
+      "Gianluca Inguglia",
+      "Huw Haigh",
+      "Ulyana Dupletsa",
+      "Alessandro Longo"
+    ],
+    "link": "https://arxiv.org/abs/2609.39583"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.39694",
+    "title": "Gravitational Memory: an approximate description",
+    "authors": [
+      "Q.-L. Zhao",
+      "P.-M. Zhang",
+      "M. Elbistan",
+      "J. Balog",
+      "P. A. Horvathy"
+    ],
+    "link": "https://arxiv.org/abs/2609.39694"
+  }
+]
