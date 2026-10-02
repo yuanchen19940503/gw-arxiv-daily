@@ -1,0 +1,127 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.00457",
+    "title": "Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton",
+    "authors": [
+      "Keisuke Harigaya",
+      "Lian-Tao Wang",
+      "Jiangyi Yi"
+    ],
+    "link": "https://arxiv.org/abs/2610.00457"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.00458",
+    "title": "QCD axion misalignment during reheating",
+    "authors": [
+      "Disha Bandyopadhyay",
+      "Debasish Borah",
+      "Nayan Das"
+    ],
+    "link": "https://arxiv.org/abs/2610.00458"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.00836",
+    "title": "Optimal Pulsar Timing Array Strategies with the Deep Synoptic Array",
+    "authors": [
+      "Tyler Cohen",
+      "Paul B. Demorest",
+      "Jeremy G. Baier",
+      "Ryan S. Lynch",
+      "Scott M. Ransom",
+      "Michael T. Lam",
+      "Gabriella Agazie",
+      "Akash Anumarlapudi",
+      "Anne M. Archibald",
+      "Zaven Arzoumanian",
+      "Paul T. Baker",
+      "Ava L. Battaglia",
+      "Paul R. Brook",
+      "Anabelle L. Brueggemann",
+      "H. Thankful Cromartie",
+      "Kathryn Crowter",
+      "Megan E. DeCesar",
+      "Timothy Dolch",
+      "Elizabeth C. Ferrara",
+      "William Fiore",
+      "Emmanuel Fonseca",
+      "Gabriel E. Freedman",
+      "Nate Garver-Daniels",
+      "Peter A. Gentile",
+      "Joseph Glaser",
+      "Deborah C. Good",
+      "Jeffrey S. Hazboun",
+      "Ross J. Jennings",
+      "Megan L. Jones",
+      "David L. Kaplan",
+      "Matthew Kerr",
+      "Duncan R. Lorimer",
+      "Jing Luo",
+      "Hugo E. Marquis",
+      "Alexander McEwen",
+      "Maura A. McLaughlin",
+      "Natasha McMann",
+      "Bradley W. Meyers",
+      "Cherry Ng",
+      "David J. Nice",
+      "Timothy T. Pennucci",
+      "Benetge B. P. Perera",
+      "Nihan S. Pol",
+      "Henri A. Radovan",
+      "Paul S. Ray",
+      "Ann Schmiedekamp",
+      "Carl Schmiedekamp",
+      "Brent J. Shapiro-Albert",
+      "Ingrid H. Stairs",
+      "Kevin Stovall",
+      "Abhimanyu Susobhanan",
+      "Joseph K. Swiggum",
+      "Haley M. Wahl"
+    ],
+    "link": "https://arxiv.org/abs/2610.00836"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.01929",
+    "title": "Stationarity and angular momentum conservation in pulsar spin noise",
+    "authors": [
+      "Reginald Christian Bernardo"
+    ],
+    "link": "https://arxiv.org/abs/2610.01929"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.01978",
+    "title": "Intrinsic versus observation induced spin nonstationarity in pulsar timing",
+    "authors": [
+      "Reginald Christian Bernardo"
+    ],
+    "link": "https://arxiv.org/abs/2610.01978"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.00306",
+    "title": "Normalizing Flow Emulator for Gravitational Wave Detection Probability in the LIGO/Virgo/KAGRA O4 Observing Run",
+    "authors": [
+      "Julius Gassert",
+      "Ignacio Magaña Hernandez",
+      "Ariel J. Amsellem",
+      "Antonella Palmese",
+      "Barnabas Póczos"
+    ],
+    "link": "https://arxiv.org/abs/2610.00306"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.00989",
+    "title": "Effects of Poisson Isocurvature Perturbations on Induced Gravitational Waves",
+    "authors": [
+      "Zi-An Zhou",
+      "Cheng-Jun Fang",
+      "Zong-Kuan Guo"
+    ],
+    "link": "https://arxiv.org/abs/2610.00989"
+  }
+]
