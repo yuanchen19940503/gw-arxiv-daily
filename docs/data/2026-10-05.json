@@ -1,0 +1,71 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.02420",
+    "title": "High Energy Neutrinos, Gravitational Waves, and Dark Matter from a Cosmological First Order Phase Transition",
+    "authors": [
+      "James M. Cline",
+      "Savas Stoica",
+      "Yong Xu"
+    ],
+    "link": "https://arxiv.org/abs/2610.02420"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.02317",
+    "title": "Chaotic signatures in extreme-mass-ratio systems surrounded by bosonic environments",
+    "authors": [
+      "Qi-Xuan Xu",
+      "Kyriakos Destounis",
+      "Yin-Da Guo",
+      "Richard Brito",
+      "Taillte May"
+    ],
+    "link": "https://arxiv.org/abs/2610.02317"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.02448",
+    "title": "Learning Approximate Isometric Embeddings for Efficient Template Placement",
+    "authors": [
+      "Alexandra Wernersson",
+      "Jessica Irwin",
+      "Melissa Lopez",
+      "Sarah Caudill"
+    ],
+    "link": "https://arxiv.org/abs/2610.02448"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.02590",
+    "title": "Multi-Band Constraints on Cosmic Strings: Unifying Harmonic and Burst Spectra",
+    "authors": [
+      "Hansong Zhang",
+      "Huai-Ke Guo",
+      "Mairi Sakellariadou",
+      "Fengwei Yang",
+      "Yue Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2610.02590"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.02735",
+    "title": "Non-Gaussian timing residual skewness in pulsar timing arrays",
+    "authors": [
+      "Reginald Christian Bernardo",
+      "Rituparna Mandal",
+      "Kin-Wang Ng"
+    ],
+    "link": "https://arxiv.org/abs/2610.02735"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.02532",
+    "title": "Can the gravitational waves emitted by Eta Carinae be detected?",
+    "authors": [
+      "Odylio D. Aguiar"
+    ],
+    "link": "https://arxiv.org/abs/2610.02532"
+  }
+]
