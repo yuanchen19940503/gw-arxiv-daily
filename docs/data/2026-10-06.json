@@ -1,0 +1,99 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.04282",
+    "title": "Dark matter in neutron stars: two-fluid $f$-mode oscillations in full general relativity",
+    "authors": [
+      "Prashant Thakur",
+      "Ishfaq Ahmad Rather",
+      "Y. Lim"
+    ],
+    "link": "https://arxiv.org/abs/2610.04282"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.05773",
+    "title": "From the Milky Way to the Early Universe: How Metallicity Shapes the Formation of Double Neutron Stars",
+    "authors": [
+      "Abhishek Chattaraj",
+      "Jeff J. Andrews",
+      "Monica Gallegos-Garcia",
+      "Max M. Briel",
+      "Michael Zevin",
+      "Tassos Fragos",
+      "Emmanouil Zapartas",
+      "David R. Aguilera-Dena",
+      "Seth Gossage",
+      "Anarya Ray",
+      "Vicky Kalogera",
+      "Philipp M. Srivastava",
+      "Zepei Xing"
+    ],
+    "link": "https://arxiv.org/abs/2610.05773"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.06178",
+    "title": "Not just a phase: detecting nanohertz gravitational waves from phase alone",
+    "authors": [
+      "Kathrin Grunthal",
+      "Eric Thrane",
+      "Rutger van Haasteren",
+      "David J. Champion",
+      "Michael Kramer"
+    ],
+    "link": "https://arxiv.org/abs/2610.06178"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.06299",
+    "title": "Continuous Gravitational Waves from Thermo-Elastic Mountains in Ultraluminous X-ray Pulsars",
+    "authors": [
+      "Hong-Bo Li",
+      "Ziming Wang",
+      "Lijing Shao",
+      "Ren-Xin Xu"
+    ],
+    "link": "https://arxiv.org/abs/2610.06299"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.05886",
+    "title": "Gravitational-wave Echoes Beyond the Hubble Time from Quantum Black Holes",
+    "authors": [
+      "Che-Yu Chen",
+      "Naritaka Oshita",
+      "Yuki Yokokura"
+    ],
+    "link": "https://arxiv.org/abs/2610.05886"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.06220",
+    "title": "Gravitational-wave background from supermassive black holes without merger trees: Tidally regulated mergers and direct inference from the NANOGrav 15 yr data",
+    "authors": [
+      "Shin'ichiro Ando"
+    ],
+    "link": "https://arxiv.org/abs/2610.06220"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.03798",
+    "title": "Dynamical thin shells in black hole ringdown",
+    "authors": [
+      "Han-Wen Hu",
+      "Chen Lan",
+      "Zong-Kuan Guo"
+    ],
+    "link": "https://arxiv.org/abs/2610.03798"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.04459",
+    "title": "Bias-aware Fisher forecasts for stochastic gravitational-wave background",
+    "authors": [
+      "Bo-Qiang Lu"
+    ],
+    "link": "https://arxiv.org/abs/2610.04459"
+  }
+]
