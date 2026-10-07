@@ -1,0 +1,317 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.07183",
+    "title": "Hierarchical Black Hole Mergers at High Redshift: Predictions for LISA and LGWA from SEEDZ",
+    "authors": [
+      "Daxal H. Mehta",
+      "Lewis R. Prole",
+      "John A. Regan",
+      "Rüdiger Pakmor",
+      "Sophie Koudmani",
+      "Ricarda S. Beckmann",
+      "Michael Tremmel",
+      "John H. Wise",
+      "Martin A. Bourne",
+      "Ralf S. Klessen",
+      "Simon C. O. Glover",
+      "Martin G. Haehnelt",
+      "John Brennan",
+      "Pelle Van De Bor",
+      "Debora Sijacki",
+      "Paul C. Clark"
+    ],
+    "link": "https://arxiv.org/abs/2610.07183"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.07743",
+    "title": "Very Long Baseline Interferometry with the SKA Observatory",
+    "authors": [
+      "J. F. Radcliffe",
+      "J. Yang",
+      "Z. Paragi",
+      "O. Bayandina",
+      "C. Reynolds",
+      "C. García-Miró",
+      "T. An",
+      "M. Abada-Simon",
+      "J. N. H. S. Aditya",
+      "I. Agudo",
+      "T. Akahori",
+      "A. Alberdi",
+      "S. Anton",
+      "P. Atri",
+      "A.-K. Baczko",
+      "S. Belladitta",
+      "E. K. Bempong-Manful",
+      "R. Beswick",
+      "M. Bhardwaj",
+      "E. Bonnassieux",
+      "A. Brunthaler",
+      "C.-S. Chang",
+      "P. Charlot",
+      "S. Chen",
+      "W. Chen",
+      "X. Cheng",
+      "A. Chhipa",
+      "J. O. Chibueze",
+      "I. Cho",
+      "J. B. Climent",
+      "L. Cui",
+      "S. Curiel",
+      "F. D'Ammando",
+      "J. R. Dawson",
+      "A. Deller",
+      "H. Ding",
+      "R. Dodson",
+      "J. Drevon",
+      "F. Eppel",
+      "S. Frey",
+      "M. Garrett",
+      "M. Gawroński",
+      "J. Geng",
+      "S. Giarratana",
+      "M. Giroletti",
+      "S. Gulyaev",
+      "L. I. Gurvits",
+      "C. Hao",
+      "T. Hirota",
+      "A. J. Hedge",
+      "H. Hu",
+      "H. Imai",
+      "P. Jiang",
+      "J. de Jong",
+      "M. Kadler",
+      "B. Karimi",
+      "P. Kharb",
+      "R. Khatun",
+      "J.-Y. Kim",
+      "J. Kim",
+      "J. Kim",
+      "F. Kirsten",
+      "H. R. Klöckner",
+      "H. Kobayashi",
+      "Y. Y. Kovalev",
+      "M. Kunert-Bajraszewska",
+      "A. Kutkin",
+      "H. J. van Langevelde",
+      "J. Li",
+      "Y. Li",
+      "Y. Li",
+      "Z. Lin",
+      "D. Liu",
+      "H. Liu",
+      "K. Liu",
+      "A. Lobanov",
+      "R.-S. Lu",
+      "V. Mahatma",
+      "B. Marcote",
+      "M. Mezcua",
+      "J. Moldón",
+      "L. K. Morabito",
+      "S. E. Motta",
+      "S. Murthy",
+      "I. Natarajan",
+      "A. Njeri",
+      "J. Oh",
+      "M. Orienti",
+      "A. Osetrova",
+      "M. Pandey-Pommier",
+      "F. Panessa",
+      "J. Park",
+      "M. Pérez-Torres",
+      "L. Petrov",
+      "J. C. S. Pierce",
+      "C. Phillips",
+      "L. Ricci",
+      "M. Rioja",
+      "H. Ro",
+      "J. Röder"
+    ],
+    "link": "https://arxiv.org/abs/2610.07743"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.07965",
+    "title": "Optimizing Laguerre-Gaussian Mode Interferometry in Gravitational-Wave Detectors through Modal Degeneracy Breaking",
+    "authors": [
+      "Liu Tao",
+      "Eleonora Capocasa",
+      "Matteo Barsuglia"
+    ],
+    "link": "https://arxiv.org/abs/2610.07965"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.06954",
+    "title": "The pseudospectrum for gravitational perturbations in Kerr spacetimes",
+    "authors": [
+      "Hongsheng Zhang",
+      "Zong-Kuan Guo",
+      "Rong-Gen Cai"
+    ],
+    "link": "https://arxiv.org/abs/2610.06954"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.07975",
+    "title": "Scalable and sequential inference of the neutron star equation of state with the Einstein Telescope",
+    "authors": [
+      "Thibeau Wouters",
+      "Thomas C. K. Ng",
+      "Hauke Koehn",
+      "Fabian Gittins",
+      "Peter T. H. Pang",
+      "Tim Dietrich",
+      "Chris Van Den Broeck"
+    ],
+    "link": "https://arxiv.org/abs/2610.07975"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.07977",
+    "title": "Time-Frequency Analysis for LISA: Galactic Foreground Modulation",
+    "authors": [
+      "Sudhi Mathur",
+      "Neil J. Cornish"
+    ],
+    "link": "https://arxiv.org/abs/2610.07977"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.08045",
+    "title": "Third-order scalar induced gravitational waves during a matter-dominated era: secular growth and implications for primordial black hole domination",
+    "authors": [
+      "Jing-Zhi Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2610.08045"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.08254",
+    "title": "Gravitational Waves and Nambu-Goldstone Bosons from Infrared-Finite Cosmic Strings",
+    "authors": [
+      "Hajime Fukuda",
+      "Shuailiang Ge",
+      "Keisuke Harigaya"
+    ],
+    "link": "https://arxiv.org/abs/2610.08254"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.08459",
+    "title": "Line-of-sight Acceleration Driven Effects in Eccentric Compact Binary Coalescences",
+    "authors": [
+      "Mohd Asim Ansari",
+      "Avinash Tiwari",
+      "Sajad A. Bhat",
+      "Sreejith Nair",
+      "Shasvath J. Kapadia"
+    ],
+    "link": "https://arxiv.org/abs/2610.08459"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.08492",
+    "title": "Line-of-Sight Acceleration-driven waveform corrections for unequal-mass compact binary coalescences",
+    "authors": [
+      "Mohd Asim Ansari",
+      "Avinash Tiwari",
+      "Sajad A. Bhat",
+      "Aditya Vijaykumar",
+      "Shasvath J. Kapadia"
+    ],
+    "link": "https://arxiv.org/abs/2610.08492"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.08588",
+    "title": "Constraining the gravitational-wave breathing mode with LVK antenna patterns and GWTC data",
+    "authors": [
+      "Hong-Bo Jin",
+      "Yanyan Zheng"
+    ],
+    "link": "https://arxiv.org/abs/2610.08588"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.06893",
+    "title": "Dynamical Stability and Quasinormal Modes of Casimir Wormholes in dRGT Massive Gravity",
+    "authors": [
+      "Piyali Bhar",
+      "Dhruba Jyoti Gogoi",
+      "A. Errehymy"
+    ],
+    "link": "https://arxiv.org/abs/2610.06893"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.07020",
+    "title": "Periodic Orbits and Their Gravitational-Wave Signatures around a Rotating Black Hole Surrounded by Perfect Fluid Dark Matter",
+    "authors": [
+      "M. R. Shahzad",
+      "Hamza Rehman",
+      "Saddam Hussain",
+      "Tao Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2610.07020"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.07263",
+    "title": "Chromatic Gravitational-Wave Tests of Dirac-Induced Torsion in Quadratic Einstein--Cartan Gravity: Nanohertz PTA Null Signatures",
+    "authors": [
+      "Zhi-Fu Gao",
+      "Biao-Peng Li",
+      "Na Wang",
+      "Hui Wang",
+      "Guo-Qiang Jin",
+      "Zhoujian Cao",
+      "Luiz C. Garcia de Andrade"
+    ],
+    "link": "https://arxiv.org/abs/2610.07263"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.07850",
+    "title": "Gravitational-wave signatures of spinning particles around rotating hairy black holes",
+    "authors": [
+      "Surojit Dalui",
+      "Xian-Hui Ge"
+    ],
+    "link": "https://arxiv.org/abs/2610.07850"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.08140",
+    "title": "Impact of Correlated Test-Mass Noise on Stochastic Gravitational-Wave Background Searches with Space-Based Interferometers",
+    "authors": [
+      "Jing-yi Wu",
+      "Yong Tang"
+    ],
+    "link": "https://arxiv.org/abs/2610.08140"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.08399",
+    "title": "Self-lensing of gravitational waves from binary extreme-mass-ratio inspirals: Extended caustics and paired flashes",
+    "authors": [
+      "Jiewei Huang",
+      "Yifan Ou",
+      "Yehui Hou",
+      "Minyong Guo",
+      "Bin Chen"
+    ],
+    "link": "https://arxiv.org/abs/2610.08399"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.08596",
+    "title": "Connected Geometries in Gravitational Path Integrals, and Normalized No-Boundary Probabilities",
+    "authors": [
+      "Jean-Luc Lehners"
+    ],
+    "link": "https://arxiv.org/abs/2610.08596"
+  }
+]
