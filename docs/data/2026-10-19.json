@@ -1,0 +1,106 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.22816",
+    "title": "A Unified Solution to the Low-Mass X-ray Binary Diversity Puzzle: Saturated Magnetic Braking Coupled with Irradiation-Driven Winds",
+    "authors": [
+      "Zhu-Ling Deng",
+      "Xiang-Dong Li",
+      "Bo Wang",
+      "Philipp Podsiadlowski",
+      "Yong Shao",
+      "Dong-Dong Liu",
+      "Zhan-Wen Han"
+    ],
+    "link": "https://arxiv.org/abs/2610.22816"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.23738",
+    "title": "A precessing AGN with S-shaped morphology discovered in MALS",
+    "authors": [
+      "J.D. Wagenveld",
+      "N. Gupta"
+    ],
+    "link": "https://arxiv.org/abs/2610.23738"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.23808",
+    "title": "Gravitational Waves as a Probe of Multi-Fluid Cosmologies: General Formalism and the Case of Cosmological Stasis",
+    "authors": [
+      "Keith R. Dienes",
+      "Fazlollah Hajkarim",
+      "Lucien Heurtier",
+      "Fei Huang",
+      "Kuver Sinha",
+      "Brooks Thomas",
+      "Tao Xu"
+    ],
+    "link": "https://arxiv.org/abs/2610.23808"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.22480",
+    "title": "Modeling extreme mass-ratio inspirals in astrophysical and dark-matter environments",
+    "authors": [
+      "Dongjun Li",
+      "Hao-Jui Kuan",
+      "Colin Weller",
+      "Chaoyi Yang",
+      "Kelvin Ka-Ho Lam",
+      "Patrick Bourg",
+      "Adrian Ka-Wai Chung",
+      "Yanbei Chen",
+      "Nicolás Yunes",
+      "Huan Yang"
+    ],
+    "link": "https://arxiv.org/abs/2610.22480"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.22614",
+    "title": "Trapping of nanofabricated SiO$_2$ high-aspect-ratio discs in an optical lattice",
+    "authors": [
+      "Shelby Klomp",
+      "Shafaq Gulzar Elahi",
+      "Scott Grudichak",
+      "Chethn Galla",
+      "Zhiyuan Wang",
+      "Mark Nguyen",
+      "George Winstone",
+      "Katarina Boskovic Guy",
+      "Emma Derrick",
+      "Maddox Wroblewski",
+      "Jacob Sprague",
+      "Andrew Laeuger",
+      "Jackson Larsen",
+      "Nancy Aggarwal",
+      "Shane L. Larson",
+      "Andrew A. Geraci"
+    ],
+    "link": "https://arxiv.org/abs/2610.22614"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.23385",
+    "title": "Prospects for Simultaneously Detecting Long and Short Duration Gravitational Waves from Pulsar Glitches with Current and Future Detectors",
+    "authors": [
+      "M. Ball",
+      "D. Keitel"
+    ],
+    "link": "https://arxiv.org/abs/2610.23385"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.22475",
+    "title": "Angular Momenta in $4+1$ Vacuum Critical Collapse",
+    "authors": [
+      "Oscar J.C. Dias",
+      "Carsten Gundlach",
+      "Jorge E. Santos",
+      "Benson Way"
+    ],
+    "link": "https://arxiv.org/abs/2610.22475"
+  }
+]
