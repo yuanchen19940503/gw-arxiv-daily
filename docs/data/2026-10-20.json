@@ -1,0 +1,170 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.25427",
+    "title": "Statistical Analysis of Neutron Star Cooling: Implications for the Nuclear Equation of State and Nucleon Pairing",
+    "authors": [
+      "Afonso Ávila",
+      "Ricardo Z. Ferreira",
+      "Violetta Sagun"
+    ],
+    "link": "https://arxiv.org/abs/2610.25427"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.25581",
+    "title": "Characterization of integrating-sphere systematic effects for photon calibration of the KAGRA gravitational wave detector",
+    "authors": [
+      "Shingo Hido",
+      "Misato Onishi",
+      "Shinji Miyoki",
+      "Takahiro Sawada",
+      "Takahiro Yamamoto",
+      "Takayuki Tomaru",
+      "Yoshiki Moriwaki",
+      "Dan Chen"
+    ],
+    "link": "https://arxiv.org/abs/2610.25581"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.25866",
+    "title": "Hostbusters: constraining $H_0$ and binary formation channels through gravitational-wave host galaxy associations",
+    "authors": [
+      "Madeline L. Cross-Parkin",
+      "Ignacio Magaña Hernandez",
+      "Antonella Palmese",
+      "Paul D. Lasky",
+      "Eric Thrane"
+    ],
+    "link": "https://arxiv.org/abs/2610.25866"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.25909",
+    "title": "Constraints on the Cosmic Expansion Rate Using the DECam Local Volume Exploration Survey and the Fifth Gravitational Wave Transient Catalog",
+    "authors": [
+      "Sean Patrick MacBride",
+      "Isaac McMahon",
+      "Danny Laghi",
+      "David Sánchez-Cid",
+      "Felipe Andrade-Oliveira",
+      "Marcelle Soares-Santos",
+      "Maciej Bilicki",
+      "Sarah Ferraiuolo",
+      "Surhud More",
+      "Rachel Gray",
+      "Gergely Dálya"
+    ],
+    "link": "https://arxiv.org/abs/2610.25909"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.24067",
+    "title": "Multimessenger Probes of Primordial Black Holes with Gravitational Wave and 21 cm Observations",
+    "authors": [
+      "Leah Jenks"
+    ],
+    "link": "https://arxiv.org/abs/2610.24067"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.26080",
+    "title": "Searching for lensed gravitational waves with unlensed templates",
+    "authors": [
+      "Digvijay Wadekar",
+      "Barak Zackay",
+      "Mark Ho-Yeuk Cheung",
+      "Tousif Islam",
+      "Javier Roulet",
+      "Ajit Kumar Mehta",
+      "Tejaswi Venumadhav",
+      "Jonathan Mushkin",
+      "Miguel Zumalacarregui",
+      "Matias Zaldarriaga"
+    ],
+    "link": "https://arxiv.org/abs/2610.26080"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.26727",
+    "title": "Cosmological implications of two mock TianQin standard siren catalogs generated under different background cosmological models",
+    "authors": [
+      "Jun-Xian Li",
+      "Shuang Wang",
+      "Liang-Gui Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2610.26727"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.24283",
+    "title": "How accurate is Spectral Einstein Code (SpEC)? And what limits its accuracy?",
+    "authors": [
+      "Himanshu Chaudhary",
+      "Mark A. Scheel",
+      "Robert Owen",
+      "Saul A. Teukolsky",
+      "Michael Boyle",
+      "Lawrence E. Kidder",
+      "Harald P. Pfeiffer"
+    ],
+    "link": "https://arxiv.org/abs/2610.24283"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.24303",
+    "title": "Linearised gravitational radiation in de Sitter spacetime at all multipole orders",
+    "authors": [
+      "Harsh",
+      "Omkar Shetye",
+      "Amitabh Virmani"
+    ],
+    "link": "https://arxiv.org/abs/2610.24303"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.25291",
+    "title": "Probing parity-breaking black-hole geometry with extreme-mass-ratio inspirals",
+    "authors": [
+      "Zhen-Bo Wu",
+      "Qing Ou",
+      "Peng-Cheng Li"
+    ],
+    "link": "https://arxiv.org/abs/2610.25291"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.26113",
+    "title": "Periodic orbits and gravitational-wave emission from extreme-mass-ratio inspirals around rotating charged black holes in nonlinear electrodynamics",
+    "authors": [
+      "Xi Luo",
+      "Meirong Tang",
+      "Zhaoyi Xu"
+    ],
+    "link": "https://arxiv.org/abs/2610.26113"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.26320",
+    "title": "Outer trapped surface formation from gravitational waves collision",
+    "authors": [
+      "Junbin Li"
+    ],
+    "link": "https://arxiv.org/abs/2610.26320"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.26619",
+    "title": "GPU-accelerated Bayesian inference for diffracted gravitational wave signals",
+    "authors": [
+      "Zihao Lin",
+      "Jef Heynen",
+      "Mick Wright",
+      "Thomas C. K. Ng",
+      "Chris Van Den Broeck",
+      "Justin Janquart"
+    ],
+    "link": "https://arxiv.org/abs/2610.26619"
+  }
+]
