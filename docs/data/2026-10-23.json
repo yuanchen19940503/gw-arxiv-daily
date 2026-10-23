@@ -1,0 +1,236 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.30262",
+    "title": "Charting the Galactic Underworld II: Strategies for Identifying BHs and NSs with LISA",
+    "authors": [
+      "Tom Wagg",
+      "Frank E. Prince",
+      "Katelyn Breivik",
+      "Kira Baasch",
+      "Jorie McDermott",
+      "Michael Zevin"
+    ],
+    "link": "https://arxiv.org/abs/2610.30262"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.30360",
+    "title": "Gravitational Waves From an Entangled SO(3) Cosmic String Network",
+    "authors": [
+      "Mu-Chun Chen",
+      "Cameron Moffett-Smith"
+    ],
+    "link": "https://arxiv.org/abs/2610.30360"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.30673",
+    "title": "A 13 Year Black Hole Microlensing Survey in Omega Centauri",
+    "authors": [
+      "Zack Freeman",
+      "Maximilian Häberle",
+      "Anil Seth",
+      "John Zaris",
+      "Matthew Whitaker",
+      "Carl L. Rodriguez",
+      "Elena González Prieto",
+      "Andrea Bellini",
+      "Callie Clontz",
+      "Sebastian Kamann",
+      "Mattia Libralato",
+      "Nadine Neumayer",
+      "Jay Strader",
+      "Doğa Veske"
+    ],
+    "link": "https://arxiv.org/abs/2610.30673"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.30816",
+    "title": "A recurring changing state AGN discovered in the SAMI Galaxy Survey and SDSS",
+    "authors": [
+      "Scott M. Croom",
+      "Rebecca McElroy",
+      "Dougal Dobie",
+      "Thomas Dunn",
+      "Yasmeen Janschek",
+      "Tyler Klinger",
+      "Shaun Parasher",
+      "Mitchell Spanner",
+      "Oliver J. Thorp"
+    ],
+    "link": "https://arxiv.org/abs/2610.30816"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.31227",
+    "title": "In Search of the Gravitational Wave of Fast X-Ray Transient in the Second Part of the LIGO-Virgo-KAGRA Fourth Observing Run",
+    "authors": [
+      "Po-Ya Wang",
+      "Albert K.H. Kong",
+      "Surojit Saha"
+    ],
+    "link": "https://arxiv.org/abs/2610.31227"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.31583",
+    "title": "Formation and Detectability of PSR J0653+0443-like Extremely Eccentric Binary Neutron Stars in the Milky Way",
+    "authors": [
+      "Zhiwei Chen",
+      "Jihui Zhang",
+      "Youjun Lu"
+    ],
+    "link": "https://arxiv.org/abs/2610.31583"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.30770",
+    "title": "Axial Perturbations of Extended Tolman III in the New $f(R,T)$ Theory",
+    "authors": [
+      "B. N. Jayawiguna",
+      "G. A. Sabian",
+      "H. S. Ramadhan",
+      "A. Sulaksono"
+    ],
+    "link": "https://arxiv.org/abs/2610.30770"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.31081",
+    "title": "Cosmological Inference with Gravitational-Wave Dark Sirens and 21-cm Intensity Mapping: Forecasts for LIGO-Virgo-KAGRA with MeerKAT and SKAO",
+    "authors": [
+      "Dounia Nanadoumgar-Lacroze",
+      "Konstantin Leyde",
+      "Steven Cunnington",
+      "Tessa Baker",
+      "Ian Harrison",
+      "Ulyana Dupletsa",
+      "Simone Mastrogiovanni",
+      "Riccardo Murgia",
+      "Tommaso Ronconi",
+      "Matteo Schulz",
+      "Marta Spinelli"
+    ],
+    "link": "https://arxiv.org/abs/2610.31081"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.31441",
+    "title": "Gravitational Wave Diffractive Images Reveal the Structure of Astrophysical Objects",
+    "authors": [
+      "Han Gil Choi",
+      "Sunghoon Jung",
+      "Volodymyr Takhistov"
+    ],
+    "link": "https://arxiv.org/abs/2610.31441"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.26652",
+    "title": "Impact of cosmic evolution on the gravitational wave spectrum from cosmic strings",
+    "authors": [
+      "Xi-He Hu",
+      "Danny Marfatia",
+      "Ye-Ling Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2610.26652"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.30187",
+    "title": "Flexible Proposal Distributions for Gravitational-Wave Population Inference with Gaussian Mixture Models",
+    "authors": [
+      "Simon M.C. Yeung",
+      "Ignacio Magaña Hernandez",
+      "Jolien Creighton"
+    ],
+    "link": "https://arxiv.org/abs/2610.30187"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.30263",
+    "title": "Calculating gravitational waves at infinity: the missing link",
+    "authors": [
+      "Guido Da Re",
+      "Keefe Mitman",
+      "Leo C. Stein",
+      "Nils Deppe",
+      "Himanshu Chaudhary",
+      "Dongze Sun",
+      "Michael Boyle",
+      "Kyle C. Nelli",
+      "Mark A. Scheel",
+      "Saul A. Teukolsky"
+    ],
+    "link": "https://arxiv.org/abs/2610.30263"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.30268",
+    "title": "Accurate initial data for Cauchy-characteristic evolution",
+    "authors": [
+      "Guido Da Re",
+      "Keefe Mitman",
+      "Leo C. Stein",
+      "Nils Deppe",
+      "Himanshu Chaudhary",
+      "Dongze Sun",
+      "Michael Boyle",
+      "Kyle C. Nelli",
+      "Mark A. Scheel",
+      "Saul A. Teukolsky"
+    ],
+    "link": "https://arxiv.org/abs/2610.30268"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.30972",
+    "title": "Five-loop static two-body potential in massless scalar-tensor gravity",
+    "authors": [
+      "Gabriel Luz Almeida",
+      "Zhengwen Liu",
+      "Jia Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2610.30972"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.31177",
+    "title": "Gravitational waves from highly charged binary black holes in Einstein-Maxwell-dilaton theory",
+    "authors": [
+      "Ryoto Tomie",
+      "Kai Togashi",
+      "Kitaro Taniguchi",
+      "Ryotaro Kase"
+    ],
+    "link": "https://arxiv.org/abs/2610.31177"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.31430",
+    "title": "A superconducting LC resonator in a multi-tesla magnetic field for tabletop kHz gravitational-wave detection",
+    "authors": [
+      "D. Ahn",
+      "C. Braggio",
+      "G. Carugno",
+      "D. D'Agostino",
+      "R. Di Vora",
+      "P. Falferi",
+      "A. Ortolan",
+      "G. Ruoso",
+      "M. L. Ruggiero"
+    ],
+    "link": "https://arxiv.org/abs/2610.31430"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.31473",
+    "title": "Chaotic dynamics and resonances in Einstein-Rosen standing wave spacetimes",
+    "authors": [
+      "Adam A. Zychowicz"
+    ],
+    "link": "https://arxiv.org/abs/2610.31473"
+  }
+]
