@@ -1,0 +1,164 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.33409",
+    "title": "Gravitational Waves from Magnetically Confined Mountains on Accreting White Dwarfs",
+    "authors": [
+      "Pedro Henrique Barboza Rossetto",
+      "Manoel Felipe Sousa",
+      "Diego Antonio Falceta Gonçalves"
+    ],
+    "link": "https://arxiv.org/abs/2610.33409"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.34810",
+    "title": "EP251129a: A Fast X-ray Transient with Two X-Ray Plateaus and Its Off-axis Afterglow",
+    "authors": [
+      "Yue Wu",
+      "Ailing Wang",
+      "Senlin Pang",
+      "Yu-Han Yang",
+      "Biao Zhang",
+      "Zi-Gao Dai",
+      "Tao An",
+      "Jin-Jun Geng",
+      "Xue-Feng Wu",
+      "Hui Sun",
+      "Di Xiao",
+      "Jia Ren",
+      "Chen Deng",
+      "Yehao Cheng",
+      "Fa-Yin Wang",
+      "Yuan-Pei Yang",
+      "Eleonora Troja",
+      "Brendan O'Connor",
+      "Wen-Jie Zhang",
+      "Yuan Liu",
+      "Weimin Yuan",
+      "Yahui Jiang",
+      "Yun Wang",
+      "Cuiyuan Dai",
+      "Hucheng Ding",
+      "Tao Wu",
+      "Kangrui Ni"
+    ],
+    "link": "https://arxiv.org/abs/2610.34810"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2610.35539",
+    "title": "An Intermediate Mass Stripped Star in a 4.2-hour Orbit around a Compact Object",
+    "authors": [
+      "Bethany Ludwig",
+      "Maria R. Drout",
+      "Ylva Götberg",
+      "Alexander Laroche",
+      "Katie Auchettl",
+      "Alejandro Vigna-Gómez",
+      "Katelyn Breivik",
+      "Cole Johnston",
+      "Eva Laplace",
+      "Vikram S. Dhillon",
+      "Hugues Sana"
+    ],
+    "link": "https://arxiv.org/abs/2610.35539"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.33162",
+    "title": "The Hosts and Mass Distribution Function of the Most Massive Black Holes: Implications for the nHz Gravitational Wave Background",
+    "authors": [
+      "Marc Postman",
+      "Tod R. Lauer",
+      "Daniel J. D'Orazio",
+      "Bellamy Bailey"
+    ],
+    "link": "https://arxiv.org/abs/2610.33162"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.33314",
+    "title": "Neutron Star--Primordial Black Hole Binaries: Dynamical Tides, Resonance Locking, and Gravitational Waves",
+    "authors": [
+      "Isaac Legred",
+      "Nicolás Yunes"
+    ],
+    "link": "https://arxiv.org/abs/2610.33314"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.33444",
+    "title": "Accurate pulsar timing array likelihoods: better low-rank covariance for gravitational wave background",
+    "authors": [
+      "Heling Deng",
+      "Ken D. Olum",
+      "Rutger van Haasteren"
+    ],
+    "link": "https://arxiv.org/abs/2610.33444"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.35117",
+    "title": "Torque lags from magnetic unlocking in neutron stars and gravitational-wave smearing",
+    "authors": [
+      "Arthur G. Suvorov",
+      "Armen Sedrakian"
+    ],
+    "link": "https://arxiv.org/abs/2610.35117"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2610.35602",
+    "title": "Nonlinear Tides of Binary Neutron Stars",
+    "authors": [
+      "Guangzhou Guo",
+      "Zhen Pan"
+    ],
+    "link": "https://arxiv.org/abs/2610.35602"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.33569",
+    "title": "Gravitational Waves from Ringing Dyonic Black Holes and Estimation of Parameters in Einstein-Bumblebee-Maxwell Gravity",
+    "authors": [
+      "Sikha Gogoi",
+      "Umananda Dev Goswami"
+    ],
+    "link": "https://arxiv.org/abs/2610.33569"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.33751",
+    "title": "Forecasting Strongly Lensed Binary Black Hole Rates from the Stochastic Gravitational-Wave Background with TianQin",
+    "authors": [
+      "Zheng-Cheng Liang"
+    ],
+    "link": "https://arxiv.org/abs/2610.33751"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.35386",
+    "title": "Gravitational-Wave Signatures and Periodic Orbits of Charged Particles Around a Five-Dimensional Rotating Black Hole: Comparison with the Kerr Black Hole",
+    "authors": [
+      "Bahromjon Shokirov",
+      "Tursunali Xamidov",
+      "Chen Zhou",
+      "Sanjar Shaymatov",
+      "Chengxun Yuan"
+    ],
+    "link": "https://arxiv.org/abs/2610.35386"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2610.35407",
+    "title": "Decoupled asymmetric thin-shell wormholes",
+    "authors": [
+      "A. López-Hormazábal",
+      "Hishan Farfán-Bachiloglu",
+      "Kazuharu Bamba",
+      "Francisco Tello-Ortiz"
+    ],
+    "link": "https://arxiv.org/abs/2610.35407"
+  }
+]
