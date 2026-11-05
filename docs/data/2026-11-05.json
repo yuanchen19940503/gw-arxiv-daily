@@ -1,0 +1,128 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.05461",
+    "title": "Characterizing Gravitational Wave Electromagnetic Counterparts with the Schmidt Observatory System",
+    "authors": [
+      "Keerthi Kunnumkai",
+      "Antonella Palmese",
+      "Thomas Wevers",
+      "Mattia Bulla",
+      "Suvi Gezari",
+      "Saul Perlmutter",
+      "Liliana Rivera Sandoval",
+      "Gudmundur Stefansson",
+      "Mickael Rigault",
+      "Arpita Roy"
+    ],
+    "link": "https://arxiv.org/abs/2611.05461"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.05504",
+    "title": "Gravitational waves flooding the Universe after wall domination",
+    "authors": [
+      "Sabir Ramazanov",
+      "Zhen-Min Zeng"
+    ],
+    "link": "https://arxiv.org/abs/2611.05504"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.05566",
+    "title": "PrimordialPy: A Python library for single-field inflation, primordial black holes, and scalar-induced gravitational waves",
+    "authors": [
+      "Flavio Pineda"
+    ],
+    "link": "https://arxiv.org/abs/2611.05566"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.06329",
+    "title": "Primordial Black Holes and Induced Gravitational Waves from Inflation with History-Dependent Effective Dissipation",
+    "authors": [
+      "Narges Rashidi"
+    ],
+    "link": "https://arxiv.org/abs/2611.06329"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.06872",
+    "title": "Magnetohydrodynamics During Reheating",
+    "authors": [
+      "Sovan Sau",
+      "Subhasis Maiti",
+      "Sahel Dey",
+      "Alberto Roper Pol",
+      "Debaprasad Maity"
+    ],
+    "link": "https://arxiv.org/abs/2611.06872"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.05947",
+    "title": "Gravitational-Wave Microlensing as a Probe of Compact Object Population",
+    "authors": [
+      "Eungwang Seo",
+      "Jose María Ezquiaga",
+      "Martin Hendry"
+    ],
+    "link": "https://arxiv.org/abs/2611.05947"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.06902",
+    "title": "Gravitational-Wave Constraints on $R^2$ Gravity",
+    "authors": [
+      "Pawan Kumar Gupta",
+      "Laura Sagunski"
+    ],
+    "link": "https://arxiv.org/abs/2611.06902"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.05488",
+    "title": "Black hole quasinormal mode excitation and mixing for coupled fields",
+    "authors": [
+      "Caio F. B. Macedo",
+      "Orival R. de Medeiros",
+      "Emanuele Berti",
+      "Hector O. Silva",
+      "Sebastian H. Völkel"
+    ],
+    "link": "https://arxiv.org/abs/2611.05488"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.06018",
+    "title": "Research on gravitational waves from extreme mass ratio inspirals in an axisymmetric Finslerian extension of Schwarzschild spacetime",
+    "authors": [
+      "Jin-Tao Yao",
+      "Zhi-Chao Zhao",
+      "Xin Li"
+    ],
+    "link": "https://arxiv.org/abs/2611.06018"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.06647",
+    "title": "Quasi-equilibrium tidal folds of white dwarfs around rotating black holes in shift-symmetric Einstein--scalar--Gauss--Bonnet gravity",
+    "authors": [
+      "Shoupan Liu",
+      "Meilin Liu",
+      "Yu Wang",
+      "Yunqi Liu"
+    ],
+    "link": "https://arxiv.org/abs/2611.06647"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.06893",
+    "title": "Probing gravity at megahertz frequencies with levitated rotors",
+    "authors": [
+      "Matteo Fadel",
+      "Andrea Vinante"
+    ],
+    "link": "https://arxiv.org/abs/2611.06893"
+  }
+]
