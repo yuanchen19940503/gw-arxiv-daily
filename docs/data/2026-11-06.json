@@ -1,0 +1,147 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.07074",
+    "title": "Quantum Noise Engineering in Advanced LIGO",
+    "authors": [
+      "Begüm Kabagöz"
+    ],
+    "link": "https://arxiv.org/abs/2611.07074"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.07363",
+    "title": "High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array",
+    "authors": [
+      "K. Liu",
+      "A. Chalumeau",
+      "H. Hu",
+      "S. Chen",
+      "L. Guillemot",
+      "J. Jang",
+      "M. Keith",
+      "J. Antoniadis",
+      "C. Bassa",
+      "A. Carleo",
+      "D. J. Champion",
+      "I. Cognard",
+      "G. H. Janssen",
+      "W. Jiang",
+      "R. Karuppusamy",
+      "E. F. Keane",
+      "M. Kramer",
+      "Y. Liu",
+      "M. B. Mickaliger",
+      "A. Parthasarathy",
+      "D. Perrodin",
+      "B. W. Stappers",
+      "G. Theureau",
+      "L. Wang"
+    ],
+    "link": "https://arxiv.org/abs/2611.07363"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.07416",
+    "title": "Enhancing Gravitational Waves from Global Strings via a First-Order Phase Transition",
+    "authors": [
+      "Yongtao Jia",
+      "Ligong Bian",
+      "Huai-Ke Guo"
+    ],
+    "link": "https://arxiv.org/abs/2611.07416"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.07509",
+    "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
+    "authors": [
+      "Mojtaba Hosseini",
+      "Rouzbeh Rouzbehi"
+    ],
+    "link": "https://arxiv.org/abs/2611.07509"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.08332",
+    "title": "The complex periodic variability of PKS 0301-243: hints of a supermassive black hole binary candidate",
+    "authors": [
+      "Jintong Wang",
+      "Yunguo Jiang",
+      "Shifeng Huang"
+    ],
+    "link": "https://arxiv.org/abs/2611.08332"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.07023",
+    "title": "Analytic Marginalization Over Calibration Uncertainties in Gravitational Wave Inference and Application to Black Hole Ringdown",
+    "authors": [
+      "David Dzingeleski",
+      "Aaron Zimmerman"
+    ],
+    "link": "https://arxiv.org/abs/2611.07023"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.07146",
+    "title": "The Goldilocks Prior: Physically Consistent Inference of Neutron Star Properties from Gravitational Wave Observations",
+    "authors": [
+      "Sanika Khadkikar",
+      "B.S. Sathyaprakash"
+    ],
+    "link": "https://arxiv.org/abs/2611.07146"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.07147",
+    "title": "Reanalysis of GW170817 and GW190425 under the Goldilocks Prior",
+    "authors": [
+      "Sanika Khadkikar",
+      "B. S. Sathyaprakash"
+    ],
+    "link": "https://arxiv.org/abs/2611.07147"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.07447",
+    "title": "Demystifying Graviton Detection",
+    "authors": [
+      "Igor Pikovski"
+    ],
+    "link": "https://arxiv.org/abs/2611.07447"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.07596",
+    "title": "Rational Orbits and Gravitational-Wave Signatures around a Horndeski Black Hole",
+    "authors": [
+      "Wei Gao",
+      "Xiaoyan Zhu",
+      "Wenbin Lin",
+      "Siming Liu"
+    ],
+    "link": "https://arxiv.org/abs/2611.07596"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.07877",
+    "title": "Can Two-Point Correlations Determine Gravitational Waves from Sound Waves?",
+    "authors": [
+      "Guangshang Chen",
+      "Jianpeng Dai",
+      "Yang Xiao"
+    ],
+    "link": "https://arxiv.org/abs/2611.07877"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.08382",
+    "title": "When Can Pulsar Timing Distinguish a Propagation Mass from a Weak Longitudinal Background?",
+    "authors": [
+      "Kun Zhou",
+      "Jin Li"
+    ],
+    "link": "https://arxiv.org/abs/2611.08382"
+  }
+]
