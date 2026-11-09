@@ -1,0 +1,94 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.08604",
+    "title": "Hydrodynamic Natal Kicks and Formation of Black Hole Binaries",
+    "authors": [
+      "Edwin Santiago-Leandro",
+      "Clarissa Avilés-Niebla",
+      "Aldo Batta"
+    ],
+    "link": "https://arxiv.org/abs/2611.08604"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.09338",
+    "title": "GW230729\\_082317 and GW231118\\_005626: A Candidate of Hierarchical Triple Mergers",
+    "authors": [
+      "Bo Gao",
+      "Shao-Peng Tang",
+      "Yi-Zhong Fan",
+      "Qingzhong Liu"
+    ],
+    "link": "https://arxiv.org/abs/2611.09338"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.09628",
+    "title": "Fundamental Noise Processes in Pulsar Timing",
+    "authors": [
+      "James M. Cordes",
+      "Stella Koch Ocker",
+      "Shami Chatterjee",
+      "Timothy Dolch",
+      "Ross J. Jennings",
+      "Michael T. Lam",
+      "Jacob E. Turner"
+    ],
+    "link": "https://arxiv.org/abs/2611.09628"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.08642",
+    "title": "Testing influence of tides on gravitational wave emission with SPH code PHANTOM",
+    "authors": [
+      "Marat Sh. Potashov",
+      "Sergei I. Blinnikov",
+      "Aleksandra V. Mishakina"
+    ],
+    "link": "https://arxiv.org/abs/2611.08642"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.08880",
+    "title": "A pipeline for identifying astrophysical signals and instrumental glitches in LISA data",
+    "authors": [
+      "Aryamann Rao",
+      "Jess McIver",
+      "Rhiannon Udall",
+      "Natalia Korsakova",
+      "Malvina Bellotti"
+    ],
+    "link": "https://arxiv.org/abs/2611.08880"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.08952",
+    "title": "Equatorial Periodic Orbits and Gravitational Wave Signatures in Weyl Geometric Gravity Black Holes",
+    "authors": [
+      "Dhruba Jyoti Gogoi",
+      "Himanshu Chaudhary",
+      "Tiberiu Harko"
+    ],
+    "link": "https://arxiv.org/abs/2611.08952"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.09056",
+    "title": "The Weyl Tensor for Gravitational-Wave Causal Sets: Thickness of Geodesic Analogs and Geodesic Deviation",
+    "authors": [
+      "Nauman Ibrahim",
+      "Luca Bombelli"
+    ],
+    "link": "https://arxiv.org/abs/2611.09056"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.09236",
+    "title": "Axion cloud survival in nuclear star clusters",
+    "authors": [
+      "Chen Feng"
+    ],
+    "link": "https://arxiv.org/abs/2611.09236"
+  }
+]
