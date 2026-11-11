@@ -1,0 +1,144 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.11157",
+    "title": "Adaptive Quantum Metrology of Gravitational Waves",
+    "authors": [
+      "Wan-Ting He",
+      "Shuang-Quan Ma",
+      "Ke-Mi Xu"
+    ],
+    "link": "https://arxiv.org/abs/2611.11157"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.12973",
+    "title": "Standalone Validation of a Pulsar Evolution Subroutine for NBODY6++GPU: Seven Test Scenarios",
+    "authors": [
+      "Maria Rah"
+    ],
+    "link": "https://arxiv.org/abs/2611.12973"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.13733",
+    "title": "Scalar-Induced Gravitational Waves Probing Phase Transitions in the Standard Model and Beyond",
+    "authors": [
+      "Peizhi Du",
+      "Xiang-Xi Zeng",
+      "Jiahang Zhong"
+    ],
+    "link": "https://arxiv.org/abs/2611.13733"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.14343",
+    "title": "Leveraging Lensing-driven Early Warnings: Joint Detectability of lensed Gravitational Waves and their LSST Optical Counterparts",
+    "authors": [
+      "Sourabh Magare",
+      "Anindya",
+      "Anupreeta More",
+      "Shasvath J. Kapadia"
+    ],
+    "link": "https://arxiv.org/abs/2611.14343"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.13105",
+    "title": "Galaxy clusters as cosmic lenses for high frequency gravitational-waves",
+    "authors": [
+      "Francesca Lecce",
+      "Francisco R. Candòn",
+      "Alessandro Lella",
+      "Alessandro Mirizzi",
+      "Julia K. Vogel",
+      "Tiziano Zanzarella"
+    ],
+    "link": "https://arxiv.org/abs/2611.13105"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.13170",
+    "title": "Depletion of Dark Matter Spikes by Massive Black Hole Mergers",
+    "authors": [
+      "Charlie Sharpe",
+      "Thomas F. M. Spieksma",
+      "Yonadav Barry Ginat",
+      "Ricarda S. Beckmann",
+      "Alexander Heger",
+      "Bence Kocsis"
+    ],
+    "link": "https://arxiv.org/abs/2611.13170"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.13197",
+    "title": "Eccentricity greatly enhances the detectability of line-of-sight acceleration in gravitational wave signals",
+    "authors": [
+      "János Takátsy",
+      "Anna Puecher",
+      "Gonzalo Morras",
+      "Lorenz Zwick"
+    ],
+    "link": "https://arxiv.org/abs/2611.13197"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.14077",
+    "title": "Renormalized dynamical tidal response of neutron stars in binary dynamics",
+    "authors": [
+      "M. V. S. Saketh",
+      "Raj Patil",
+      "Godwin Martin",
+      "Nils Andersson",
+      "Suprovo Ghosh",
+      "Jan Steinhoff"
+    ],
+    "link": "https://arxiv.org/abs/2611.14077"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.14151",
+    "title": "Response of Circular Binaries to Monochromatic Gravitational Waves",
+    "authors": [
+      "Corey McInerney",
+      "Phil J. Sutton"
+    ],
+    "link": "https://arxiv.org/abs/2611.14151"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.14197",
+    "title": "Search Method for Continuous Gravitational Waves from Rotating Neutron Stars in Highly Eccentric Wide Orbits",
+    "authors": [
+      "M. Ball",
+      "S. Bussières",
+      "L. Mirasola",
+      "J. R. Merou",
+      "A. K. Sharma",
+      "N. Singh",
+      "D. Keitel",
+      "A. M. Sintes"
+    ],
+    "link": "https://arxiv.org/abs/2611.14197"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.14243",
+    "title": "Relativistic tidal response and mode excitation in neutron-star binaries",
+    "authors": [
+      "Yong Gao",
+      "Jan Steinhoff"
+    ],
+    "link": "https://arxiv.org/abs/2611.14243"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.13462",
+    "title": "The out-state of scalar-induced gravitational waves",
+    "authors": [
+      "Yizhou Lu"
+    ],
+    "link": "https://arxiv.org/abs/2611.13462"
+  }
+]
