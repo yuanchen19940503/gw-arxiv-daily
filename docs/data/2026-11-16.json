@@ -1,0 +1,141 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.13170",
+    "title": "Depletion of Dark Matter Spikes by Massive Black Hole Mergers",
+    "authors": [
+      "Charlie Sharpe",
+      "Thomas F. M. Spieksma",
+      "Yonadav Barry Ginat",
+      "Ricarda S. Beckmann",
+      "Alexander Heger",
+      "Bence Kocsis"
+    ],
+    "link": "https://arxiv.org/abs/2611.13170"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.17402",
+    "title": "Microscopic Realizability of Non-unique Bubble Hydrodynamics",
+    "authors": [
+      "Giulio Barni",
+      "Eric Madge"
+    ],
+    "link": "https://arxiv.org/abs/2611.17402"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.17409",
+    "title": "Effect of galaxy-informed merger timescales on massive black hole binaries in LISA",
+    "authors": [
+      "Jaelyn S. Roth",
+      "Kelly Holley-Bockelmann",
+      "Michael Tremmel",
+      "Jillian Bellovary",
+      "Riddhi Patel",
+      "Andrea Derdzinski",
+      "KeShawn Ivory",
+      "Fazeel Mahmood Khan",
+      "Andrea Valerio Maccio"
+    ],
+    "link": "https://arxiv.org/abs/2611.17409"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.17411",
+    "title": "HydróDex: gotta match 'em all!",
+    "authors": [
+      "Giulio Barni",
+      "Eric Madge"
+    ],
+    "link": "https://arxiv.org/abs/2611.17411"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.17637",
+    "title": "Polarization of strongly lensed gravitational waves as a probe of the lens-induced orientations of electromagnetic counterparts",
+    "authors": [
+      "Kyungmin Kim"
+    ],
+    "link": "https://arxiv.org/abs/2611.17637"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17345",
+    "title": "Composition-dependent ultralight dark matter detection with a tetrahedral superconducting gravity gradiometer",
+    "authors": [
+      "John J. Oh",
+      "Ho Jung Paik"
+    ],
+    "link": "https://arxiv.org/abs/2611.17345"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17396",
+    "title": "WDM_GW_Wavelets: A fast, JAX-based Python implementation of the Wilson-Daubechies-Meyer wavelet transform for the time-frequency analysis of gravitational wave data",
+    "authors": [
+      "Christopher J. Moore",
+      "Tomasz Kinowski"
+    ],
+    "link": "https://arxiv.org/abs/2611.17396"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17421",
+    "title": "The Gravitational Wave Foreground from Galactic Cataclysmic Variables in LISA",
+    "authors": [
+      "Levi Schult",
+      "Alexander Criswell",
+      "Stephen R. Taylor",
+      "Katelyn Breivik"
+    ],
+    "link": "https://arxiv.org/abs/2611.17421"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17428",
+    "title": "Gravitational-wave hierarchical inference from population samples",
+    "authors": [
+      "Federico De Santi",
+      "Davide Gerosa",
+      "Matthew Mould"
+    ],
+    "link": "https://arxiv.org/abs/2611.17428"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17571",
+    "title": "Receiving Exoplanet Messages with Gravitational-wave Carriers: The Gravitational-wave Radial Velocity Method",
+    "authors": [
+      "Casey McGrath"
+    ],
+    "link": "https://arxiv.org/abs/2611.17571"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.17572",
+    "title": "Multimessenger Exoplanets: Combining Infrared Excess and Astrometry with Gravitational-wave Detections of Double White Dwarf Exoplanets",
+    "authors": [
+      "Casey McGrath",
+      "Mary Anne Limbach",
+      "Scott C. Noble",
+      "Vincent Kofman"
+    ],
+    "link": "https://arxiv.org/abs/2611.17572"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.17840",
+    "title": "Axial gravitational-wave propagation and mass--gravity identifiability in conformal scalar--tensor lensing",
+    "authors": [
+      "Z. F. Gao",
+      "W. Q. Ma",
+      "H. Wang",
+      "Z. J. Cao",
+      "N. Wang",
+      "G. Q. Jin",
+      "Luiz C. Garcia de Andrade"
+    ],
+    "link": "https://arxiv.org/abs/2611.17840"
+  }
+]
