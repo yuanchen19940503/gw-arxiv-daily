@@ -1,0 +1,185 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.19026",
+    "title": "The Stability Frontier of Interacting Binary Stars",
+    "authors": [
+      "Hisham Anwer"
+    ],
+    "link": "https://arxiv.org/abs/2611.19026"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21000",
+    "title": "Rotating Polytropic Twins and the Fragmentation Problem",
+    "authors": [
+      "V. Valiulin",
+      "K. Manukovskiy",
+      "T. Razinkova",
+      "A. Yudin"
+    ],
+    "link": "https://arxiv.org/abs/2611.21000"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21337",
+    "title": "On the origin of Milky Way binary black holes with LISA",
+    "authors": [
+      "Charles Dalang",
+      "Enrique Gaztanaga"
+    ],
+    "link": "https://arxiv.org/abs/2611.21337"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21580",
+    "title": "Gravitational Waves from Population III Black Hole Mergers in Primordial Gas Disks: Constraining Astrophysical Scenarios with the Laser Interferometer Space Antenna and the Einstein Telescope",
+    "authors": [
+      "Maulik Bhatt",
+      "Lucio Mayer",
+      "Pedro R. Capelo",
+      "Simona Gallerani",
+      "Andrea Pallottini"
+    ],
+    "link": "https://arxiv.org/abs/2611.21580"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.18833",
+    "title": "Black Hole Superradiance and the Gravitational Auger Effect",
+    "authors": [
+      "Joshua W. Foster",
+      "Nicholas L. Rodd"
+    ],
+    "link": "https://arxiv.org/abs/2611.18833"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.19006",
+    "title": "Cosmography with gravitational waves II: Padé approximants in an extended redshift regime",
+    "authors": [
+      "Jonathan Morais",
+      "Rodrigo Gonçalves",
+      "Jailson Alcaniz"
+    ],
+    "link": "https://arxiv.org/abs/2611.19006"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.19510",
+    "title": "Scalar charge of neutron stars and accreting black holes in Starobinsky gravity: quasi-universal relations, the trace anomaly and gravitational-wave sensitivity",
+    "authors": [
+      "Yashmitha Kumaran",
+      "Ilídio Lopes"
+    ],
+    "link": "https://arxiv.org/abs/2611.19510"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.19918",
+    "title": "A hybrid log-likelihood-ratio statistic for single-detector SPIIR gravitational-wave searches",
+    "authors": [
+      "SPIIR Collaboration",
+      "Weichangfeng Guo",
+      "Sunil Choudhary",
+      "Victor Oloworaran",
+      "Linqing Wen",
+      "Jayden Doan",
+      "Qingyuan Liang",
+      "Tim Davies",
+      "Luke Davis",
+      "Irina Dvorkin",
+      "Apratim Ganguly",
+      "Shang-Jie Jin",
+      "JeongCho Kim",
+      "Yu-Chiung Lin",
+      "Ngai-Chun Lung",
+      "Alistair McLeod",
+      "Khun Sang Phukon",
+      "Andreas Wicenec"
+    ],
+    "link": "https://arxiv.org/abs/2611.19918"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.20004",
+    "title": "Probing superradiant cloud level transitions in stellar-mass black hole binaries with milli-Hertz and multiband gravitational wave observations",
+    "authors": [
+      "Si-Tong Peng",
+      "Anson Chen",
+      "Si-Yang Pu",
+      "Jun Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2611.20004"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.20416",
+    "title": "Repeated Gravitational-Wave Lensing from Binary Black Holes on Eccentric and Precessing Orbits around Spinning Supermassive Black Holes",
+    "authors": [
+      "Jie Wu",
+      "Mengfei Sun",
+      "Jin Li",
+      "Zhoujian Cao"
+    ],
+    "link": "https://arxiv.org/abs/2611.20416"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.20738",
+    "title": "Simultaneous tests of post-Newtonian inspiral using GW250114 and GW250207",
+    "authors": [
+      "Saurabh Kumar",
+      "Parthapratim Mahapatra",
+      "Ish Mohan Gupta",
+      "M. Saleem",
+      "B. S. Sathyaprakash",
+      "K. G. Arun"
+    ],
+    "link": "https://arxiv.org/abs/2611.20738"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.21323",
+    "title": "Detectability of Eccentric Intermediate Mass-Ratio Inspiral in the Decihertz Band",
+    "authors": [
+      "Devesh Giri",
+      "Sajal Mukherjee",
+      "Apratim Ganguly",
+      "Sanjit Mitra"
+    ],
+    "link": "https://arxiv.org/abs/2611.21323"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.17266",
+    "title": "Global Fit Inference for LISA with samsara++",
+    "authors": [
+      "Lorenzo Valbusa Dall'Armi",
+      "Gabriele Astorino",
+      "Riccardo Buscicchio",
+      "Angelo Ricciardone",
+      "Walter Del Pozzo"
+    ],
+    "link": "https://arxiv.org/abs/2611.17266"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.18705",
+    "title": "Thermodynamics and interior structure of density-responsive regular black holes",
+    "authors": [
+      "Martin Drobczyk"
+    ],
+    "link": "https://arxiv.org/abs/2611.18705"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.21512",
+    "title": "Pulsar timing response and observational constraints on continuous-spin gravity",
+    "authors": [
+      "Jing-Hong Han",
+      "Zhi-Chao Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2611.21512"
+  }
+]
