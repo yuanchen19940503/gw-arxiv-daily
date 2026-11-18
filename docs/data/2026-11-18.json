@@ -1,0 +1,215 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21770",
+    "title": "A Science Traceability Matrix for Micro-arcsecond Resolution X-ray Imaging",
+    "authors": [
+      "Jenna M. Cann",
+      "Kimberly A. Weaver",
+      "Ryan W. Pfeifle",
+      "Jeffrey D. McKaig",
+      "Teresa Monsue",
+      "Laura D. Vega",
+      "Ronald Gamble",
+      "Miranda McCarthy",
+      "Kyla Mullaney",
+      "Kelly E. Whalen",
+      "Erini Lambrides",
+      "Atul Mohan",
+      "Isabella Carlton",
+      "Emma Kleiner",
+      "Kaylee DeGennaro",
+      "Mainak Singha",
+      "Andrea Astorga Bedoya",
+      "Neshini Sathishkumar"
+    ],
+    "link": "https://arxiv.org/abs/2611.21770"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21794",
+    "title": "A Single-Shot Method for the Absolute Polarization Angle Calibration of CMB Telescopes with Artificial Sky Sources via Stellar Diffraction Encoding",
+    "authors": [
+      "Dillon J. Bass",
+      "Bradley R. Johnson"
+    ],
+    "link": "https://arxiv.org/abs/2611.21794"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.21850",
+    "title": "Improved accuracy of the reference photon calibration standards in the network of gravitational-wave observatories during the O4 observing run",
+    "authors": [
+      "Dripta Bhattacharjee",
+      "Cervane Grimaud",
+      "Matthew Spidell",
+      "Stefan Kück",
+      "Dan Chen",
+      "Joseph Betzwieser",
+      "Shingo Hido",
+      "Paul Lagabbe",
+      "Holger Lecher",
+      "John Lehman",
+      "Francisco Llamas",
+      "Marco López",
+      "Loïc Rolland",
+      "Anthony Sanchez",
+      "Richard Savage"
+    ],
+    "link": "https://arxiv.org/abs/2611.21850"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.22417",
+    "title": "Relativistic tidal excitation of g- and i-modes in neutron star binaries",
+    "authors": [
+      "Binyu Zhong",
+      "Zhiqiang Miao",
+      "Zhen Pan",
+      "Huan Yang"
+    ],
+    "link": "https://arxiv.org/abs/2611.22417"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.22487",
+    "title": "Dual and Binary AGN at Cosmic Dawn: The need for a JWST Program to resolve the merger channel of Early Black Hole Growth",
+    "authors": [
+      "Filippo Mannucci",
+      "Matteo Ceci",
+      "Norman A. Grogin",
+      "Anton M. Koekemoer",
+      "Muhammad A. Latif",
+      "Alessandro Marconi",
+      "Enikő Regős",
+      "Raffaella Schneider",
+      "Martina Scialpi",
+      "Giulia Tozzi",
+      "Alessandro Trinca",
+      "Giacomo Venturi",
+      "Maria Vittoria Zanchettin",
+      "Huanian Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2611.22487"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.22719",
+    "title": "Effects of QCD Equation of State on Cosmological Parameters and Stochastic Gravitational-Waves Spectrum",
+    "authors": [
+      "André V. Giannini",
+      "Victor P. Gonçalves",
+      "Samuel M. Sanches Jr"
+    ],
+    "link": "https://arxiv.org/abs/2611.22719"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.21997",
+    "title": "Fundamental physics with quantum sensors in space",
+    "authors": [
+      "Jason Arakawa",
+      "Daniel J. Blumenthal",
+      "Oliver Buchmueller",
+      "Dmitry Budker",
+      "Luigi Cacciapuoti",
+      "Emily D. Caldwell",
+      "Andrei Derevianko",
+      "Benjamin P. Dix-Matthews",
+      "Michael A. Fedderke",
+      "Naceur Gaaloul",
+      "Susan Gardner",
+      "Jonah Glick",
+      "Paul Hamilton",
+      "Elena Jordan",
+      "Hidetoshi Katori",
+      "Peter Kurczynski",
+      "David R. Leibrandt",
+      "Anna L. Marchant",
+      "Indra Periwal",
+      "Igor Pikovski",
+      "Marianna S. Safronova",
+      "Christian Sanner",
+      "Sascha W. Schediwy",
+      "Volodymyr Takhistov",
+      "Yu-Cheng Tien",
+      "Yu-Dai Tsai",
+      "Jason R. Williams"
+    ],
+    "link": "https://arxiv.org/abs/2611.21997"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.22266",
+    "title": "Gravitational waves from cosmological first-order phase transitions with fluctuation-induced friction",
+    "authors": [
+      "Jun-Ye Chen",
+      "Dongdong Wei",
+      "Zong-Kuan Guo"
+    ],
+    "link": "https://arxiv.org/abs/2611.22266"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.22618",
+    "title": "Beyond the point lens: radial structure and the horizon in wave-optics gravitational lensing",
+    "authors": [
+      "Alice Garoffolo",
+      "Gianmassimo Tasinato"
+    ],
+    "link": "https://arxiv.org/abs/2611.22618"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.22999",
+    "title": "\\texttt{StochAXtic}: a JAX-Accelerated, End-to-End Differentiable Framework for Gravitational-Wave Backgrounds from Compact Binary Populations",
+    "authors": [
+      "Haowen Zhong",
+      "Ethan Vislosky",
+      "Emanuele Berti"
+    ],
+    "link": "https://arxiv.org/abs/2611.22999"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.23110",
+    "title": "Convergence of the quasinormal-mode expansion of the Kerr Green function",
+    "authors": [
+      "Davide Ciattaglia",
+      "Adrien Kuntz",
+      "Enrico Barausse"
+    ],
+    "link": "https://arxiv.org/abs/2611.23110"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.23114",
+    "title": "Combining Pulsar Timing data with $\\texttt{MetaPulsar}$. The linearized timing model",
+    "authors": [
+      "Wang-Wei Yu",
+      "Rutger van Haasteren"
+    ],
+    "link": "https://arxiv.org/abs/2611.23114"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.22469",
+    "title": "Geometric optics for gravitational waves in dynamical Chern-Simons gravity: amplitude birefringence and tensor-scalar mixing on general backgrounds",
+    "authors": [
+      "Tsutomu Kobayashi"
+    ],
+    "link": "https://arxiv.org/abs/2611.22469"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.22725",
+    "title": "Gravitational Waves Population Study for Testing Kerr Hypothesis: Are Non-Kerr Deformations Universal or Source-Dependent?",
+    "authors": [
+      "Debtroy Das",
+      "Swarnim Shashank",
+      "Cosimo Bambi",
+      "Yi-Ming Hu"
+    ],
+    "link": "https://arxiv.org/abs/2611.22725"
+  }
+]
