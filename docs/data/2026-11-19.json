@@ -1,0 +1,198 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.23371",
+    "title": "Seeing through the fog: astrophysical priors and the evidence for new physics in pulsar timing arrays",
+    "authors": [
+      "Torsten Bringmann",
+      "Chris Gordon",
+      "Carlo Tasillo"
+    ],
+    "link": "https://arxiv.org/abs/2611.23371"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.23783",
+    "title": "The Population of Radio Hypernebulae from Mass-Transferring Massive Binaries",
+    "authors": [
+      "Kohki Uno",
+      "Brian D. Metzger",
+      "Navin Sridhar",
+      "Lieke A. C. van Son",
+      "Floor S. Broekgaarden",
+      "Dillon Z. Dong",
+      "Keiichi Maeda"
+    ],
+    "link": "https://arxiv.org/abs/2611.23783"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.24939",
+    "title": "Map-Level Inference of Primordial Gravitational Waves from the CMB with Spherical Neural Networks",
+    "authors": [
+      "Anto I. Lonappan",
+      "Adrian E. Bayer",
+      "Brian Keating",
+      "Kam Arnold",
+      "Giuseppe Puglisi",
+      "Ethan O. Nadler"
+    ],
+    "link": "https://arxiv.org/abs/2611.24939"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.23580",
+    "title": "Fuzzy Dark Matter as a diffractive barrier: Wave-optics Signatures of Ultralight Fields on Lensed Gravitational Waves",
+    "authors": [
+      "Manish Tamta",
+      "Han Gil Choi",
+      "Diego Blas",
+      "Miguel Zumalacárregui"
+    ],
+    "link": "https://arxiv.org/abs/2611.23580"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.23914",
+    "title": "The Geometric Imprint of a Tilted Accretion Disk in Gravitational Waves",
+    "authors": [
+      "Jing-Ze Xia",
+      "Chen Yuan"
+    ],
+    "link": "https://arxiv.org/abs/2611.23914"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.24281",
+    "title": "Reconstructing the mass-redshift distribution of supermassive black holes using multiband gravitational-wave observations",
+    "authors": [
+      "Alorika Kar",
+      "Souvik Jana",
+      "Enrico Barausse",
+      "Parameswaran Ajith"
+    ],
+    "link": "https://arxiv.org/abs/2611.24281"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.24581",
+    "title": "Cosmological First-Order Phase Transitions with Full Nonlinear Gravity",
+    "authors": [
+      "Campbell Benedix",
+      "Eve Currens",
+      "John T. Giblin Jr",
+      "Chloe Richards"
+    ],
+    "link": "https://arxiv.org/abs/2611.24581"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.24621",
+    "title": "A twist in the tail: GWLENS, a fast and accurate tool for wave-optics lensing of gravitational waves",
+    "authors": [
+      "Sreekanth Harikumar",
+      "Ansal Kanu",
+      "Anirudh Nemmani",
+      "Paweł Ciecieląg",
+      "Michał Bejger"
+    ],
+    "link": "https://arxiv.org/abs/2611.24621"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.24664",
+    "title": "Rapid Equation of State Inference from Multiprobe Datasets",
+    "authors": [
+      "Tamal RoyChowdhury",
+      "Anarya Ray",
+      "Jolien Creighton",
+      "Shaon Ghosh"
+    ],
+    "link": "https://arxiv.org/abs/2611.24664"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.24727",
+    "title": "Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression",
+    "authors": [
+      "Manuel Tiglio"
+    ],
+    "link": "https://arxiv.org/abs/2611.24727"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.23407",
+    "title": "Filling the interior of the light cone",
+    "authors": [
+      "Töre Boybeyi",
+      "Lorenzo Giombi",
+      "Niko Jokela",
+      "K. Kajantie"
+    ],
+    "link": "https://arxiv.org/abs/2611.23407"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.23706",
+    "title": "Helicity-squared scaling of post-eikonal phases for electromagnetic and gravitational waves in Ricci-flat spacetimes",
+    "authors": [
+      "C. A. S. Almeida"
+    ],
+    "link": "https://arxiv.org/abs/2611.23706"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.24420",
+    "title": "Black hole binary mergers in dynamical Chern-Simons gravity with regularisation",
+    "authors": [
+      "Llibert Aresté Saló",
+      "Maxence Corman",
+      "Pau Figueras",
+      "Áron D. Kovács",
+      "Shunhui Yao"
+    ],
+    "link": "https://arxiv.org/abs/2611.24420"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.24485",
+    "title": "Neural-Network Identification of LIGO Noise Transients Using Binary Auxiliary-Channel Activity",
+    "authors": [
+      "D. Chintala",
+      "J. Temple",
+      "S. Shapiro",
+      "L. Wilson",
+      "K. Wayt",
+      "M. Van Keuren",
+      "P. Neubauer",
+      "K. Rose",
+      "D. Moffa",
+      "L. Wade",
+      "M. Wade"
+    ],
+    "link": "https://arxiv.org/abs/2611.24485"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.24625",
+    "title": "LIGO-Virgo-KAGRA stochastic constraints on first-order phase transitions: A tale of priors",
+    "authors": [
+      "S. AbdusSalam",
+      "J. Kersten",
+      "S. A. Ojaghi",
+      "L. Velasco-Sevilla",
+      "A. Zafari"
+    ],
+    "link": "https://arxiv.org/abs/2611.24625"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.24895",
+    "title": "Efficient search for microlensed gravitational-wave signals with matched filtering and a two-image statistic",
+    "authors": [
+      "Soumen Roy",
+      "Justin Janquart"
+    ],
+    "link": "https://arxiv.org/abs/2611.24895"
+  }
+]
