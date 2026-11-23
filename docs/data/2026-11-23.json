@@ -1,0 +1,175 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.26658",
+    "title": "Analytical Modeling of Thermal Shield-Induced Tilt Noise in Lunar Regolith: Constraints on Future Lunar Seismometers and Gravitational waves Detectors",
+    "authors": [
+      "Sreejaya Kizhaekke Pakkathillam",
+      "Aneesha Ann Joseph",
+      "Philippe Lognonné"
+    ],
+    "link": "https://arxiv.org/abs/2611.26658"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.26681",
+    "title": "Lost in the Signal Model: Confusion Between Deterministic and Stochastic Gravitational Wave Signals in Pulsar Timing Array Data",
+    "authors": [
+      "Caitlin A. Witt",
+      "Nihan S. Pol"
+    ],
+    "link": "https://arxiv.org/abs/2611.26681"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.26973",
+    "title": "Accretor Luminosity as Probe of Orbital Evolution and Magnetic Braking in AM CVn Binaries",
+    "authors": [
+      "Tin Long Sunny Wong",
+      "Peter Scherbak",
+      "Jim Fuller"
+    ],
+    "link": "https://arxiv.org/abs/2611.26973"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.27026",
+    "title": "Computing the Wave: Bridging Gravitational Wave and High-Energy-Physics software (with modular ROOT extensions)",
+    "authors": [
+      "Marco Meyer-Conde",
+      "Hirotaka Takahashi",
+      "Nobuyuki Kanda",
+      "Ken-ichi Oohara",
+      "Kazuki Sakai"
+    ],
+    "link": "https://arxiv.org/abs/2611.27026"
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.27758",
+    "title": "The Time Domain Telescope: A Global Spectroscopic Array",
+    "authors": [
+      "P.J. Groot",
+      "Th. Kupfer",
+      "K.O'Brien",
+      "S. Scaringi",
+      "A. Brown",
+      "T. Morris",
+      "S. Bloemen",
+      "B.T. Gaensicke",
+      "S. Nissanke",
+      "M.C. Baglio",
+      "N. Blagorodnova",
+      "D. Buckley",
+      "N. Castro Segura",
+      "L. Christensen",
+      "D. De Martino",
+      "D. Defrere",
+      "M. Del Santo",
+      "A. Ederoclite",
+      "C. Gall",
+      "T. Granzer",
+      "R. Kotak",
+      "H. Kuncarayakti",
+      "G. Leloudas",
+      "A. Levan",
+      "C. Malacaria",
+      "A. Marino",
+      "P.F.L. Maxted",
+      "A. Mortier",
+      "F. Onori",
+      "A.F. Pala",
+      "S. Piranomonte",
+      "F. Ragosta",
+      "A. Sanna",
+      "N. Sarin",
+      "C. Shneider",
+      "F. Tombesi",
+      "S. Toonen",
+      "V. Van Grootel",
+      "A. Veledina",
+      "F. Vincentelli",
+      "T.G. Wilson"
+    ],
+    "link": "https://arxiv.org/abs/2611.27758"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.27442",
+    "title": "A Relativistic Newton's Third Law for Binaries in Environments",
+    "authors": [
+      "Conor Dyson",
+      "Adam Pound",
+      "Daniel J. D'Orazio",
+      "Maarten van de Meent",
+      "Lorenz Zwick"
+    ],
+    "link": "https://arxiv.org/abs/2611.27442"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.27651",
+    "title": "Coronagraphic time-delay interferometry: fundamental steps towards concrete applications",
+    "authors": [
+      "Raissa Costa Barroso",
+      "Yves Lemière",
+      "Ian Harry"
+    ],
+    "link": "https://arxiv.org/abs/2611.27651"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.27742",
+    "title": "Disrupted stars and captured compact objects: Combining observations from multiple messengers to infer the population of massive black holes",
+    "authors": [
+      "Shashwat Singh",
+      "Luca Broggi",
+      "Christopher P. L. Berry",
+      "Marta Volonteri"
+    ],
+    "link": "https://arxiv.org/abs/2611.27742"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.27820",
+    "title": "What determines the properties of Population III binaries?",
+    "authors": [
+      "Neha Singh",
+      "Tomasz Bulik"
+    ],
+    "link": "https://arxiv.org/abs/2611.27820"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.27848",
+    "title": "Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference",
+    "authors": [
+      "Iuliu Cuceu",
+      "Nelson Christensen",
+      "Astrid Lamberts",
+      "Coen Rondeel",
+      "Natalia Korsakova"
+    ],
+    "link": "https://arxiv.org/abs/2611.27848"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.26659",
+    "title": "Gravitational Wave Detection via Massive-Particle Interferometry",
+    "authors": [
+      "Alireza Maleki"
+    ],
+    "link": "https://arxiv.org/abs/2611.26659"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.27374",
+    "title": "Efficient Analysis of Numerous Galactic Compact Binaries via the Free-bin Scheme",
+    "authors": [
+      "Ya-Nan Li",
+      "En-Kun Li",
+      "Yi-Ming Hu"
+    ],
+    "link": "https://arxiv.org/abs/2611.27374"
+  }
+]
