@@ -1,0 +1,168 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.32692",
+    "title": "Stellar-evolution systematic biases on $^{12}\\text{C}(α,γ)^{16}\\text{O}$ constraints from the primordial-black-hole mass gap",
+    "authors": [
+      "Jiancheng Wang",
+      "Xiaogu Zhong",
+      "Jirong Mao"
+    ],
+    "link": "https://arxiv.org/abs/2611.32692"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.05309",
+    "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+    "authors": [
+      "Ioannis Tsioulis",
+      "Anastasios Tefas",
+      "Nikolaos Stergioulas"
+    ],
+    "link": "https://arxiv.org/abs/2611.05309"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.31315",
+    "title": "Longitudinal-dither wavefront sensing: Calibration-free measurement of mode mismatch",
+    "authors": [
+      "Masayuki Nakano"
+    ],
+    "link": "https://arxiv.org/abs/2611.31315"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.31361",
+    "title": "Tidally Induced Coda: Double Transients from Black Hole-Star Binary Encounters with Massive Black Holes",
+    "authors": [
+      "Konstantinos Kritos",
+      "Rosalba Perna"
+    ],
+    "link": "https://arxiv.org/abs/2611.31361"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.31389",
+    "title": "On the evidence of lensing in GW231123",
+    "authors": [
+      "Anna Liu",
+      "Mick Wright",
+      "Jef Heynen",
+      "Eungwang Seo",
+      "Isaac C. F. Wong",
+      "Disha Hegde",
+      "Laura E. Uronen",
+      "Harsh Narola",
+      "Chris Van Den Broeck",
+      "Martin Hendry",
+      "Tjonnie G. F. Li",
+      "Otto A. Hannuksela",
+      "Justin Janquart"
+    ],
+    "link": "https://arxiv.org/abs/2611.31389"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.31916",
+    "title": "Machine learning enables full Bayesian inference for spinning extreme-mass-ratio inspirals",
+    "authors": [
+      "Bo Liang",
+      "Minghui Du",
+      "Zhenwei Lyu",
+      "Hanlin Song",
+      "Jiakai Zhang",
+      "Weichen Qin",
+      "Chia-Jui Chou",
+      "Yi Yang",
+      "Jingyi Yu",
+      "Ziren Luo",
+      "Mingming Sun",
+      "Peng Xu",
+      "Yue-Liang Wu"
+    ],
+    "link": "https://arxiv.org/abs/2611.31916"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.32563",
+    "title": "Analytic response functions of space-based gravitational-wave detectors to ultralight scalar-field dark matter under multiple types of TDI combinations",
+    "authors": [
+      "Wenqiu Tang",
+      "Pan-Pan Wang",
+      "Yuezhe Chen",
+      "Rui Luo",
+      "Cheng-Gang Shao"
+    ],
+    "link": "https://arxiv.org/abs/2611.32563"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.31377",
+    "title": "A Kerr-black-hole worldline action to $\\mathcal{O}(G^5)$",
+    "authors": [
+      "Yilber Fabian Bautista",
+      "Mathias Driesse",
+      "Kays Haddad",
+      "Gustav Uhre Jakobsen"
+    ],
+    "link": "https://arxiv.org/abs/2611.31377"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.31379",
+    "title": "Free hyperboloidal evolution in 3D: gauge waves and constraint-violating gravitational waves",
+    "authors": [
+      "Alex Vañó-Viñuales"
+    ],
+    "link": "https://arxiv.org/abs/2611.31379"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.31381",
+    "title": "How to Play a Black Hole: Understanding Quasinormal Mode Excitation",
+    "authors": [
+      "Lucía Vélez-Tartajo",
+      "Vitor Cardoso",
+      "Jaime Redondo-Yuste"
+    ],
+    "link": "https://arxiv.org/abs/2611.31381"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.31438",
+    "title": "Split Ends: UV Physics branches Black Hole Hair",
+    "authors": [
+      "Georg Trenkler",
+      "Leonardo G. Trombetta",
+      "Alexander Vikman"
+    ],
+    "link": "https://arxiv.org/abs/2611.31438"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.31857",
+    "title": "Prospects for Detecting Post-merger Signals from Binary Neutron Stars with Future Gravitational-Wave Detectors",
+    "authors": [
+      "Jingwang Diao",
+      "Teng Zhang",
+      "Xingjiang Zhu"
+    ],
+    "link": "https://arxiv.org/abs/2611.31857"
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2611.32800",
+    "title": "Toward Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy with Machine Learning",
+    "authors": [
+      "Bo Liang",
+      "Jinwen Deng",
+      "Minghui Du",
+      "Hanlin Song",
+      "Xilong Fan",
+      "Peng Xu",
+      "Ziren Luo",
+      "Lijing Shao"
+    ],
+    "link": "https://arxiv.org/abs/2611.32800"
+  }
+]
