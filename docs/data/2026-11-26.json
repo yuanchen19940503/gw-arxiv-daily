@@ -1,0 +1,113 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2611.33319",
+    "title": "A Tale of Two Type IIb Supernovae: Radio-loud and Radio-silent Candidate Counterparts to Sub-solar Mass Gravitational-wave Triggers",
+    "authors": [
+      "Tanner O'Dwyer",
+      "Alessandra Corsi",
+      "Raphael Baer-Way",
+      "Mansi M. Kasliwal",
+      "Poonam Chandra",
+      "David L. Kaplan",
+      "Kunal P. Mooley",
+      "Deepika Yadav"
+    ],
+    "link": "https://arxiv.org/abs/2611.33319"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.33239",
+    "title": "RIFT for the O4 era: operating points, calibration marginalization, and cross-code validation",
+    "authors": [
+      "R. O'Shaughnessy",
+      "A. Jan",
+      "J. Lange",
+      "R. Mechum",
+      "N. Malagon"
+    ],
+    "link": "https://arxiv.org/abs/2611.33239"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.33434",
+    "title": "Low-latency gravitational wave alert infrastructure and new data products for multi-messenger astronomy during LIGO-Virgo-KAGRA's fourth observing run",
+    "authors": [
+      "Sushant Sharma Chaudhary",
+      "Andrew Toivonen",
+      "Deep Chatterjee",
+      "Roberto De Pietri",
+      "Alvin K. Y. Li",
+      "Cody Messick",
+      "Geoffrey Mo",
+      "Brandon Piotrzkowski",
+      "Shomik Adhicary",
+      "Nicolas Arnaud",
+      "Sarah Antier",
+      "Ines Bentara",
+      "Matthew Brodsky",
+      "Patrick Brockill",
+      "Sunil Choudhary",
+      "Michael W. Coughlin",
+      "Michael C. Davis",
+      "Thomas Dent",
+      "Jennifer C. Driggers",
+      "Marco Drago",
+      "Reed Essick",
+      "Bhooshan Uday Gadre",
+      "Juan García-Bellido",
+      "Shaon Ghosh",
+      "Patrick Godwin",
+      "Matthew Graham",
+      "Weichangfeng Guo",
+      "Chad Hanna",
+      "Theophile Jegou Du Laz",
+      "Prathamesh Joshi",
+      "Erik Katsavounidis",
+      "Sergey Klimenko",
+      "Ethan Marx",
+      "Wanting Niu",
+      "Kira Nolan",
+      "Alexander Pace",
+      "Florent Robinet",
+      "Shio Sakon",
+      "Takahiro Sawada",
+      "Leo P. Singer",
+      "Divya Singh",
+      "Shauryya Nirwal",
+      "Oscar Kane Stewart",
+      "Marek J. Szczepańczyk",
+      "Colm Talbot",
+      "Max Trevor"
+    ],
+    "link": "https://arxiv.org/abs/2611.33434"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.33550",
+    "title": "Environmental resonances in extreme-mass-ratio inspirals within boson clouds",
+    "authors": [
+      "Takuya Takahashi"
+    ],
+    "link": "https://arxiv.org/abs/2611.33550"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.34731",
+    "title": "Is Gravitational-Wave Waveform Systematics a Bottleneck for Formation Channel Inferences using Effective-Spin and Mass-Ratio?",
+    "authors": [
+      "Upasana Das",
+      "Suvodip Mukherjee"
+    ],
+    "link": "https://arxiv.org/abs/2611.34731"
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2611.34747",
+    "title": "phenjax: the IMRPhenomT waveform family in JAX for accelerated analyses on CPUs and GPUs",
+    "authors": [
+      "Andrea Begnoni"
+    ],
+    "link": "https://arxiv.org/abs/2611.34747"
+  }
+]
